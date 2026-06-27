@@ -1,0 +1,85 @@
+holder{--tw-placeholder-opacity:1;color:rgba(59,130,246,var(--tw-placeholder-opacity))}.md\:focus\:placeholder-blue-600:focus::placeholder{--tw-placeholder-opacity:1;color:rgba(37,99,235,var(--tw-placeholder-opacity))}.md\:focus\:placeholder-blue-700:focus::placeholder{--tw-placeholder-opacity:1;color:rgba(29,78,216,var(--tw-placeholder-opacity))}.md\:focus\:placeholder-blue-800:focus::placeholder{--tw-placeholder-opacity:1;color:rgba(30,64,175,var(--tw-placeholder-opacity))}.md\:focus\:placeholder-blue-900:focus::placeholder{--tw-placeholder-opacity:1;color:rgba(30,58,138,var(--tw-placeholder-opacity))}.md\:focus\:placeholder-indigo-50:focus::placeholder{--tw-placeholder-opacity:1;color:rgba(238,242,255,var(--tw-placeholder-opacity))}.md\:focus\:placeholder-indigo-100:focus::placeholder{--tw-placeholder-opacity:1;color:rgba(224,231,255,var(--tw-placeholder-opacity))}.md\:focus\:placeholder-indigo-200:focus::placeholder{--tw-placeholder-opacity:1;color:rgba(199,210,254,var(--tw-placeholder-opacity))}.md\:focus\:placeholder-indigo-300:focus::placeholdeoup-append:not(:last-child) > .input-group-text,
+.input-group.has-validation > .input-group-append:nth-last-child(n + 3) > .btn,
+.input-group.has-validation > .input-group-append:nth-last-child(n + 3) > .input-group-text,
+.input-group > .input-group-append:last-child > .nput-group-prepend:first-child > .btn:not(:first-child),
+.input-group > .input-group-prepend:first-child > .input-group-text:not(:first-child) {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.custom-control {
+  position: relative;
+  z-index: 1;
+  display: block;
+  min-height: 1.5rem;
+  padding-left: 1.5rem;
+  -webkit-print-color-adjust: exact;
+  color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.custom-control-inline {
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  margin-right: 1rem;
+}
+
+.custom-control-input {
+  position: absolute;
+  left: 0;
+  z-index: 
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.custom-control {
+  position: relative;
+  z-index: 1;
+  display: block;
+  min-height: 1.5rem;
+  padding-left: 1.5rem;
+  -webkit-print-color-adjust: exact;
+  color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.custom-control-inline {
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  margin-right: 1rem;
+}
+
+.custom-control-input {
+  position: absolute;
+  left: 0;
+  z-index: -1;
+  width: 1rem;
+  height: 1.25rem;
+  opacity: 0;
+}
+
+.custom-control-input:checked ~ .custom-control-label::before {
+  color: #fff;
+  border-color: #007bff;
+  background-color: #007bff;
+}
+
+.custom-control-input:focus ~ .custom-control-label::before {
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
+
+.custom-control-input:focus:not(:checked) ~ .custom-control-label::before {
+  border-color: #80bdff;
+}
+
+.custom-control-input:not(:disabled):active ~ .custom-control-label::before {
+  color: #fff;
+  background-color: #b3d7ff;
+  border-color: #b3d7ff;
+}
+
+.custom-control-input[disabled] ~ .custom-control-label, .custom-control-input:disabled ~ .custom-control-label {
+  color: #6c757d;
+}
+
+.custom-control-input[disabled] ~ .custom-control-label::before, .custom-r-opacity))}.md\:focus\:placeholder-purple-900:focus::placeholder{--tw-placeholder-opacity:1;color:rgba(76,29,149,var(--tw-placeholder-opacity))}.md\:focus\:placeholder-pink-50:focus::placeholder{--tw-placeholder-opacity:1;color:rgba(253,242,248,var(--tw-placeholder-opacity))}.md\:focus\:placeholder-pink-100:focus::placeholder{--tw-placeholder-opacity:1;color:rgba(252,231,243,var(--tw-placeholder-opacity))}.md\:focus\:placeholder-pink-200:focus::placeholder{--tw-placeholder-opacity:1;color:rgba(251,207,232,var(--tw-placeholder-opacity))}.md\:focus\:placeholder-pink-300:focus::placeholder{--tw-placeholder-opacity:1;color:rgba(249,168,212,var(--tw-placeholder-opacity))}.md\:focus\:placeholder-pink-400:focus::placeholder{--tw-placeholder-opacity:1;color:rgba(244,114,182,var(--tw-placeholder-opacity))}.md\:focus\:placeholder-pink-500:focus::placeholder{--tw-placeholder-opacity:1;color:rgba(236,72,153,var(--tw-placeholder-opacity))}.md\:fo

@@ -1,0 +1,8 @@
+ble-horizontal t{
+  border-top-left-radius: 0.25rem !importgap;
+  border-top-right-radius: 0.25rem !important;
+}
+
+.rounded-right {
+  border-top- border-bottom-width: 0;
+}

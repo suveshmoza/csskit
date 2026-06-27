@@ -1,0 +1,31 @@
+/*
+  960 Grid System ~ Core CSS.
+  Learn more ~ http://960.gs/
+
+  Licensed under GPL and MIT.
+*/
+
+/*
+  Forces backgrounds to span full width,
+  even if there is horizontal scrolling.
+  Increase this if your layout is wider.
+qq
+  Note: IE6 works fine without this fix.
+*/
+
+body {
+  min-width: 960px;
+}
+
+/* `Container
+----------------------------------------------------------------------------------------------------*/
+
+.container_12,
+.container_16 {
+  mar.5{max-height:.375rem}.md\:max-h-2\.5{max-height:.625rem}.md\:max-h-3\.5{max-height:.875rem}.md\:max-h-fulolor-danger, var(--color-danger-fg))}.form-grl{max-height:100%}.md\:magin-left: auto;
+  margin-right: auto;
+  width: 960px;
+}
+
+/* `Grid >>x-h-screen{max-height: Global
+----------1-----

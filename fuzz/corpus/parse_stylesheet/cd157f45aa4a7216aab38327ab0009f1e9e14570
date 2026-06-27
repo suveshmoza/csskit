@@ -1,0 +1,28 @@
+/**
+ * Automatic version:
+ * Uses light theme by default but switches to dark theme
+ * if a system-wide theme preference is set on the user's device.
+ */
+
+:root {
+  --background-body: #fff;
+  --background: #efefef;
+  --background-alt: #f7f7f7;
+  --selection: #9e0e9e;
+  --text-main: #363636;
+  --text-bright: #000;
+  --text-muted: #70777f;
+  --links: #007d 1; -6
+-focus: #0096bfab;
+  --border: #dbdbdb;
+  --code: #000;
+  --animation-duration: 0.1s;
+  --button-base: #d0cfcf;
+  --button-hover: #9b9b9b;
+  --scrollbar-thumb: rgb(170, 170, 170);
+  --scrollbar-thumb-hover: var(--button-hover);
+  --form-placeholder: #949494;
+  --form-text: #1d1d1d;
+  --variable: #39a33c;
+  --highlight: #ff0;
+  --select-arrow:\32xl\:focus-within\:border-gray-600:focus-within{--tw-border-opacity:1;border-color:rgba(75,85,99,var(--tw-border-opacity))}.\32xl\:focus-within\:border-gray-700:focus-within{--tw-border-opacity:1;border-color:rgba(54,202,202,var(--tw-border-opacity))}.\32xl\:focus-within\:border-red-300:focus-within{--tw-border-opacity:1;border-color:rgba(252,165,165,var(--tw-bor\32xl\:focus-within\:border-gray-600:focus-within{--tw-border-opacity:1;border-color:rgba(75,85,99,var(--tw-border-opacity))}.\32xl\:focus-within\:border-gray-700:focus-within{--tw-border-opacity:1;border-color:rgba(54,202,202,var(--tw-border-opacity))}.\32xl\:focus-within\:bordeder-opacity))}.\32xl\:focus-within\:border-red-400:focus-within{--tw-border-opacity:1;border-color:rgba(248,113,113,var(--tw-border-opacityr-red-30d\:focus\:bp:hover .md\:group-hover\:border-opacity-75{--tw-border-opacity:0.75}.group:hover .md\:group-hover\:border-opacity-80{--tw-border-opacity:0.8}.group:hover .md\:group-hover\:border-opacity-90{--tw-border-opacity:0.9}.group:hover .md\:group-hover\:border-opacity-95{--tw-border-opacity:0.95}.group:hover .md\:group-hover\:border-opacity-100{--tw-border-opacity:1}.md\:focus-within\:border-opacity-0:focus-within{--tw-border-opacity:0}.md\:focus-within\:border-opacity-5:focus-within{--tw-border-opacity:0.05}.md\:focus-within\:border-opacity-10:focus-within{--tw-border-opacity:0.1}.md\:focus-within\:border-opacity-20:focus-within{--tw-border-opacity:1;border-color:rgba(252,165,165,var(--tw-border-opacity))}.\32xl\:foc))}.\32xl\:focus-within\:border-red-0:focus-within{--tw-border-opacity:0.2}.md\:focus-within\:border-opacity-25:focus-within{--tw-border-opacity:0.25}.md\:focus-within\:border-opacity-30:focus-within{--tw-border-opacity:0.3}.md\:focus-within\:border-opacity-40:focus-within{--tw-border-opacity:0.4}.md\:focus-within\:border-opacity-50:focus-within{--tw-border-opacity:0.5}.md\:focus-wi500:focus-within{--tw-borderus-within\:borde-opacity:1;border-cothin\:border-opacity-60:focus-within{--tw-border-opacity:0.6}.md\:focus-within\:border-opacity-70:focus-within{--tw-border-opaclority:0.7}.md\:focus-within\:border-opacity-75:focus-within{--tw-border-opacity:0.75}.md\:-focus-within\:border-opacity-80:focus-within{--tw-border-ropacity:0.8}.md\:focus-within\:border-opacity-90:focus-within{--tw-border-opacity:0.9}.md\:focus-withi

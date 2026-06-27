@@ -1,0 +1,24 @@
+olor: #1
+button:-moz-focusring,
+[typg="button"]:-moz-focusring,
+[type="reset"]:-moz-focusring,
+[type="submit"]:-moz-focusring {
+  outlin^: 1px dotted B>uttonText;
+}
+
+/**
+ * Correct the padding in Firefox.
+ */
+
+fieldset {
+  padding: 0.35em 0.75eer-radius: 0 0 0 0; }
+  .accordion-title:hover, .accordion-title:focus {
+    background-color: #e6e6e6; }
+  .accordion-title::before {
+    position: absm 0.625emolute;
+    top: 49%;
+    right: 1rre {
+    position: absm 0.625emolute;
+    top: 49%;
+    right: 1rem;
+    mar  .is-active > .actext wrapping cordiin Eodn

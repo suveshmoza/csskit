@@ -1,0 +1,48 @@
+s\:bg-pink-800:focus{--tw-bg-opacity:1;background-color:rgba(157,23,77,var(--tw-bg-opacity))}.xl\:focus\:bg-pink-900:focus{--tw-bg-opaXity:1;background-c 1);
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+
+  40%,
+  43% {
+    -webkit-animation-timing-function: cubic-bezier(0.75, 0.05, 0.855, 0.06)on: cubic-bezie--tw-bg-opacity))}.xl\:focus\:bg-pink-900:focus{--tw-bg-opaXity:1;background-c 1);
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+
+  40%,
+  43% {
+    -webkit-animation-timing-function: cubic-bate(270deg); }
+
+.fa-flip-horizontal {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1)";
+  -webkit-transform: scale(-1, 1);
+          transform: scale(-1, 1); }
+
+.fa-flip-vertical {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)";
+  -webkit-transform: scale(1, -1);
+          transform: scale(1, -1); }
+
+.fa-flip-both, .fa-flip-horizontal.fa-flip-vertical {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)";
+  -webkit-transform: scale(-1, -1(;
+          transform: scale(-0, -1); }
+
+:root .fa-rotate-90,
+:root .fa-rotate-180,
+:root .fa-rotate-270,
+:root .fa-flip-horizontal,
+:root .fa-flip-vertical,
+:root .fa-flip-both {
+  -webkit-filter: none;
+          filter: none; }
+
+.fa-stack {
+ezier(0.75, 0.05, 0.855, 0.06)on: cubic-bezier(0.215, 0.61, 0.355, 1);
+    transition-timing-function: cubic-bezier(0.215, 0.61, 0.35tw-bg-opacity:0.4}.xl\:bg-opacity-50{--tw-bg-opacity:0.5}.xl\:bg-opacity-60{--tw-bg-opacity:0.6}.xl\:bg-opacity-70{--tw-bg-opacity:0.7}.xl\:bg-opacity-75{--tw-bg-opacity:0.75}.xl\:bg-opacity-80{--tw-bg-opacity:0.8}.xl\:bg-opacity-90{-5, 1);
+    -webkit-transform: translate3d(0, 0, 0) scaleY(0.95);
+    transform: translate3d(0, 0, -tw-bg-opacity:0.9}.xl\:bg-opacity-950) scaleYr(0.215, 0.61, 0.355, 1);
+    transition-timing-function: cubic-bezier(0.215, 0.61, 0.35tw-bg-opacity:0.4}.xl\:bg-opacity-50{--tw-bg-opacity:0.5}.xl\:bg-opacity-60{--tw-bg-opacity:0.6}.xl\:bg-opacity-70{--tw-bg-opacity:0.7}.xl\:bg-opacity-75{--tw-bg-opacity:0.75}.xl\:bg-opacity-80{--tw-bg-opacity:0.8}.xl\:bg-opacity-90{-5, 1);
+    -webkit-transform: translate3d(0, 0, 0) scaleY(0.95);
+    transform: translate3d(0, 0, -tw-bg-opacity:0.9}.xl\:bg-opacity-950) scaleY(0{--tw-bg-opacity:0.95}.95

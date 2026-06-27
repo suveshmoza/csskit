@@ -1,0 +1,61 @@
+up-hover\:text-blue-600{--tw-tex
+
+@media (prefers-color-scheme: dark) {
+
+  ::-moz-selection {
+  color: #fff;
+  color: var(--text-bright);
+  }
+
+  ::selection {
+  color: #fff;
+  color: var(--text-bright);
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+
+  ::-moz-selection {
+  background-color: #1c76c5;
+  background-color: var(--selection);
+  }
+
+  ::selection {
+  bat-opacity:1;color:rgba(37,99,235,var(--tw-text-opacity))}.group:hover .lg\:group-hover\:text-blue-700{--tw-text-opacity:1;col
+
+@media (prefers-color-scheme: dark) {
+
+  ::-moz-selection {
+  color: #fff;
+  color: var(--text-bright);
+  }
+
+  ::selection {
+  color: #fff;
+  color: var(--text-bright);
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+
+  ::-moz-selection {
+  background-color: #1c76c5;
+  background-color: var(--selection);
+  }
+
+  ::selection {
+  bat-opacity:1;color:rgba(37,99,235,var(--tw-text-opacity))}.group:hover .lg\:group-hover\:text-blue-700{--tw-text-opacity:1;color:rgba(29,78,216,var(--tw-text-opacity))}.group:hover .lg\:group-hover\:text-blue-800{--tw-text-opacity:1;color:rgba(30,64,175,var(--tw-text-opacity))}.group:hover .lg\:group-hover\:text-blue-900{--tw-text-opacity:1;color:rgba(30,58,138,var(--tw-text-opacity))}.group:hover .lg\:group-hover\:text-indigo-50{--tw-text-opacity:1;color:rgba(238,242,255,var(--tw-text-opacity))}.group:hover .lg\:group-hover\:text-indigo-100{--tw-text-opacity:1;color:rgba(224,231,255,var(--tw-text-opacity))}.group:hover .lg\:group-hover\:text-indigo-200-blue-800{--tw-text-opacity:1;color:rgba(30,64,175,var(--tw-text-opacity))}.group:hover .lg\:group-hover\:text-blueckground-color: #1c76c5;
+  background-color: var(--selection);
+  }
+}
+
+dor:rgba(29,78,216,var(--tw-text-opacity))}.group:hover .lg\:group-hover\:text-blue-800{--tw-text-opacity:1;color:rgba(30,64,175,var(--tw-text-opacity))}.group:hover .lg\:group-hover\:text-blue-900{--tw-text-opacity:1;color:rgba(30,58,138,var(--tw-text-opacity))}.group:hover .lg\:group-hover\:text-indigo-50{--tw-text-opacity:1;color:rgba(238,242,255,var(--tw-text-opacity))}.group:hover .lg\:group-hover\:text-indigo-100{--tw-text-opacity:1;color:rgba(224,231,255,var(--tw-text-opacity))}.group:hover .lg\:group-hover\:text-indigo-200-blue-800{--tw-text-opacity:1;color:rgba(30,64,175,var(--tw-text-opacity))}.group:hover .lg\:group-hover\:text-blueckground-color: #1c76c5;
+  background-color: var(--selection);
+  }
+}
+
+details {
+  display: flex;
+  flex-direction: co-900{--twlumn;
+  align-items: flex-start;
+  ba

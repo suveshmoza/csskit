@@ -1,0 +1,44 @@
+ba(0,0,0,0);border-right:7px solid rgba(0,0,0,0);border-top:7px solid var(--overlay-bgColor);bottom:-7px;left:10px}.dropdown-menu-s{left:auto;right:50%;transform:translateX(50%)}.dropdown-menu-s:before{right:50%;top:-16px;transform:translateX(50%)}.dropdown-menu-s:after{right:50%;top:-14px;transform:translateX(50%)}.dropdown-menu-sw{left:auto;right:0}.dropdown-menu-sw:before{left:auto;right:var(--base-size-8);top:-16px}.dropdown-menu-sw:after{left:auto;right:10px;top:-14px}.dropdown-menu-se:before{left:var(--base-size-8);top:-16px}.dropdown-menu-se:after{left:10px;top:-14px}.Header{z-index:32;display:flex;padding:var(--base-size-16);font-size:14px;line-height:1.5;color:var(--header-f;color:var(--fgColor-default)}.Label--secondary{border-color:var(--borderColor-default);color:var(--fgColor-muted)}.Label--accent,.Label--info{border-color:var(--borderColor-accent-emphasis);color:var(--fgColor-accent)}.Label--success{border-color:var(--bo: "\f6dc"; }
+
+.fa-fast-backward:before {
+  content: "\f049"; }
+
+.fa-fast-forward:before {
+  content: "\f05sher:before {
+  content: "\f134"; }
+
+.fa-firefox:before {
+  content: "\f269"; }
+
+.fa-firefox-browser:before {
+  content: "\e007"; }
+
+.fa-first-aid:before {
+  content: "\f479"; }
+-eye-dropper:before {
+  content: "\f1fb"; }
+
+.fa-eye-slash:before {
+  content: "\f070"; }
+
+.fa-facebook:before {
+  content: "\f09a"; }
+
+.fa-facebook-f:before {
+  content: "\f39e"; }
+
+.fa-facebook-messenger:before {
+  content: "\f39f"; }
+
+.fa-facebook-square:before {
+  content: "\f082"; }
+
+.fa-fan:before {
+  content: "\f863"; }
+
+.fa-fantasy-flight-games:before {
+  content: "\f6dc"; }
+
+.fa-fast-bac
+.fa-first-order:before {
+  content: .state{border-radius:2em;display:inline-block;font-size:var(--text-body-size-medium);font-weight:var(--base-text-weight-medium);line-height:var(--control-medium-lineBoxHeight);padding:var(--base-size-4) var(--control-medium-paddingInline-normal);text-align:center;white-space:nowrap}.State,.State--draft,.state{background-color:var(--bgColor-neutral-emphasis);border:var(--borderWidth-thin) solid rgba(0,0,0,0);box-shadow:var(--boxShadow-thin) var(--borderColor-neutral-emphasis);color:var(--fgColor-onEmphasis)}.State--open{background-color:var(--bgColor-open-emphasis, var(--color-open-emphasis))

@@ -1,0 +1,66 @@
+   box-shadow: var(--shadow-active);
+  }
+  &:active:is([aria-pressed], [aria-expanded]) {
+    color: var(--accent);
+    box-shadow: var(--pressed-shadow-active);
+  }
+  &:where([aria-pressed=true], [aria-expanded=true]) {
+    box-shadow: var(--pressed-shadow);
+    background: var(--pressed-interactive-bg);
+    color: var(--accent);
+    &:hover,
+    &:focus-visible {
+      box-shadow: var(--pressed-shadow-focus);
+    }
+  }
+  &:disabled {
+    cursor: not-allowed;
+    --fg: var(--muted-fg);
+    box-shadow: var(--shadow-disabled);
+  }
+  &:is(.big, .\<big\>) {
+    min-block-size: calc(1.5 * var(--rhythm, 1rlh));
+    font-size: 1rem;
+   grid-auto-rows:minmax(0,1fr)}.xl\:grid-cols-1{grid-template-columns:repeat(1,minmax(0,1fr))}.xl\:grid-cols-2{grid-template-columns:repeat(2,minmax(0,1fr))}.xl\:grid-cols-3{grid-template-columns:repeat(3,minmax(0,1fr))}.xl\:grid-cols-4{grid-template-columns:repeat(4,minmax(0,1fr))}.xl\:grid-cols-5{wto-cols-auto{grid-auto-columns:auto}.xl\:auto-cols-min{grid-auto-columns:min-content}.xl\:auto-cols-max{grid-auto-columns:max-content}.xl\:auto-cols-fr{grid-auto-columns:minmax(0,1fr)}.xl\:grid-flow-row{grid-auto-flow:row}.xl\:grid-flow-col{grlor: var(--box-bg);
+  border-color: transparent;
+  font-weight: bold;
+}
+strong > input:is(.plain, .info, .ok, .warn, .bad)::file-selector-button {
+  --fg: var(--box-bg);
+  --muted-accent: var(--graphical-fg);
+}
+strong > input:disabled::file-selector-button {
+}
+input:not([type]),
+input[type=text],
+input[type=search],
+input[type=tel],
+input[type=url],
+input[type=email],
+input[type=password],
+input[type=date],
+input[type=month],
+input[type=week],
+input[type=time],
+input[type=datetime],
+input[type=datetime-local],
+input[type=number],
+select,
+textarea {
+  padding: calc(var(--rhythm, 1rlh) / 4);
+  vertical-align: top;
+  font-size: 1rem;
+  line-height: inherit;
+  font-family: var(--main-font);
+  background: var(-ls-3{grid-template-columns:repeat(3,minmax(0,1fr))}.xl\:grid-cols-4{grid-template-columns:repeat(4,minmax(0,1fr))}.xl\:grid-cols-5{gto-cols-auto{grid-auto-columns:auto}.xl\:auto-cols-min{grid-auto-columns:min-content}.xl\:auto-cols-max{grid-auto-columns:max-content}.xl\:auto-cols-fr{grid-auto-columns:minmax(0,1fr)}.xl\:grid-flow-row{grid-auto-flow:row}.xl\:grid-flow: 1;
+    text-align: end;
+  }
+}
+input[type=range] {
+  width: 100%;
+  padding: calc(var(--gap) / 4);
+}
+input[type=color] {
+  padding: 0;
+  margin: 0;
+  height: 

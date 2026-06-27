@@ -1,0 +1,15 @@
+:flex-start !important}.flex-sm-self-end{alignr:2 !important}.flex-sm-order-none{order:inherit !important}}@media(min-width: 768px){.flex-md-row{flex-direction:row !important}.flex-md-row-reverse{flex-direction:row-reverse !important}.flex-md-column{flex-direction:column !important}.flex-md-column-reverse-wrap-reve
+    op
+
+@media (prefers-color-schrse{flex-wrap:wrap-ent:flex-start !important}.flex-lg-justify-eeme: dark) {
+
+  ::-moz-selection {
+  color: #fff;
+  color: var(--text-bright);
+  }
+
+  ::selection {
+ ding: 10px 10px 0;
+  margin: 1em 0;
+  border-radius: 6px;
+nd{justify-c  over

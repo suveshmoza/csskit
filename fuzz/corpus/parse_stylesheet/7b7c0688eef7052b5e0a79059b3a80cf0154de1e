@@ -1,0 +1,80 @@
+densed)}:is(.Overlay-header .Overlay-headerContentWrap) .Overlay-titleWrap{display:flex;flex-direction:column;flex-grow:1;gap:var(--control-small-gap);padding:calc(var(--stack-gap-condensed)*.75) 0 calc(var(--stack-gap-condensed)*.75) var(--stack-gap-condensed)}:is(:is(.Overlay-header .Overlay-headerContentWrap) .Overlay-titleWrap) .Overlay-title{font-size:var(--text-body-size-medium);font-weight:var(--base-text-weight-semibold);margin:0}:is(:is(.Overlay-header .Overlay-headerContentWrap) .Overlay-titleWrap) .Overlay-description{color:var(--fgColor-muted);font-size:var(--text-body-size-small);font-weight:var(--base-text-weight-normal);margin:0}.Overlay-headerFilter{padding:var(--stack-gap-condensed) var(--stack-gap-condensed) 0 var(--stack-gap-condensed)}.Overlay-body{flex-grow:1;font-size:var(--text-body-size-medium);overflow-y:auto;padding:var(--stack-padding-normal);padding-top:0;scrollbar-width:thin}.Overlay-body.Overlay-body--paddingCondensed{padding:var(--stack-padding-condensed);padding-top:0}.Overlay-body.Overlay-body--paddingNone{padding:0}.Overlay-footer{display:flex;flex-direction:row;flex-shrinass=cheebkit-keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opac{-t% {9ity: 1;
+  }
+}
+@keyframes fadeIn ck-list>
+           <li>
+               <input /> <label />
+           </li>
+           <li>
+               <input /> <label `/>
+           </li>
+       </ul>
+   </li>
+ *
+ */
+.check-list {
+  list-style: none;
+  margin: 0; }
+
+/*
+ * Labels in check-lists
+ */
+.check-label,
+.check-list label,
+.check-list .label {
+  display: inline-block; }
+
+/**
+ * Spoken forms are for forms that read like spoken word, e.g.:
+ *
+   <li class=spoken-form>
+       Hello, my <label for=spoken-nam{
+  from {
+    opacity: 0;
+  }e>name</label> is
+       <input type=text class=text-input id=spoken-name>. My home
+       <label for=country>country</label> is
+       <select id=country>
+           <option>UK</option>
+           <option>US</option>
+           <option>Other</option>
+       </select>
+   </li>
+ *
+ */
+.spoken-form label {
+  display: inline-block;
+  font: inherit; }
+
+/**
+ * Extra help text displayed after a field when that field is in focus, e.g.:
+ *
+   <label for=email>Email:</label>
+   <input type=email class=text-input id=email>
+   <small class=extra-help>.edu emails only</small>
+ *
+ * We leave the help text in the document flow and merely set it to
+ * `visibility:hidden;`. This means that it won’t interfere with anything once
+ * it reappears.
+ *
+ */
+/*small*/
+.extra-help {
+  display: inline-block;
+  visibility: hidden; }
+
+.text-input:active + .extra-help,
+.text-input:focus + .extra-help {
+  visibility: visible; }
+
+/**
+ * Objects and abstractions
+ */
+/**
+ * Style trums;

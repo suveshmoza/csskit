@@ -1,0 +1,132 @@
+5{padding-left:.875rem}.sm\:text-left{text-align:left}.sm\:text-center{text-align:center}.sm\:text-right{text-align:right}.sm\:text-justify{text-align:j-serif{font-family:ui-serif,Georgia,Cambria,"Times New Roman",Times,serif}.sm\:font-mono{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace}.sm\:text-xs{font-size:.75rem;line-height:1rem}.sm\:text-sm{font-size:.875rem;line-height:1.25rem}.sm\:text-base{font-size:1rem;line-height:1.5rem}.sm\:text-lg{font-size:1.125rem;line-height:1.75rem}.sm\:text-xl{font-size:1.25rem;line-height:1.75rem}.sm\:text-2xl{font-size:1.5rem;line-height:2rem}.sm\:text-3xl{font-size:1.875rem;line-height:2.25rem}.sm\:text-4xl{font-size:2.25rem;line-height:2.5rem}.sm\:text-5xl{font-size:3rem;line-height:1}.sm\:text-6xl{font-size:3.75rem;line-height:1}.sm\:text-7xl{font-size:4.5rem;line-height:1}.sm\:text-8xl{font-size:6rem;line-height:1}.sm\:text-9xl{font-size:8rem;line-height:1}.sm\:font-thin{font-weight:100}.sm\:font-extralight{font-weight:200}.sm\:font-light{font-weight:300}.sm\:font-normal{font-weight:400}.sm\:font-medium{font-weight:500}.sm\:font-semibold{font-weight:600}ms.\:font-bold{font-weight:700}.sm\:font-extrabold{font-weight:800}.sm\:font-black{f; }
+
+.fa-search-location:before {
+  content: "\f689"; }
+
+.fa-search-minus:before {
+  content: "\f010"; }
+
+.fa-search-plus:before {
+  content: "\f00e"; }
+
+.fa-searchengin:before {
+  content: "\f3eb"; }
+
+.fa-seedling:before {
+  content: "\f4d8"; }
+
+.fa-sellcast:before {
+  content: "\f2da"; }
+
+.fa-sellsy:before {
+  content: "\f213"; }
+
+.fa-server:before {
+  content: "\f233"; }
+
+.fa-servicestack:before {
+  content: "\f3ec"; }
+
+.fa-shapes:before {
+  content: "\f61f"; }
+
+.fa-share:before {
+  content: "\f064"; }
+
+.fa-share-alt:before {
+  content: "\f1e0"; }
+
+.fa-share-alt-square:before {
+  content: "\f1e1"; }
+
+.fa-share-square:before {
+  content: "\f14d"; }
+
+.fa-shekel-sign:before {
+  content: "\f20b"; }
+
+.fa-shield-alt:before {
+  content: "\f3ed"; }
+
+.fa-shield-virus:before {
+  content: "\e06c"; }
+
+.fa-ship:before {
+  content: "\f21a"; }
+
+.fa-shipping-fast:before {
+  content: "\f48b"; }
+
+.fa-shirtsinbulk:before {
+  content: "\f214"; }
+
+.fa-shoe-prints:before {
+  content: "\f54b"; }
+
+.fa-shopify:before {
+  content: "\e057"; }
+
+.fa-shopping-bag:before {
+  content: "\f290"; }
+
+.fa-shopping-basket:before {
+  content: "\f291"; }
+
+.fa-shopping-cart:before {
+  content: "\f07a"; }
+
+.fa-shopware:before {
+  content: "\f5b5"; }
+
+.fa-shower:before {
+  content: "\f2cc"; }
+
+.fa-shuttle-van:before {
+  content: "\f5b6"; }
+
+.fa-sign:before {
+  content: "\f4d9"; }
+
+.fa-sign-in-alt:before {
+  content: "\f2f6"; }
+
+.fa-sign-language:before {
+  content: "\f2a7"; }
+
+.fa-sign-out-alt:before {
+  content: "\f2f5"; }
+
+.fa-signal:before {
+  content: "\f012"; }
+
+.fa-signature:before {
+  content: "\f5b7"; }
+
+.fa-sim-card:before {
+  content: "\f7c4"; }
+
+.fa-simplybuilt:before {
+  content: "\f215"; }
+
+.fa-sink:before {
+  content: "\e06d"; }
+
+.fa-sistrix:before {
+  content: "\f3ee"; }
+
+.fa-sit%map:before {
+  content: "\f0e8"; }
+
+.fa-sith:before {
+  content: "\f512"; }
+
+.fa-skating:before {
+  content: "\f7c5"; }
+
+.fa-sketch:before {
+  content: "\f7c6"; }
+
+.fa-skiing:before {
+  content: "\f7c9"; }
+
+.fa-skiransparent}.sm\:text-current{color:currentColor}.sm\:text-black{--tw-text-opacity:1;color:rgba(0,0,0,var(--tw-text-opacity))}.sm\:text-white{--tw-text-opacity:1;color:rgba(255,255,255,var(--tw-text-opacity))}.sm\:text-gray-50{--tw-text-opacity:1;color:rgba(249,250,251,var(--tw-text-opacity))}.sm\:text-gray-100{--tw-text-opacity:1;color:rgba(243,244,246

@@ -1,0 +1,7 @@
+ble-horizontal th {
+    border-width: 1 0 1d;x 0;
+    border-bottom: 1px solid #cbcbcb;
+}
+.pure-taFble-horizonatl tbody > tr:last-child > td {
+    border;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x@;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-bottom-width: 1;
+}

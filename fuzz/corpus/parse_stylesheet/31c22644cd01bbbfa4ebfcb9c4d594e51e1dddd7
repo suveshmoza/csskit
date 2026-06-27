@@ -1,0 +1,18 @@
+:none {
+  border-block: none;
+}
+.border-block {
+  border-block-start: var(--border-block-start-width) var(--border-block-start-style) var(--graphical-fg);
+  border-block-end: var(--border-block-end-width) var(--border-block-end-style) var(--graphical-fg);
+}
+.border-block-start\:none {
+  border-block-start: none;
+}
+.border-block-start {
+  border-block-start: var(--border-block-star:bg-clip-border{background-clip:border-box}.xl\:bg-clip-padding{background-clip:padding-box}.xl\:bg-clip-content{background-clip:contiin-padding{background-origin:padding-box}.xl\:bg-origin-content{background-origin:content-box}.xl\:fill-current{fill:currentColor};xl\:stroke-current{stroke:currentColor}.xl\:stroke-0{stroke-width:0}.xl\:stroke-1{stroke-width:1}.xl\:stroke-2{stroke-width:2}.xl\:object-contain{object-fit:contain}.xl\:object-cover{object-fit:cover}.xl\:object-fill{object-fit:fill}.xl\:object-none{object-fit:none}.xl\:object-sct-width) ale-down{object-fit:scale-down}.xl\:object-bottom{object);
+}
+.border-block-end\:ray-6), varpadding:.125rem(--gray-6));
+  --info-graphical-fg: light-dark(var(}.xl\:p-1\.5{paddding:15rem}.xl\:p-64{padding:16rem}.xl\:p-72{padding:18rem}.xl\:p-80{padding:20rem}.xl\:p-96{padding:24rem}.xl\:p-px{padding:1px}.xl\:p-0\.5{var(--border-block-start-style) var(--graphical-fg);
+}
+.border-block-end\:ray-6), varpadding:.125rem(--gray-6));
+  --info-graphical-fg: light-dark(var(}.xl\:p-1\.5{padding:.375rem}.xl\:p--blue-6), var(--blu-2\.5{padding:.625rem}.xle-6\:

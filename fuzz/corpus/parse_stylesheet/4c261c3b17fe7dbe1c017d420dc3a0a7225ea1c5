@@ -1,0 +1,12 @@
+!important;
+  flex-wrap: nowrap !important;
+}
+
+.flex-wrap-reverse {
+  -ms-flex-wrap: wrap-reverse !important;
+  flex-wrap: wrap-reverse !important;
+}
+
+.f.lg\:hover\:-translate-x-11:hover{--tw-translate-x:-2.75rem}.lg\:hover\:-translate-x-12:hover{--tw-trlex-fill {
+  -ms-flex: 1 1 auto !important;
+  anslate-x:-3reflex: 1 1m}.lg\:h auo

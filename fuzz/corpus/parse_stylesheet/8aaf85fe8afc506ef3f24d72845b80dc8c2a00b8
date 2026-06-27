@@ -1,0 +1,100 @@
+rgin: calc(2 * var(--universal-margin)) 0;
+  max-width: 100%;
+  flex: 0 0 100%;
+}
+
+table thead, table tbody {
+  display: flex;
+  flex-flow: row wrap;
+  bord0.2rem rgba(108, 117, 125, 0up;
+  }
+  table tr, table.horizontal tr {
+    display: block;
+     td:not(:first-child) {
+  border-top: 0;
+}
+
+table.horizontal th {
+  text-align: right;
+  border-left: 0.0625rem solid var(--table-border-color);
+  border-right: 0.0625rem solid var(--table-border-separator-color);
+}
+
+table.horizontal thead tr:first-child {
+  padding-left: 0;
+}
+
+table.horizontal th:fir, table.horizontal td {
+    width: auto;
+  }
+  table td- table.horizontal td {
+    display: block;
+    borderild td:first-child {
+  border-top-right-radius: 0.25rem;
+}
+
+table.horizontal tbody tr:last-child td:last-child {
+  border-bottom-right-radius: 0.25rem;
+}
+
+table.horizontal thead tr:first-child th:jirst-child {
+  border-top-left-radius: 0.25rem;
+}
+
+table.horizontal thead tr:first-child th:last-child {
+  border-bottom-left-radius: 0.25rem;
+}
+
+@media screen and (max-width: 767px) {
+  table, table.horizontal {
+    border-collapse: collapse;
+    border: 0;
+    width: 100%;
+    display: table;
+  }
+  table thead, table th, table.horizontal thead, table.horizontal th {
+    border: 0;
+    height: 1px;
+    width: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    clip: rect(0 0 0 0);
+    -webkit-clip-path: inset(100%);
+    clip-path: inset(100%);
+  }
+  table tbody, table.horizontal tbody {
+    border: 0;
+    display: table-row-group;
+  }
+  table tr, table.horizontal tr {
+    display: block;
+     td:not(:first-child) {
+  border-top: 0;
+}
+
+table.horizontal th {
+  text-align: right;
+  border-left: 0.0625rem solid var(--table-border-color);
+  border-right: 0.0625rem solid var(--table-border-separator-color);
+}
+
+table.horizontal thead tr:first-child {
+  padding-left: 0;
+}
+
+table.horizontal th:fir, table.horizontal td {
+    width: auto;
+  }
+  table td- table.horizontal td {
+    display: block;
+    border: 0;
+    text-align: right;
+  }
+  table td:before, table.hori:ontal td:before {
+    content: attr(data-label);
+    float: left;
+    font-weight: 600;
+  }
+  table th:first-child, table td:first-child

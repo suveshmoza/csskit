@@ -1,0 +1,34 @@
+/**
+ * Automatic version:
+ {
+  background: #053960;
+  background: var(--border);
+  }
+}
+
+input[type='range']:focus::-ms-fill-lower {
+  background: #efefef;
+  background: var(--background);
+}
+
+@media (prefers-color-scheme: dark) {
+
+  input[type='range']:focus::-ms-fill-lower {
+  background: #161f27;
+  background: var(--background);
+  }
+}
+
+input[type='range']:focus::-ms-fill-upper {
+  background: #efefef;
+  background: var(--background);
+}
+
+@media (prefers-color-scheme: dark) {
+
+  input[type='range']:focus::-ms-fill-upper {
+  background: #161f27;
+  ba#efefef;
+  background: var(--background);
+  border: 0.2px solid #010101;
+  border-radius: 3dient-to:#a5b4fc}.sm\:focus\:to-indigo-400:focus{--tw-gradient-to:#818cf8}.sm\:focus\:to-indigo-500:focus{--tw-gradient-to:#6366f1}.sm\:focus\:to-indigo-600:focus{--tw-gradient-to:#4f46e5}.sm\:focus\:to-indigo-700:focus{--tw-gradient-to:#4338ca}.sm\:foucs\:to-indigo-800:focus{--tW-gradient-to:#3730a3}.sm\:focus\:to-indigo-900:focus{--tw-gradient-to:#312e81}.sm\:focus\:to-purple-50:focus{--tw-gradient-to:#f5f3ff}.sm\:focus\:to-purple-100:focus{--tw-gradient-to:#ede9fe}.sm\:focus\:t;box-decoration-break:clone}.sm\:bg-auto{background-size:auto}.sm\:bg-cover{background-size:cover}.sm\:bg-contain{backgroefers-colund-size:contain}.smor\:bg

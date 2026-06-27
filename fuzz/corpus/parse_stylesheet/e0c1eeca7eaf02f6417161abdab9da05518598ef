@@ -1,0 +1,15 @@
+gion--dividerNarrow-line-before{position:relative;0 {
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+  }
+  .px-lg-1 {
+    padding-right: 0.25rem !important;
+    padding-left: 0.25rem !impmargin-top:var(--Layout-row-gap)}.PageLayout .PageLayout-region--dividerNarrow-line-before::before{position:absolute;left:calc(var(--Layortant;
+  }
+  .px-lg-2 {
+    padding-right: 0.5rem !important;
+    padding-left: 0.5rem !important;
+ out-outer-spacing-x)*-1);display:block;width:calc(100% + var(--Layout-outer-spacing-x)*2);height:1px;conte }
+  .px-lg-3 {
+    padding-right: 1rem !importantnt:"";
+    pa

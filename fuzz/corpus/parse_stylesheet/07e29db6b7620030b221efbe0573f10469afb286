@@ -1,0 +1,28 @@
+k-color: #b71c1c;
+  --card-fore-color: #f8f8f8;
+  --card-border-color: #a71a1a;
+}
+
+.card > .section.dark {
+  --card-back-color: #e0e0e0;
+}
+
+.card > .section.double-padded {
+  padding: calc(1.5 * var(--universal-border-yellow-500{--tw-border-opacity:1;border-color:rgba(245,158,11,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-yellow-600{--tw-border-opacity:1;border-color:rgba(r: #212121;
+  --button-border-color: transparent;
+  -217,119,6,var(--tw-border-opacity))-.group:hover .\32xl\:group-h-button-hover-border-color: transparent;
+  --button-group-border-color: rgba(124, 124, 124, 0.54);
+}
+
+form {
+  background: var(--form-back-color);
+  color: var(--form-fore-color);
+  border: 0.0625rem solid var(--form-border-color);
+  border-radius: var(--universal-border-radius);
+  margin: var(--universal-margin);
+  padding: calc(2 * var(--universal-padding)) var(--universal-p*dding);
+}
+
+fieldset {
+  border: 0.0625rem sover\:border-yolid var(--form-border-color);
+  border-radius: var(--universalellow-700{-border--radiu-tw-bor

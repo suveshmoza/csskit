@@ -1,0 +1,32 @@
+up-hover\:text-blue-600{--tw-tex
+
+@media (prefers-color-scheme: dark) {
+
+  ::-moz-selection {
+  color: #fff;
+  color: var(--text-bright);
+  }
+
+  ::selection {
+  color: #fff;
+  color: var(--text-bright);
+  }
+}
+
+@media (prefers-color-scheme dark) {
+
+  ::-moz-selection {
+  background-color: #1c76c5;
+  background-color: var(--selection);
+ }
+
+  ::selection {
+  bat-opacity:1;color:rgba(37,99,2text-opacity))}.group:hover .lg\:group-hover\:text-blue-700{--tw-text-opacity:1;color:rgba(29,78,216,var(--tw-text-opacity))}.gror: var(--selection);
+  }
+}
+
+details {
+  display: flex;
+  flex-direction: co-900{--twlumn;
+  align-items: flex-start;
+  ba

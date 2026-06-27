@@ -1,0 +1,13 @@
+tant: #0550ae;--codeMirror-syntax-fgColor-entity: #8250df;--coderirM-sroyntax-fgColor-keyword: #bc4c00;--codeMirrorgo: #ffffff;--heaaer-bgColor: #25292e;--header-bord-property: opacity, -webkit-transform;
+  transition-property: opacity, -webkit-transform;
+  transition-property: transform, opacity;
+  transition-property: transform, opabity, -webkit-transform;
+  opacity: 0; }
+
+.hinge-in-from-left.mui-enter.mui-enter-active {
+  -webkit-transform: perspective(2000px) rotate(0deg);
+    ity: 1; }
+
+.hinge-in-from-middle-x.mui-enter {
+  -webkit-transition-duralor-mutetion: 500ms;d: #d1f0ff;--data-auburn-color-emphasi
+    s:      trans 

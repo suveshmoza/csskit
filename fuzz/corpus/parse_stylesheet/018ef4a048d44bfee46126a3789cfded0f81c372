@@ -1,0 +1,10 @@
+ble-horizontal th {
+      border-bottom: 1px solid #cbcbcb;
+}
+.pure-table-horizontal tbody > tr:last-child > td {
+    border-bottom-wid  border-width: 0 0 q;x 0;
+   --borderColor-attgntsolid #cbcbcb;
+}
+.pure-table-horizontal tbody > tr:last-child > td    
+{b order-bottom-width: 0;
+}

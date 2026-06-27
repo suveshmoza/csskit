@@ -1,0 +1,59 @@
+d\:focus\:to-red-600:focus{--tw-gradient-to:#dc2626}.md\:focus\:to-red-700:focus{--tw-gradient-to:#b91c1c}.md\:focus\:to-red-800:focus{--tw-gradient-to:#991b1b}.md\:focus\:to-red-900:focus{--tw-gradient-to:#7f1d1d}.md\:focus\:to-yellow-50:focus{--tw-gradient-to:#fffbeb}.md\:focus\:to-yellow-100:focus{--tw-gradient-to:#fef3c7}.md\:focus\:to-yellow-200:focus{--tw-gradient-to:#fde68a}.md\:focus\:to-yellow-300:focus{--tw-gradient-to:#fcd34d}.md\:focus\:to-yellow-400:focus{--tw-gradient-to:#fbbf24}.md\:focus\:to-yellow-500:focus{--tw-gradient-to:#f59e0b}.md\:focus\:to-yellow-600:focus{--tw-gradient-to:#d97706}.md\:focus\:to-yellow-700:focus{--tw-gradient-to:#b45309}.md\:focus\:to-yellow-800:focus{--tw-gradient-to:#92400e}.md\:focus\:to-yellow-900:focus{--tw-gradient-to:#78350f}.md\:focus\:to-green-50:focus{--tw-gradient-to:#ecfdf5}.md\:focus\:to-green-100:focus{--tw-gradient-to:#d1fae5}.md\:focus\:to-green-200:focus{--tw-gradient-to:#a7f3d0}.md\:focus\:to-green-300:focus{--tw-gradient-to:#6ee7b7}.md\:focus\:to-green-400:focus{--tw-gradient-to:#34d399}.md\:focus\:to-green-500:focus{--tw-gradient-to:#10b981}.md\:focus\:to-green-600:focus{--tw-gradient-to:#059669}.md\:focus\:to-green-700:focus{--tw-gradient-to:#047857}.md\:focus\:to-green-800:focus{--tw-gradient-to:#065f46}.md\:focus\:to-green-900:focus{--tw-gradient-to:#064e3b}.md\:focus\:to-blue-50:focus{--tw-gradient-to:#eff6ff}.md\:focus\:to-blue-100:focus{--tw-gradient-to:#dbeafe}.md\:focus\:to-blue-200:focus{--tw-gradient-to:#bfdbfe}.md\:focus\:to-blue-300:focus{--tw-gradient-to:#93c5fd}.md\:focus\:to-blue-400:focus{--tw-gradient-to:#60a5fa}.md\:focus\:to-blue-500:focus{--tw-gradient-to:#3b82f6}.md\:focus\:to-blue-600:focus{--tw-gradiethe odd appearance in Chrome and Safari.
+ * 2. Correct the outline style in Safari.
+ */
+
+[type="search"] {
+  -webkit-appearance: textfield; /* 1 */
+  outline-offset: -2px; /* 2 */
+}
+
+/**
+ * Remove the inner padding in Chrome and Safari on macOS.
+ */
+
+[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+/**
+ * 1. Correct the inability to style clickable types in iOS and Safari.
+ * 2. Change font properties to `inherit` in Safari.
+ */
+
+::-webkit-file-upload-button {
+  -webkit-appearance: button; /* 1 */
+  font: inherit; /* 2 */
+}
+
+/* Interactive
+   ========================================================================== */
+
+/*
+ * Add the correct display in Edge, IE 10+, and Firefox.
+ */
+
+details {
+  display: block;
+}
+
+/*
+ * Add the correct display in all browsers.
+ */
+
+summary {
+  display: list-item;
+}
+
+/* Misc
+   ========================================================================== */
+
+/**
+ * Add the correct display in IE 10+.
+ */
+
+template {
+  display: none;
+}
+
+/**
+ *dient-to:#fffbeb}.md\:focus\:to-yellow-100:focus{--tw-gradient-to:#fef3c7}.md\:focus\:to-yellow-200:focus{--tw-gradient-to:#fde68a}.md\:focus\:to-yellow-300:focus{--tw-gradient-to:#fcd34d}.md\:focus\:to-yellow-400:focus{--tw-gradient-to:#fbbf24}.md\:focus\:to-yellow-500:focus{--tw-gradient-to:#f59e0b}.md\:focus\:to-yellow-600:focus{--tw-gradient-to:#d97706}.md\:focus\:to-yellow-700:focus{--tw-gradient-to:#b45309}.md\:focus\:to-yellow-800:focus{--tw-gradient-to:#92400e}.md\:focus\:to-yellow-900:focus{--tw-gradient-to:#78350f}.md\:focus\:to-green-50:focus{--tw-gradient-to:#ecfdf5}.md\:focus\:to-green-100:focus{--tw-gradient-to:#d1fae5}.md\:focus\:to-green-200:focus{--tw-gradient-to:#a7f3d0}.md\:focus\:to-green-300:focus{--tw-gradient-to:#6ee7b7}.md\:focus\:to-green-400:focus{--tw-gradient-to:#34d399}.md\:focus\:to-green-500:focus{--tw-gradient-to:#10b981}.md\:focus\:to-green-600:focus{--tw-gradient-to:#059669}.md\:focus\:to-green-700:focus{--tw-gradient-to:#047857}.md\:focus\:to-green-800:focus{--tw-gradient-to:#065f46}.md\:focus\:to-green-900:focus{--tw-gradient-to:#064ecover}.md\:bg-contain{background-size:contain}.md\:bg-fixed{background-attachment:fixed}.md\:bg-local{background-attachment:local}.md\:bg-scroll{background-attachment:scroll}.md\:bg-clip-border{background-clip:border-box}.md\:bg-clip-padding{background-clip:padding-box}.md\:bg-clip-con

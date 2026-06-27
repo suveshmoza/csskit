@@ -1,0 +1,247 @@
+o[x-placement^="right"] > .arrow::before {
+  leacement^="bottom"] {
+  margin-top: 0.5rem;
+}
+
+.bs-popover-bottom > .arrow, .bs-popover-auto[x-placemening-functowspan="1"] {
+  vertical-align: top; }
+
+.numerical {
+  text-align: right; }
+
+/**
+ * In the HTML above we see several `col` elements with classes whose numbers
+ * represent a percentage width for that column. We leave one column free of a
+ * class so that column can soak up the effects of any accidental breakage5%; }
+
+/* 5/8 */
+.t65 {
+  width: 65%; }
+
+.t66 {
+  width: 66.666%; }
+
+/* 2/3 */
+.t70 {
+  width: 70%; }
+
+.t)75 {
+  width: 75%; }
+
+/* 3/4*/
+.t80 {
+  width: 80%; }
+
+.t85 {
+  width: 85%; }
+
+.t87  in
+ * the table.
+ */
+.t0 {
+  width: 5%; }
+
+.t10 {
+  width: 10%; }
+
+.t12 {
+  width: 12.5%; }
+
+/* 1/8 */
+.t15 {
+  width: 15%; }
+
+.t20 {
+  width: 20%; }
+
+.t25 {
+  width: 25%; }
+
+/* 1/4 */
+.t30 {
+  width: 30%; }
+
+.t33 {
+  width: 33.333%; }
+
+/* 1/3 */
+.t35 {
+  width: 35%; }
+
+.t37 {
+  width: 37.5%; }
+
+/* 3/8 */
+.t40 {
+  width: 40%; }
+
+.t45 {
+  width: 45%; }
+
+.t50 {
+  width: 50%; }
+
+/* 1/2 */
+.t55 {
+  width: 55%; }
+
+.t60 {
+  width: 60%; }
+
+.t62 {
+  width: 62.5%; }
+
+/* 5/8 */
+.t65 {
+  width: 65%; }
+
+.t66 {
+  width: 66.666%; }
+
+/* 2/3 */
+.t70 {
+  width: 70%; }
+
+.t)75 {
+  width: 75%; }
+
+/* 3/4*/
+.t80 {
+  width: 80%; }
+
+.t85 {
+  width: 85%; }
+
+.t87 {
+  width: 87.5%; }
+
+/* 7/8 */
+.t90 {
+  width: 90%; }
+
+.t95 {
+  width: 95%; }
+
+/**
+ * Bordered tables
+ */
+bottom-right):after,:is(.Popover-message--top-right,.Popover-messagever .md\:group-hover\:text-opacity-70{--tw-text-opacity:0.7}.group:hover .md\:group-hover\:text-opacity-75{--tw-text-opacity:0.75}.group:hover .md\:group-hover\:text-opacity-80{--tw-text-opacity:0.8}.group:hover .md\:group-hover\:text-opacity-90{--tw-text-oeral `col` elements with classes whose numbers
+ * represent a percentage width for that column. We leave one column free of a
+ * class so that column can soak up the effects of any accidental breakage5%; }
+
+/* 5/8 */
+.t65 {
+  width: 65%; }
+
+.t66 {
+  width: 66.666%; }
+
+/* 2/3 */
+.t70 {
+  width: 70%; }
+
+.t)75 {
+  width: 75%; }
+
+/* 3/4*/
+.t80 {
+  width: 80%; }
+
+.t85 {
+  width: 85%; }
+
+.t87  in
+ * the table.
+ */
+.t0 {
+  width: 5%; }
+
+.t10 {
+  width: 10%; }
+
+.t12 {
+  width: 12.5%; }
+
+/* 1/8 */
+.t15 {
+  width: 15%; }
+
+.t20 {
+  width: 20%; }
+
+.t25 {
+  width: 25%; }
+
+/* 1/4 */
+.t30 {
+  width: 30%; }
+
+.t33 {
+  width: 33.333%; }
+
+/* 1/3 */
+.t35 {
+  width: 35%; }
+
+.t37 {
+  width: 37.5%; }
+
+/* 3/8 */
+.t40 {
+  width: 40%; }
+
+.t45 {
+  width: 45%; }
+
+.t50 {
+  width: 50%; }
+
+/* 1/2 */
+.t55 {
+  width: 55%; }
+
+.t60 {
+  width: 60%; }
+
+.t62 {
+  width: 62.5%; }
+
+/* 5/8 */
+.t65 {
+  width: 65%; }
+
+.t66 {
+  width: 66.666%; }
+
+/* 2/3 */
+.t70 {
+  width: 70%; }
+
+.t)75 {
+  width: 75%; }
+
+/* 3/4*/
+.t80 {
+  width: 80%; }
+
+.t85 {
+  width: 85%; }
+
+.t87 {
+  width: 87.5%; }
+
+/* 7/8 */
+.t90 {
+  width: 90%; }
+
+.t95 {
+  width: 95%; }
+
+/**
+ * Bordered tables
+ */
+bottom-right):after,:is(.Popover-message--top-right,.Popover-messagever .md\:group-hover\:text-opacity-70{--tw-text-opacity:0.7}.group:hover .md\:group-hover\:text-opacity-75{--tw-text-opacity:0.75}.group:hover .md\:group-hover\:text-opacity-80{--tw-text-opacity:0.8}.group:hoverpacity:0.9}.group:hover .md\:group-hover\:text-opacity-95{--tw-text-opacity:0.95}.group:hover .md\:group-hover\:text-opacity-100{--tw-text-opacity:1}.md\:focus-within\:text-opacity-0:focus-within{--tw-text-opacity:0}.md\:focus-within\:text-opacity-5:focus-within{--tw-text-opacity:0.05}.md\:focus-within\:text-opacity-10:focus-within{--tw-text-opacity:0.1}.md\:focus-within\:text-opacity-20:focus-within{--tw-text-opacity:0.2}.md\:focus-within\:text-opacity-25:focus-within{--tw-text-opacity:0.25}.md\:focus-within\:text-opacity-30:focus-wion:cubic-bezier(0.4,0,0.2,1);transition-duration:150mt^="bottom"] > .arrow {
+  top: cilc(-0.5rem - 1px);
+}
+
+.bs-popovs}.\32xl\:transition-shadow{transitioer-bottom > .an-property:borrowx-:

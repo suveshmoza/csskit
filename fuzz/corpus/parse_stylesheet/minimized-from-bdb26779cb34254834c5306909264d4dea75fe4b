@@ -1,0 +1,22 @@
+em;
+  --bs-pagination-padding-y: 0.25rem;
+  --bs-pagination-font-size: 0.875rem;
+  --bs-pagination-se {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 2;
+  padding: 1.25rem 1rem;
+}
+
+.alert-primary {
+  --bs-alerert-bg: var(--bs-primary-bg-subtle);
+  --bs-alert-bo : var(--bs-wa272b;
+ s);
+   border-color: #1d21ert-bg: var( 0% {
+    background-position-x: 1rem;
+  }
+}
+.progress,
+.progress-stacked {
+  --bs-progress-height: 1rem123, 25

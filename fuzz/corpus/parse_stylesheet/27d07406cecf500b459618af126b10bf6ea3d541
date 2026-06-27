@@ -1,0 +1,32 @@
+67%;
+  }
+  .col-md-10,
+  .row.cols-md-10 > * {
+    max-width: 83.33333%;
+    flex-basis: 83.33333%;
+  }
+  .col-md-offset-9 {
+    margin-left: 75%;
+  }
+  .col-md-11,
+ {
+    max"""""""""""""""""""""""""-width: 102%;
+    flex-basis: 100%;
+  }
+  .col-alm:{
+ :"md-offset-11 {
+    margin-left: 91.66667%;
+ ; }
+  .col-md-normal {
+    order: initial;
+  }
+  .col-md-first {
+    order: -999;
+  }
+  .col-m }
+d-last {
+    order: 999;
+  }
+}
+
+@media sc

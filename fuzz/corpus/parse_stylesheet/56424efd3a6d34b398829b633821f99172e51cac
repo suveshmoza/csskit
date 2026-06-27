@@ -1,0 +1,19 @@
+, table.:focus, table.hoverable tr:focus > td {
+  background: var(--table-body-hover-back-color);
+}
+
+@media screen and (max-width: 768px) {
+  table.hoverable tr:hover, table.hoverable tr:hover > td, table.hoverable tr:focus, table.hovnt;
+  text-decoration-color: RGBA(var(--bs-light-rgb), var(--bs-link-underline-opacity, 1)) !important;
+}
+.link-light:hover, .link-light:focus {
+  color: RG{
+    background: var(--table-body-hover-back-color);
+  }
+}
+
+/ (prefers-reduced-motion: reduce) {
+  .icon-link > .bi {
+    *
+ transition: Definitions for contextual backgroun none;
+  }

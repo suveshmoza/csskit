@@ -1,0 +1,44 @@
+-hover\:border-indigo-700{--tw-border-opacity:1;border-color:rgba(67,56,202,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-indigo-800{--tw-border-opacity:1;border-color:rgba(55,48,163,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-indigo-900{--tw-border-opacity:1;border-color:rgba(49,46,129,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-purple-50{--tw-border-opacity:1;border-color:rgba(245,243,255,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-purple-100{--tw-border-opacity:1;border-color:rgba(237,233,254,var(--tw-border-opagroup-hover\:border-pink-500{--tw-border-opacity:1;border-color:rgba(236,72,153,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-pink-600{--tw-border-opacity:1;border-color:rgba(219,39,119,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-pink-700{--tw-border-opacity:1;border-color:rgba(190,24,93,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-pink-800{--tw-border-opacity:1;border-color:rgba(157,23,77,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-pink-900{--tw-border-opacity:1;border-color:rgba(131,24,67,var(--tw-border-opacity))}.\32xl\:focus-within\:border-transparent:focus-calc(1.5 * var(--rhythm, 1rlh));
+  border: none;
+  background: none;
+}
+input[type=file] {
+  padding: calc(var(--gap) / 4) 0;
+  font: inherit;
+  line-height: calc(var(--rhythm, 1rlh) / 2);
+  &::file-selector-button {
+    margin-block: .1em 0;
+    margin-inline-end: 1ch;
+  }
+}
+select {
+  height: calc(2 * var(--interactive-border-width) + 3/2 * var(--rhythm, 1lh));
+  background: var(--bg);
+  color: var(--fg);
+  & option {
+    background: inherit;
+    color: inherit;
+    border: inherit;
+    &:hover {
+      background: var(--accent);
+      color: var(--bg);
+    }
+  }
+}
+select[multiple] {
+  vertical-align: top;
+}
+optgroup::before {
+  color: var(--muted-fg);
+  font-style: normal;
+}
+meter,
+progress {
+  --border-width: var(--interactive-border-width);
+  --border-style: var(--interactive-border-style);
+  --border-radius: var(--tab-border-radius);
+  @supports (selector(::-moz-meter-bar) or selector(::-webkit-meter-bar) or selector(::-moz-progress-bar) or selector(::-webkit-progress-bar)) {
+    appearance: none;
+    box-sizing: border-box;
+    display: inline-block;
+    within{border-color:transparent}.\32xl\:focus-within\:border-current:focus-within{border-color:curor:rgba(209,213,219,var(--tw-border-opacity))}.\32xl\:focus-within\:border-gray-400:focus-within{--tw-border-opposition:acity:1;border-color:rgba( relat156,163,175,var(--it

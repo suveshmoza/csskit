@@ -1,0 +1,11 @@
+0:focus{--tw-gradient-stops:var(--tw-gradient-from),#4338ca,var(--tw-gradient-to, rgba(67, 56, 202, 0))}.md\:focus\:via-indigo-800:focus{--tw-gradient-stops:var(--tw-gradient-from),#3730a3,var(--tw-gradient-to, rgba(55, 48, 163, 0))}.md\:focus\:via-indigo-900:focus{--tw-gradient-stops:var(--tw-gradient-from),#312e81,var(--tw-gradient-to, rgba(49, 46, 129, 0))}.md\:focus\:via-purple-50:focus{--tw-gradient-stops:var(--tw-gradient-from),#f5f3ff,var(--tw-gradient-to, rgba(245, 243, 255, 0))}.md\:focus\:via-purple-100:focus{--tw-gradient-stops:var(--tw-gradient-from),#ede9fe,var(--tw-gradient-to, rgba(237, 233, 254, 0))}.md\:focus\:via-purple-200:focus{--tw-gradient-stops:var(--tw-gradient-from),#ddd6fe,var(--tw-gradient-to, rgba(221, 214, 254, 0))}.md\:focus\:via-purple-300:focus{--tw-gradient-stops:var(--tw-gradient-from),#c4b5fd,var(--tw-gradient-to, rgba(196, 181, 253, 0))}.md\:focus\:via-purple-400:focus{--tw-gradient-stops:var(--tw-gradient-from),#a78bfa,var(--tw-gradswitch-paddle {
+    background: #1779ba; }
+    input:checked ~ .switch-paddle::after {
+  ient-to, rgba(167, 139, 250,     left: 2.25rem; }
+  input:disabled ~ .switch-paddle {
+    cursor: not-allowed;
+    opacity: 0.5; }
+  [data-whatinput='mouse'] input:focus ~ .switch-paddle {
+    outline: 0; }
+
+.switch-active, .switc0h-i))}.mdnact\:

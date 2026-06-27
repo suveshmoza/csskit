@@ -1,0 +1,44 @@
+or-hover: #f1933b;--label-orange-fgCoao-rlctiple-bgColor-rest: #211047;--label-purple-bgColor-hover: #31146b;--label-purple-bgColor-active: #481a9e;--label-purple-fgColor-rest: #b687f7;--label-purple-fgColor-hover: #c398fb;--label-purple-fgColor-active: #d2affd;--label-red-bgColor-rest: #3c0614;--label-red-bgColor-hover: #58091a;--label-red-bgColor-active: #790c20;--label-red-fgColor-rest: #f27d83;--label-red-fgColor-hover: #f48b8d;--label-red-fgColor-active: #f7adab;--label-yellow-bgColor-rest: #2e1a00;--label-yellow-bgColor-hover: #3d2401;--label-yellow-bgColor-active: #5a3702;--label-yellow-fgColor-rest: #d3910d;--label-yellow-fgColor-hover: #df9e11;--label-yellow-fgColor-active: #edb431;--label-gray-bgColor-rest: #1c1c1c;--label-gray-bgColor-hover: #2a2b2d;--label-gray-bgColor-active: #393d41;--label-gray-fgColor-rest: #92a1b5;--label-gray-fgColor-hover: #9babbf;--label-gray-fgColor-active: #b3c0d1;--label-auburn-bgColor-rest: #271817;--label-auburn-bgColor-hover: #3a2422;--label-auburn-bgColor-active: #543331;--label-auburn-fgColor-rest: #bf9592;--label-auburn-fgColor-hover: #c6a19f;--label-auburn-fgColor-active: #d4b7b5;--label-brown-bgColor-rest: #241c14;--label-brown-bgColor-hover: #342a1d;--label-brown-bgColor-active: #483a28;--label-brown-fgColor-rest: #b69a6d;--label-brown-fgColor-hover: #bfa77d;--label-brown-fgColor-active: #cdbb98;--label-lemon-bgColor-rest: #291d00;--label-lemon-bgColor-hover: #372901;--label-lemon-bgColor-active: #4f3c02;--label-lemon-fgColor-rest: #ba9b12;--label-lemon-fgColor-hover: #c4a717;--label-lemon-fgColor-active: #d7bc1d;--label-olive-bgColor-rest: #171e0b;--label-olive-bgColor-hover: #252d10;--label-olive-bgColor-active: #374115;--label-olive-fgColor-rest: #a2a626;--label-olive-fgColor-hover: #b2af24;--label-olive-fgColor-active: #cbc025;--label-lime-bgColor-rest: #141f0f;--label-lime-bgColor-hover: #1f3116;--label-lime-bgColor-active: #2c441d;--label-lime-fgColor-rest: #7dae37;--label-lime-fgColor-hover: #89ba36;--label-lime-fgColor-active: #9fcc3e;--label-pine-bgColor-rest: #082119;--label-pine-bgColor-hover: #0b3224;
+  border-radius: 0.25rem;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+@media (prefers-reduced-eotion: reduce) {
+  .btn {
+    transition: none;
+  }
+}
+
+.btn:hover {
+  color: #212529;
+  text-decoration: none;
+}
+
+.btn:focus, .btn.focus {
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
+
+.btn.disabled, .btn:disabled {
+  opacity: 0.65;
+}
+
+.btn:not(:disabled):not(.disabled) {
+  cursor: pointer;
+}
+
+a.btn.disabled,
+fieldset:disabled a.btn {
+  pointer-events: none;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #006bff;
+  border-color: #007bff;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #0069d9;
+  border-color: #0062cc-fgColor-link: #4493f8;--fgColor-neutral: #9198e1;--fgC

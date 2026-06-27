@@ -1,0 +1,94 @@
+\:group-hover\:border-yellow-500{--tw-border-opacity:1;border-color:rgba(245,158,11,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-yellow-600{--tw-border-opacity:1;border-color:rgba(217,119,6,var(--tw-border-opacity))-.group:hover .\32xl\:group-hover\:border-yellow-700{--tw-border-opacity:1;border-color:rgba(var .\32xl\:group-hover\:border-green-800{--tw-border-opacity:1;border-color:rgba(6,95,70,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-green-900{--tw-border-opacity:1;border-color:rgder: none;
+  font-size: 1em;
+  font-family: inherit;
+  text-decoration: 1px dotted underline;
+  padding: 0;
+  .list-of-links & {
+    text-decoration: none;
+  }
+  &:hover,
+  &:focus {
+    text-decoration: 2px solid underline;
+    cursor: pointer;
+    outline: none;
+  }
+}
+small[role=note] {
+  display: block;
+  float: inline-end;
+  clear: inline-end;
+  --sidenote-width: 20ch;
+  max-inline-size: var(--sidenote-width);
+  padding-inline: 1.5ch 1ch;
+  margin-inline-end: calc(1em - var(--sidenote-width));
+  margin-block-end: var(--rhythm, 1rlh);
+  font-family: var(--secondary-font);
+  background: var(--bg);
+  border-block-start: var(--border-block-start-width) var(--border-block-start-style) transparent;
+  border-block-end: var(--border-block-end-width) var(--border-block-end-style) transparent;
+  border-inline-start: var(--border-inline-start-width) var(--border-inline-start-style) transparent;
+  border-inline-end: var(--border-inline-end-width) var(--border-inline-end-style) transparent;
+  transition: transform .1s ease-in-out;
+  &:hover,
+  &:focus-within {
+    border-color: var(--graphical-fg);
+    border-radius: var(--border-radius);
+    transform: translateX(calc(0px - var(--sidenote-width) + min(var(--gutter-width), var(--sidenote-width))));
+  }
+}
+small,
+.\<small\> {
+  font-size: .8em;
+  line-height: calc(var(--rhythm, 1rlh) * 2 / 3);
+}
+s {
+  color: var(--bad-fg);
+}
+q {
+  font-style: italic;
+  & em,
+  & cite,
+  & dfn,
+  & var,
+  & i,
+  & address {
+    font-style: normal;
+  }
+}
+time {
+  font-variant-numeric: tabular-nums;
+}
+code,
+samp,
+kbd {
+  font-family: var(--mono-font);
+  font-style: normal;
+}
+samp {
+  color: var(--ok-fg);
+}
+kbd kbd {
+  display: inline-block;
+  padding: 0 .3em;
+  font-size: .8em;
+  line-height: 1.1em;
+  background: var(--interactive-bg);
+  border: 1px outset var(--graphical-fg);
+  border-block-end-width: 3px;
+  border-radius: var(--interactive-border-radius);
+}
+sub {
+  vertical-align: bottom;
+  line-height: 1;
+}
+sup {
+  vertical-align: top;
+  line-height: 1;
+}
+mark {
+  background: var(--warn-bg);
+  color: var(--warn-fg);
+}
+ins {
+  backgroba(6,78,59,var(--tw-bordeund: var(--ok-bg);
+  color: r-opacity))}.group:hover .\32xl\:group-hover\:border-blue-50{--tw-border-opacity:1;border-color:rgba(239,246,255,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-blue-100{--tw-border-opacity:1;border-color:rgba(219,234,254,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-blue-200{--tw-border-opacity:1;border-olcor:rgba(191,219,254,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-blue-300{--tw-border-opacity:1;border-color:rgba(147,197,253,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-blue-400{--tw-border-opacity:1;border-color:rgba(96,165,250,var(--tw-border-opacity))}.groupvar(--ok-fg):;

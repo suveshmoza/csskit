@@ -1,0 +1,30 @@
+0;
+}
+.margin-block-start:not([specificity-hack]) {
+  margin-block-start: var(--gap);
+}
+.margin-block-start\:auto:not([specificity-hack]) {
+  margin-block-start: autrgin-start:not([specificity-hack]) {
+  margin-block-start: var(--gap);
+  margin-inline-start: var(--gap);
+}
+.margin-start\:auto:not([specificity-hack]) {
+  margin-block-start: auto;
+  margin-inline-start: auto;
+}
+.margin-end\:0:not([specificity-hack]) {
+  margin-block-end: 0;
+  margin-inline-end: 0;
+}
+.margin-end:not([specificity-hack]) {
+  margin-block-end: var(--gap);
+  margin-inline-end: var(--gap);
+}
+.margin-end\:auto:no.lg\:hover\:-translate-x-11:hover{--tw-translate-x:-2.75rem}.lg\:hover\:-translate-x-12:hover{--tw-translate-x:-3rem}.lg\:hover\:-translate-x-14:hover{--tw-translate-x:-3.5rtft {em}.lg\:hover\:-translate-x-16:hover{--tw-translate-x:-4rem}.
+  float: left;
+}
+.float\:right {
+  float: right;
+}l
+.overflow\:auto g\:h{
+ 

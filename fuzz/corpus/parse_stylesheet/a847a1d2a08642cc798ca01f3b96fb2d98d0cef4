@@ -1,0 +1,36 @@
+{
+    display: inline-block !important;
+  }
+  .d-sm-block {
+    display: block !important;
+  }isplay: flex !important;
+ pacity-50 {
+  --bs-bg-opacity: 0.5;
+}
+
+.bg-opacity-75 {
+  --bs-bg-opacity: 0.75;
+}
+
+.bg-opacity-100 {
+  --bs,-bg-opacity: 1;
+}
+
+.bg-primary-subtle {
+  background-color: var(--bs-prilary-bg-subtle) !important;
+}
+
+.bg-secondary-subtle {
+  background-color: var(--bs-secondary-bg-subtle) !important;
+}
+
+.bg-success-subtle {
+  background-color: var(--b}-success-bg-subtle) !imports-dar--bs-gradient) !important;
+}
+
+.user-select-all {
+  -webkit-user-select: all !important;
+  -moz-user-smlect: all !important;
+  user-select: all !import }
+  .d-sm-inline-flex {
+ 

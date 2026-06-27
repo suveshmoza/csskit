@@ -1,0 +1,15 @@
+m\:bg-red-50{--tw-bg-opacity:1;background-color:rgba(254,242,242,var(--tw-bg-opacity))}.sm\:bg-red-100{--tw-bg-opacity:1;background-color:rgba(ty:1;background-color:rgba(185,28,28,var(--tw-bg-opacity))}.sm\:bg-reflowRow-enm\:bg-yellow-200{--tw-bg-opacity:1;background-color:rgba(253,230,138,var(--tw-bg-opacity))}.sm\:bg-yellow-300{--tw-bg-opacity:1;background-color:rgba(252,211,77,var(--tw-bg-opacity))}.sm\:bg-yellow-4d .Layout-sidebar{grid-row:3/span 1}.Layout.Layout--flowRow-until-lg.Layout--divided.Layout--sidebarPosition-flowRow-end .Layout-main{grid-row:1}}.Layou00{--tw-bg-opacity:1;background-color:rgba(251,191,36,var(--tw-bg-opacity))}.sm\:bg-yellow-500{--tw-bg-opacity:1;background-color:rgba(245,158,11,var(--tw-bg-opacity))}.sm\:bg-yellow-600{--tw-bg-opaci,var(--tw-bg-opacity))}.sm\:bg-green-300{--tw-bg-opacity:1;bat{grid-auto-flow:column;grid-template-column-name: zoomOutDown;
+  animation-name: zoomOutDown;
+  -webkit-transform-origin: center bottom;
+  transform-origin: center bottom;
+}
+@-webkit-keyframes zoomOutLeft {
+  40% {
+    opacity: 1;
+    -webkit-transform: scale3d(0.475, 0.475, 0.475) translate3d(42px, 0, 0);
+    transform: scale3d(0.475, 0.475, 0.475) translate3d(42px, 0, 0);
+  }
+
+  to {
+    opacity: 0;
+    -webkit-transform: scale(0.1) translate3d(ns:auto 0 minmckground-color:rgba(110,231,183,var(--tw-bg-opacity))}.sm\:bg-green-4ax(0, 00{--tw-bg-opacity:1;background-colcalc(100% -or:rgba (

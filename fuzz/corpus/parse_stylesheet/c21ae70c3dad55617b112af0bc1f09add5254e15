@@ -1,0 +1,49 @@
+&Ҍ\:group-hover\:border-yellow-500{--tw-border-opacity:1;border-color:rgba(245,158,11,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-yellow-600{--tw-border-opacity:1;border-color:rgba(217,119,6,var(--tw-border-opacity))-.group:hover .\32xl\:group-hover\:border-yellow-700{--tw-border--block-end-style) transparent;
+  border-inline-start: var(--border-inline-start-width) var(--border-inline-start-style) transparent;
+  border-inline-end: var(--border-inline-end-width) var(--border-inline-end-style) transparent;
+  transition: transform .1s ease-in-out;
+  &:hover,
+  &:focus-within {
+    border-color: var(--graphical-fg);
+    border-radius: var(--border-radius);
+    transform: translateX(calc(0px - var(--sidenote-width) + min(var(--gutter-width), var(--sidenote-width))));
+  }
+}
+small,
+.\<small\> {
+  font-size: .8em;
+  line-height: calc(var(--rhythm, 1rlh) * 2 / 3);
+}
+s {
+  color: var(--bad-fg);
+}
+q {
+  font-style: italic;
+  & em,
+  & cite,
+  & dfn,
+  & var,
+  & i,
+  & address {
+    font-style: normal;
+  }
+}
+time {
+  font-variant-numeric: tabular-nums;
+}
+code,
+samp,
+kbd {
+  font-family: var(--mono-font);
+  font-style: normal;
+}
+samp {
+  color: var(--ok-fg);
+}
+kbd kbd {
+  display: inline-block;
+  padding: 0 .3em;
+  font-size: .8em;
+  line-height: 1.1em;
+  background: var(--interactive-bg);
+  border: 1px outs

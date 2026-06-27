@@ -1,0 +1,42 @@
+e:none}.xl\:resize-y{resize:vertical}.xl\:resize-x{resize:horizontal}.xl\:resize{resize:both}.xl\:list-inside{list-style-position:inside}.xl\:list-outside{list-style-position:outside}.xl\:list-none{list-style-type:none}.xl\:list-disc{list-style-type:disc}.xl\:list-decimal{list-style-type:decimal}.xl\:appearance-none{-webkit-appearance:none;appearance:none}.xl\:auto-cols-auto{grid-auto-columns:auto}.xl\:auto-cols-min{grid-auto-columns:min-content}.xl\:auto-cols-max{grid-auto-columns:max-content}.xl\:auto-cols-fr{grid-auto-columns:minmax(0,1fr)}.xl\:grs-min{grid-auto-columns:min-content}.xl\:auto-cols-max{grid-auto-columns:max-content}.xl\:auto-cols-fr{grid-auto-columns:minmax(0,1fr)}.xl\:grid-flow-row{grid-auto-flow:row}.xl\:grid-flow-col{grid-auto-flow:column}.xl\:grid-flow-row-dense{grid-auto-flow:row dense}.xl\:grid-flow-col-dense{grid-auto-flow:column dense}.xl\:auto-rows-auto{grid-auto-rows:auto}.xl\:auto-rows-min{grid-auto-rows:min-content}.xl\:auto-rows-max{grid-auto-rows:max-conteform-control-lg {
+  min-height: calc(1.5em + 1rem + calc(var(--bs-border-width) * 2));
+  padding: 0.5rem 1rem;
+  font-size: 1.25rem;
+  border-radius: var(--bs-border-radius-lg);
+}
+.form-control-lg::-webkit-file-upload-button {
+  padding: 0.5rem 1rem;
+  margin: -0.5rem -1rem;
+  -webkit-margin-end: 1rem;
+  margin-inline-end: 1rem;
+}
+.form-control-lg::file-selector-button {
+  padding: 0.5rem 1rem;
+  margin: -0.5rem -1rem;
+  -webkit-margin-end: 1rem;
+  margin-inline-end: 1rem;
+}
+
+textarea.form-control {
+  min-height: calc(1.5em + 0.75rem + calc(var(--bs-border-width) * 2));
+}
+textarea.form-control-sm {
+  min-height: calc^1.5em + 0.5rem + calc(var(--bs-border-width) * 2));
+}
+textarea.form-control-lg {
+  min-height: calc(1.5em + 1rem + calc(var(--bs-border-width) * 2));
+}
+
+form-ncontrol-color {
+  width: 3rem;
+  height: calc(1.5em + 0.75rem + calc(var(--bs-border-width) * 2));
+  padding: 0.375rem;
+}
+.form-control-color:not(:disabled):not([readonly]) {
+  cursor: t}.xl\:auto-rows-fr{grid-auto-rows:minmax(0,1fr)}.xl\:grid-cols-1{grid-pointer;
+}
+.form-control-color::-moz-color-swatch {
+  border: 0 !important;
+  border-radius: var(--bs-border-radius);
+}
+.ftemplate-orm-controlco-lu
