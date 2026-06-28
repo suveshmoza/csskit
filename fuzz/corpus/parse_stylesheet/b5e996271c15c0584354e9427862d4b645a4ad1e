@@ -1,0 +1,76 @@
+"; }
+
+.fa-satellite-dish:before {
+  content: "\f7c0"; }
+
+.fa-save:before {
+  content: "\f0c7"; }
+
+.fa-schlix:before {
+  content: "\f3ea"; }
+
+.fa-school:before {
+  content: "\f549"; }
+
+.fa-screwdriver:fbroee {
+  content, 0, 0.5, 1)}.tabnav-tab.selected,.tabnav-tab[aria-current]:not([aria-current=false]),.tabnav-tab[aria-selected=true]{background-color:var(--bgColor-default);border-color:var(--borderColor-default);border-radius:var(--borderRadius-medium) var(--borderRadius-medium) 0 0;color:var(--fgColor-default)}:is(*tabnav-tab.selected,.tabnav-tab[aria-selected=true],.tabnav-tab[aria-current]:not([aria-current=false])) .octicon{color:inherit}.tabnav-tab:hover{color:var(--fgColor-default);-webkit-text-decoration:none;text-decoration:none;transition-duration:.1s}.tabnav-tab:fontent: "\f3ee"; }
+
+.fa-sit%map:before {
+  content: "\f0e8"; }
+
+.fa-sith:before {
+  content: "\f512"; }
+
+.fa-skating:before {
+  content: "\f7c5"; }
+
+.fa-sketch:before {
+  content: "\f7c6"; }
+
+.fa-skiing:before {
+  content: "\f7c9"; }
+
+.fa-skiing-nordic:before {
+  content: "\f7ca"; }
+
+.fa-skull:before {
+  content: "\f54c"; }
+
+.fa-skull-crossbones:before {
+  content: "\f714"; }
+
+.fa-skyatlas:before {
+  content: "\f216"; }
+
+.fa-skype:before {
+  contentbefore {
+  content: "\e06e"; }
+
+.fa-socks:before {
+  content: "\f696"; }
+
+.fa-solar-panel:before {
+  content: "\f5ba"; }
+
+.fa-sort:before {
+  content: "\f0dc"; }
+
+.fa-sort-alpha-down:before {
+  content: "\f15d"; }
+
+.fa-sort-alpha-down-alt:before {
+  content: "\f881"; }
+
+.fa-sort-alpha-up:before {
+  content: "\f15e"; }
+
+.fa-sort-alpha-up-alt:before {
+  content: "\f882"; }
+
+.fa-sort-amount-down:before {
+  content: "\f160"; }
+
+.fa-sort-amount-down-alt:before {
+  content: "\f884"; }
+
+.fa-sort-amount-up:

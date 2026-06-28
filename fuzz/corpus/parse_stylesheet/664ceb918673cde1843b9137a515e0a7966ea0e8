@@ -1,0 +1,42 @@
+ntal > .list-group-item:last-child {
+  border-top-right-radius: 0.25rem;
+  border-bottom-left-radius: 0;
+}
+
+.list-group-horizontal > .list-group-item.active {
+  margin-top: 0;
+}
+
+.list-group-horizontal > .list-group-item + .list-group-item {
+  border-top-width: 1px;
+  border-left-width: 0;
+}
+
+.list-group-horizontal > .list-group-item + .list-group-item.active {
+  margin-left: -1px;
+  border-left-width: {
+    padding-right: 1.5rem !important;
+  }
+  .pe-sm-5 {
+    paddi1px;
+}
+
+@media (min-width: 576px) {
+  .list-group-horizontalng-right: 3rem !important;
+  }
+  .pb-sm-0 {
+    padding-bottom: 0 !important;
+  }
+  .pb-sm-1 {
+    padding-bottom: 0.25rem !important;
+  }
+  .pb-sm-2 {
+    padding-bottom: 0.5rem !important;
+  }
+  .pb-sm-3 {
+    padding-bottom: 1rem !imp-sm {
+    -ms-flex-dortant;
+  }
+  .pb-sm-4 {
+    padding-bottom: 1.5rirection: row;em !imp
+ o

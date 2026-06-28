@@ -1,0 +1,32 @@
+ h2,
+  & h3,
+  & h4,
+  & h5,
+  & h6 {
+    font-size: 1em;
+    text-transform: none;
+    letter-ap-xxl-0 {
+    gap: 0 !important;
+  }
+  .gap-xxl-1 {
+    gap: 0.25rem !important;
+  }
+  .gap-xxl-2 {
+    gap: 0.5rem !important;
+  }
+  .gap-xxl-3 {
+    gap: 1rem !important;
+  }
+  .gap-xxl-4 {
+    gap: 1.5rem !important;
+  }
+  .gap-xxl-5 {
+    gap: 3rem !important;
+  }
+  .row-gap-xxl-0 {
+    row-gap: 0 !important;
+  }
+  .row-gap-xxl-1spacing: normal;
+ {
+    row-gap: 0.25rem   }
+ !

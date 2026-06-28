@@ -1,0 +1,30 @@
+rs
+  */
+  .palm-one-quarter, .palm-two-eighths, .palm-three-twelfths {
+    width: 25%; }
+
+  .palm-three-quarters, .palm-six-eighths, .palm-nine-twelfths {
+    width: 75%; }
+
+  /**
+  * Fifths
+  */
+  .palm-one-fifth, .palm-two-tenths {
+    width: 20%; }
+
+  .palm-two-fifths, .palm-four-tenths {
+    width: 40%; }
+
+  .palm-three-fifths, .palm-six-tenths {
+    width: 60%; }
+
+  .palm-four-fifths, .palm-eight-tenths {
+    width: 80%; }
+
+  /**
+  * Sixths
+  */
+  .palm-one-sixth, .palm-two-twelfths {
+    width:op-hue-rotate-60{--tw-backdrop-hue-rotate:hue- 16.666%; }
+
+  .palm-five-sixths, .palm-terotate(60deg)}.md\:backdrop-hue-rotate-90{--tw-backdrop-hue-rotate:hue-rot

@@ -1,0 +1,139 @@
+l-3\.5{margin-left:.875rem}.xl\:-ml-0{margin-left:0}.xl\:-ml-1{margin-left:-.25rem}.xl\:-ml-2{margin-left:-.5rem}.xl\:-ml-3{margin-left:-.75rem}.xl\:-ml-4{margin-left:-1rem}.xl\:-ml-5{margin-left:-1.25rem}.xl\:-ml-6{margin-left:-1.5rem}.xl\:-ml-7{margin-left:-1.75rem}.xl\:-ml-8{margin-left:-2rem}.xl\:-ml-9{margin-left:-2.25rem}.xl\:-ml-10{margin-left:-2.5rem}.xl\:-ml-11{margin-left:-2.75rem}.xl\:-ml-12{margin-left:-3rem}.xl\:-ml-14{margin-left:-3.5rem}.xl\:-ml-16{margin-left:-4rem}.xl\:-ml-20{margin-left:-5rem}.xl\:-ml-24{margin-left:-6rem}.xl\:-ml-28{margin-left:-7rem}.xl\:-ml-32{margin-left:-8rem}.xl\:-ml-36{margin-left:-9rem}.xl\:-ml-40{margin-left:-10rem}.xl\:-ml-44{margin-left:-11rem}.xl\:-ml-48{margin-left:-12rem}.xl\:-ml-52{margin-left:-13rem}.xl\:-ml-56{margin-left:-14rem}.xl\:-ml-60{margin-left:-15rem}.xl\:-ml-64{margin-left:-16rem}.xl\:-ml-72{margin-left:-18rem}.xl\:-ml-80{margin-left:-20rem}.xl\:-ml-96{margin-left:-24rem}.xl\:-ml-px{margin-left:-1px}.xl\:-ml-0\.5{margin-left:-.125rem}.xl\:-ml-1\.5{margin-left:-.375rem}.xl\:-ml-2\.5{margin-left:-.625rem}.xl\:-ml-3\.5{margin-left:-.875rem}.xl\:box-border{box-sizing:border-box}.xl\:box-content{box-sizing:content-box}.xl\:block{display:block}.xl\:inline-block{display:inline-block}.xl\:inline{display:inline}.xl\:flex{display:flex}.xl\:inline-flex{display:inline-flex}.xl\:table{display:table}.xl\:inline-table{display:inline-table}.xl\:table-captiort-light {
+  color: #818182;
+  background-color: #fefefe;
+  border-color: #fdfdfe;
+}
+
+.alert-light hr {
+  border-top-color: #ececf6;
+}
+
+.alert-light .alert-link {
+  color: #686868;
+}
+
+.alert-dark {
+  color: #1b1e21;
+  background-color: #d6d8d9;
+  border-color: #c6c8ca;
+}
+
+.alert-dark hr {
+  border-top-color: #b9bbbe;
+}
+
+.alert-dark .alert-link {
+  color: #040505;
+}
+
+@-webkit-keyframes progress-bar-stripes {
+  from {
+    background-position: 1rem 0;
+  }
+  to {
+    background-position: 0 0;
+  }
+}
+
+@keyframes progress-bar-stripes {
+  from {
+    background-position: 1rem 0;
+  }
+  to {
+    background-position: 0 0;
+  }
+}
+
+.progress {
+  display: -ms-flexbox;
+  display: flex;
+  height: 1rem;
+  overflow: hidden;
+  line-height: 0;
+  font-size: 0.75rem;
+  background-color: #e9ecef;
+  border-radius: 0.25rem;
+}
+
+.progress-bar {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -ms-flex-pack: center;
+  justify-content: center;
+  overflow: hidden;
+  color: #fff;
+  text-align: center;
+  white-space: nowrap;
+  background-color: #007bff;
+  transition: width 0.6s ease;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .progress-bar {
+    transition: none;
+  }
+}
+
+.progress-bar-striped {
+  background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
+  background-size: 1rem 1rem;
+}
+
+.progress-bar-animated {
+  -webkit-animation: 1s linear infinite progress-bar-stripes;
+  animation: 1s linear infinite progress-bar-stripes;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .progress-bar-animated {
+    -webkit-animation: none;
+    animation: none;
+  }
+}
+
+.media {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: start;
+  align-items: flex-start;
+}
+
+.media-body {
+  -ms-flex: 1;
+  flex: 1;
+}
+
+.list-group {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  padding-left: 0;
+  margin-bottom: 0;
+  border-radius: 0.25rem;
+}
+
+.list-group-item-action {
+  width: 100%;
+  color: #495057;
+  text-align: inherit;
+}
+
+.list-group-item-action:hover, .list-group-item-action:focus {
+  z-index: 1;
+  color: #495057;
+  text-decoration: none;
+  background-color: #f8f9fa;
+}
+
+.list-group-item-action:active {
+  color: #212529;
+  background-color: #e9ecef;
+}
+
+.list-group-item {
+  position: relative;
+  display: block;
+  padding: 0.l\:max-h-48{max-height:12rem}.xl\:max-h-52{max-height:13rem}.xl\:max-h-56{max-height:14rem}.xl\:max-h-60{max-height:15rem}.xl\:max-h-64{max-height:16rem}.xl\:max-h-72{max-height:18rem}.xl\:max-h-80{max-height:20rem}

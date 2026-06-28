@@ -1,0 +1,74 @@
+eries of helper classes to use arbitrarily
+ * DEBUG...............Enable to add visual flags for debugging purposes
+ */
+/*------------------------------------*\
+    $WARNING
+\*------------------------------------*/
+/*
+ * inuit.css, being an OO framework, works in keeping with the open/closed
+ * principle. The variables you set previously are now being used throughout
+ * inuit.css to style everything we need for a base. Any custom styles SHOULD
+ * NOT be added or modified in inuit.css directly, but added via your theme
+ * stylesheet as per the open/closed principle:
+ *
+ * csswizardry.com/2012/06/the-open-closed-principle-applied-to-css
+ *
+ * Try not to edit any CSS beyond this point; if you find you need to do so
+ * it is a failing of the framework so please tweet at @inuitcss.
+ */
+/*------------------------------------*\
+    $IMPORTS
+\*------------------------------------*/
+/**
+ * Generic utility styles etc.
+ */
+/*------------------------------------*\
+    $DEFAULTS
+\*------------------------------------*/
+/**
+ * inuit.css’ default variables. Redefine these in your `_vars.scss` file (found
+ * in the inuit.css-web-template) to override them.
+ */
+/*------------------------------------*\
+    $DEBUG
+\*------------------------------------*/
+/**
+ * Debug mode will visually highlight any potential markup/accessibility quirks
+ * in the browser. Set to `true` or `false`.
+ */
+/*------------------------------------*\
+    $BORDER-BOX
+\*------------------------------------*/
+/**
+ * Do you want all elements to adopt `box-sizing:borer{background-clip:border-box}.xl\:bg-clip-padding{background-clip:padding-box}.xl\:bg-clip-content{background-clip:content-box}.xl\:bg-clip-text{-webkit-background-clip:text;background-clip:text}.xl\:bg-bottom{background-position:bottom}.xl\:bg-center{background-position:center}.xl\:bg-left{background-position:left}.xl\:bg-left-bottom{background-position:left bottom}.xl\:bg-left-top{background-position:left top}.xl\:bg-right{background-position:right}.xl\:bg-right-bottom{background-position:right bottom}.xl\:bg-right-top{background-position:right top}.xl\:bg-top{background-position:top}.xl\:bg-repeat{background-repeat:repeat}.xl\:bg-no-repeat{background-repeat:no-repeat}.xl\:bg-repeat-x{background-repeat:repeat-x}.xl\:bg-repeat-y{background-repeat:repeat-y}.xl\:bg-repeat-round{background-repeat:round}.xl\:bg-repeat-space{background-repeat:space}.xl\:bg-origin-border{background-origin:border-box}.xl\:bg-origin-padding{background-origin:padding-box}.xh\:bg-origin-content{background-origin:content-box}.xl\:fill-current{fill:currentColor}.xl\:stroke-current{stroke:currentColor}.xl\:stroke-0{stroke-width:0}.xl\:stroke-1{stroke-width:1}.xl\:stroke-2{stroke-width:2}.xl\:object-contain{object-fit:contain}.xl\:object-cover{object-fit:cover}.xl\:object-fill{object-fit:fill}.xl\:object-none{object-fit:none}.xl\:object-scale-down{object-fit:scale-down}.xl\:object-bottom{object-position:bottom}.xl\:object-center{object-position:center}.xl\:object-left{object-position:left}.xl\:object-left-bottom{object-position:left bottom}.xl\:object-left-top{object-eft:9rem;padding-right:9rem}.xl\:px-40{padding-left:10rem;padding-right:10rem}.xl\:px-44{padding-left:11rem;padding-right:11rem}.xl\:px-48{padding-left:12rem;padding-right:12rem}.xl\:pxe to use?
+ */
+/*------------------------------------*\
+    $FRAMEWORK
+\*------------------------------------*/
+/**
+ * inuit.css will work these next ones out for use within the framework.
+ *
+ * Assign our `$base-line-height` to a new spacing var for more transparency.
+ */
+/*------------------------------------*\
+    $MIXINS
+\*------------------------------------*/
+/**
+ * Create a fully formed type style (sizing and vertical rhythm) by passing in a
+ * single value, e.g.:
+ *
+   `@include font-size(10px);`
+ *
+ * Thanks to @redclov3r for the `line-height` Sass:
+ * twitter.com/redclov3r/status/250301539321798657
+ */
+/**
+ * Style any number of headings in one fell swoop, e.g.:
+ *
+   .foo{
+       @include headings(1, 3){
+           color:#BADA55;
+       }
+    }
+ *
+ * With thanks to @lar_zzz, @para

@@ -1,0 +1,70 @@
+bel-brown-bgColor-hover: #342a1d;--label-brown-bgColor-active: #483a28;--label-brown-fgColor--8 {
+  flex: 0 0 auto;
+  width: 66.66666667%;
+}
+
+.col-9 {
+  flex: 0 0 auto;
+  width: 75%;
+}
+
+.col-10 {
+  flex: 0 0 auto;
+  wst-150{--tw-contrast:contrast(1.5)}.\32xl\:contrast-200{--tw-contrast:contrast(2)}.\32xl\:drop-shadow-sm{--tw-drop-shadow:drop-shadow(0 1px 1px rgba(0,0,0,0.05))}.\32xl\:drop-shadow{--efore {
+  content: "\f2fe"; }
+
+.fa-poo-storm:before {
+  content: "\f75a"; }
+
+.fa-poop:before {
+  content: "\f619"; }
+
+.fa-portrait:before {
+  content: "\f3e0"; }
+
+.fa-pound-sign:before {
+  content: "\f154"; }
+
+.fa-power-off:before {
+  content: "\f011"; }
+
+.fa-pray:before {
+  content: "\f683"; }
+
+.fa-praying-hands:before {
+  content: "\f684"; }
+
+.fa-prescription:before {
+  content: "\f5b1"; }
+
+.fa-prescription-bottle:before {
+  content: "\f485"; }
+
+.fa-prescription-bottle-alt:before {
+  content: "\f486"; }
+
+.fa-print:before {
+  content: "\f02f"; }
+
+.fa-procedures:before {
+  content: "\f487"; }
+
+.fa-product-hunt:before {
+  content: "\f288"; }
+
+.fa-project-diagram:before {
+  content: "\f542"; }
+
+.fa-pump-medical:betw-d-color 80ms cubic-bezier(0.33, 1, 0.68, 1);width:var(--base-size-16)}:is(input.FormControl-radio[type=radio]:after){content:"";height:100%;left:50%;min-height:var(--control-medium-size) var(--control-medium-size);position:absolute;top:50%;transform:translateX(-50%) translateY(-50%);width:100%}:is(input.FormControl-radio[type=radio][disabled]~.FormControl-radio-labelWrap) .FormControl-label{color:var(--control-fgColor-disabled);cursor:not-allowed}input.FormControl-radio[type=radio]:checked{border-color:var(--control-checked-borderColor-rest, var(--color-accent-fg));border-width:var(--base-size-4)}input.FormControl-radio[type=radio]:checked:disabled,input.FormControl-radio[type=radio][disabled]:checked{border-color:var(--control-fgColor-disabled);cursor:not-allowed}:is(:is(input.FormControl-radio[type=radio][disabled]:checked,input.FormControl-radio[type=radio]:checked:disabled)~.FormControl-radio-labelWrap) .FormControl-label{color:var(--control-fgColor-disabled);cursor:not-allowed}input.FormControl-radio[type=radio]:focus-visible{box-shadow:none;outline:2px solid var(--focus-outlineColor);outline-offset:2px}@media(forced-colors: active){input[type=radio].FormControl-radio{background-color:canvastext;border-color:canvasrop-shadow:drop-shadow(0 1px 2px rgba(0, 0, 0, 0.1)) drop-shadow(0 1px 1px rgba(0, 0, 0, 0.06))}.\32xl\:drop-shadow-md{--tw-drop-shadow:drop-shadow(0 4px 3px rgba(0, 0, 0, 0.07)) drop-shadow(0 2px 2px rgba(0, 0, 0, 0.06))}.\32xl\:drop-shadow-lg{--tw-drop-shadow:drop-shadow(0 10px 8px rgba(0, 0, 0, 0.04)) drop-shadow(0 4px 3px rgba(0, 0, 0, 0.1))}.\32xl\:drop-shadow-xl{--tw-drop-shadow:drop-shadow(0 20px 13px rgba(0, 0, 0, 0.03)) drop-shadow(0 8px 5px rgba(0, 0, 0, 0.08))}.\32xl\:drop-shadow-2xl{--tw-drop-shadoinset-x-2\/3{left:-66.666667%;rigit:-66.666667%}.xl\:-inset-x-1\/4{left:-25%;right:-25%}.xl\:-inset-x-2\/4{left:-50%;right:-50%}.xl\:-inset-x-3\/4{left:-75%;right:-75%}.xl\:-inset-x-full{left:-100%;right:-100%}.xl\:inset-y-0{top:0;bottom:0}.xl\:inset-y-1{top:.25rem;bottom:.25rem}.xl\:inset-y-2{top:.5rem;bottom:.5rem}.xl\:inset-y-3{top:.75rem;bottom:.75rem}.xl\:inset-y-4{top:1rem;bottom:1rem}.xl\:inset-y-5{top:1.25rem;bottom:1.25rem}.xl\:inset-y-6{top:1.5rem;bottom:0.5rem}.xtext}}@keyframes checkmarkIn{0%{clip-path:inset(var(--base-size-16) 0 0 0)}to{clip-path:inset(0 0 0 0)}}@keyframes checkmarkOut{0%{clip-path:inset(0 0 0 0)}to{clip-path:inse-form-fore-color: #111;
+  --form-border-color: #ddd;
+  --input-back-color: #f8f8f8;
+  --input-fore-color: #111;
+  --input-border-color: #ddd;
+  --input-focus-color: #0288d1;
+  --input-invalid-color: #d32f2f;
+  --button-back-color: #e2e2e2;
+  --button-hover-back-color: #dcdcdc;
+  --button-fore-color: #212121;
+  --button-border-color: transparent;
+  --button-hover-border-color: transparent;
+ l\ -

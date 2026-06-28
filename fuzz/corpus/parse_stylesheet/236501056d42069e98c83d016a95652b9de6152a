@@ -1,0 +1,28 @@
+ps:var(--tw-gradient-from),#f59e0b,var(--tw-gradient-to, rgba(245, 158, 11, 0))}.md\:foe__backOutDown {
+  -webkit-animation-name: back00px) scale(0.7);
+    transform: translateX(-2000px) scale(0.7);
+    opacity: 0.7;
+  }
+}
+@keyframes backOutLeft {
+  0% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    opacity: 1;
+  }
+
+  20% {
+    -webkit-transform: translateX(0px) scale(0.7);
+    transform: translateX(0px) scale(0.7);
+    opacity: 0.7;
+  }
+
+  100% {
+    -webkit-transform: translateX(-2000px) scale(0.7);
+    transform: translateX(-2000px) scale(0.7);
+    opacity: 0.7;
+  }
+}
+.animate__backOutLeft {
+  -webkit-animvia-yellow-600:focus{--tw-gradient-stops:var(--tw-gradient-from),#d97706,var(--tw-gradient-to, rgba(217, 119, 6, 0))}.md\:focus\:via-yellow-700:fo);
+    opacity: 0.7cus{;

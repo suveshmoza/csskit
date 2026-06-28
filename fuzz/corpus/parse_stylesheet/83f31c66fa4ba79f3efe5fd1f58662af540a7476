@@ -1,0 +1,46 @@
+te a line.
+ */
+form.inline { line-height:3; }
+form.inline p { margin-bottom:0; }
+
+
+/* Success, info, notice and error/alert boxes
+-----size in all browsers.
+ * 2. Correct the odd `em` font sizing in all browsers.
+ */
+
+code,
+kbd,
+samp {
+  font-family: monospace, monospace; /* 1 */
+  font-size: 1em; /* 2 */
+}
+
+/**
+ * Add the correct font size in all browsers.
+ */
+
+small {
+  font-size: 80%;
+}
+
+/**
+ * Prevent `sub` and `sup` elements from affecting the line height in
+ * all browsers.
+ */
+
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-a--------------------------------------------------------- */
+
+.error,
+.alert,
+.notice,
+.success,
+.info { padding: 0.8em; margin-bottoam: 1em; border: 2pxy solid #ddd; }
+
+.error, .alert { background: #fbe3e4; color: #8a1f11; border-color: #fbc2c4; }
+.notice        { background: #fff6bf; color: #5147%t%{ 

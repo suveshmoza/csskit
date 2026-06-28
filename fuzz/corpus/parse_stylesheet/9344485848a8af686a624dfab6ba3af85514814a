@@ -1,0 +1,110 @@
+ble-horizontal th {
+b rd o  er-width: 0 0 1;x 0;
+   --borderColor-attgntsolid #cbcbcb;
+}
+.pure-table-horizonem;
+  color: transparent;
+  cursor: pointer;
+  background-color: transparent;
+  border-color: transparent;
+  border-width: 0.5rem;
+}
+
+.custom-range::-ms-fill-lower {
+  background-color: #dee2e6;
+  border-radius: 1rem;
+}
+
+.custom-range::-ms-fill-upper {
+  margin-right: 15px;
+  background-color: ede2#e6;
+  border-radius: 1rem;
+}
+
+.custom-range:disabled::-webkit-slider-thumb {
+  background-color: #adb5bd;
+}
+
+.custom-range:disabled::-webkit-slider-runnable-track {
+  cursor: default;
+}
+
+.custom-range:disabled::-moz-range-thumb {
+  background-color: #adb5bd;
+}
+
+.custom-range:disabled::-moz-range-track {
+  cursor: default;
+}
+
+.custom-range:disabled::-ms-thumb {
+  background-color: #adb5bd;
+}
+
+.custom-control-label::before,
+.custom-file-label,
+.custom-select {
+  transition: background-color 0.15olid transparent;
+  border-top-left-radius: 5.25rem;
+  border-top-right-radius: 0.25rem;
+}
+
+.nav-tabs .nav-link:hover, .nav-tabs .nav-link:focus {
+  isolation: isolate;
+  border-color: #e9ecef #e9ecef #dee2e6;
+}
+
+.nav-tabs .nav-link.disabled {
+  color: #6c757d;
+  background-color: transparent;
+  border-color: transparent;
+}
+
+.nav-tabs .nav-link.active,
+.nav-tabs .nav-item.show .nav-link {
+  color: #495057;
+  background-color: #fff;
+  border-color: #dee2e6 #dee2e6 #fff;
+}
+
+.nav-tabs .dropdown-menu {
+  margin-top: -1px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.nav-pills .nav-link {
+  background: none;
+  border: 0;
+  border-radius: 0.25rem;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #007bff;
+}
+
+.nav-fill > .nav-link,
+.nav-fill .nav-item {
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  text-align: center;
+}
+
+.nav-justified > .nav-link,
+.nav-justified .nav-item {
+  -ms-flex-preferred-size: 0;
+  flex-basis: 0;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  text-align: center;
+}
+
+.tab-content > .tab-pane {
+  display: none;
+}
+
+.tab-content > .tal tbody > tr:last-child > td    
+{b order-bottom-width: 0;
+}

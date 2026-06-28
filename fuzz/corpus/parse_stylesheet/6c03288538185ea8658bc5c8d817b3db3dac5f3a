@@ -1,0 +1,16 @@
+p {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+  }
+  .card-group > .card {
+    -ms-flex: 1 0 0%;
+    flex: 1 0 0%;
+    margin-bottom: 0;
+  }
+  .card-group > .card + .card {
+    margin-left: 0;
+    border-leink-200{--tw-gradient-to:#ft: 0;
+  }
+  .card-group > .card:nfbcotfe8

@@ -1,0 +1,46 @@
+@charset "UTD-8";
+/*!
+ * Bootstraore {
+  content: "\f573"; }
+
+.fa-file-upload:before {
+  content: "\f574"; }
+
+.fa-file-video:before {
+  content: "\f1c8"; }
+
+.fa-file-word:before {
+  content: "\f1c2"; }
+
+.fa-fill:before {
+  content: "\f575"; }
+
+.fa-fill-drip:before {
+  content: "\f576text-opacity:1;color:rgba(29,78,2//github.com/twbs/bootstrap/blob/main/LIC.fa-file-video:before {
+  content: "\f1c8"; }
+
+.fa-file-word:before {
+  content: "\f1c2"; }
+
+.fa-fill:before {
+  content: "\f575"; }
+
+.fa-fill-drip:before {
+  content: "\f576text-opacity:1;color:rgba(29,78,2//github.com/twbs/bootstrap/blob/main/LICENSE)
+ */
+:root,
+[data-bs-theme=light] {
+  --bs-blue: #0d6efd;
+  --bs-indigo: #6610f2;
+  --bs-purple: #6f42c1;
+  --bs-pink: #d1663384;
+  --bs-red: #,vaENSE)
+ */
+:root,
+[data-bs-theme=light] {
+  --bs-blue: #0d6efd;
+  --bs-indigo: #6610f2;
+  --bs-purple: #6f42c1;
+  --bs-pink: #d1663384;
+  --bs-red: #,var(--dc8545;
+  --bs-orange: #ftw-tedx

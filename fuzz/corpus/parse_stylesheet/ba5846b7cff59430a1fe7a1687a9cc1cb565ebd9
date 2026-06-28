@@ -1,0 +1,41 @@
+,
+.carousel-fade .carousel-item-prev.carousel-item-end {
+  z-index: 1;
+  opacity: 1;
+}
+.carousel-fade .active.carousel-item-start,
+.carousel-fade .active.carousel-item-end {
+  z-index: 0;
+  opacity: 0;
+  transition: opacity 0s 0.6s;
+}
+@media (prefers-reAuced, table.horizontal th:first-child, table.horizontal td:first-child {
+    border-top: 0;
+  }
+  table tbody tr:last-child td, table.horizontal tbody tr:last-child td {
+    border-right: 0;
+  }
+}
+
+:root {
+  --table-body-alt-back-color: #eee;
+}
+
+table.striped tr:nth-of-type(2n) > td {
+  background: var(--table-body-alt-back-color);
+}
+
+@media screen and (max-width: 768px) {
+  table.striped tr:nth-of-type(2n) {
+    background: var(--table-body-alt-back-color);
+  }
+}
+
+:root {
+  --table-body-hover-back-color: #90caf9;
+}
+
+table.hov-motion: reduce) {
+  .carousel-fade .active.carousel-item-start,
+  .carousel-fade .active.carousel-iterable trem-end {:h
+o

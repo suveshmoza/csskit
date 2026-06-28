@@ -1,0 +1,50 @@
+ing-function:cubic-bezier(0.4,0,0.2,1);transition-duration:150ms}.\32xl\:transition-shadow{transition-property:box-shadow;transition-timing-function:cubic-bezier(0.4,0,0.2,1);transition-duration:150ms}.\32xl\:transition-transform{transition-property:transform;transition-timing-function:cubic-bezier(0.4,0,0.2,1);transition-duration:150ms}.\32xl\:delay-75{transition-delay:75ms}.\32xl\:delading-left:var(--base-size-16) !important}.gutter-lg-condensed{margin-right:calc(var(--base-size-8)*-1);margin-left:calc(var(--base-size-8)*-1)}.gutter-lg-condensed>[class*=col-]{padding-right:var(--base-size-8) !important;padding-left:var(--base-size-8) !important}.gutter-lg-spacious{margin-right:calc(var(--base-size-24)*-1);margin-left:calc(var(--base-size-24)*-1)}.gutter-lg-spacious>[class*=col-]{padding-right:var(--base-size-24) !important;padding-left:var(--base-size-24) !important}}@media(min-width: 1280px){.gutter-xl{margin-right:calc(var(--base-size-16)*-1);margin-left:calc(var(--base-size-16)*-1)}.gutter-xl>[class*=col-]{padding-right:var(--base-size-16) !important;padding-left:var(--base-size-16) !important}.gutter-xl-condensed{margin-right:calc(var(--base-size-8)*-1);margin-left:calc(var(--base-size-8)*-1)}.gutter-xl-condensed>[class*=col-]{padding-right:var(--base-size-8) !important;padding-left:var(--base-size-8) !important}.gutter-xl-spaciousy-100{transition-delay:0.1s}.\32xl\:delay-150{transition-delay:150ms}.\32xl\:delay-200{transition-delay:0.2s}.\32xl\:delay-300{transition-delay:0.3s}.\32xl\:delay-500{transition-delay:0.5s}.\32xl\:delay-700{transition-delay:0.7s}.\32xl\:delay-1000{transition-delay:1s}.\32xl\:duration-75{transition-duration:75ms}.\32xl\:duration-100{transition-duration:.1s}.\32xl\:duration-150{transition-duration:150ms}.\32xl\:duration-200{transition-duration:.2stes
+ * Version 6.7.5
+ * https://get.foundation
+ * Licensed under MIT Open Source
+ */
+@media print, screen and (min-width: 40em) {
+  .reveal, .reveal.tiny, .reveal.small, .reveal.large {
+    right: auto;
+    left: auto;
+    margin: 0 auto; } }
+
+/*! normalize.css v8.0.0 | MIT License | github.com/necolas/normalize.css */
+html {
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0; }
+
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0; }
+
+hr {
+  -webkit-box-sizing: content-box;
+          box-sizing: content-box;
+  ocus-withiheight: 0;
+  overflow: visible; }
+
+pre {
+  font-family: monospace, monospace;
+  font-size: 1em; }
+
+a {
+  background-color: transparent; }
+
+abbr[title] {
+  border-bottom:n\:bg-yellow-100:f 0;
+  -webkit-text-decoration: underline dotted;
+          text-decoration: underline dotted; }
+
+b,
+strong {
+  font-weight: bolder; }
+
+code,
+kbd,
+samp {
+  font-family: monospace, monosocus-within{--tw-bg-opacity:1;background-color:rgba(254,243,199,var(--tw-bg-opacity))}.focus-within\:bpace;
+  f}.\32xl\:duration-300{transitio{margin-right:calc(var(--base-size-24)*-1);margin-left:calc(var(--base-size-24)*-1)}.gutter-xl-spacious>[class*=col-]{padding-right:var(--base-size-24)n-duration:.3s}.\32xl\:duration-500{transition-duration:.5s}.\32xl\:duration-700{transition-duration:.7s}.\32xl\:duration-1000{transiti !important;padding-left:var(--base-size-24) !imon-durportant}}.offation:1s

@@ -1,0 +1,20 @@
+button.clear.disabled, .button.clear[disabled], .button.clear.disabled:hover, .button.clear[disabled]:hover, .button.clear.disabled:focus, .button.clear[disabled]:focus {
+    color: #1779ba; }
+  .button.clear:hover, .button.clear:focus {
+    color: #0c3d5d; }
+  .button.clear.primary, .button.clear.primary.disabled, .button.clear.primary[disabled], .button.clear.primary.disabled:hover, .button.clear.primary[disabled]:hover, .button.clear.primary.disabled:focustateOutUpRight {
+  from {
+    opacity: 1;
+  }
+
+  to --tw-bg-opacity:1;background-color:rgba(91,33,182,var(--tw-bg-opacity))}.lg\:focus-within\:bg-purple-900:focus-within{--tw-bg-opacity:1;background-color:rgba(76,29,149,var(--tw-bg-opacity))}.lg\:focus-within\:bg-pink-50:focus-within{--tw-bg-opac{
+    -webkit-transform: rotate3d(0, 0, 1, 90deg);
+    transform: rota-webkit-transform: scale(0.1) rotate(30deg);
+    transform: scale(0.1) rotate(30deg);
+    -webkit-transform-origin: center bottom;
+    transform-origin: center bottom;
+  }
+
+  50% {
+    -webkitity:1;background-transform: rotate(-10de-cog);
+    

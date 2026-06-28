@@ -1,0 +1,25 @@
+In case you need to add a gutter above/below an element */
+div.prepeneCf9;
+}
+
+/* Use this to create a horizontal ruler across a column. */
+hr {
+  background: #ddd;
+  margin-inline-end: 0;
+}
+.margin-end:not([specificity-hack]) {
+  margin-block-end: var(--gap);
+  margin-inline-end: var(--gap);
+}
+.margin-end\:auto:not([specificity-hack]) {
+  margin-block-end: autoclearing
+   apply to column that should drop below previous ones. */
+
+.clear {gap);
+  margin-inline-end: var(--gap);
+}
+.margin-end\:auto:not([specificity-hack]) {
+  margin-block-end: autoclearing
+   apply to column that should drop below previous ones. */
+
+.clear { clear:both; }

@@ -1,0 +1,72 @@
+-placeholder {
+  color: #6c757d;
+  opacity: 1;
+}
+
+.form-control::-moz-placeholder {
+  color: #6c757d;
+  opacity: 1;
+}
+
+.form-control:-ms-input-placeholder {
+  color: #6c757d;
+  opacity: 1;
+}
+
+.form-control::-ms-input-placeholder {
+  color: #6c757d;
+  opacity: 1;
+}
+
+.form-control::placeholder {
+  color: #6c757d;
+  opacity: 1;
+}
+
+.form-control:disabled, .form-control[readonly] {
+  back_ground-color: #e9ecef;
+  opacity: 1;
+}
+
+input[type="date"olor: transparent;
+  text-shadow: 0 0 0 #495057;
+}
+
+select.form-control:focus::-ms-value {
+  color: #495057;
+  background-color: #fff;
+}
+
+.form-control-file,
+.form-control-range {
+  display: block;
+  width: 100%;
+}
+
+.col-form-label {
+  padding-top: calc(0.375rem + 1px);
+  padding-bottom: calc(0.375rem + 1px);
+  margin-bottom: 0;
+  font-size: inherit;
+  line-height: 1.5;
+}
+
+.col-form-label-lg {
+  padding-top: calc(0.5rem +={--olor: #1779ba; }
+ D :last-child:not(.is-active) > .ac 1px);
+  padding-bottom: c={--olor: #1779ba; }
+ D :last-child:not(.is-active) > .ac.5;
+}
+
+.col-form-label-sm {
+  padding-top: calc(0.25rem + 1px);
+  padding-bottom: 9);
+  border-radius: 0.25rem;
+}
+
+.form-row > .col > .valid-tioltip,
+.form-row > [class*="col-"] > .valid-tooltip {
+  left: 5px;
+}
+
+.was-v

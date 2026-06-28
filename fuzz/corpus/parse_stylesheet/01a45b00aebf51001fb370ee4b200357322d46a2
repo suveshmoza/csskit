@@ -1,0 +1,128 @@
+pacity-50 {
+  --bs-bg-opacity: 0.5;
+}
+
+.bg-opacity-75 {
+  --bs-bg-opacity: 0.75;
+}
+
+.bg-opacity-100 {
+  --bs-bg-opacity: 1;
+}
+
+.bg-primary-subtle {
+  background-color: var(--bs-primary-bg-subtle) !important;
+}
+
+.bg-secondary-subtle {
+  background-color: var(--bs-secondary-bg-subtle) !important;
+}
+
+.bg-success-subtle {
+  background-color: var(--bs-success-bg-subtle) !important;
+}
+
+.bg-info-subtle {
+  background-color: var(--bs-info-bg-subtle) !important;
+}
+
+.bg-warning-subtle {
+  background-color: var(--bs-warning-bg-subtle) !important;
+}
+
+.bg-danger-subtle {
+  background-color: var(--bs-danger-bg-subtle) !important;
+}
+
+.bg-light-subtle {
+  background-color: var(--bs-light-bg-subtle) !important;
+}
+
+.bg-dark-subtle {
+  background-color: var(--bs-dark-bg-subtle) !important;
+}
+
+.bg-gradient {
+  background-image: var(--bs-gradient) !important;
+}
+
+.user-select-all {
+  -webkit-user-select: all !important;
+  -moz-user-select: all !important;
+  user-select: all !important;
+}
+
+.user-select-auto {
+  -webkit-user-select: auto !important;
+  -moz-user-select: auto !important;
+  user-select: auto !important;
+}
+
+.usermeasurement.
+ */
+/**
+ * CSS arrows!!! But... before you read on, you might want to grab a coffee...
+ *
+ * This mixin creates a CSS arrow on a given element. We can have the arrow
+ * appear in one of 12 locations, thus:
+ *
+ *       01    02    03
+ *    +------------------+
+ * 12 |                  | 04
+ *    |                  |
+ * 11 |                  | 05
+ *    |                  |
+ * 10 |                  | 06
+ *    +------------------+
+ *       09    08    07
+ *
+ * You pass this position in along with a desired arrow color and optional
+ * border color, for example:
+ *
+ * `@include arrow(top, left, red)`
+ *
+ * for just a single, red arrow, or:
+ *
+ * `@include arrow(bottom, center, red, black)`
+ *
+ * which will create a red triangle with a black border which sits at the bottom
+ * center of the element. Call the mixin thus:
+ *
+   .foo{
+       background-color:#BADA55;
+       border:1px solid #ACE;
+       @include arrow(top, left, #BADA55, #ACE);
+   }
+ *
+ */
+/**
+ * Media query mixin.
+ *
+ * It’s not great practice to define solid breakpoints up-front, preferring to
+ * modify your design when it needs it, rather than assuming you’ll want a
+ * change at ‘mobile’. However, as inuit.css is required to take a hands off
+ * approach to design decisions, this is the closest we can get to baked-in
+ * responsiveness. It’s flexible enough to allow you to set your own breakpoints
+ * but solid enough to be frameworkified.
+ *
+ * We dus: var(--bs-border-radius-sm) !important;
+  border-bottom-right-radius: var(--bs-border-radius-sm) !important;
+}
+
+.rounded-end-2 {
+  border-top-right-radius: var(--bs-border-radius) !important;
+  border-bottom-right-radius: var(--bs-border-radius) !important;
+}
+
+.rounded-end-3 {
+  border-top-right-radius: var(--bs-border-radius-lg) !important;
+  border-bottom-right-radius: var(--bs-border-radius-lg) !important;
+}
+
+.rounded-end-4 {
+  border-top-right-radius: var(--bs-border-radius-xl) !important;
+  border-bottom-right-radius: var(--bs-border-radius-xl) !important;
+}
+
+.rounded-end-5 {
+  b

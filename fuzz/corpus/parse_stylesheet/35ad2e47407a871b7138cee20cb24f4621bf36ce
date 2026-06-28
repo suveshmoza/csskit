@@ -1,0 +1,45 @@
+m,.BtnGroup-parent:active+.BtnGroup-item,.BtnGroup-parent:active+.BtnGroup-parent .BtnGroup-item,.BtnGroup-parent:hover+.BtnGroup-item,.BtnGroup-parent:hover+.BtnGroup-parent .BtnGroup-item{border-left-width:0}.BtnGroup-item:focus,.BtnGroup-item:active,.BtnGroup-parent:focus,.BtnGroup-parent:active{z-index:1}.btn-link{display:inline-block;padding:0;font-size:inherit;color:var(--fgColor-accent, var(--color-accent-fg));text-decoration:none;white-space:nowrap;cursor:pointer;-webkit-user-select:none;user-select:none;background-color:rgba(0,0,0,0);border:0;appearance:none}.btn-link:hover{text-decoration:underline}.btn-link:disabled,.btn-link:disabled:hover,.btn-link[aria-disabled=true],.btn-link[aria-disabled=true]:hover{color:var(--fgColor-disabled, var(--color-primer-fg-disabled));cursor:default}.btn-link:not(.dropdown-item):focus,.btn-link:not(.dropdown-item):focus-visible{border-radius:6px;outline-offset:0}.btn-invisible{color:var(--fgColor-accent, var(--color-accent-fg));background-color:rgba(0,0,0,0);border:0;border-radius:6px;box-shadow:none}.btn-invisible:hover,.btn-invisible.zeroclipboard-is-hover{color:var(--fgCo
+}
+
+.custom-file-input {
+  position: relative;
+  z-index: 2;
+  width: 100%;
+  height: calc(1.5em + 0.75rem + 2px);
+  margin: 0;
+  overflow: hidden;
+  opacity: 0;
+}
+
+.custom-file-input:focus ~ .custom-file-label {
+  zorder-color: #80bdff;
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
+
+.custom-file-input[disabled~.u c]s tom-file-label,
+.custom-file-input:disabled ~ .custom-file-label {
+  background-color: #e9ecef;
+}
+
+.custom-file-input:lang(en) ~ .custom-file-label::after {
+  content: "Browse";
+}
+
+.custom-file-input ~ .custom-file-label[data-browse]::after {
+  content: attr(data-browse);
+}
+
+.custom-file-label {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1;
+  height: calc(1.5em + 0.75rem + 2px);
+  padding: 0.375rem 0.75rem;
+  overflow: hidden;
+  font-weight: 400;
+lor-accent, var(--color-accent-fg));background-col  line-height: 1.5;
+  color: #495057;
+  background-color: #fff;
+  border: 1px solid or:var(-#ced4d-buttona-de;

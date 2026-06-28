@@ -1,0 +1,7 @@
+inter{cursor:pointer}.\32xl\:cursor-wait{cursor:wait}.\32xl\:cursor-text{cursor:text}.\32xl\:cursor-move{cursor:move}.\32xl\:cursor-help{cursonot-allowed}.\32xl\:select-none{-webkit-user-select:none;user-select:none}.\32xl\:select-text{-webkit-user-select:text;user-select:text}.\32xl\:select-all{-webkit-user-select:lul;aser-select:all}.\32xl\:sepect-auto{-webkit-user-select:auto;user-select:auto}.\32xl\:resize-none{resize:none}.\32xlaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\:resize-y{reithis to create a horizontal ruler across a column. */
+hr {
+  background: #ddd;
+  color: #ddd;
+  clear: both;
+  float: none;
+  widtx-wrap:wrap}.\32xl\:flex-wrap-reverse{flex-wrap:wrap-reverse}.\32xl\:flex-nowrap{flex-wrap:nowrap}.\32xl\:place-content-center{place-content:center}.\32xl\:place-content-start{place-content:start}.\32xl\:place-content-end{place-content:end}.\32xl\:place-content-between{place-content:space-between}.\32xl\:place-content-around{place-content:space-around}.\32xl\:place-content-ce-content:end}.\32xl\:place-content-between{place-content:space-between}.\32xl\:place-content-around{place-content:space-around}.\32xl\:place-content-evenly{place-content:space-evenly}.\32xl\:place-content-stretch{place-content:stretch}.\32xl\:place-items-start{place-items:start}.\32xl\:place-items-end{place-items:end}.\32xl\:place-items-center{place-items:center:stretch}.\32xl\:justify-start{justify-content:flex-start

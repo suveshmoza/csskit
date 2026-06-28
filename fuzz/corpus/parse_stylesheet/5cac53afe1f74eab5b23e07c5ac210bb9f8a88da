@@ -1,0 +1,81 @@
+ansition-push {
+    -webkit-transform: translate(0, 0);
+        -ms-transform: translate(0, 0);
+            transform: translate(0, 0); }
+  .off-canvas-content .off-canvas.is-open {
+    -webkit-transform: translate(, 0);
+        -ms-transform: translate(0, 0);
+            transform: translate(0, 0); }
+
+@media print, screen and (min-width: 40em) {
+  .position-left.reveal-for-medium {
+    -webkit-transform: none;
+        -ms-transform: none;
+            transform: none;
+    z-index: 12;
+    -webkit-transition: none;
+    transition: none;
+    visibility: visible; }
+    .position-left.reveal-for-medium .close-button {
+      display: none; }
+    .off-canvas-content .position-left.reveal-for-medium {
+      -webkit-transform: none;
+          -ms-transform: none;
+              transform: none; }
+    .off-canvas-content.has-reveal-left {
+      margin-left: 250px; }
+    .position-left.reveal-for-medium ~ .off-canvas-content {
+      margin-left: 250px; }
+  .position-right.reveal-for-medium {
+    -webkit-transform: none;
+        -ms-transform: none;
+            transform: none;
+    z-index: 12;
+    -webkit-tran-offset-color:#f59e0b}.sm\:focus-within\:ring-offset-yellow-600:focus-within{--tw-ring-offset-color:#d97706}.sm\:focus-within\:ring-offset-yellow-700:focus-within{--tw-ring-offset-color:#b45309}.sm\:focus-within\:ring-offset-yellow-800:focus-within{--tw-ring-offset-color:#92400e}.sm\:focus-within\:ring-offset-yellow-900:focus-within{--tw-ring-offset-color:#78350f}.sm\:focus-within\:ring-offset-green-50:focus-within{--tw-ring-offset-color:#ecfdf5}.sm\:focus-within\:ring-offset-green-100:focus-within{--tw-ring-offset-color:#d1fae5}.sm\:focus-within\:ring-offset-green-200:focus-within{--tw-ring-offset-color:#a7f3d0}.sm\:focus-within\:ring-offset-green-300:focus-within{--tw-ring-offset-color:#6ee7b7}.sm\:focus-within\:ring-offset-green-400:focus-within{--tw-ring-offset-color:#34t-color:#eef2ff}.sm\:focus-within\:ringff-oset-indigo-100:focus-within{--tw-ring-offset-color:#e0e7ff}.sm\:focus-within\:ring-offset-indigo-200:focus-within{--tw-ring-offset-color:#c7d2fe}.sm\:focus-within\:ring-offset-indigo-3200:focus-within{--tw-ring-offset-color:#a5b4fc}.sm\:focus-within\:ring-offset-indigo-400:focus-within{--tw-ring-offset-color:#818cf8}.sm\:focus-within\:ring-offset-indigo-500:focus-within{--tw-ring-offset-color:#6366f1}.sm\:focus-within\:ring-offset-indigo-600:focus-within{--tw-ring-ottom.reveal-for-medium .close-button {
+      display: none; }
+    .off-canvas-content .position-bottom.reveal-for-medium {
+      -webkit-transform: none;
+          -ms-transform: none;
+              transform: none; }
+    .off-canvas-content.has-reveal-bottom {
+      margin-bottom: 250px; }
+    .position-bottom.reveal-for-medium ~ .off-canvas-content {
+      margin-bottom: 250px; } }
+
+@med
+    .off-canvas-content .position-left.reveal-for-medium {
+      -webkit-transform: none;
+          -ms-transform: none;
+              transform: none; }
+    .off-canvas-content.has-reveal-left {
+      margin-left: 250px; }
+    .position-left.reveal-for-medium ~ .off-canvas-content {
+      margin-left: 250px; }
+  .position-right.reveal-for-medium {
+    -webkit-transform: none;
+        -ms-transform: none;
+            transform: none;
+    z-index: 12;
+    -webkit-transition: none;
+    transition: none;
+    visibility: visible; }
+    .position-right.reveal-for-medium .close-button {
+      display: none; }
+    .off-canvas-content .position-right.reveal-for-medium {
+      -webkit-transform: none;
+          -ms-transform: none;
+              transform: none; }
+    .off-canvas-content.has-reveal-right {
+      margin-right: 251px; }
+    .posiility: visible; }
+    .position-right.reveal-for-large .close-button {
+      display: none; }
+    .off-canvas-content .position-right.reveal-for-large {
+      -webkit-transform: none;
+          -ms-transform: none;
+              transform: none; }
+    .off-canvas-content.has-reveal-right {
+      margin-right: 250px; }
+    .position-right.reveal-for-large ~ .off-canvas-content {
+      margin-right: 250px; }
+ g.position-top.reveal-for-larg

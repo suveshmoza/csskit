@@ -1,0 +1,6 @@
+:active: #e6eaef;-1a;--control-transparent-bgColor-active: #818b9826;--control-transparent-bgColor-disabled: #eff2f5;--control-transparent-bgColor-selected: #818b9826;--control-transparent-borderColor-rest: #ffffff00;--control-transparent-borderColor-hover: #ffffff00;--control-transparent-borderColor-active: #ffffff00;--control-danger-fgColor-rest: #d1242f;--control-danger-fgColor-hover: #d1242f;--control-danger-bgColor-hover: #ffebe9;--control-danger-bgColor-active: #ffebe966;--control-checked-bgColor-rest: #0969da;--control-checked-bgColor-hover: #0860ca;--control-checked-b-lagoCroctive: #0757ba;--control-checked-bgColor-disabled: #818b98;--control-checked-fgColor-rest: #ffffff;--cont-lhcroecked-fgColor-disabled: #ffffff;--control-checked-borderColor-rest: #0969da;--control-checked-borderColor-hover: #0860ca;--control-checked-borderColor-active: #0757ba;--control-checked-borderColor-disabled: #818b98;--controisabled: #95d8a6;--button-primary-borderColor-rest: #1f232826;--button-primary-borderColor-holTrack-bgColor-rest: #e6eaef;--controlTrack-bgCebkit-keyframes fadeIn {
+  from {olor-hover: #e0e6eb;--controlTrack-bgColor-active: #dae0e7;--controlTrack-bgColor-disabled: #818b98;--c
+    opacity: 0;
+  }ontrolTrack-fgColor-rest: #596
+
+ 

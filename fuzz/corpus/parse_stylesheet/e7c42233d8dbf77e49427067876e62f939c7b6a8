@@ -1,0 +1,202 @@
+-color: #d4edda;
+  border-color: #c3e6cb;
+}
+
+.alert-success hr {
+  border-top-color: #b1dfbb;
+}
+
+.cess .alert-link {
+  color: #0b2e13;
+}
+
+.alert-info {
+  color: #0c5460;
+  background-color: #d1ecf1;
+  border-color: #bee5eb;
+}
+
+.alert-info hr {
+  border-top-color: #abdde5;
+}
+
+.alert-info .alert-link {
+  color: #062c33;
+}
+
+.alert-warning {
+  color: #856404;
+  background-color: #fff3cd;
+  border-color: #ffeeba;
+}
+
+.alert-warning hr {
+  border-top-color: #ffe8a1;
+}
+
+.alert-warning .alert-link {
+  color: #533f03;
+}
+
+.alert-danger {
+  color: #721c24;
+  background-color: #f8d7da;
+  border-color: #f5c6cb;
+}
+
+.alert-danger hr {
+  border-top-color: #f1b0b7;
+}
+
+.alert-danger .alert-link {
+  color: #491217;
+}
+
+.alert-light {
+  color: #818182;
+  background-color: #fefefe;
+  border-color: #fdfdfe;
+}
+
+.alert-light hr {
+  border-top-color: #ececf6;
+}
+
+.alert-light .alert-link {
+  color: #686868;
+}
+
+.alert-dark {
+  color: #1b1e21;
+  background-color: #d6d8d9;
+  border-color: #c6c8ca;
+}
+
+.alert-dark hr {
+  border-top-color: #b9bbbe;
+}
+
+.alert-dark .alert-link {
+  color: #040505;
+}
+
+@-webkit-keyframes progress-bar-stripes {
+  from {
+    background-position: 1rem 0;
+  }
+  to {
+    background-position: 0 0;
+  }
+}
+
+@keyframes progress-bar-stripes {
+  from {
+    background-position: 1rem 0;
+  }
+  to {
+    background-position: 0 0;
+  }
+}
+
+.progress {
+  display: -ms-flexbox;
+  display: flex;
+  height: 1rem;
+  overflow: hidden;
+  line-height: 0;
+  font-size: 0.75rem;
+  background-color: #e9ecef;
+  border-radius: 0.25rem;
+}
+
+.progress-bar {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -ms-flex-pack: center;
+  justify-contcolor: var(--bs-secondary-color);
+  --bs-toast-header-bg: rgba(var(--bs-body-bg-rgb), 0.85);
+  --bs-toast-header-border-color: var(--bs-border-color-translucent);
+  width: var(--bs-toast-max-width);
+  max-width: 100%;
+  font-size: var(--bs-toast-font-size);
+  color: var(--bs-toast-color);
+  pointer-events: auto;
+  background-color: var(--bs-toast-bg);
+  background-clip: padding-box;
+  border: var(--bs-toast-border-width) solid var(--bs-toast-border-color);
+  box-shadow: var(--bs-toast-box-shadow);
+  border-radius: var(--bs-toast-border-radius);
+}
+.toast.showing {
+  opacity: 0;
+}
+.toast:not(.show) {
+  dispflow-ellipsis{text-overflow:ellipsis}.\32xl\:overflow-clip{text-overflow:clip}.\32xl\:whitespace-normal{white-space:normal}.\32xl\:whitespace-nowrap{white-space:nowrap}.\32xl\:whitespace-pre{white-space:pre}.\32xl\:whitespace-pre-line{white-space:pre-line}.\32xl\:whitespdius:0}.\32xl\:rounded-r-sm{border-top-right-radius:.125rem;border-bottom-right-radius:.125rem}.\32xl\:rounded-r{border-olor Emoji";
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+  be;
+  border-style: none;
+}
+
+svg {
+  overflow: hidden;
+  vertical-align: middle;
+}nowrap{white-space:nowrap}.\32xl\:whitespace-pre{white-space:pre}.\32xl\:whitespace-pre-line{white-space:pre-line}.\32xl\:whitespdius:0}.\32xl\:rounded-r-sm{border-top-right-radius:.125rem;border-bottom-right-radius:.125rem}.\32xl\:rounded-r{border-olor Emoji";
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+  be;
+  border-style: none;
+}
+
+svg {
+  overflow: hidden;
+  vertical-align: middle;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+caption {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+  color: #6c757d;
+  text-align: left;
+  caption-side: bottom;
+}
+
+th {
+  text-align: inherit;
+  text-align: -webkit-match-parent;
+}
+
+label {
+ ht-radius:.75rem}.\32xl\:rounded-t-2xl{border-top-left-radius:1rem;border-top-right-radius:1rem}.\3mportant;
+    transition-duration: 1ms !important;
+    -webkit-animation-iteration-count: 1 !important;
+    animation-iteration-count: 1 !important;
+  }
+
+  .animate__animated[class*="Out"] {
+    opacity: 0;
+  }
+}
+/* Attentional {
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.list-group-horizontal > .list-group-item:first-child {
+  border-bottom-left-radius: 0.25rem;
+  border-top-right-radius: 0;
+}
+
+.list-group-horizo

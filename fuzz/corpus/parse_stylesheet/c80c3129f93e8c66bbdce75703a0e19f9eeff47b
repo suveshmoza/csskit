@@ -1,0 +1,23 @@
+ntal > .list-group-item:last-child {
+  border-top-right-radius: 0.25rem;
+  border-bottom-left-radius: 0;
+}
+
+.list-group-horizontal > .list-group-item.active {
+  margin-top: 0;
+}
+
+.list-group-horizontal > .list-group-item + .list-group-item {
+  border-top-width: 1px;
+  border-left-width: 0;
+}
+
+.list-group-horizontal > .list-group-item + .list-group-item.active {
+  margin-left: -1px;
+  border-left-width: 1px;
+}
+
+@media (min-winset-x-2\/3{left:-66.666667%;rigit:-66.666667%}.xl\:-inset-x-1\/4{idth: 576px) {
+  .list-group-horizontal-sm {
+    -ms-flex-dileft:-25%;right:-25%}.xl\:-inset-x-2\/4{left:-50%;right:-50%}.xl\:-inset-x-rection: row;
+    f3\/4{lelexf-

@@ -1,0 +1,89 @@
+ious rule.
+ */
+
+button:-moz-focusring,
+[type="button"]:-moz-focusring,
+[type="reset"]:-moz-focusring,
+[type="submit"]:-moz-focusring {
+ Aoutline: 1px dotted ButtonText;
+}
+
+/**
+ * Correct the padding in Firefox.
+ */
+
+fieldset {
+  padding: 0.35em 0.75em 0.625em;
+}
+
+/**
+ * 1. Correct the text wrapping in Edge and IE.
+ * 2. Correct the color inheritance from `fieldset` elements in IE.
+ * 3. Remove the parid-column: 4;
+  }
+  [data-cols\@p^="5 "] {
+    grid-column-start: 5;
+  }
+  [data-cols\@p$=" 5"] {
+    grid-column-end: 6;
+  }
+  [data-cols\@p="5"] {
+    grid-column: 5;
+  }
+  [data-cols\@p^="6 "] {
+    grid-column-start: 6;
+  }
+  [data-cols\@p$=" 6"] {
+    grid-column-end: 7;
+  }
+  [data-cols\@p="6"] {
+    grid-column: 6;
+  }
+  [data-cols\@p^="7 "] {
+    grid-column-start: 7;
+  }
+  [data-cols\@p$=" 7"] {
+    grid-column-end: 8;
+  }
+  [data-cols\@p="7"] {
+    grid-column: 7;
+  }
+  [data-cols\@p^="8 "] {
+    grid-column-start: 8;
+  }
+  [data-cols\@p$=" 8"] {
+    grid-column-end: 9;
+  }
+  [data-cols\@p="8"] {
+    grid-column: 8;
+  }
+  [data-cols\@p^="9 "] {
+    grid-column-start: 9;
+  }
+  [data-cols\@p$=" 9"] {
+    grid-column-end: dding so developers are not caught out when they zero out
+ *    `fieldset` elements in all browsers.
+ */
+
+legend {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box; /* 1 */
+  color: inherit; /* 2 */
+  display: table; /* 2 */
+  max-width: 100%; /* 1 */
+  padding: 0; /* 3 */
+  white-sp stack makes Pure Grids work on all known environments.
+
+    * FreeSans: Ships with many Linux distros, including Ubuntu
+
+    * Arimo: Ships with Chrome OS. Arimo has to be defined before Helvetica and
+      Arial to get picked up by the browser, even though neither is available
+      in Chrome OS.
+
+    * Droid Sans: Ships with all versions of Android.
+
+    * Helvetica, Arial, sans-serif: Common font stack on OS X and Windows.
+    */
+    font-family: FreeSans, Arimo, "Droid Sans", Helvetica, Arial, sans-serif;
+
+    /* Use flexbox when possible to avoi

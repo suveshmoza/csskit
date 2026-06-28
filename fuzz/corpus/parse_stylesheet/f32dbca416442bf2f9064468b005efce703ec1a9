@@ -1,0 +1,87 @@
+m\:bg-red-50{--tw-bg-opacity:1;background-color:rgba(254,242,242,var(--tw-bg-opacity))}.sm\:bg-red-100{--tw-bg-opacity:1;background-color:rgba(254,226,226,var(--tw-bg-opacity))}.sm\:bg-red-200{--tw-bg-opacity:1;backgro(4,120,87,var(--tw-bg-opacity))}.sm\:bg-green-800{--tw-bg-opacity:1;background-color:rgba(6,95,70,var(--tw-bg-opacity))}.sm\:bg-green-900{--tw-bg-opacity:1;background-color:rgba(6,78,59,var(--tw-bg-opacity))}.sm\:bg-blue-50{--tw-bg-opacity:1;background-color:rgba(239,246,255,var(--tw-bg-opacity))density: 3;
+}
+.spacious-inside > * {
+  --density: 2;
+}
+dense-inside > * {
+  --density: 1;
+}
+.crowded-insv-h {
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  block-size: 1px;
+  inline-size: 1px;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.all\:initial {
+  all: initial;
+}
+.bold {
+  font-weight: bold;
+}
+.italic {
+  font-style: italic;
+  & em,
+  & cite,
+  & dfn,
+  & var,
+  & i,
+  & address {
+    font-style: normal;
+  }
+}
+.allcaps {
+  text-transform: uppercase;
+  letter-spacing: .1rem;
+}
+.main-font,
+.primary-font {
+  font-family: var(--main-font);
+}
+.secondary-font {
+  font-family: var(--secondary-font);
+}
+.display-font {
+  font-family: var(--display-font);
+}
+.mono-font,
+.monospace {
+  font-family: var(--mono-font);
+}
+.massivetext {
+  font-size: calc(.13 * var(--eff-line-length));
+  line-height: 1em;
+  letter-spacing: 0;
+}
+.background-clip\:text {
+  background-size: cover;
+  @supports (background-clip: text) {
+    background-clip: text;
+  }
+  color: transparent;
+}
+.text-stroke {
+  --stroke-width: 1px;
+  --stroke-color: lch(from currentcolor calc(100 - l) c calc(h + 180));
+  -webkit-text-stroke: var(--stroke-width) var(--stroke-color);
+}
+.aestheticbreak {
+  display: block;
+  margin: 0;
+  padding: 0;
+  height: calc(.5 * var(--gap));
+}
+@media screen {
+  .hidden\@screen {
+    display: none;
+    & * {
+      display: none;
+    }
+  }
+}
+@media print {
+  .annotations\@print\:disabled :is(a:not([href^="#"]), abbr[title])::after {
+    d35,var(--tw-bg-op-font);
+}
+.maa

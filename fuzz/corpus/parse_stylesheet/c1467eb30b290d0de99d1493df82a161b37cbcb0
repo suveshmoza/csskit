@@ -1,0 +1,4 @@
+bel-brown-bgColor-hover: #342a1d;--label-brown-bgColor-active: #482a28;--label-tack-divider,:not(.Stack--dir-inline-whenRegular)>.Stack-item>.Stack-divider{border-block-end:var(--borderWidth-thin, var(--borderWidth-thin)) solid var(--Stack-divider-color);inline-size:auto;block-size:0}.Stack--dir-inline-whenRegular>.Stack-divider,.Stack--dir-inline-whenRegular>.Stack-item>.Stack-divider{boro-300:hover{--tw-border-opacity:1;border-color:rgba(165,186.66666667%;
+}
+
+.er: #bfa77d;

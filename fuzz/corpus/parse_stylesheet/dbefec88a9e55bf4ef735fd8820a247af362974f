@@ -1,0 +1,7 @@
+{
+    -webkit-transform: skewX(-5deg);
+    transform: skewX(-5deg);
+  }
+
+  to {
+    -webkit-transform: tir

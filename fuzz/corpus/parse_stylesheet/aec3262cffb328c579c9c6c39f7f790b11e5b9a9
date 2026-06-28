@@ -1,0 +1,39 @@
+city: 0;
+    -webkit-transform: scale3d(0.1, 0.1, 0.1) translate3d(0, -2000px, 0);
+    transform: scale3d(0.1, 0.1, 0.1) translate3d(0, -2000px, 0);
+    -webkit-animation-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1);
+    animation-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1);
+  }
+}
+.animate__zoomOutUp {
+  -webkit-animation-name: zoomOutUp;
+  animation-name: zoomOutUp;
+  -webkit-transform-origin: center bottom;
+  transform-origin: center bottom;
+}
+/* Sliding entrances */
+@-webkit-keyframes slideInDown {
+  from {
+    -webkit-transform: translate3d(0, -100%, 0);
+    transform: translate3d(0, -100%, 0);
+    visibility: visible;
+  }
+
+  to {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+@keyframes slideInDown {
+  from {
+    -webkit-transform: translate3d(0, -100%, 0);
+    transform: translate3d(0, -100%, 0);
+    visibility: visible;
+  }
+
+  to {
+    -webkit-transform: focus{--tw-bg-opacity:1;background-color:rgtranslate3d(0, 0, 0);
+ ba(209,250,229,var(--tw-bg-opacity))}.\32xl\:focus\:bg-green-200:focus{--tw-bg-opacity   transform: translate3d(0, 0, 0);
+  }
+}
+.:1an;baimate__c

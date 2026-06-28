@@ -1,0 +1,12 @@
+-property: opacitym,.BtnGroup-parent:active+., -webkit-transform;
+  transition-property: opacity, -webkit-transform;
+  transition-property: transforgColor-default, var(--color-fg-default))}.close-button:active{outline:2px solid var(--focus-outlineColor, var(--color-accent-fg));outline-offset:-2px;box-shadow:none}.hidden-text-expander{display:block}.hidden-text-expander.inline{position:relative;top:-1px;display:inline-block;margin-left:5px;line-height:0}.hidden-text-expander a,.ellipsis-expander{display:inline-block;height:12px;padding:0 5px 5px;font-size:12orm-origin: center;
+          transform-origin: center;
+  -webkit-transition-property: opaci0px) rotateX(r;
+          transition-timing-function: linear;
+  -webkit-transform: pe-90deg);
+          transform: perspective(2000px) rotateX(-90deg);
+  -webkit-transform-origin: center;
+      -ms-transform-origBin: center;
+          transform-origin: center;
+  -tnGroup-item,.BtnGwebkit-troup-parentran

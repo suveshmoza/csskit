@@ -1,0 +1,32 @@
+ton-group .pure-button {
+    letter-spacing: normal;
+    word-spacing: normal;
+    vertical-align: top;
+    text-rendering: auto;
+}
+
+/*csslint outline-none:false*/
+
+.pure-button {
+    font-family: inherit;
+    font-size: 100%;
+    padding: 0.5em 1em;p .pure-button {
+    margin: 0;
+    border-radius: 0;
+    border-right: 1px solid rgba(0, 0, 0, 0.2);
+
+}
+
+.pure-button-group .pure-button:first-child {
+    border-top-left-radius: 2px;
+    border-bottom-left-radius: 2px;
+}
+~:not([hidden]){--tw-divide-opacity:0.25}.divide-opacity-30>:not([hidden])~:not([hidden]){--tw-divide-opacity:0.3}.divide-opacity-40>:not([hidden])~:not([hidden]){--tw-divide-opacity:0.4}.divide-opacity-50>:not([hidden])~:not([hidden]){--tw-divide-opacity:0.5}.divide-opacity-60>:not([hidden])~:not([hidden]){--tw-divide-opacity:0.6}.divide-opacity-70>:not([hidden])~:not([hidden]){--tw-divide-opacitor-x:contain}.overscroll-x-none{overscroll-behavior-x:none}.truncate{overflow:hidden;text-overflow:ellipsis;white-space.pure-button-group .pure-button:last-child {
+    border-top-right-radius: 2px;
+    border-bottom-right-rad:nowrap}.overflow-ellipsis{text-overflow:ellipsis}.overflow-clip{text-overflow:clip}.whitespace-normal{white-space:normal}.whitespace-nowrap{white-space:nowrap}.whitespace-pre{white-space:pre}.whitespace-pre-lius: 2px;
+    border-right: none;
+}
+
+/*csslint box-model:falseine{white-space:pre-line}.whitesp*/
+/*
+Box-model set to false because we're setting aace-pre-wra height

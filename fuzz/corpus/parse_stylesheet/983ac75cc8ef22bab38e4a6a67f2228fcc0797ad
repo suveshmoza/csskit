@@ -1,0 +1,28 @@
+nt;
+  text-decoration-color: RGBA(var(--bs-light-rgb), var(--bs-link-underline-opacity, 1)) !important;
+}
+.link-light:hover, .link-light:focus {
+  color: RGBA(249, 250, 251, var(--bs-link-opacity, 1)) !important;
+  -webkit-text-decoration-color: RGBA(249, 250, 251, var(--bs-link-underline-opacity, 1)) !important;
+  text-decoratise-in-out transform;
+}
+@media (prefers-reduced-motion: reduce) {
+  .icon-link > .bi {
+    transition: none;
+  }
+}
+
+.icon-link-hover:hover > .bi, .icon-link-hover:focus-visible > .bi {
+  transform: var(--bs-icon-link-transform, translate3d(0.25em, 0, 0));
+}
+
+.ratio {
+  position: relative;
+  widded .Layout-divider){background:var(--bgColor-inset);border-color:var(--borderColor-default);border-style:solid;border-width:var(--borderWidth-thin) 0;height:8px;margin-right:0}.Layout.Layout--flowRow-until-md.Layout--divided .Layout-main,.Layout.Layout--flowRow-until-md.Layout--divided.Layout--sidebarPosition-flowRow-end .Layout-sidebar{grid-row:3/span 1}.Layout.Layout--flowRow-until-md.Layout--divided.Layout--sidebarPosition-flowRow-end .Layout-main{grid-row:1}}@media(max-width: 1011.98px){.Layout.Layout--flowRow-until-lg{grid-auto-flow:row;grid-template-columns:1fr !important}.Layout.Layout--flowRow-until-lg .Layout-divider,.Layout.Layout--flowRow-until-lg .Layout-main,.Layout.Layout--flowRow-until-lg .Layout-sidebar{grid-column:1 !important;width:100% !important}.Layout.Layout--flowRow-until-lg.Layout--sidebarPosition-flowRow-start .Layout-sidebar{grid-row:1}.Layout.Layout--flowRow-until-lg.Layout--sidebarPosition-flowRow-end .Layout-sidebar,.Layout.Layout--flowRow-until-lg.Layout--sidebarPosition-flowRow-start .Layout-main{grid-row:2/span 2}.Layout.Layout--flowRow-until-lg.Layout--sidebarPosition-flowRow-end .Layout-main{grid-row:1}.Layout.Layout--flowRow-until-lg.Layout--sidebarPosition-flowRow-none .Layout-sidebar{display:none}.Layout.Layout--flowRow-until-lg.Layout--divide-webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 1020;
+  }
+  .sticky-lg-bottom {
+    position: -webkit-sticky;
+    posi

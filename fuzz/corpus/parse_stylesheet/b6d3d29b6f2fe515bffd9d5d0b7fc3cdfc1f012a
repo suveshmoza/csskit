@@ -1,0 +1,119 @@
+}
+  .large-order-4 {
+    -webkit-box-ordinal-group: 5;
+    -webkit-order: 4;
+        -ms-flex-order: 4;
+            order: 4; }
+  .large-order-5 {
+    -webkit-box-ordinal-group: 6;
+    -webkit-order: 5;
+        -ms-flex-order: 5;
+            order: 5; }
+  .large-order-6 {
+    -webkit-box-ordinal-group(--fontStack-monospace, ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace);color:var(--fgColor-muted, var(--color-fg-muted));word-break:break-all;background-color:var(--bgColor-accent-muted, var(--color-accent-subtle));border-radius:6px}.branch-name .octicon0 1-2 2H4a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h5.34'%3E%3C/path%3E%3Cpolygon points='18 2 22 6 12 16 8 16 8 12 18 2'%3E%3C/polygon%3E%3C/svg%3E");
+}
+
+span.icon-link {
+  ba{margin:1px -2px 0 0;color:var(--fgColor-muted, var(--color-fg-muted))}a.branch-name{color:var(--fgColor-accent, var(--color-accent-fg));background-color:var(--bgCockground-image: url("data:image/slor-accvg+xml,ent-%m3ow;
+      -ms-flex-direction: row;
+          flex-direction: row; }
+
+.flex-dir-row-reverse {
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: reverse;
+  -webkit-flex-direction: row-reverse;
+      -ms-flex-direction: row-reverse;
+          flex-direction: row-reverse; }
+
+.flex-dir-column {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column; }
+
+.flex-dir-column-reverse {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: reverse;
+  -webkit-flex-direction: column-reverse;
+      -ms-flex-direction: column-reverse;
+          flex-direction: column-reverse; }
+
+@media print, screen and (min-width: 40em) {
+  .medium-flex-container {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex; }
+  .medium-flex-child-auto {
+    -webkit-box-flex: 1;
+    -webkit-flex: 1 1 auto;
+        -ms-flex: 1 1 auto;
+            flex: 1 1 auto; }
+  .medium-flex-child-grow {
+    -webkit-box-flex: 1;
+    -webkit-flex: 1 0 auto;
+        -ms-flex: 1 0 auto;
+            flex: 1 0 auto; }
+  .medium-flex-child-shrink {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 1 auto;
+        -ms-flex: 0 1 auto;
+            flex: 0 1 auto; }
+  .medium-flex-dir-row {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+        -ms-flex-direction: row;
+            flex-direction: row; }
+  .medium-flex-dir-row-reverse {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: reverse;
+    -webkit-flex-direction: row-reverse;
+        -ms-flex-direction: row-reverse;
+            flex-direction: row-reverse; }
+  .medium-flex-dir-column {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column; }
+  .medium-flex-dir-column-reverse {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: reverse;
+    -webkit-flex-direction: column-reverse;
+        -ms-flex-direction: column-reverse;
+            flex-direction: column-reverse; } }
+
+@media print, screen and (min-width: 64em) {
+  .large-flex-container {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex; }
+  .large-flex-child-auto {
+    -webkit-box-flex: 1;
+    -webkit-flex: 1 1 auto;
+        -ms-flex: 1 1 auto;
+            flex: 1 1 auto; }
+  .large-flex-child-grow {
+    -webkit-box-flex: 1;
+    -webkit-flex: 1 0 auto;
+        -ms-flex: 1 0 auto;
+            flex: 1 0 auto; }
+  .large-flex-child-shrink {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 1 auto;
+        -ms-flex: 0 1 auto;
+            flex: 0 1 auto; }
+  .large-flex-dir-row {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+        -ms-flex-direction: row;
+            flex-direction: row; }
+  .large-flex-dir-row-reverse {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: reverse;
+    -webkit-flex-direction: row-reverse;
+        -ms-flex-direction: row-r

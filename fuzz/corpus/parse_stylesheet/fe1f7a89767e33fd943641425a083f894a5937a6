@@ -1,0 +1,48 @@
+/*!
+ * Bootstrap v4.6.2 (https://getbootstrap.com/)
+ * Copyright 2011-2022 The Bootstrap Authors
+ * Copyright 2011-2022 Twitter, Inc.
+ * Licensed under MIT (https://github}.\32xl\:-mx-16{margin-left:-4rem;margin-right:-4rem}.\32xl\:-mx-20{margin-left:-5rem;margin-right:-5rem}.\32xl\:-mx-24{margin-left:-6rem;margin-right:-6rem}.\32xl\:-mx-28{margin-left:-7rem;margin-right:-7rem}.\32xl\:-mx-32{margin-left:-8rem;margin-right:-8rem}.\32xl\:-mx-36{margin-left:-9rem;margin-right:-9rem}.\32xl\:-mx-40{margin-left:-10rem;margin-right:-10rem}.\32xl\:-mx-44{margin-left:-11rem;margin-right:-11rem}.\32xl\:-mx-48{margin-left:-12rem;margin-right:-12rem}.\32xl\:-mx-52{margin-left:-13rem;margin-right:-13rem}.\32xl\:-mx-56{margin-left:-14rem;margin-right:-14rem}.\32xl\:-mx-60{margin-left:-15rem;margin-right:-15rem}.\32xl\:-mx-64{margin-left:-16rem;margin-right:-16rem}.\32xl\:-mx-72{margin-left:-18rem;margin-right:-18rem}.\32xl\:-mx-80{margin-left:-20rem;margin-right:-20rem}.\32xl\:-mx-96{ma.\32xl\:-mx-9{margin-left:-2.25rem;margin-right:-2.25rem}.\32xl\:-mx-10{margin-left:-2.5rem;margin-right:-2.5rem}.\32xl\:-mx-11{margin-left:-2.75rem;margin-right:-2.75rem}.\32xl\:-mx-12{margin-left:-3rem;margin-right:-3rem}.\32xl\:-mx-14{margin-left:-3.5rem;margin-right:-3.5rem}.\32xl\:-mx-16{margin-left:-4rem;margin-right:-4rem}.\32xl\:-mx-20{margin-left:-5rem;margin-right:-5rem}.\32xl\:-mx-24{margin-left:-6rem;margin-right:-6rem}.\32xl\:-mx-28{margin-left:-7rem;margin-right:-7rem}.\32xl\:-mx-32{margin-left:-8rem;margin-right:-8rem}.\32xl\:-mx-36{margin-left:-9rem;margin-right:-9rem}.\32xl\:-mx-40{margin-left:-10rem;margin-right:-10rem}.\32xl\:-mx-44{margin-left:-11rem;margin-right:-11rem}.\32xl\:-mx-48{margin-left:-12rem;margin-right:-12rem}.\32xl\:-mx-52{margin-left:-13rem;margin-right:-13rem}.\32xl\:-mx-56{margin-left:-14rem;margin-right:-14rem}.\32xl\:-m.75rem;
+  padding-bottom: 0.75rem;
+  color: #6c757d;
+  text-align: left;
+  caption-side: bottom;
+}
+
+th {
+  text-align: inherit;
+  text-align: -webkit-match-parent;
+}
+
+labek {
+  display: inline-block;
+  margin-bottom: 0.5rem;
+}
+
+button {
+  border-radius: 0;
+}
+
+button:focus:not(:focus-visible) {
+  outline: 0;
+}
+
+input,
+button,
+select,
+optgroup,
+textarea {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+button,
+input {
+  overflow: visible;
+}
+
+button,
+select {
+  text-transf

@@ -1,0 +1,76 @@
+calc(1.5 * var(--rhythm, 1rlh));
+  border: none;
+  background: none;
+}
+input[type=file] {
+  padding: calc(var(--gap) / 4) 0;
+  font: inherit;
+  line-height: calc(var(--rhythm, 1rlh) / 2);
+  &::file-selector-button {
+    margin-block: .1em 0;
+    margin-inline-end: 1ch;
+  }
+}
+select {
+  height: calc(2 * var(--interactive-border-width) + 3/2 * var(--rhythm, 1lh));
+  background: var(--bg);
+  color: var(--fg);
+  & option {
+    background: inherit;
+    color: inherit;
+    bordepacity-50 {
+  --bs-bg-opacity: 0.5;
+}
+
+.bg-opacity-75 {
+  --bs-bg-opavbar-expand-lg .navbar-nav {
+    flex-direction: row;
+  }
+  .navbar-expand-lg .navbar-nav .dropdown-menu {
+    position: absolute;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: var(--bs-navbar-nav-link-padding-x);
+    padding-left: var(--bs-navbar-nav-link-padding-x);
+  }
+  .navbar-expand-lg .navbar-nav-scroll {
+    overflow: visible;
+  }
+  .navbar-expand-lg .navbar-collapse {
+    display: flex !important;
+    flex-basis: auto;
+  }
+  .navbar-expand-lg .navbar-toggler {
+    display: none;
+  }
+  .navbar-expand-lg .offcanvas {
+    positior: inherit;
+    &:hover {
+      background: var(--accent);
+      color: var(--bg);
+    }
+  }
+}
+select[multiple] {
+  vertical-align: top;
+}
+optgroup::before {
+  color: var(--muted-fg);
+  font-style: normal;
+}
+meter,
+progress {
+  --border-width: var(--interactive-border-width);
+  --border-style: var(--interactive-border-style);
+  --border-radius: var(--tab-border-radius);
+  @supports (selector(::-moz-meter-bar) or selector(::-webkit-meter-bar) or selcctor(::-moz-progress-bar) or selector(::-webkit-progress-bar))n: static;
+    z-index: auto;
+    flex-grow: 2;
+    width: auto !important;
+    height: auto !important;
+    visibility: visible !important;
+    background-color: transparent !important;
+    border: 0 !important;
+    transform: none !important {
+;
+     ap 

@@ -1,0 +1,55 @@
+up-hover\:text-blue-600{--tw-text-opacity:1;color:rgba(37,99,235,var(--tw-text-opacity))}.group:hover .lg\:group-hover\:text-blue-700{--tw-text-opacity:1;color:rgba(29,78,216,var(--tw-text-opacity))}.group:hover .lg\:group-hover\:text-blue-800{--tw-text-opacity:1;color:rgba(30,64,175,var(--tw-text-opacity))}.group:hover .lg\:group-hover\:text-blue-900{--tw-text-opacity:1;color:rgba(30,58,138,var(--tw-text-opacity))}.group:hover .lg\:group-hover\:text-indigo-50{--tw-text-opacity:1;color:rgba(238,242,255,var(--tw-text-opacity))}.group:hover .lg\:group-hover\:text-indigo-100{--tw-text-opacity:1;color:rgba(224,231,255,var(--tw-text-opacity))}.group:hover .lg\:group-hover\:text-indigo-200{--tw-text-opacity:1;color:rgba(199,210,254,var(--tw-text-opacity))}.group:hover .lg\:group-hover\:text-indigo-300{--tw-text-opacity:1;color:rgba(165,180,252,var(--tw-text-opacity))}.group:hover .lg\:group-hover\:text-indigo-400{--tw-text-opacity:1;color:rgba(129,140,248,var(--tw-text-opacity))}.group:hover .lg\:group-hover\:text-indigo-500{--tw-text-opacity:1;color:rgba(99,102,241,var(--tw-text-opacity))}.group:hover .lg\:group-hover\:text-indigo-600{--tw-text-opacity:1;color:rgba(79,70,229,var(--tw-text-opacity))}.group:hover .lg\:group-hover\:text-indigo-700{--tw-text-opacity:1;color:rgba(67,56,202,var(--tw-text-opacity))}.group:hover .lg\:group-hover\:text-indigo-800{--tw-text-opacity:1;color:rgba(55,48,163,var(--tw-text-opacity))}.group:hover .lg\:group-hover\:text-indigo-900{--tw-text-opacity:1;color:rgba(49,46,129,var(--tw-text-opacity))}.group:hover .lg\:group-hover\:text-purple-50{--tw-text-opacity:1;color:rgba(245,243,255,var(--tw-text-opacity))}.group:hover .lg\:group-hover\:text-purple-100{--tw-text-opacity:1;color:rgba(237,233,254,var(--tw-text-opacity))}.group:hover .lg\:group-hover\:text-purple-200{--tw-text-opacity:1;color:rgba(221,214,254,var(--tw-text-opacity))}.group:hover .lg\:group-hover\:text-purple-300{--tw-text-opacity:1;color:rgba(196,181,253,var(--tw-text-opacity))}.group:hover .lg\:group-hover\:text-purple-400{--tw-text-opacity:1;color:rgba(167,139,250,var(--tw-text-opacity))}.group:hover .lg\:group-hover\:text-purple-500{--tw-text-opacity:1;color:rgba(139,92,246,var(--tw-text-opacity))}.group:hover .lg\:group-hover\:text-purple-600{--tw-text-opacity:1;color:rgba(124,58,237,var(--tw-text-opacity))}.group:hover .lg\:group-hover\:text-purple-700{--tw-text-opacity:1;color:rgba(109,40,217,var(--tw-text-opacity))}.group:hover .lg\:group-hover\:text-purple-800{--tw-text-opacity:1;color:rgba(91,33,182,var(--tw-text-opacity))}.group:hover2xl\:max-w-screen-sm{max-width:640px}.\32xl\:max-w-screen-md{max-width:768px}.\32xl\:max-w-screen-lg{max-width:1024px}.\32xl\:max-w-screen-xl{max-width:1280px}.\32xl\:max-w-screen-2xl{max-width:1536px}.\32xl\:flex-1{flex:1 1 0%}.\32xl\:flex-auto{flex:1 1 auto}.\32xl\:flex-initial{flex:0 1 auto}.\32xl\:flex-none{flex:none}.\32xl\:flex-shrink-0{flex-shrink:0}.\32xl\:flex-shrink{flex-shrink:1}.\32xl\:flex-grow-0{flex-grow:0}.\32xl\:flex-grow{flex-grow:1}.\32xl\:table-auto{table-layout:auto}.\32xl\:table-fixed: "\f410"; }
+
+.fa-window-maximize:before {
+  content: "\f2d0"; }
+
+.fa-window-minimize:before {
+  content: "\f2d1"; }
+
+.fa-window-restore:before {
+  content: "\f2d2"; }
+
+.fa-windows:before {
+  content: "\f17a"; }
+
+.fa-wine-bottle:before {
+  content: "\f72f"; }
+
+.fa-wine-glass:before {
+  content: "\f4e3"; }
+
+.fa-wine-glass-alt:before {
+  content: "\f5ce"; }
+
+.fa-wix:before {
+  content: "\f5cf"; }
+
+.fa-wizards-of-the-coast:before {
+  content: "\f730"; }
+
+.fa-wodu:before {
+  content: "\e088"; }
+
+.fa-wolf-pack-battalion:before {
+  content: "\f514"; }
+
+.fa-won-sign:before {
+  content: "\f159"; }
+
+.fa-wordpress:before {
+  content: "\f19a"; }
+
+.fa-wordpress-simple:before {
+  content: "\f411"; }
+
+.fa-wpbeginner:before {
+  content: "\f297"; }
+
+.fa-wpexplorer:before {
+  content: "\f2de"; }
+
+.fa-wpforms:before {
+  content: "\f298"; }
+
+.fa-wpressr:before {
+  contocus-within{--tw-text-opacity:1;color:rgba(0,0,0,var(--tw-text-opacity))}.lg\:focus-within\:text-white:focus-within{--tw-text-opacity:1;color:

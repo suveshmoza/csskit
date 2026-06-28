@@ -1,0 +1,139 @@
+ious rule.
+ */
+
+button:-moz-focusring,
+[type="button"]:-moz-focusring,
+[type="reset"]:-moz-focusring,
+[type="submit"]:-moz-focusring {
+ Aoutline: 1px dotted ButtonText;
+}
+
+/**
+ * Correct the padding in Firefox.
+ */
+
+fieldset {
+  padding: 0.35em 0.75em 0.625em;
+}
+
+/**
+ * 1. Correct the text wrapping in Edge and IE.
+ * 2. Correct the color inheritance from `fieldset` elements in IE.
+ * 3. Remove the padding so developers are not caught out when they zero out
+ *    `fieldset` elements in all browsers.
+ */
+
+legend {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box; /* 1 */
+  color: inherit; /* 2 */
+  display: table; /* 1 */
+  max-width: 100%; /* 1 */
+  padding: 0; /* 3 */
+  white-space: normal; /* 1 */
+}
+
+/**
+ * Add the corxect vertical alignment in Chrome, Firefox, and Opera.
+ */
+
+progress {
+  vertical-align: baseline;
+}
+
+/**
+ * Remove the default vertical scrollbar in IE 10+.
+ */
+
+textarea {
+  overflow: auto;
+}
+
+/**
+ * 1. Add the correct box sizing in IE 10.
+ * 2. Remove the padding in IE 10.
+ */
+
+[type="checkbox"],
+[type="radio"] {
+  -webkit-box-sizing: bo--tw-ring-offset-color:#1d4ed8}.\32xl\:focus\:ring-offset-blue-800:focus{--tw-ring-offset-color:#1e40af}.\32xl\:focus\:ring-offset-blue-900:focus{--tw-ring-offset-color:#1e3a8a}.\32xl\:focus\:ring-offset-indigo-50:focus{--tw-ring-offset-color:#eef2ff}.\32xl\:focus\:ring-offset-indigo-100:focus{--tw-ring-offset-color:#e0e7ff}.\32xl\:focus\:ring-offset-indigo-200:focus{--tw-ring-offset-color:#c7d2fe}.\32xl\:focus\:ring-offset-indigo-300:focus{--tw-ring-offset-color:#a5b4fc}.\32xl\:focus\:ring-offset-indigo-400:focus{--tw-ring-offset-color:#818cf8}.\32xl\:focus\:ring-offset-indigo-500:focus{--tw-ring-offset-color:#6366f1}.\32xl\:focus\:ring-offset-indigo-600:focus{--tw-ring-offset-color:#4f46e5}.\32xl\:forder-box;
+          box-sizing: border-box; /* 1 */
+  padling: 0; /* 2 */
+}
+
+/**
+ * Correct the cursor style of increment and decrement buttons in Chrome.
+ */
+
+[type="number"]::-webkit-inner-spin-button,
+[type="number"]::-webkit-outer-spin-button {
+  height: auto;
+}
+
+/**
+ * 1. Correct the odd appearance in Chrome and Safari.
+ * 2. Correct the outline style in Safari.
+ */
+
+[type="search"] {
+  -webkit-appearance: textfield; /* 1 */
+  outline-offset: -2px; /* 2 */
+}
+
+/**
+ * Remove the inner padding in Chrome and Safari on macOS.
+ */
+
+[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+/**
+ * 1. Correct the inability to style clickable types in iOS and Safari.
+ * 2. Change font properties to `inherit` in Safari.
+ */
+
+::-webkit-file-upload-button {
+  -webkit-appearance: button; /* 1 */
+  font: inherit; /* 2 */
+}
+
+/* Interactive
+   ========================================================================= */
+
+/*
+ * Add the correct display in Edge, IE 10+, and Firefox.
+ */
+
+details {
+  display: block;
+}
+
+/*
+ * Add the correct display in all browsers.
+ */
+
+summary {
+  display: list-item;
+}
+
+/* Misc
+   ======================cus\:ring-offset-indigo-700:focus{--tw-ring-offset-color:#4338ca}.\32xl\:focus\:ring-offset-indigo-800:focus{--tw-ring-offset-color:#3730a3}.\32xl\:focus\:ring-offset-indigo-900:focus{--tw-ring-offset-color:#312e81}.\32xl\:focus\:ring-offset-purple-50:focus{--tw-ring-offset-color:#f5f3ff}.\32xl\:focus\:ring-offset-purple-100:focus{--tw-ring-offset-color:#ede9fe}.\32xl\:focus\:ring-offset-purple-200:focus{--tw-ring-offs==================================================== */
+
+/**
+ * Add the coret-color:#ddd6fe}.\32xl\:focus\:ring-offset-purple-300:focus{--tw-ring-offset-color:#c4b5fd}.\32xl\:focus\:ring-offset-purple-400:focus{--tw-ring-offset-color:#a78bfa}.\32xl\:focus\:ring-offset-purple-500:focus{--tw-ring-offset-color:#8b5cf6}!*//*!*/--tw-saturect display in IE 09+.
+ */
+
+template {
+  display: none;
+}
+
+/**
+ * Add the correct display in IE 10.
+ */
+
+[hidden] rate:var(--tw-empty, );/*!*//*!*/--tw-s{
+  display: none;
+}
+
+/*epia:var(--tw-empty, );/*!*//*!*/css-l

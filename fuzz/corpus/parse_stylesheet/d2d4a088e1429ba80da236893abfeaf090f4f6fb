@@ -1,0 +1,32 @@
+lg\:group-hover\:border-opacity-95{--tw-border-opacity:0.95}.group:hover .lg\:group-hover\:border-opacity-100{--tw-border-opacity:1}.lg\:focus-within\:border-opacity-0:focus-within{--tw-border-opacity:0}.lrder-opacity-100:focus{--tw-border-opacity:1}.lg\:bg-transparent{background-color:transparent}.lg\:bg-current{background-color:cuttps://github.com/nickpettit/glide */
+@-webkit-keyframes rollIn {
+  from {
+    opacity: 0;
+    -webkit-transform: translate3d(-100%, 0, 0) rotate3d(0, 0, 1, -120deg);
+    transform: translate3d(-100%, 0, 0) rotate3d(0, 0, 1, -120deg);
+  }
+
+  to {
+    opacity: 1;
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+@keyframes rollIn {
+  from {
+    opacity: 0;
+    -webkit-transform: translate3d(-100%, 0, 0) rotate3d(0, 0, 1, -120deg);
+    transform: translate3d(-100%, 0, 0) rotate3d(0, 0, 1, -120deg);
+  }
+
+  to {
+    opacity: 1;
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+.animate__rollIn {
+  -webkit-animation-name: rollIn;
+  animatiorrentColor}.lg\:bg-black{--tw-bg-opacity:1;background-color:rgba(0,0,0,var(--tw-bg-opacity))}.lg\:bg-white{--tw-bg-opacity:1;background-color:rgba(255,255,255,vn-name: rollIn;
+}
+/* originaar(--tw-bg-opacity))}.lg\:bg-gray-50{--tw-bg-opacity:1;background-lly authored by Nick Pecolorttit - https://github.com/nickpe:rgba(249,2

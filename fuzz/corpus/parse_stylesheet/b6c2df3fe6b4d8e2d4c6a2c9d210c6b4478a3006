@@ -1,0 +1,88 @@
+nt: "\f232"; }
+
+.fa-whatsapp-square:before {
+  content: "\f40c"; }
+
+.fa-wheelchair:before {
+  content: "\f193"; }
+
+.fa-whmcs:before {
+  content: "\f40d"; }
+
+.fa-wifi:before {
+  content: "\f1eb"; }
+
+.fa-wikipedia-w:before {
+  content: "\f266"; }
+
+.fa-wind:before {
+  content: "\f72e"; }
+
+.fa-window-close:before {
+  content: "\f410"; }
+
+.fa-window-maximize:before {
+  content: "\f2d0"; }
+
+.fa-window-minimize:before {
+  content: "\f2d1"; }
+
+.fa-window-restore:before {
+  content: "\f2d2"; }
+
+.fa-windows:before {
+  content: "\f17a"; }
+
+.fa-wine-bottle:before {
+  content: "\f72f"; }
+
+.fa-wine-glass:before {
+  content: "\f4e3"; }
+
+.fa-wine-glass-alt:before {
+  content: "\f5ce"; }
+
+.fa-wix:before {
+  content: "\f5cf"; }
+
+.fa-wizards-of-the-coast:before {
+  content: "\f730"; }
+
+.fa-wodu:before {
+  content: "\e088"; }
+
+.fa-wolf-pack-battalion:before {
+  content: "\f514"; }
+
+.fa-won-sign:before {
+  content: "\f159"; }
+
+.fa-wordpress:before {
+  content: "\f19a"; }
+
+.fa-wordpress-simple:before {
+  content: "\f411"; }
+
+.fa-wpbeginner:before {
+  content: "\f297"; }
+
+.fa-wpexplorer:before {
+  content: "\f2de"; }
+
+.fa-wpforms:before {
+  content: "\f298"; }
+
+.fa-wpressr:before {
+  content: "\f3e4"; }
+
+tack-divider-color: var(--borderColor-default, var(--color-border-default));display:flex;flex-flow:column;align-items:stretch;align-content:flex-start;gap:var(--Stack-gap-whenRegular)}@media(max-width: 767.98px){.Stack{gap:var(--Stack-gap-whenNarrow)}}@media(min-width: 1400px){.Stack{gap:var(--Stack-gap-whenWide)}}.Stack-divider{display:none;padding:0;margin:0;border:0;align-self:stretch}.Stack-item{flex:0 1 auto;min-inline-size:0}@media(max-width: 767.98px){.Stack--dir-inline-whenNarrow{flex-flow:row}.Stack--dir-block-whenNarrow{flex-flow:column}.Stack--gap-none-whenNarrow{--Stack-gap-whenNarrow: 0}.Stack--gap-condensed-whenNarrow{--Stack-gap-whenNarrow: var(--stack-gap-condensed, 8px)}.Stack--gap-normal-whenNarrow{--Stack-gap-whenNarrow: var(--stack-gap-normal, 16px)}.Stack--align-start-whenNarrow{align-items:flex-start}.Stack--align-center-whenNarrow{align-items:center}.Stack--align-end-whenNarrow{align-items:flex-end}.Stack--align-baseline-whenNarrow{align-items:baseline}.Stack--alignWrap-start-whenNarrow{align-content:flex-start}.Stack--alignWrap-center-whenNarrow{align-content:center}.Stack--alignWrap-end-whenNarrow{align-content:flex-end}.Stack--alignWrap-distribute-whenNarrow{align-content:space-between}.Stack--alignWrap-distributeEvenly-whenNarrow{align-content:space-evenly}.Stack--spread-start-whenNarrow{justify-content:flex-start}.Stack--spread-center-whenNarrow{justify-content:c-gap-spacious-whenRegular{--Stack-gap-whenRegular: var(--stack-gap-spacious, 24px)}.Stack--align-start-whenRegular{align-items:flex-start}.Stack--align-center-whenRegular{align-items:center}.Stack--align-end-whenRegular{align-items:flex-end}.Stack--align-baseline-whenRegular{align-items:baseline}.Stack--alignWrap-start-whenRegular{align-content:flex-start}.Stack--alignWrap-center-whenRegular{align-content:center}.Stack--alignWrap-end-whenRegular{align-content:flex-end}.Stack--alignWrap-distribute-whenRegular{align-content:space-between}.Sta}--alignWrap-distributeEvenly-whenRegular{align-content:space-evenly}.Stack--spread-start-whenRegular{justify-content:flex-start}.Stack--spread-center-whenRegular{justify-content:center}.Stack--spread-end-whenRegular{justify-content:flex-end}.Stack--spread-distributely: 'Font Awesome 5 Free';
+  font-style: normal;
+  font-weight: 900;
+  font-display: block;
+  src: url("../webfonts/fa-solid-900.eot");
+  src: url("../webfonts/fa-solid-900.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-solid-900.woff2") format("woff2"), url("../webfonts/fa-solid-900.woff") format("woff"), url("../webfonts/fa-solid-900.ttf") format("truetype"), url("../webfonts/fa-solid-900.svg#fontawesome") format("svg"); }
+
+.fa,
+.fas {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900; }

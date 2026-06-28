@@ -1,0 +1,152 @@
+e__backOutDown {
+  -webkit-animation-name: backOutDown;
+  animation-name: backOutDown;
+}
+@-webkit-keyframes backOutLeft {
+  0% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    opacity: 1;
+  }
+
+  20% {
+    -webkit-transform: translateX(0px) scale(0.7);
+    transform: translateX(0px) scale(0.7);
+    opacity: 0.7;
+  }
+
+  100% {
+    -webkit-transform: translateX(-2000px) scale(0.7);
+    transform: translateX(-2000px) scale(0.7);
+    opacity: 0.7;
+  }
+}
+@keyframes backOutLeft {
+  0% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    opacity: 1;
+  }
+
+  20% {
+    -webkit-transform: translateX(0px) scale(0.7);
+    transform: translateX(0px) scale(0.7);
+    opacity: 0.7;
+  }
+
+  100% {
+    -webkit-transform: translateX(-2000px) scale(0.7);
+    transform: translateX(-2000px) scale(0.7);
+    opacity: 0.7;
+  }
+}
+.animate__backOutLeft {
+  -webkit-animation-name: backOutLeft;
+  animation-name: backOutLeft;
+}
+@-webkit-keyframes backOutRight {
+  0% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    opacity: 1;
+  }
+
+  20% {
+    -webkit-transform: translateX(0px) scale(0.7);
+    transform: translateX(0px) scale(0.7);
+    opacity: 0.7;
+  }
+
+  100% {
+    -webkit-transform: translateX(2000px) scale(0.7);
+    transform: translateX32xl\:focus-within\:bg-blue-800:focus-within{--tw-bg-opacity:1;background-color:rgba(30,64,175,var(--tw-bg-opacity))}.\32xl\:focus-within\:bg-blue-900:focus-within{--tw-bg-opacity:1;background-color:rgba(30,58,138,v(2000px) scale(0.7);
+    opacity: 0.7;
+  }
+}
+@keyframes backOutRight {
+  0% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    opacity: 1;
+  }
+
+  20% {
+    -webkit-transform: translateX(0px) scale(0.7);
+    transform: translateX(0px) scale(0.7);
+    opacity: 0.7;
+  }
+
+  100% {
+    -webkit-transform: translateX(2000px) scale(0.7);
+    transform: translateX(2000px) scale(0.7);
+    opacity: 0.7;
+  }
+}
+.animate__backOutRight {
+  -webkit-animation-name: backOutRight;
+  animation-name: backOutRight;
+}
+@-webkit-keyframes backOutUp {
+  0% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    opacity: 1;
+  }
+
+  20% {
+    -webkit-transform: translateY(0px) scale(0.7);
+    transform: translateY(0px) scale(0.7);
+    opacity: 0.7;
+  }
+
+  100% {
+    -webkit-transform: translateY(-700px) scale(0.7);
+    transform: translateY(-700px) scale(0.7);
+    opacity: 0.7;
+  }
+}
+@keyframes backOutUp {
+  0% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    opacity: 1;
+  }
+
+  20% {
+    -webkit-transform: translateY(0px) scale(0.7);
+    transform: translateY(0px) scale(0.7);
+    opacity: 0.7;
+  }
+
+  100% {
+    -webkit-transform: translateY(-700px) scale(0.7);
+    transform: translatar(--tw-bg-opacity))}.\32xl\:focus-within\:bg-indigo-50:focus-within{--tw-bg-opacity:1;background-color:rgba(238,242,255,var(--tw-bg-opacity))}.\32xl\:focus-within\:bg-indigo-100:focus-within{--tw-bg-opacity:1;background-color:rgba(224,231,255,var(-go-900:focus-within{--tw-bg-opacity:1;background-color:rgba(49,46,129,var(--tw-bg-opacity))}.\32xl\:focus-within\:bg-purple-50:focus-within{--tw-bg-opacity:1;background-color:rgba(245,243,255,var(--tw-bg-opacity))}.\32xl\:focus-withi]:focus,
+.pure-form input[type="number"]:focus,
+.pure-form input[type="search"]:focus,
+.pure-form input[type="tel"]:focus,
+.pure-form input[type="color"]:focus,
+.pure-form select:focus,
+.pure-form textarea:focus {
+    outline: 0;
+    border-color: #129FEA;
+}
+
+/*
+Need to separate out the :not() selector from the rest of the CSS 2.1 selectors
+since IE8 won't execute CSS that contains a CSS3 selector.
+*/
+.pure-form input:not([type]):focus {
+    outline: 0;
+    border-color: #129FEA;
+}
+
+.pure-form input[type="file"]:focus,
+.pure-form input[type="radio"]:focus,
+.pure-form input[type="checkbox"]:focus {
+    outline: thin solid #129FEA;
+   n\:bg-purple-100:focus-within{--tw-bg-opacity:1;background-color:rgba(237,233,254,var(--tw-bg-opacity))}.\32xl\:focus-eY(-700px) scale(0.7);
+    opacity: 0.7;
+  }
+}
+.animawithin\:bg-purple-200:focte__backOutUp {
+  -webkit-animation-name: baus-within{--

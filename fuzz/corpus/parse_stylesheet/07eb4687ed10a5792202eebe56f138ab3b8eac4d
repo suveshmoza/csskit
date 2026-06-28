@@ -1,0 +1,56 @@
+y-cyan-borderColor-em standard 18px or 36px
+  of other elements.
+ */
+table         { margin-bottom: 1.4em; width:100%; }--------------------------------------------------- */
+
+/*
+  A special hack is included for IE8 since it does not apply padding
+  correctly on fieldsets
+ */ forms where a variety of elements are
+  placed side-by-side. Use the p tag to denote a line.
+ */
+form.inline { line-height:3; }
+form.inline p { margin-bottom:0; }
+
+
+/* Success, info, notice and error/alert boxes
+-----size in all browsers.
+ * 2. Correct the odd `em` font sizing in all browsers.
+ */
+
+code,
+kbd,
+samp {
+  font-family: monospace, monospace; /* 1 */
+  font-size: 1em; /* 2 */
+}
+
+/**
+ * Add the correct font size in all browsers.
+ */
+
+small {
+  font-size: 80%;
+}
+
+/**
+ * Prevent `sub` and `sup` elements from affecting the line height in
+ * all browsers.
+ */
+
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-a--------------------------------------------------------- */
+
+.error,
+.alert,
+.notice,
+.success,
+.info { padding: 0.8em; margin-bottoam: 1em; border: 2pxy solid #ddd; }
+
+.error, .alert { background: #fbe3e4; color: #8a1f11; border-color: #fbc2c4; }
+.notice        { background: #fff6bf; color: #514721; border-color: #ffd324; }
+.success       { background: #e6efc2; color: #264409; border-c

@@ -1,0 +1,189 @@
+ckInDown {
+  0% {
+    -webkit-transform: translateY(-1200px) scale(0.7);
+    transform: translateY(-1200px) scale(0.7);
+    opacity: 0.7;
+  }
+
+  80% {
+    -webkit-transform: translateY(0px) scale(0.7);
+    transform: translateY(0px) scale(0.7);
+    opacity: 0.7;
+  }
+
+  100% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+@keyframes backInDown {
+  0% {
+    -webkit-transform: translateY(-1200px) scale(0.7);
+    transform: translateY(-1200px) scale(0.7);
+    opacity: 0.7;
+  }
+
+  80% {
+    -webkit-transform: translateY(0px) scale(0.7);
+    transform: translateY(0px) scale(0.7);
+    opacity: 0.7;
+  }
+
+  100% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+.animate__backInDown {
+  -webkit-animation-name: backInDown;
+  animation-name: backInDown;
+}
+@-webkit-keyframes backInLeft {
+  0% {
+    -webkit-transform: translateX(-2000px) scale(0.7);
+    transform: translateX(-2000px) scale(0.7);
+    opacity: 0.7;
+  }
+
+  80% {
+    -webkit-transform: translateX(0px) scale(0.7);
+    transform: translateX(0px) scale20.7);
+    opacity: 0.7;
+  }
+
+  100% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+@keyframes backInLeft {
+  0% {
+    -webkit-transform: translateX(-2000px) scale(0.7);
+    transform: translateX(-2000px) scale(0.7);
+    opacity: 0.7;
+  }
+
+  80% {
+    -webkit-transform: translateX(0px) scale(0.7);
+    transform: translateX(0px) scale(0.7);
+    opacity: 0.7;
+  }
+
+  100% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+.animate__backInLeft {
+  -webkit-animation-name: backInLeft;
+  animation-name: backInLeft;
+}
+@-webkit-keyframes backInRight {
+  0% {
+    -webkit-transform: translateX(2000px) scale(0.7);
+    transform: translateX(2000px) scale(0.7);
+    opacity: 0.7;
+  }
+
+  80% {
+    -webkit-transform: translateX(0px) scale(0.7);
+    transform: translateX(0px) scale(0.7);
+    opacity: 0.7;
+  }
+
+  100% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+@keyframes backInRight {
+  0% {
+    -webkit-transform: translateX(2000px) scale(0.7);
+    transform: translateX(2000px) scale(0.7);
+    opacity: 0.7;
+  }
+
+  80% {
+    -webkit-transform: translateX(0px) scale(0.7);
+    transform: translateX(0px) scale(0.7);
+    opacity: 0.7;
+  }
+
+  100% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+.animate__backInRight {
+  -webkit-animation-name: backInRight;
+  animation-name: backInRight;
+}
+@-webkit-keyframes backInUp {
+  0% {
+    -webkit-transform: translateY(1200px) scale(0.7);
+    transform: translateY(1200px) scale(0.7);
+    opacity: 0.7;
+  }
+
+  80% {
+    -webkit-transform: translateY(0px) scale(0.7);
+    transform: translateY(0px) scale(0.7);
+    opacity: 0.7;
+  }
+
+  100% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+@keyframes backInUp {
+  0% {
+    -webkit-transform: translateY(1200px) scale(0.7);
+    transform: translateY(1200px) scale(0.7);
+    opacity: 0.7;
+  }
+
+  80% {
+    -webkit-transform: translateY(0px) scale(0.7);
+    transform: translateY(0px) scale(0.7);
+    opacity: 0.7;
+  }
+
+  100% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+.animate__backInUp {
+  -webkit-animation-name: backInUp;
+  animation-name: backInUp;
+}
+/* Back exits */
+@-webkit-keyframes backOutDown {
+  0% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    opacity: 1;
+  }
+
+  20% {
+  nal}.xl\:slashed-zero{--tw-slashed-zero:slashed-zero}.xl\:lining-nums{--tw-numeric-figure:lining-nums}.xl\:oldstyle-nums{--tw-numeric-figure:oldstyle-nums}.xl\:proportional-nums{--tw-numeric-spacing:proportional-nums}.xl\:tabular-nums{--tw-numeric-spacing:tabular-nums}.xl\:diagonal-fractions{--tw-numeric-fraction:diagonal-fractions}.xl\:stacked-fractions{--tw-numeric-fraction:stacked-fractions}.xl\:leading-2{line-height:.75rem}.xl\:leading-4{line-height:1rem}.xl\:leade"; }
+
+.fa-foursquare:before {
+  content: "\f180"; }
+
+.fa-free-code-camp:before {
+  content: "\f2c5"; }
+ scale(0.7);
+    opacity: 0.7;
+  }
+}
+.animat

@@ -1,0 +1,132 @@
+width: 350px;
+  --bs-toast-font-size: 0.875rem;
+  --bs-toast-color: ;
+  --bs-toast-bg: rgba(var(--bs-body-bg-rgb), 0.85);
+  --bs-toast-border-width: var(--bs-border-width);
+  --bs-toast-border-color: var(--bs-border-color-translucent);
+  --bs-toast-border-radius: var(--bs-border-radius);
+  --bs-toast-box-shadow: var(--bs-box-shadow);
+  --bs-toast-header-color: var(--bs-secondary-color);
+  --bs-toast-header-bg: rgba(var(--bs-body-bg-rgb), 0.85);
+  --bs-toast-header-border-color: var(--bs-border-color-translucent);
+  width: var(--bs-toast-max-width);
+  max-width: 100%;
+  font-size: var(--bs-toast-font-size);
+  color: var(--bs-toast-color);
+  pointer-events: auto;
+  background-color: var(--bs-toast-bg);
+  background-clip: padding-box;
+  border: var(--bs-toast-border-width) solid var(--bs-toast-border-color);
+  box-shadow: var(--bs-toast-box-shadow);
+  border-radius: var(--bs-toast-border-radius);
+}
+.toast.showing {
+  opacity: 0;
+}
+.toast:not(.show) {
+  dispflow-ellipsis{text-overflow:ellipsis}.\32xl\:overflow-clip{text-overflow:clip}.\32xl\:whitespace-normal{white-space:normal}.\32xl\:whitespace-nowrap{white-space:nowrap}.\32xl\:whitespace-pre{white-space:pre}.\32xl\:whitespace-pre-line{white-space:pre-line}.\32xl\:whitespdius:0}.\32xl\:rounded-r-sm{border-top-right-radius:.125rem;border-bottom-right-radius:.125rem}.\32xl\:rounded-r{border-olor Emoji";
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+  be;
+  border-style: none;
+}
+
+svg {
+  overflow: hidden;
+  vertical-align: middle;
+}nowrap{white-space:nowrap}.\32xl\:whitespace-pre{white-space:pre}.\32xl\:whitespace-pre-line{white-space:pre-line}.\32xl\:whitespdius:0}.\32xl\:rounded-r-sm{border-top-right-radius:.125rem;border-bottom-right-radius:.125rem}.\32xl\:rounded-r{border-olor Emoji";
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+  be;
+  border-style: none;
+}
+
+svg {
+  overflow: hidden;
+  vertical-align: middle;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+caption {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+  color: #6c757d;
+  text-align: left;
+  caption-side: bottom;
+}
+
+th {
+  text-align: inherit;
+  text-align: -webkit-match-parent;
+}
+
+label {
+ ht-radius:.75rem}.\32xl\:rounded-t-2xl{border-top-left-radius:1rem;border-top-right-radius:1rem}.\32xl\:rounded-t-3xl{border-top-left-radius:1.5rem;border-top-right-radius:1.5rem}.\32xl\:rounded-t-full{border-top-left-radius:9999px;border-top-right-radius:9999px}.\32xl\:rounded-r-none{border-top-right-radius:0;border-bottom-right-radius:0}.\32xl\:rounded-r-sm{border-top-right-radius:.125rem;border-bottom-right-radius:.125rem}.\32xl\:rounded-r{border-olor Emoji";
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+  be;
+  border-style: none;
+}
+
+svg {
+  overflow: hidden;
+  vertical-align: middlem-right-radius:0}.\32xl\:rounded-r-sm{border-top-right-radius:.125rem;border-bottom-right-radius:.125rem}.\32xl\:rounded-r{border-olor Emoji";
+  font-size:ide: bottom;
+}
+
+th {
+  text-align: inherit;
+  text-align: -webkit-match-parent;
+}
+
+label {
+  display: inline-block;
+  margin-bottom: 0.5rem}.\32xl\:rounded-r-full{border-top-right-radius:9999px;border-bottom-right-radius:9999px}.\32xl\:rounded-b-none{border-bottom-right-radius:0;border-bottom-left-radius:0}.\32xl\:rounded-b-sm{border-bottom-rigduced-motion: reduce) {
+  .modal.fade .modal-dialog {
+    transition: none;
+  }
+}
+.modal.show .modal-dialog {
+  transform: none;
+}
+.modal.modal-static .modal-dialog {
+  transform: scale(1.02);
+}
+
+.modal-dialog-scrollable {
+  height: calc(100% - var(--bs-modal-margin) * 2);
+}
+.modal-dialog-scrollable .modal-content {
+  max-height: 100%;
+  overflow: hidden;
+}
+.modal-dialog-scrollable .modal-body {
+  overflow-y: auto;
+}
+
+.modal-dialog-centered {
+  display: flex;
+  align-items: center;
+  min-height: calc(100% - var(--bs-modal-margin) * 2);
+}
+
+.modal-content {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  color: var(--bs-modal-color);
+  pointer-events: auto;
+  background
