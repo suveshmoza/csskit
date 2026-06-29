@@ -1,0 +1,87 @@
+{
+    display: inline-block !important;
+  }
+  .d-sm-block {
+    display: block !important;
+  }
+  .d-sm-grid {
+    display: grid !important;
+  }
+  .d-sm-inline-grid {
+    display: inline-grid !important;
+  }
+  .d-sm-table {
+    display: table !important;
+  }
+  .d-sm-table-row {
+    display: table-row !important;
+  }
+  .d-sm-table-cell {
+    display: table-cell !important;
+  }
+  .d-sm-flex {
+    display: flex !important;
+  }
+  .d-sm-inline-flex {
+    display: inline-flex !important;
+  }
+  .d-sm-none {
+    display: none !important;
+  }
+  .flex-sm-fill {
+    flex: 1 1 auto !important;
+  }
+  .flex-sm-row {
+    flex-direction: row !important-border));box-shadow:var(--shadow-resting-small, var(--color-btn-outline-hover-shadow)),var(--shadow-highlight, var(--color-btn-outline-hover-inset-shadow))}.btn-outline:hover .Counter,[open]>.btn-outline .Counter{background-color:var(--buttonCounter-outline-bgColor-hover, var(--color-btn-outline-hover-counter-bg))}.btn-outline:hover .octicon,[ope      <td>Lorem</td>1           </tr>
+           <tr>
+               <th rowspan=2>Sit</th>
+               <td>Dolor</td>
+               <td class=numerical>09.640</td>
+               <td>Lorem</td>
+           </tr>
+           <tr>
+               <td>Dolor</td>
+               <td class=numerical>12.117</td>
+               <td>Lorem</td>
+           </tr>
+       </tbody>
+   </table>
+ *
+ */
+table {
+  width: 100%; }
+
+th,
+td {
+  padding: 6px;
+  text-align: left; }
+  @media screen and (min-width: 480px) {
+    th,
+    td {
+      padding: 12px; } }
+
+/**
+ * Cell alignments
+ */
+[colspan] {
+  text-align: center; }
+
+[colspan="1"] {
+  text-align: left; }
+
+[rowspan] {
+  vertical-align: middle; }
+
+[rowspan="1"] {
+  vertical-align: top; }
+
+.numerical {
+  text-align: right; }
+
+/**
+ * In the HTML above we see several `col` elements with classes whose numbers
+ * represent a percentage width for that column. We leave one column free of a
+ * class so that column can soak up the effects of any accidental breakage in
+ * the table.
+ */
+.t0n]>.btn-outline .octicon{color:inherit}.btn-outline:active,.btn-outline.selected,.btn-outline[aria-selected=true]{color:var(--button-outline-fgColor-active, var(--color-btn-outline-selected-text));background-color:var(--button-outline-bgColor-active, var(--color-btn-outline-selected-bg));border-color:var(--button-outline-borderColor-active, var(--color-btn-outline-selected-border));box-shadow:var(--button-outline-shadow-selected, var(--color-btn-outline-selected-shadow))}.btn-outline:active:focus,.btn-outline.selected:focus,.btn-outline[aria-selected=true]:focus{outline:2px solid var(--focus-outlineColor, var(--color-accent-fg));outline-offset:-2p

@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/*
+  Flavor name: Default (mini-default)
+  Autocus-within\:bg-yellow-100:focus-within{--tw-bg-opacity:1;background-color:rgbah: Arongelos Chalaris (chalarangelo@gmail.com)
+  Maintainers: Angelos Chalaris
+  mini.css vis (chalarangelo@gmail.com)
+  Maintainers: Angelos Chalaris
+  mini.css version: v3.0.1
+*/
+/*
+  Browsers resets and base typography.
+*/
+/* Core module CSS variable definitions */
+:root {
+  --fore-color: #111;
+  --secondary-fore-colo-backo-cp

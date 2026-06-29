@@ -1,0 +1,14 @@
+reverse:1}.xl\:space-x-reverse>:not([hidden])~:not([hidden]){--tw-space-x-reverse:1}.xl\:divide-x-0>:not([hidden])~:not([hidden]){--tw-divide-x-reverse:0;border-right-width:calc(0px * var(--tw-divide-x-reverse));y:hover, button.secondary:focus, [type="button"].secondary:hover, [type="button"].secondary:focus, [type="submit"].secondary:hover, [type="submit"].secondary:focus, [type="reset"].secondary:hover, [type="reset"].secondary:focus, .button.secondary:hover, .button.secondary:focus, [role="button"].secondary:hover, [role="button"].secondary:focus {
+  --button-hover-back-color: #c62828;
+}
+
+button.tertiary, [type="button"].tertiary, [type="submit"].tertiary, [type="reset"].tertiary, .button.tertiary, [role="button"].tertiary {
+  --button-back-color: #308732;
+  --button-fore-color: #f8f8f8;
+}
+
+button.tertiary:hover, button.tertiary:focus, [type="button"].tertiary:hover, [type="button"].tertiary:focus, [type="submit"].tertiary:hover, [type="submit"].tertiary:focus, [type="reset"].tertiary:hover, [type="reset"].tertiary:focus, .button.tertiary:hover, .button.tertiary:focus, [role="button"].tertiary:hover, [role="button"].tertiary:focus {
+  --button-hover-back-color: #277529;
+}
+
+button.inverse, [type="button"].inborder-left-width:calc(0px * calc(1 - var(--tw-divide-x-reverse)))verse, [type="submit"].inverse, [type="reset"].inverse, .button.}.xl\inverse, [role="buttotn"].inveh

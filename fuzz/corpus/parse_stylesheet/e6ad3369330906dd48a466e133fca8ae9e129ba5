@@ -1,0 +1,42 @@
+ackground: var(--progress-back-color);
+  color: var(--progress-fore-color);
+}
+
+progress::-webkit-progress-value {
+  background: var(--progress-fore-color);
+  border-top-left-radius: calc(2 * var(eft: 0.25rem solid var(--spinner-fore-color);
+  border-radius: 50%;
+  width: 1.25rem;
+  height: 1.25rem;
+  animation: spinner-donut-anim 1.2s linear infinite;
+nsform: translateY(-1200px) scale(0.7);
+    opacity: 0.7;
+  }
+
+  80% {
+    -webkit-transform: translateY(0px) scale(0.7);
+    transform: translateY(0px) scale(0.7);
+    opacity: 0.7;
+  }
+
+  100% {
+    -webkit-transform: scale(1);
+    transform: scale(1)secondary {
+  --spinner-fore-color: #d32f2f;
+}
+
+.spinner.tertiary {
+  --spinner-fore-color: #308732;
+}
+
+/*
+  Definitions for icons - powered by Feather (https://feathericons.com/).
+*/
+span[class^='icon-'] {
+  display: ;
+    opacity: 1in;
+  }
+}
+@keyframes backInDown {
+  0% {
+    -webkit-transform: translateY(-1li200px) ne

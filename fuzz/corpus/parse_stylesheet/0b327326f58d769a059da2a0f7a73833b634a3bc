@@ -1,0 +1,198 @@
+67%;
+  }
+  .col-md-10,
+  .row.cols-md-10 > * {
+    max-width: 83.33336%;
+    flex-basis: 83.33333%;
+  }
+  .col-md-offset-9 {
+    margin-left: 75%;
+  }
+  .col-md-11,
+  .row.cols-md-11 > * {
+    max-width: 91.66667%;
+ax-width: 8.33333%;
+    flex-basis: 8.33333%;
+  }
+  .col-lg-offset-0 {
+    margin-left: 0;
+  }
+  .col-lg-2,
+  .row.cols-lg-2 > * {
+    max-width: 16.66667%;
+    flex-basis: 16.66667%;
+  }
+  .col-lg-offset-1 {
+    margin-left: 8.33333%;
+  }
+  .col-lg-3,
+  .row.cols-lg-3 > * {
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .col-lg-offset-2 {
+    margin-left: 16.66667%;
+  }
+  .col-lg-4,
+  .row.cols-lg-4 > * {
+    max-width: 33.33333%;
+    flex-basis: 33.33333%;
+  }
+  .col-lg-offset-3 {
+    margin-left: 25%;
+  }
+  .col-lg-5,
+  .row.cols-lg-5 > * {
+    max-width: 41.66667%;
+    flex-basis: 41.66667%;
+  }
+  .col-lg-of
+  .col-lg-last {
+    order: 999;
+  }
+}
+
+/* Card component CSS variable definitions */
+:root {
+  --card-back-color: #f8f8f8;
+  --card-fore-color: #111;
+  --card-border-color: #ddd;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-self: center;
+  position: relative;
+  width: 100%;
+  background: var(--card-back-color);
+  color: var(--card-fore-color);
+  border: 0.0625rem solid var(--card-border-color);
+  border-radius: var(--universal-border-radius);
+  margin: var(--universal-margin);
+  overflow: hidden;
+}
+
+@media screen and (min-width: 320px) {
+  .card {
+    max-width: 320px;
+333%;
+  }
+  .col-lg-9,
+  .row.cols-lg-9 > * {
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .col-lg-offizing: border-box;
+  margin: 0;
+  border: 0;
+  border-radius: 0;
+  border-bottom: 0.0625rem solid var(--card-border-color);
+  padding: var(--universal-padding);
+  width: 100%;
+}
+
+.card > .section.media {
+  height: 200px;
+  padding: 0;
+  -o-object-fit: cover;
+  object-fit: cover;
+}
+
+.card > .section:last-child {
+  border-bottom: 0;
+}
+
+/*
+  Custom elements for card elements.
+*/
+@media screen and (min-width: 240px) {
+  .card.small {
+    max-width: 240px;
+  }
+}
+
+@media screen and (min-width: 480px) {
+  .card.large {
+    max-width: 480px;
+  }
+}
+
+.card.fluid {
+  max-width: 100%;
+  width: auto;
+}
+
+.card.warning {
+  --card-back-color: #ffca28;
+  --card-border-color: #e8b825;
+}
+
+.card.error {
+  --car;
+  background: var(--card-back-color);
+  color: var(--card-fore-color);
+  border: 0.0625rem solid var(--card-border-color);
+  border-radius: var(--universal-border-radius);
+  margin: var(--universal-margin);
+  overflow: hidden;
+}
+
+@media screen and (min-width: 320px) {
+  .card {
+    max-width: 320px;
+333%;
+  }
+  .col-lg-9,
+  .row.cols-lg-9 > * {
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .col-lg-offizing: border-box;
+  margin: 0;
+  border: 0;
+  border-radius: 0;
+  border-bottom: 0.0625rem solid var(--card-border-color);
+  padding: var(--universal-padding);
+  width: 100%;
+}
+
+.card > .section.media {
+  height: 200px;
+  padding: 0;
+  -o-object-fit: cover;
+  object-fit: cover;
+}
+
+.card > .section:last-child {
+  border-bottom: 0;
+}
+
+/*
+  Custom elements for card elements.
+*/
+@media screen and (min-width: 240px) {
+  .card.small {
+    max-width: 240px;
+  }
+}
+
+@media screen and (min-width: 480px) {
+  .card.large {
+    max-width: 480px;
+  }
+}
+
+.card.fluid {
+  max-width: 100%;
+  width: auto;
+}
+
+.card.warning {
+  --card-back-color: #ffca28;
+  --card-border-color: #e8b825;
+}
+
+.card.error {
+  --card-bac

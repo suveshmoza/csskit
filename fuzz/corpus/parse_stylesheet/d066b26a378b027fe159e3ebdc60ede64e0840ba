@@ -1,0 +1,21 @@
+rop-blur-0{--tw-backdrop-blur:blur(0)}.sm\:backdrop-blur-none{--tw-back{
+    -webkit-transform: skewX(-5deg);
+    transform: skewX(-5deg);
+  }
+
+  to {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+@keyframes lightSpeedInRigrm: skewX(20deg);
+    opacity: 1;
+  }
+
+  80% {
+    -webkit-transform: skewX(-5deg);
+    transform: skewX(-5deg);
+  }
+
+  to {
+    -drop-blur:blur(0)}.sm\:backdrop-blur-sm{--tw-backdrop-blur:blur(4px)}.sm-75{--tw-backdrop-brightness:brightness(.75)}.smwebkit-transform: translat\:e3b

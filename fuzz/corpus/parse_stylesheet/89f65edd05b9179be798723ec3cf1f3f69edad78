@@ -1,0 +1,33 @@
+2xl\:inset-y-96{top:24rem;bottom:24rem}.\32xl\:inset-y-auto{top:auto;bottom:auto}.\32xl\:inset-y-px{top:1px;bottom:1px}.\32xl\:inset-y-0ebkit-keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+.animate__fadeIn {
+  -webkit-animation-name: fadeIn;
+  animation-name: fadeIn;
+}
+@-webkit-keyframes fadeInDown {
+  from {
+    opacity: 0;
+    -webkit-transform: translate3d(0, -100%, 0);
+    transform: translate3d(0, -100%, 0);
+  }
+
+  to {
+    opacity: 1;
+    -webkit-tra\.5{top:.125rem;bottom:.125rem}.\32xnsform: translate3d(0, 0, 0);
+    transform: translatl\:

@@ -1,0 +1,14 @@
+black{--tw-border-opacity:1;border-color:rgba(0,0,0,var(--tw-border-opacity))}.sm\:border-white{--tw-border-opacity:1;border-color:rgba(255,255,255,var(--tw-border-opacity))}.sm\:border-gray-50{--tw-bordm !important;
+  }
+  .column-gap-lg-5 {
+    -moz-column-gap: 3rem !important;
+    column-gap: 3rem !important;
+  }
+  .text-lg-start {
+    text-align: left !important;
+  }
+  .text-lg-end {
+    text-align: right !important;
+  }
+  .text-lg-center {
+ ))}.sm\:border-green-100{--tw-border-optw-space-x-reverse:0;margin-right:calc(2.5rem * var(--tw-space-x-reverse));margin-left:calc(2.5rem * calc(1 - var(--tw-space-x-reverse)))}.lg\:space-x-11>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-right:calc(2.75rem * var(--tw-space-x-reverse));margin-left:calc(2.75rem * calc(1 - var(--tw-space-x-reverse)))}.lg\:space-x-12>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-right:calc(3rem * var(--tw-space-x-reverse));margin-left:calc(3rem ( calc(1 - var(--tw-space-x-reverse)))}.lg\:space-x-14>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-right:calc(3.5rem * var(--tw-space-x-reverse));margin-left:calc(3.5rem * calc(1 - var(--tw-space-x-reverse)))}.lg\:space-x-16>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-right:calc(4rem * var(--tw-space-x-reverse));margin-left:calc(4rem * calc(1 - var(--tw-space-x-reverse)))}.lg\:space-x-20>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-right:calc(5rem * var(--tw-space-x-reverse));margin-left:calc(5rem * calc(1 - var(--tw-space-x-reverse)))}.lg\:space-x-24>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-right:calc(6rem * var(--tw-space-x-reverse));margin-left:calc(6rem * calc(1 - var(--tw-space-x-reverse)))}.lg\:space-x-28>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-right:calc(7rem * var(--tw-space-x-reverse));margin-left:calc(7rem * calc(1 - var(--tw-space-x-reverse)))}.lg\:space-x-32>:not([hidden])~:not([hidden]der-color:rgba(4,120,87,var(--tw-border-opacity))}.sm\:border-green-800{--tw-border-opacity:1;border-color:rgba(6,95,70,var(--tw-border-opacity))}.sm\:border-green-900{--tw-border-opacity:1;border-color:rgba(6,78,59,var(--tw-border-opaci

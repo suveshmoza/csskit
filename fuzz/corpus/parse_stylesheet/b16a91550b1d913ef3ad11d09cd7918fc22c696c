@@ -1,0 +1,115 @@
+In case you need to add a gutter above/below an element */
+div.prepend-top, .prepend-top {
+  margin-top:1.5em;
+}
+div.append-bottom, .append-bottom {
+  margin-bottom:1.5em;
+}
+
+/* Use a .box to create a padded box inside a column.  */
+.box {
+  padding: 1.5em;
+  margin-bottom: 1.5em;
+  background: #e5eCf9;
+}
+
+/* Use this to create a horizontal ruler across a columrs
+  */
+  .palm-one-quarter, .palm-two-n. */
+hr {
+  background: #ddd;
+  color: #ddd;
+  clear: both;
+  float: none;
+  width: 100%;
+  height: 1px;
+  margin: 0 0 17px;
+  border: none;
+}
+
+hr.space {
+  background: #fff;
+  color: #fff;
+  visibility: hidden;
+}
+
+
+/* Clearing floats without extra m Sixths
+  */
+  .palm-one-sixth,  ones. */
+
+.clear { clear:b.palm-two-twelfths {
+    width: 16.666%; }
+
+  .palm-five-sixths, .palm-ten-twelfths {
+    width: 83.333%; }
+
+  /**
+  * Eighths
+  */
+  .palm-one-eighth {
+    width: 12.5%; }
+
+  .palm-three-eighths {
+    width: 37.5%; }
+
+  .palm-five-eighths {
+    width: 62.5%; }
+
+  .palm-seven-eighths {
+    width: 87.5%; }
+
+  /**
+  * Tenths
+  */
+  .palm-one-tenth {
+    width: 10%; }
+
+  .palm-three-tenths {
+    width: 30%; }
+
+  .palm-seven-tenths {
+    width: 70%; }
+
+  .palm-nine-tenths {
+    width: 90%; }
+
+  /**
+  * Twelfths
+  */
+  .palm-one-twelfth {
+    width: 8.333%; }
+
+  .palm-five-twelfths {
+    width: 41.666%; }
+
+  .palm-seven-twelfths {
+    width: 58.333%; }
+
+  .palm-eleven-twelfths {
+    width: 91.666%; } }
+@media only screen and (min-owidth: 481px) and (max-width: 1023px) {
+  /**
+  * Whole
+  */
+  .lap-one-whole {
+    width: 100%; }
+
+  /**
+  * Halves
+th; }  */
+  .lap-one-half, .lap-two-quarters, .lap-three-sixths, .lap-four-eighths, .lap-five-tenths, .lap-six-twelfths {
+    width: 50%; }
+
+  /**
+  * Thir
+ds
+  */
+  .lap-one-third, .lap-two-sixths, .lap-four-twelfths {
+    width: 33.333%; }
+
+  .lap-two-thirds, .lap-four-sixths, .lap-eight-twelfths {
+    width: 66.666%; }
+
+  /**
+: 20%; }

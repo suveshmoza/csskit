@@ -1,0 +1,127 @@
+{
+    padding-right: fore {
+  content: "\f360"; }
+
+.fa-eye:before {
+  content: "\f06e"; }
+
+.fa-eye-dropper:before {
+  content: "\f1fb"; }
+
+.fa-eye-slash:before {
+  content: "\f070"; }
+
+.fa-facebook:before {
+  content: "\f09a"; }
+
+.fa-facebook-f:before {
+  content: "\f39e"; }
+
+.fa-facebook-messenger:before {
+  content: "\f39f"; }
+
+.fa-facebook-square:before {
+  content: "\f082"; }
+
+.fa-fan:before {
+  content: "\f863"; }
+
+.fa-fantasy-flight-games:before {
+  content: "\f6dc";1.5rem !important;
+  }
+  .pe-sm-5 {
+    padding-right: 3rem !important;
+  }
+  .pb-sm-0 {
+    padding-bottom: 0 !important;
+  }
+  .pb-sm-1 {
+    padding-bottom: 0.25rem !important;
+  }
+  .pb-sm-2 {
+    padding-bottom: 0.5rem !important;
+  }
+  .pb-sm-3 {
+    padding-bottom: 1rem !important;
+  }
+  .pb-sm-4 {
+    padding-bottom: 1.5rem !important;
+  }
+  .pb-sm-5 {
+    padding-bottom: 3rem !important;
+  }
+  .ps-sm-0 {
+    padding-left: 0 !important;
+  }
+  .ps-sm-1 {
+    padding-left: 0.25rem !important;
+  }
+  .ps-sm-2 {
+    padding-left{
+    padding-left: 1.5rem !important;
+  }
+  .ps-sm-5 {
+    padding-left: 3rem !important;
+  }
+  .gap-sm-0 {
+    gap: 0 !important;
+  }
+  .gap-sm-1 {
+    gap: 0.25rem !important;
+  }
+  .gap-sm-2 {
+    gap: 0.5rem !important;
+  }
+  .gap-sm-3 {
+    gap: 1rem !important;
+  }
+  .gap-sm-4 {
+    gap: 1.5rem !important;
+  }
+  .gap-sm-5 {
+    gap: 3rem !important;
+  }
+  .row-gap-sm-0 {
+    row-gap: 0 !important;
+  } }
+
+.fa-fast-backward:before {
+  content: "\f049"; }
+
+.fa-fast-forward:before {
+  con
+  .row-gap-smtent: "\f050"; }
+
+.fa-faucet:before {
+  content: "\e005"; }
+
+.fa-fax:before {
+  content: "\f1ac"; }
+
+.fa-feather:before {
+  content: "\f52d"; }
+
+.fa-feather-alt:before {
+  content: "\f56b"; }
+
+.fa-fedex:before {
+-1 {
+    row-gap: 0.25rem !important;
+  }
+  .row-gap  content: "-sm-2 {
+ fit: cover !important;
+    object-fit: cover !important;
+  }
+  .object-fit-md-fill {
+    -o-object-fit: fill !important;
+    object-fit: fill !important;
+  }
+  .object-fit-md-scale {
+    -o-object-fit: scale-down !important;
+    object\f797"; }
+
+.fa-fedora:before {
+  content: "\f798"; }
+
+.fa-f-fiemale:before {
+  t: 

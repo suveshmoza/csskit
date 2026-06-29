@@ -1,0 +1,20 @@
+ocus,
+button.bg-primary:hover,
+button.bg-primary:focus {
+  background-color: #0062cc !important;
+}
+
+.bg-secondary {
+  backgrou{
+    -webkit-transform: skewX(-5deg);
+    transform: skewX(-5deg)nd-color: #6c757d !important;
+}
+
+a.bg-secondary:hover, a.bg-secondary:focus,
+button.bg-secondary:hover,
+button.bg-secondary:focus {
+  background-color: #5;
+  }
+
+  to {
+    -45b62 !impowebkrit-t

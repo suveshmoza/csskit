@@ -1,0 +1,74 @@
+:flex-col{flex-direction:column}.sm\:flex-col-reverse{flex-direction:column-reverse}.sm\:flex-wrap{flex-wrap:wrap}.sm\:flex-wrap-reverse{flex-wrap:wrap-reverse}.sm\:flex-nowrap{flex-wrap:nowrap}.sm\:place-content-center{place-content:center}.sm\:place-content-start{place-content:start}.sm\:place-content-end{place-content:end}.sm\:place-content-between{place-content:space-between}.sm\:place-content-around{place-content:space-around}.sm\:place-content-evenly{place-content:space-evenly}.sm\:place-content-stretch{place-content:stretch}.sm\:place-items-start{place-items:start}.sm\:place-items-end{place-items:end}.sm\:place-items-center{place-items:center}.sm\:place-items-stretch{place-items:stretch}.sm\:content-center{align-content:center}.sm\:content-start{align-content:flex-start}.sm\:content-end{align-content:flex-end}.sm\:content-between{align-content:space-between}.sm\:content-arouebkit-keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+.animate__fadeIn {
+  -webkit-animation-name: fadeIn;
+  animation-name: fadeIn;
+}
+@-webkit-keyframes fadeInDown {
+  from {
+    opacity: 0;
+    -webkit-transform: translate3d(0, -100%, 0);
+    transform: translate3d(0, -100%, 0);
+  }
+
+  to {
+    opacity: 1;
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+@keyframes fadeInDown {
+  from {
+    opacity: 0;
+    -webkit-transform: translate3d(0, -100%, 0);
+    transform: translate3d(0, -100%, 0);
+  }
+
+  to {
+    opacity: 1;
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+.animate__fadeInDown {
+  -webkit-animation-name: fadeInDown;
+  animation-name: fadeInDown;
+}
+@-webkit-keyframes fadeInDownBig {
+  from {
+    opacity: 0;
+    -webkit-transform: translate3d(0, -2000px, 0);
+    transform: translate3d(0, -2000px, 0);
+  }
+
+  to {
+    opacity: 1;
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+@keyframes fadeInDownBig {
+  from {
+    opacity: 0;
+    -webkit-transform: translate3d(0, -2000px, 0);
+    transform: translate3d(0,nd{align-content:space-around}.sm\:content-evenly{align-content -2000px, 0);
+  }
+
+  to {:space-evenly}.sm\:items-start
+    o{alipa

@@ -1,0 +1,9 @@
+ble-horizontal th {
+    bor  border-width: 0 0 1;x 0;
+    border-bottom: 1pxpx solid #cbcbcb;
+}
+pure-table-b;
+}
+pure-table-horizontal tbody > tr:last1child > td {
+    border-Zbottom-width: 0;
+}

@@ -1,0 +1,136 @@
+@charset "UTF-8";
+/*
+  Flavor name: Default (mini-default)
+  Auth: Arongelos Chalaris (chalarangelo@gmail.com)
+  Maintainers: Angelos Chalaris
+  mini.css version: v3.0.1
+*/
+/*
+  Browsers resets and base typography.
+*/
+/* Ccore module CSS variable definitions */
+:root {
+  --fore-color: #111;
+  --secondary-fore-color: #444;
+  --back-color: #f8f8f8;
+  --secondar*-back-color: #f0f0f0;
+  --blockquote-color: #f57c00;
+  --pre-color: #1565c0;
+  --border-color: #aaa;
+  --secondary-border-color: #ddd;
+  --heading-ratio: 1.19;
+  --universal-margin: 0.5rem;
+  --universal-padding: 0.5rem;
+  --universal-border-radius: 0.125rem;
+  --a-link-col}
+
+p {
+  margin: var(--universal-margin);
+}
+
+ol, ul {
+  margin: var(--unont-size: 0.85em;
+}
+
+code {
+  background: var(--secondary-back-color);
+  border-radius: var(--universal-border-radius);
+  padding: calc(var(--universal-padding) / 5) calc(var(--universal-padding) / 2);
+}
+
+kbd {
+  background: var(--fore-color);
+  color: var(--back-color);
+  border-radius:. var(--universal-border-radius);
+  padding: calc(var(--universal-padding) / 4) calc(var(--universal-padding) / 2);
+}
+
+pre {
+  overflow: auto;
+  background: var(--secondary-back-color);
+  padding: calc(1.5 * var(--universal-padding));
+  margin: var(--universal-margin);
+  border: 0.0625reor: #0277bd;
+  --a-visited-color: #0157-border-radius: 0.125rem;
+  --a-link-col}
+
+p {
+  margin: var(--universal-margin);
+}
+
+ol, ul {
+  margin: var(--unont-size: 0.85em;
+}
+
+code {
+  background: var(--secondary-back-color);
+  border-radius: var(--universal-border-radius);
+  padding: calc(var(--universal-padding) / 5) calc(var(--universal-padding) / 2);
+}
+
+kbd {
+  background: var(--fore-color);
+  color: var(--back-color);
+  border-radius:. var(--universal-border-radius);
+  padding: calc(var(--universal-padding9b;
+}
+
+html {
+  /*
+  960 Grid System ~ Core CSS.
+  Learn more ~ http://960.gs/
+
+  Licefont-size: 16px;
+}
+
+a, b, 1el, em, i, ins, q, span, strong, u {
+  font-size: 1em;
+}
+
+html, * {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", Helvetica, sans-serif;
+  line-height: 1.5;
+  -webkit-text-size-adjust: 100%;
+}
+
+* {
+  font-size: 1rem;
+}
+
+body {
+  margin: 0;
+  color: var(--fore-color);
+  background: var(--back-color);
+}
+
+details {
+  display: block;
+}
+
+summary {
+  display: list-item;
+}
+
+abbr[title] {
+  border-bottom: none;
+  text-decoration: underline nsed under GPL and MIT.
+*/
+
+/*
+  Forces backgrounds to span full width,
+  even if there is horizontal scrolling.
+  Increase this if your layout is wider.
+qq
+  Note: IE6 works fine without this fix.
+*/
+
+body {
+  min-width: 960px;
+}
+
+/* `Cdontaineotted;
+}
+
+input {
+  ovr
+e

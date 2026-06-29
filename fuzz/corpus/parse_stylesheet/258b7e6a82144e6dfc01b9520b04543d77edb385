@@ -1,0 +1,105 @@
+noida and @rowanmanning for refining and
+ * improving my initial mixin.
+ */
+/**
+ * Create vendor-prefixed CSS in one go, e.g.
+ *
+   `@include vendor(border-radius, 4px);`
+ *
+ */
+/**
+ * Create CSS keyframe animations for all vendors in one go, e.g.:
+ *
+   .foo{
+       @include vendor(animation, shrink 3s);
+   }
+
+   @include keyframe(shrink){
+       from{
+           font-size:5em;
+       }
+   }
+ *
+ * Courtesy of @integralist: twitter.com/integralist/status/260484115315437569
+ */
+/**
+ * Force overly long spans of text to truncate, e.g.:
+ *
+   `@include truncate(100%);`
+ *
+ * Where `$truncation-boundary` is a united measurement.
+ */
+/**
+ * CSS arrows!!! But... before you read on, you might want to grab a coffee...
+ *
+ * This mixin creates a CSS arrow on a given element. We can have the arrow
+ * appear in one of 12 locations, thus:
+ *
+ *       01    02    03
+ *    +------------------+
+ * 12 |                  | 04
+ *    |                  |
+ * 11 |                  | 05
+ *    |                  |
+ * 10 |                  | 06
+ *    +------------------+
+ *       09    08    07
+ *
+ * You pass this position in along with a desired arrow color and optional
+ * border color, for example:
+ *
+ * `@include arrow(top, left, red)`
+ *
+ * for just a single, red arrow, or:
+ *
+ * `@include arrow(bottom, center, red, black)`
+ *
+ * which will create a red triangle with a black border which sits at the bottom
+ * center of the element. Call the mixin thus:
+ *
+   .foo{
+       background-color:#BADA55;
+       border:1px solid #ACE;
+       @include arrow(top, left, #BADA55, #ACE);
+   }
+ *
+ */
+/**
+ * Media query mixin.
+ *
+ * It’s not great practice to define solid breakpoints up-front, preferring to
+ * modify your design when it needs it, rather than assuming you’ll want a
+ * change at ‘mobile’. However, as inuit.css is required to take a hands off
+ * approach to design decisions, this is the closest we can get to baked-in
+ * responsiveness. It’s flexible enough to allow you to set your own breakpoints
+ * but solid enough to be frameworkified.
+ *
+ * We define some broad breakpoints in our vars file that are picked up here
+ * for use in a simple media query mixin. Our options are:
+ *
+ * palm
+ * lap
+ * lap-and-up
+ * portable
+ * desk
+ * desk-wide
+ *
+ * Not using a media query will, naturally, serve styles to all devices.
+ *
+ * `@include media-query(palm){ [styles here] }`
+ *
+ * We work out your end points for you:
+ */
+/* normalize.css v2.1.0 | MIT License | git.io/normalw-blur:blur(12px)}.xl\:blur-lg{--tw-blur:blur(16px)}.xl\:blur-xl{--tw-blur:blur(24px)}.xl\:blur-2xl{--tw-blur:blur(40px)}.xl\:blur-3xl{--tw-blur:blur(64px)}.xl\:brightness-0{--tw-brightness:brightness(0)}.xl\:brightness-50{--tw-brightness:brightness(.5)}.xl\:brightness-75{--tw-brightness:brightness(.75)}.xl\:brightness-90{--tw-brightness:brightness(.9)}.xl\:brightness-95{--tw-brightness:brightness(.95)}.xl\:brightness-100{--tw-brightness:brightness(1)}.xl\:brightness-105{--tw-brightness:brightness(1.05)}.xl\:brightness-110{--tw-brightness:brightness(1.1)}.xl\:brightness-125{--tw-brightness:brightness(1.25)}.xl\:brightness-150{--tw-brightness:brightness(1.5)}.xl\:brightness-200{--tw-brightness:brightness(2)}.xl\:contrast-0{--tw-contrast:contrast(0)}.xl\:contrast-50{--tw-contrast:contrast(.5)}.xl\:contrast-75{--tw-contrast:contrast(.75)}.xl\:contrast-100{--tw-contrast:contrast(1)}.xl\:contrast-125{--tw-contrast:contrast(1.25)}.xl\:contrast-150{--tw-contrast:contrast(1.5)}.xl\:contrast-200{--tw-contrast:contrast(2)}.xl\:drop-shadow-sm{--tw-drop-shadow:drop-shadow(0 1px 1px rgba(0,0,0,0.05))}.xl\:drop-shadow{--tw-drop-shadow:drop-shadow(0 1px 2px rgba(0, 0, 0, 0.1)) drop-shadow(0 1px 1px rgba(0, 0, 0, 0.06))}.xl\:drop-shadow-m
+
+/* ==========================================================================
+   Links
+   ========================================================================== */
+/*
+ * Address `outline` inconsistency between Chrome and other browsers.
+ */
+a:focus {
+  outline: thin dotted; }
+
+/*
+ * Improve readability when focused and also mouse hovered in all browser

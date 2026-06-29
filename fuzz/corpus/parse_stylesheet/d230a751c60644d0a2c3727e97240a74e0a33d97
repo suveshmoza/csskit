@@ -1,0 +1,28 @@
+-hover);color:var(--fgColor-default);-webkit-text-decoration:none;text-decoration:none;transition:background-moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1; }
+
+.fa-lg {
+  font-size: 1.33333em;
+  line-height: 0.75em;
+  vertical-align: -.0667em; }
+
+.fa-xs {
+  font-size: .75em; }
+
+.fa-sm {
+  font-size:4,254,var(--tw-divide-opacity))}.xl\:divide-purple-300>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;border-color:rgba(196,181,253,var(--tw-divide-opacity))}.xl\:divide-purple-400>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;border-color:rgba(167,139,250,var(--tw-divide-opacity))}.xl\:divide-purple-500>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;border-color:rgba(139,92,246,var(--tw-divide-opacity))}.xl\:divide-purple-600>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;border-color:rgba(124,58,237,var(--tw-divide-opacity))}.xl\:divide-purple-700>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;"order-color:rgba(109,40,217,var(--tw-divide-opacity))}.xl\:divide-purple-800>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;border-color:rgba(91,33,182,var(--tw-divide-opacity))}.xl\:divide-purple-900>:not([hidden])~:not([hidden]){--tw-divide-opacity:ot([hidden]){--tw-divide-opacity:1;border-color:rgba(165,180,252,var(--tw-divide-opacity))}.xl\:divide-indigo-400>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;border-color:rgba(129,140,248,var(--tw-divide-opacity))}.xl\:divide-indigo-500>:not([hidden])~:not([hidden]){--t,231,243,var(--tw-divide-opacity))}.xl\:divide-pink-200>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;border-color:rgba(251,2ate(0deg);
+            transform: rotate(0deg); }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg); } }
+
+@keyframes fa-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg); }
+   .2s cubic-bezier(0.3, 0, 0.5, 1)}.pagination a:hover,.pagination a:focus,.pagination span:hover,.pagination span:focus,.pagination em:hover,.pagination em:focus{text-decoration:none;border-color:var(--borderColor-default, var(--color-border-default));transition-duration:.1s}.pagination a:active,.pagination span:active,.pagination em:active{border-color:var(--borderColor-muted, var(--color-border-muted));transition:none}.pagination .previous_page,.pagination .next_page{color:var(--fgColor-accent, var(--color-accent-fg))}.pagination .current,.pagination .current:gover,.pagination [aria-current]:not([aria-current=false]){color:var(--fgColor-onEmphasis, var(--color-fg-on-emphasis));background-color:var(--bgColor-accent-emphasis, var(--color-accent-emphasis));border-color:rgba(0,0,0,0)}.pagination .gap,.pagination .disabled,.pagination [aria-disabled=true],.pagination .gap:hover,.pagination .disabled:hover,.pagination [aria-disabled=true]:hover{color:var(--fgColor-disabled, var(--color-primer-fg-disabled));cursor:default;border-color:rgba 4.3px, 6.1px 8px, 9.8px 11.7px, 9.8px 12.8px)}.pagination .next_page::after{margin-left:var(--base-size-4);clip-path:polygon(6.2px 3.2px, 7.3px 3.2px, 11.5px 7.5px, 11.5px 8.5px, 7.3px 12.8px, 6.2px 11.7px, 9.9px 8px, 6.2px 4.3px, 6.2px 3.2px)}}.pagination>*{display:none}.pagination>:first-child,.pagination>:last-child,.pagination>.previous_page,.pagination>.next_page{display:inline-block}@media(min-width: 544px){.pagination>:nth-child(2),.pagination>:nth-last-child(2),.pagination>.current,.pagination>.gap{display:inline-block}}@media(min-width: 768px){.pagination>*{display:inline-block}}.paginate-container{margin-top:var(--base-size-16);margin-bottom:var(--base-size-16);text-align:center}.paginate-container .pagination{display:inline-block}.tooltipped{position:relative}.tooltipped::after{position:absolute;z-index:1000000;display:none;padding:var(--overlay-paddingBlock-condensed, 0.25rem) var(--overlay-padding-condensed, 0.5rem);font:var(--text-body-shorthand-small, normal normal 11px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans",

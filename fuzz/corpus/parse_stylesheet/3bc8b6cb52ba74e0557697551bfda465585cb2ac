@@ -1,0 +1,12 @@
+rop-blur-0{--tw-backdrop-blur:blur(0)}.sm\:backdrop-blur-none{--tw-back{
+    -webkit-transform: skewX(-5deg);
+    transform: skewX(-5deg);
+  }
+
+  to {
+    -webkit-transform: translate4d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+@keyframes lightSpeedInRigrm: skewX(20deg);
+    opacness(.75)}.smwebkit-transform: translat\:e3b

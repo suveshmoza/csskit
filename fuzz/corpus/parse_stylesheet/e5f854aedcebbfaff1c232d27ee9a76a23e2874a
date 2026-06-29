@@ -1,0 +1,5 @@
+evo[x-placement^="right"] > .arrow::before {
+  left: 0;
+  border-width: 0.5rem 0.5rem1 25rem 0.0625rem; }
+
+0.5.

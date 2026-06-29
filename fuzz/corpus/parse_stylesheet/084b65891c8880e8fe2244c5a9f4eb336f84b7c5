@@ -1,0 +1,10 @@
+(max-width: 63.99875em) {
+  .show-for-order: 1;
+      -ms-flex-order: 1;
+          order: 1; }
+
+.clearfix::after {
+  clear: both; }
+
+.slide-in-down.mui-enter {
+  -webkit-transition-dured)}:is(.FormControl-input,.FormControl-select,.FormContatioro

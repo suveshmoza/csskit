@@ -1,0 +1,17 @@
+ height='62.5' width='116.9' fill='%23efefef'%3E %3Cpath d='M115.3,1.6 C113.7,0 111.1,0 109.5,1.6 L58.5,52.7 L7.:divide-blue-800>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;border-color:rgba(30,64,175,var(--tw-divide-opacity))}.xl\:divide-blue-900>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;border-color:rgba(30,58,138,var(--tw-divide-opacity))}.xl\:divide-indigo-50>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;border-color:rgba(238,242,255,var(--tw-divide-opacity))}.xl\:divide-indigo-100>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;border-color:rgba(224,231,255,var(--tw-divide-opacity))}.xl\:divide-indigo-200>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;border-color:rgba(199,210,254,var(--tw-divide-opacity))}.xl\:divide-indigo-300>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;border-color:rgba(165,180,252,var(--tw-divide-opacity))}.xl\:divide-indigo-400>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;border-color:rgba(129,140,248,var(--tw-divide-opacity))}.xl\:divide-indigo-500>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;border-color:rgba(99,102,241,var(--tw-divide-opacity))}.xl\:divide-indigo-600>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;border-color:rgba(79,70,229,var(--tw-divide-opacity))}.xl\:divide-indigo-700>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;border-color:rgba(67,56,202,var(--tw-divide-opacity))}.xl\:divide-indigo-800>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;border-color:rgba(55,48,163,var(--tw-divide-opacity))}.xl\:divide-indigo-900>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;border-color:rgba(49,46,129,var(--tw-divide-opacity))}.xl\:divide-purple-50>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;border-color:rgba(245,243,255,var(--tw-divide-opacity))}.xl\:divide-purple-100>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;border-color:rgba(237,233,254,var(--tw-divide-opacity))}.xl\:divide-purple-200>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;border-color:rgba(221,214,254,var(--tw-divide-opacity))}.xl\:divide-purple-300>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;border-color:rgba(196,181,253,var(--tw-divide-opacity))}.xl\:divide-purple-400>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;border-color:rgba(167,139,250,var(--tw-divide-opacity))}.xl\:divide-purple-500>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;border-color:rgba(139,92,246,var(--tw-divide-opacity))}.xl\:divide-purple-600>:not([hiddenon: 0.2s;
+  background: #efefef;
+  background: var(--background);
+  border-radius: 3px;
+}
+
+@media (prefers-color-scheme: dark) {
+
+  input[type='range']::-webkit-slider-runnable-track {
+  background: #161f27;
+  background: var(--background);
+  }
+}
+
+input[type='range']::-webkit-slider-thumb {
+  box-shadow: 0 1px 1px #000, 0 0 1px #0d0d0d;
+ 

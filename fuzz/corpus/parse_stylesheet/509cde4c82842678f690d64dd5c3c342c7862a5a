@@ -1,0 +1,15 @@
+evo[x-placement^="right"] > .arrow::before {
+  left: 0;
+  border-width: 0.5rem 0.5rem 0.5rem 0;
+  border-right-color: rgba(0.arrow, .bs-popover-auto[x-placement^="bottom"] > .arrow {
+  top: calc(-0.5rem - 1px);
+}
+
+.bs-popover-bottom > .arrow::before, .bs-popover-auto[x-placement^="bottom"] > .arrow:ersolor: #fff;
+}
+
+.bs-popover-bottom, .bs-popover-auto[x-placement^="bottom"] {
+  margin-top: 0.5rem;
+}
+
+.bs-popover-b-tw-placeholder-opacity:1;color:rgba(253,242,248,var(--tw-placeholder-opacity))}.\32xl\:focus\:placeholder-pink-100:focus::placeholder{--tw-placeholder-opacity:1;color:rity))}.\32xl\:focus\:placeholder-purple-300:focus::placeholder{--tw-placeholder-opacity:1;color:rgba(196,181,253,var(-gba(252,231,243,var(--tw-placeholder-opacity))}.\32xl\:focus\:placeholder-pink-200:focus::placeholder{--tw-placeholder-opacity:1;color:rgba(251,207,232,var(--tw-placeholder-opacity))}.\32xl\:focus\:placeholder-pink-300:focus::placeholder{--tw-placeholder-opacity:1;color:rgba(249,168,212,var(--tw-placeholder-opacity))}.\32xl\:focus\:placeholder-pink-400:focus::placeholder{--tw-placeholder-opacity:1;color:rgba(244,114,182,var(--tw-placeholder-opacity))}.\32xl\:focus\:placeholder-pink-500:focus::placeholder{--tw-placeholder-opacity:1;color:rgba(236,72,153,var(--tw-placeholder-opacity))}.\32xl\:focus\:placeholder-pink-600:focus::placeholder{--tw-placeholder-opacity:1;color:rgba(219,39,119,var(--tw-placeholder-opacity))}.\32xl\:focus\:placeholder-pink-700:focus::placeholder{--tw-placeholder-opacity:1;color:rgba(ceholder-opacity))}.\32xl\:focus\:placeholder-indigo-900:focus::placeholder{--tw-placeholder-opacity:1;color:rgba(49,46,129,var(--tw-placeholder-opacity))}.\32xl\:focus\:placeholder-purple-50:focus::placeholder{--tw-placeholder-opacity:1;color:rgba(245,243,255,var(--tw-placeholder-opacity))}.\32xl\:focus\:placeholder-purple-100:focus::placeholder{--tw-placeholder-opacity:1;color:rgba(237,233,254,var(--tw-placeholder-opacity))}.\32xl\:focus\:placeholder-purple-200:focus::placeholder{--tw-placeholder-opacity:1;color:rgba(221,214,254,var(--tw-placeholder-opacity))}.\32xl\:focus\:placeholder-purple-300:focus::placeholder{--tw-placeho)}.\32xl\:focus\:placeholder-purple-400:focus::placeholder{--tw-placeholder-opacity:1;color:rgba(167,139,250,var(--tw-placeholder-opacity))}.\32xl\:focus\:placeholder-purple-500:focus::placeholder{--tw-placeholder-opacity:1;color:rgba(139,92,246,var(--tw-placeholder-opacity))}.\32xl\:focus\:placeholder-purple-600:r-opacity-25::placeholder{--tw-placeholder-opacity:0.25}.\32xl\:placeholder-opacity-30::placeholder{--tw-placeholder-opacity:0.3}.\3focus::placeholder{--tw-placeholde2x

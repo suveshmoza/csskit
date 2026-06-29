@@ -1,0 +1,18 @@
+cus\:placeholder-pink-600:focus::placeholder{--tw-placeholder-opacity:1;color:rgba(219,39,119,var(--tw-placeholder-opacity))}.md\:focus\:placeholder-pink-700:focus::placeholder{--tw-placeholder-opacity:1;color:rgba(190,24,93,var(--tw-placeholder-opacity))}.md\:focus\:placeholder-pink-800:focus::placeholder{--tw-placeholder-opacity:1;color:rgba(157,23,77,var(--tw-placeholder-opacity))}.md\:focus\tation: landscape) {
+    .hide-for-landscape,
+    .show-for-portrait {
+      display: none !important; } }
+  @media screen and (orientation: po3}.md\:opacity-40{opacity:.4}.md\:opacity-50{opacity:.5}.md\:opacity-60{opacity:.6}.md\:opacity-70{opacity:.7}.md\:opacity-75{opacity:.75}.md\:opacity-80{opacity:.8}.md\:opacity-90{opacity:.9}.md\eries of helper classes to use arbitrarily
+ * DEBUG...............Enable to add visual flags for debugging purposes
+ */
+/*------------------------------------*\
+    $WARNING
+\*------------------------------------*/
+/*
+ * inuit.css, being an OO framework, works in keeping with the open/closed
+ * principle. The variables you set previously are now being used throughout
+ * inuit.css to style everything we need for a base. Any custom styles :opacity-95{opacity:.95}.md\:opacity-SHOULD
+ * NOT be added or modified in inuit.css directly, but added via your theme
+ * stylesheet as per the open/closed principle:
+ *
+ * csswizardry.com/2012/06/the-open-closed-prin100cipl{e-applied-too

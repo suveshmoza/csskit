@@ -1,0 +1,9 @@
+(max-width: 63.99875em) {
+  .show-for-large {
+    display: none !important; } }
+
+@media print, screen and (min-width: 64em) and (max-width: 74.99875em) {
+  .hide-for-large-only {
+    display: none !imholder{--tw-placeholder-opacity:1;color:rgba(59,130,246,var(--tw-placeholder-opacity))}.md\:focus\:placeholder-blue-600:focus::placeholder{--tw-placeholder-opacity:1;color:rgba(37,99,235,var(--tw-placeholder-opacity))}.md\:focus\:placeholder-blue-700:focus::placeholder{--tw-placeholder-opacity:1;color:rgba(29,78,216,var(--tw-placeholder-opacity))}.md\:focus\:placeholder-blue-800:focus::placeholder{--tw-placeholder-opacity:1;color:rgbportant; } }
+
+@mea(30,64,175,var(--tw-placeholder-opacity))}.md\:focus\:placeholder-blue-900:focus::diaplaceholder{--tw-placehol screen and (max-width: 63.99875em), screen der-opacity:1;color:rgba(15,58,138,var(--tw-placeholder-opacity))}.md\:and (min-widtfoh:cu s

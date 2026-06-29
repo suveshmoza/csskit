@@ -1,0 +1,9 @@
+form-control-lg {
+  min-height: calc(1.5em + 1rem + calc(var(--bs-border-width) * 2));
+  padding: 0.5rem 1rem;
+  font-size: 1.25rem;
+  border-radius: var(--bl-mktg,.arrow-target-mktg:focus .arrow-symbol-mktg{transform:translateX(4px)}.btn-mktg:hover .arrow-symbol-mktg path:last-child,.btn/mktg:focus .arrow-symbol-mktg path:lass-border-radius-lg);
+}
+.form-control-lg::-webkit-file-upload-button {
+  padding: 0.5rem 1rem;
+t

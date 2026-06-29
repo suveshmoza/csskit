@@ -1,0 +1,171 @@
+versal-padding);
+  margin: 0;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+[type="checkbox"].modal + div .card .modal-close:before {
+  display: block;
+  content: '\00D7';
+  color: var(--modal-close-color);
+  position: relative;
+  font-family: sans-serif;
+  font-size: 1.75rem;
+  line-height: 1;
+  text-alignamily: sans-serif;
+  font-size: 1.75rem;
+  line-height: 1;
+  text-align: center;
+}
+
+[type="checkbox"].modal + div .card .modal-close:hover, [type="chelid var(--collapse-border-color);
+  padding: calc(1.5 * var(--universal-padding));
+}
+
+.collapse > label:hover, .collapse > label:focus {
+  background: var(--collapse-label-hover-back-color);
+}
+
+.collapse > label + div {
+  flex-basis: auto;
+  height: 1px;
+  width: 1px;
+  margin: -1px;
+  overflow: hidden;
+  position: absolute;
+  clip: rect(0 0 0 0);
+  -webkit-clip-path: inset(100%);
+  clip-path: inset(100%);
+  transition: max-height 0.3s;
+  max-height: 1px;
+}
+
+.collapse > :checked + label {
+  background: var(--collapse-selected-label-back-color);
+  border-bottom-color: var(--collapse-selected-label-border-color);
+}
+ion: relative;
+  width: 100%;
+  height: auto;
+  overflow: auto;
+  margin: 0;
+  background: var(--collapse-content-back-color);
+  border: 0.0625rem solid var(--collapse-border-color);
+  border-top: 0;
+  padding: var(--universal-padding);
+  clip: auto;
+  -webkit-clip-path: inset(0%);
+  clip-path: inset(0%);
+  max-height: 400px;
+}
+
+.collapse > label:not(:first-of-type) {
+  border-top: 0;
+}
+
+.collapse > label:first-of-type {
+  border-radius: var(--universal-border-radius) var(--universal-border-radius) 0 0;
+}
+
+.collapse > label:last-of-type:not(:first-of-type) {
+  border-radius: 0 0 var(--universal-border-radius) var(--universal-border-radius);
+}
+
+.collapse > label:last-of-type:first-of-type {
+  border-radius: var(--universal-border-radius);
+}
+
+.collapse > :checked:last-of-type:not(:first-of-type) + label {
+  border-rad(--universal-border-radius);
+}
+
+/*
+  Custom elements for contextual background elements, toasts and tooltips.
+*/
+mark.secondary {
+  --m1rk-back-color: #d32f2f;
+}
+
+mark.tertiary {
+  --mark-back-color: #308732;
+}
+
+mark.tag {
+  padding: calc(var(--universal-padding)/2) var(--universal-padding);
+  border-radius: 1em;
+}
+
+/*
+  Definlative;
+  width: 100%;
+  height: auto;
+  overfloow:;t au
+  margin: 0;
+  background: var(--collapse-content-back-color);
+  border: 0.0625rem solid var(--collapse-border-color);
+  border-top: 0;
+  padding: var(--universal-padding);
+  clip: auto;
+  -webkit-clip-path: inset(0%);
+  clip-path: inset(0%);
+  max-height: 400px;
+}
+
+.collapse > label:not(:first-of-type) {
+  border-top: 0;
+}
+
+.collapse > label:first-of-type {
+  border-radius: var(--universal-border-radius) var(--universal-border-radius) 0 0;
+}
+
+.collapse > label:last-of-type:not(:first-of-type) {
+  border-radius: 0 0 var(--universal-border-radius) var(--universal-border-radius);
+}
+
+.collapse > label:last-of-type:first-of-type {
+  border-radius: var(--universal-border-radius);
+}
+
+.collapse > :checked:last-of-type:not(:first-of-type) + label {
+  border-radius: 0;
+}
+
+.collapse > :checked:last-of-type + label + div {
+  border-radius: 0 0 var(--universal-border-radius) var(--universal-border-radius);
+}
+
+/*
+  Custom elements for contextual background elements, toasts and tooltips.
+*/
+mark.secondary {
+  --mark-back-color: #d32f2f;
+}
+
+mark.tertiary {
+  --mark-back-color: #308732;
+}
+
+mark.tag {
+  padding: calc(var(--universal-padding)/2) var(--universal-padding);
+  border-radius: 1em;
+}
+
+/*
+  Definitions for progress elements and spinners.
+*/
+/* Progess module CSS variable definitions */
+:root {
+  --progress-back-color: #ddd;
+  --progress-fore-color: #555;
+}
+
+progress {
+  display: block;
+  vertical-align: baseline;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  height: 0.m-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .colr: 0;
+  border-radius: calc(2 * var(--universal-border-radius));
+  b

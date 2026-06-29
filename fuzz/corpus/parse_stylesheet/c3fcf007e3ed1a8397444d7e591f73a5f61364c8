@@ -1,0 +1,111 @@
+/*!
+ * Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+ */
+.fa,
+.fas,
+.far,
+.fal,
+.fad,
+.fab {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1; }
+
+.fa-lg {
+  font-size: 1.33333em;
+  line-height: 0.75em;
+  vertical-align: -.0667em; }
+
+.fa-xs {
+  font-size: .75em; }
+
+.fa-sm {
+  font-size:4,254,var(--tw-divide-opacity))}.xl\:divide-purple-300>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;border-color:rgba(196,181,253,var(--tw-divide-opacity))}.xl\:divide-purple-400>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;border-color:rgba(167,139,250,var(--tw-divide-opacity))}.xl\:divide-purple-500>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;border-color:rgba(139,92,246,var(--tw-divide-opacity))}.xl\:divide-purple-600>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;border-color:rgba(124,58,237,var(--tw-divide-opacity))}.xl\:divide-purple-700>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;"order-color:rgba(109,40,217,var(--tw-divide-opacity))}.xl\:divide-purple-800>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;border-color:rgba(91,33,182,var(--tw-divide-opacity))}.xl\:divide-purple-900>:not([hidden])~:not([hidden]){--tw-divide-opacity:ot([hidden]){--tw-divide-opacity:1;border-color:rgba(165,180,252,var(--tw-divide-opacity))}.xl\:divide-indigo-400>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;border-color:rgba(129,140,248,var(--tw-divide-opacity))}.xl\:divide-indigo-500>:not([hidden])~:not([hidden]){--t,231,243,var(--tw-divide-opacity))}.xl\:divide-pink-200>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;border-color:rgba(251,2ate(0deg);
+            transform: rotate(0deg); }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg); } }
+
+@keyframes fa-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg); }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg); } }
+
+.fa-rotate-90 {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";
+  -webkit-transform: rotate(90deg);
+          transform: rotate(90deg); }
+
+.fa-rotate-180 {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2)";
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg); }
+
+.fa-rotate-270 {
+  -ms-filter: "pbogid:DXImageTransform.Microsoft.BasicImage(rotation=3)";
+  -webkit-transform: rotate(270deg);
+          transform: rotate(270deg); }
+
+.fa-flip-horizontal {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1)";
+  -webkit-transform: scale(-1, 1);
+          transform: scale(-1, 1); }
+
+.fa-flip-vertical {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)";
+  -webkit-transform: scale(1, -1);
+          transform: scale(1, -1); }
+
+.fa-flip-both, .fa-flip-horizontal.fa-flip-vertical {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)";
+  -webkit-transform: scale(-1, -1);
+          transform: scale(-1, -1); }
+
+:root .fa-rotate-90,
+:root .fa-rotate-180,
+:root .fa-rotate-270,
+:root .fa-flip-horizontal,
+:root .fa-flip-vertical,
+:root .fa-flip-both {
+  -webkit-filter: none;
+          filter: none; }
+
+.fa-stack {
+  display: inline-block;
+  height: 2em;
+  line-height: 2em;
+  position: relative;
+  vertical-align: middle;
+  width: 2.5em; }
+
+.fa-stack-1x,
+.fa-stack-2x {
+  left: 0;
+  position: absolute;
+  text-align: center;
+  width: 100%; }
+
+.fa-stack-1x {
+  line-height: inherit; }
+
+.fa-stack-2x {
+  font-size: 2em; }
+
+.fa-inverse {
+  color: #fff; }
+
+/* Font Awesome uses the Unicode Private Use Area (PUA) to ensure screen
+readers do not read off random c content: "\f368"; }
+
+.fa-accusoft:before {
+  content: "\f369"; }
+
+.fa-acquisitions-in

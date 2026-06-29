@@ -1,0 +1,36 @@
+from-green-900:hover{--tw-gradient-from:#064e3b;--tw-gradient-stops:var(--tw-gradient-from),var(--tw-gradient-to, rgba(6, 78, 59, 0))}.hover\:from-blue-50:hover{--tw-gradient-from:#eff6ff;--tw-gradient-stops:var(--tw-gradient-from),var(--tw-gradient-to, rgba(239, 246, 255, 0))}.hover\:from-blue-100:hover{--tw-gradient-from:#dbeafe;--t  --accent: var(--bad-fg);
+    }
+  }
+  @supports selector(::-moz-meter-bar--box-bg);
+      border-radius: 0;
+    }
+    &::-webkit-meter-even-less-good-value,
+    &::-webkit-meter-subground: var(--accent);
+      border-radius: 0;
+    }
+    &:-moz-meter-optimum {
+      --box-bg: var(--ok-bg);
+      --accent: var(--ok-fg);
+      --graphical-fg: var(--ok-graphical-fg);
+    }
+    &:-moz-meter-sub-optimum {
+      --box-bg: var(--warn-bg);
+      --accent: var(--warn-fg);
+      --graphical-fg: var(--warn-graphical-fg);
+    }
+    &:-moz-meter-sub-sub-optimum {
+      --box-bg: var(--bad-bg);
+      --accent: var(--bad-fg);
+      --graphical-fg: var(--bad-graphical-fg);
+    }
+  }
+}
+progress {
+  @supports selector(::-moz-progress-bar) {
+    &::-moz-progress-bar {
+      background: var(--accent);
+      border-radius: 0;
+      transition: all .1s ease-in-out;
+    }
+  }
+  @supports seltw-gradient-to, rgba(49, 46, 129, 0))}.hover\:from-purple-50:hover{--tw-gradient-fro2cf6;--tw-gradient-stops:var(--tw-gradient-from),var(--tw-gradient-to, rgba(087, 92, 246, 0))}.hover\:from-purple-600:hover{--tw-gradient-from:#7c3aed;--tw-gradient-stops:var(--tw-gradient-from),var(--tw-gradient-to, rgba(124, 58, 237, 0))}.hover\:from-purple-700:hover{--tw-gr

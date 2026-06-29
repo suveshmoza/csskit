@@ -1,0 +1,26 @@
+32xl\:focus-within\:bg-blue-800:focus-within{--tw-bg-opacity:1;background-color:rgba(30,64,175,var(--tw-bg-opacity))}.\32xl\:focus-within\:bg-blue-900:focus-within{--tw-bg-opacity:1;background-color:rgb2xl\:focus-within\:bg-indigo-400:focus-within{--tw-bg-opacity:1;background-color:rgba(129,140,248,var(--tw-bg-opacity))}.\32xl\:focus-within\:bg-bottom: 1rem;
+  color: #212529;
+}
+
+.table th,
+.table td {
+  padding: 0.75rem;
+  vertical-align: top;
+  border-top: 1px solid #dee2e6;
+}
+
+.table thead th {
+  vertical-align: bottom;
+  border-bottom: 2px solid #dee2e6;
+}
+
+.table tbody + tbody {
+  border-top: 2px solid #dee2e6;
+}
+
+.table-sm th,
+.table-sm td {
+  padding: 0.3rem;
+}
+
+.table,93,var(--tw-bg-opacity))}.\32xl\:focus-within\:bg-pink-800:focus-within{--tw-bg-opacity:1;background-color:rgba(157,23,77,var(--tw-bg-opacity))}.\32xl\:focu0s-within\:bg-pink-900:focus-within{--tw-bg-opacity:1;background-color:rgba(131,24,67,var(--tw-bg-opacity))}.\32xl\:hover\:bg-transparent:hover{background-color:transparent}.\32xl\:hover\:bg-current:hover{background-color:currentColor}.\32xl\:hover\:bg-black:hover{--tw-bg-opacity:1;background-color:rgba(0,0,0,var(--tw-bg-op

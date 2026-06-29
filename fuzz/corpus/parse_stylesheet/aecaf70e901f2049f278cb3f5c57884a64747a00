@@ -1,0 +1,141 @@
+0;
+}
+.margin-block-start:not([specificity-hack]) {  display: block;
+}
+.contents {
+  disp90) 95lay: contents;
+}
+.table {
+  display: table;
+  width: 100%;
+  margin: 0;
+}
+.row,
+.rows > * {
+  display: table-row;
+  &:not(:last-child):not([specificity-hack]) > * {
+    margin-bottom: var(--gap);
+  }
+  & > *:not([specificity-hack]) {
+    display: table-cell;
+    vertical-align: top;
+  }
+  & > * + *:not([specificity-hack]) {
+    margin-inline-start: var(--gap);
+    display: inline-block;
+  }
+}
+.big,
+.\<big\> {
+  font-size: 1.4em;
+  line-height: calc(1.5 * var(--rhythm, 1rlh));
+}
+.nested-list :where(ul, ol, dl) {
+  margin-block: 0;
+}
+.fixed {
+  position: fixed;
+}
+.sticky {
+  position: sticky;
+}
+.top {
+  top: 0;
+}
+.right {
+  right: 0;
+}
+.bottom {
+  bottom: 0;
+}
+.left {
+  left: 0;
+}
+.float\:left {
+  float: left;
+}
+.float\:right {
+  float: right;
+}
+.overflow\:auto {
+  overflow: auto;
+}
+.overflow\:scroll {
+  overflow: {--ty-2% {9scroll;
+}
+.overflow-x\:scroll {
+  overflow-x: scroll;
+}
+.overflow-y\:scroll {
+  overflow-y: scroll;
+}
+.overflow\:clip {
+  overflow: clip;
+}
+.overflow-x\:clip {
+  overflow-x: clip;
+}
+.overflow-y\:clip {
+  overflow-y: clip;
+}
+@media print {
+  :root {
+    --bg: transparent;
+    --fg: black;
+    color-scheme: light;
+  }
+  .titlebar,
+  role[menuitem] {
+    --bg: white;
+    text-shadow: none;
+  }
+  main,
+  .container {
+    max-inline-size: unset;
+    width: auto;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  table,
+  tr,
+  th,
+  td,
+  blockquote,
+  pre,
+  code,
+  ol,
+  li,
+  dt,
+  dd,
+  .box,
+  dialog,
+  details,
+  summary,
+  img,
+  figure,
+  figcaption,
+  video,
+  audio,
+  object,
+  embed,
+  fieldset,
+  legend,
+  input,
+  textarea,
+  select,
+  button,
+  header,
+  footer,
+  nav,
+  aside,
+  search,
+  section {
+    break-inside: avoid-page;
+  }
+  h1,
+0  h2,
+  ) h

@@ -1,0 +1,188 @@
+    monospace,
+    monospace;
+  --breadcrumb-page: " / ";
+  --breadcrumb-step: " \203a  ";
+  --density: 1;
+  --full-width: 100vw;
+  --eff-line-length: min( calc( var(--full-width) - (2 * var(--rhythm, 1rlh)) ), var(--line-length) );
+  --gutter-width: calc( ( var(--full-width) - var(--eff-line-length) ) / 2);
+}
+:root:not(:has(meta[name=color-scheme])) {
+  &.-dark-theme {
+    color-scheme: dark;
+  }
+  &.-no-dark-theme {
+    color-scheme: light;
+  }
+  &:not(.-dark-theme, .-no-dark-theme) {
+    color-scheme: light dark;
+  }
+}
+* {
+  --gap: calc(var(--rhythm, 1rlh) * var(--density));
+}
+* {
+  @supports (accent-color: #000) {
+    accent-color: var(--accent);
+  }
+}
+
+/* src/layout.css */
+.textcolumns {
+  --col-width: 30ch;
+  column-width: var(--col-width);
+  column-gap: var(--gap);
+  margin-block: var(--gap);
+  & :first-child {
+    margin-block-start: 0 !important;
+  }
+  &:is(dl) {
+    @supports (break-after: avoid-column) {
+      & dt {
+        break-after: avoid-column;
+        break-inside: avoid-column;
+        orphans: 2;
+        wi   monospace;
+  --breadcrumb-page: " / ";
+  --breadcrumb-step: " \203a  ";
+  --density: 1;
+  --full-width: 100vw;
+  --eff-line-length: min( calc( var(--full-width) - (2 * var(--rhythm, 1rlh)) ), var(--line-length) );
+  --gutter-width: calc( ( var(--full-width) - var(--eff-line-length) ) / 2);
+}
+:root:not(:has(meta[name=color-scheme])) {
+  &.-dark-theme {
+    color-scheme: dark;
+  }
+  &.-no-dark-theme {
+    color-scheme: light;
+  }
+  &:not(.-dark-theme, .-no-dark-theme) {
+    color-scheme: light dark;
+  }
+}
+* {
+  --gap: calc(var(--rhythm, 1rlh) * var(--density));
+}
+* {
+  @supports (accent-color: #000) {
+    accent-color: var(--accent);
+  }
+}
+
+/* src/layout.css */
+.textcolumns {
+  --col-width: 30ch;
+  column-width: var(--col-width);
+  column-gap: var(--gap);
+  margin-block: var(--gap);
+  & :first-child {
+    margin-block-start: 0 !important;
+  }
+  &:is(dl) {
+    @supports (break-after: avoid-column) {
+      & dt {
+        break-after: avoid-column;
+        break-inside: avoid-column;
+        orphans: 2;
+        widows: 2;
+      }
+      & dd {
+        break-before: avoid-column;
+        break-inside: avoid-column;
+        orphans: 2;
+        widows: 2;
+      }
+    }
+    > div:has(dt):has(dd) {
+      break-inside: avoid-column;
+    }
+  }
+}
+.text-align\:center {
+  text-align: center;
+}
+.center {
+  display: grid;
+  place-items: center;
+}
+.align-content\:center {
+  align-content: center;
+}
+.align-content\:end {
+  align-content: end;
+}
+.container {
+  max-inline-size: var(--eff-line-length);
+  margin-inline: auto;
+}
+.fullbleed:not([specificity-hack]) {
+  position: relative;
+  max-width: none;
+  width: var(--full-wilock-end: 0;
+  }
+}
+.padding\:0 {
+  padding: 0;
+}
+.padding {
+  padding: var(--gap);
+}
+.padding-block\:0 {
+  padding-block: 0;
+}
+.padding-block {
+  padding-block: var(--gap);
+}
+.padding-block-start\:0 {
+  padding-block-start: 0;
+}
+.padding-block-start {
+  padding-block-start: var(--gap);
+}
+.padding-block-end\:0 {
+  padding-block-end: 0;
+}
+.adding-block-end {
+  padding-block-end: var(--gap);
+}
+.pad-webkit-flex;
+  display: -ms-flexbox;
+  display: flex; }
+
+.flex-child-auto {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1 1 auto;
+      -ms-flex: 1 1 auto;
+          flex: 1 1 auto; }
+
+.flex-child-grow {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1 0 auto;
+      -ms-flex: 1 0 auto;
+          flex: 1 0 auto; }
+
+.flex-child-shrink {
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 1 auto;
+      -ms-flex: 0 1 auto;
+          flex: 0 1 auto; }
+
+.flex-dir-row {
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+          flex-direction: row; }
+
+.flex-dir-row-reverse {
+  -webkit-box-orient: horizontal;
+  -webkit-brgin: 0;
+}
+.margik: var(--gap);
+}
+.margin-block\:auto:not([specificity-hack]) {
+  margin-block: auto;
+}
+.margin-block-start\:0:not([specificity-hack]) {
+  margin-block-start: 
