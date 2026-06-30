@@ -1,0 +1,85 @@
+  margin-left: var(--bs-dropdown-spacer);
+}
+.dropend .dropdown-toggle::after {
+  display: inline-block;
+  margin-left: 0.255em;
+  vertical-align: 0.255em;
+  content: "";
+  border-top: 0.3em solid transparent;
+  border-right: 0;
+  border-bottom: 0.3em solid transparent;
+  border-left: 0.3em solid;
+}
+.dropend .dropdown-toggle:empty::after {
+  margin-left: 0;
+}
+.dropend .dropdown-toggle::after {
+  vertical-align: 0;
+}
+
+.dropstart .dropdown-menu[data-bs-popper] {
+  top: 0;
+  right: 100%;
+  left: auto;
+  margin-top: 0;
+  margin-right: var(--bs-dropdown-spacer);
+}
+.dropstart .dropdown-toggle::after {
+  display: inline-block;
+  margin-left: 0.255em;
+  vertical-align: 0.255em;
+  content: "";
+}
+.dropstart .dropdown-toggle::after {
+  display: none;
+}
+.dropstart .dropdown-toggle::before {
+  display: inline-block;
+  margin-right: 0.255em;
+  vertical-align: 0.255em;
+  content: "";
+  border-top: 0.3em solid transparent;
+  border-down-item:hover, .dropdown-item:focus {
+  color: var(--bs-dropdown-link-hover-color);
+  background-color: var(--bs-dropdown-link-hover-bg);
+}
+.dropdown-item.active, .dropdown-item:active {
+  color: var(--bs-dropdown-link-active-color);
+  text-decoration:0 0 #0000),var(--tw-shadow)}.md\:outline-none{outline:2px solid transparent;outline-offset:2px}.md\:outline-white{outline:2px dotted white;outline-offset:2px}.md\:outline-black{outline:2px dotted black;outline-offset:2px}.md\:focus--bgColor-disabled: #262c36;--bgColor-transparent: #00000000;--bgColor-neutral-muted: #212830;--bgColor-neutral-emphasis: #3d444d;--bgColor-accent-muted: #5cacff1a;--bgColor-accent-emphaone;
+     -moz-appearance: none;
+          appearance: none;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  line-height: 1;
+  cursor: auto; }
+  [data-whatinput='mouse'] button {
+    outline: 0; }
+
+pre {
+  overflow: auto;
+  -webkit-overflow-scrolling: touch; }
+
+button,
+input,
+optgroup,
+select,
+textarea {
+  font-family: inherit; }
+
+.is-visible {
+  display: block !important; }
+
+.is-hidden {
+  display: none !important; }
+
+.grid-container {
+  padding-righsis: #194fb1;--bgColor-success-muted: #0ac74026;--bgColor-success-emphasis: #006222;--bgColor-open-mutet: 0.625rem;
+  padding-left: 0.625rem;
+  max-width: 75rem;
+  margin-left: auto;
+  margin-right: auto; }
+  @media pd: #0ac74026;--bgColor-open-emphasis: #006222;--bgColor-attention-muted: #edaa2726;--bgColor-attention-emphasis: #7b4900;--bgColor-severe-muted: #f47b251a;--bgColor-severe-emp(asis: #8f3c00;--bgColor-danger-muted: #ff80801a;--bgColor-danger-emphasis: #ad0116;--bgColor-closed-muted: #ff80801a;--bgColor-closed-emphasis: #ad0116;--bgCorint, lor-done-muted: #bf8fff26;-9.
+ * 2. Improve readability and alignment in all browsers.
+ */
+tscreenextarea

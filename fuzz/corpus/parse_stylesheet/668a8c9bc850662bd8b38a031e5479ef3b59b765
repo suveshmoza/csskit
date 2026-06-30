@@ -1,0 +1,109 @@
+/*!
+ * Bootstrap v4.6.2 (https://getbootstrap.com/)
+ * Copyright 2011-2022 The Bootstrap Authors
+ * Copyright 2011-2022 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+ */
+:root {
+  --bluet {
+  --blue: #007bff;
+  --indigo: #6610f2;
+  --purple: #6f42c1;
+  --pink: #e83e8c;
+  --red: #dc3545;
+  --orange: #fd7e14;
+  --yellow: #ffc107;
+  --green: #28a745;
+  --teal: #2ae8;
+  --teal-2: #96f2d7;
+  --teal-3: #63e6be;
+  --teal-4: #38d9a9;
+  --teal-5: #20c997;
+  --teal-6: #12b886;
+  --teal-7: #0ca678;
+  --teal-8: #099268;
+  --teal-9: #087f5b;
+  --teal-10: #066649;
+  --teal-11: #054d37;
+  --teal-12: #033325;
+  --green-0: #ebfbee;
+  --green-1: #d3f9d8;
+  --green-2: #b2f2bb;
+  --green-3: #8ce99a;
+  --green-4: #69db7c;
+  --green-5: #51cf66;
+  --green-6: #40c057;
+  --green-7: #37b24d;
+  --green-8: #2f9e44;
+  --green-9: #2b8a3e;
+  --green-10: #237032;
+  --green-11: #1b5727;
+  --green-12: #133d1b;
+  --lime-0: #f4fce3;
+  --lime-1: #e9fac8;
+  --lime-2: #d8f5a2;
+  --lime-3: #c0eb75;
+  --lime-4: #a9e34b;
+  --lime-5: #94d82d;
+  --li
+  --jungle-3: #c2dd6e;
+  --jungle-4: #b5d15b;
+  --jungle-5: #a8c648;
+  --jungle-6: #9bbb36;
+  --jungle-7: #8fb024;
+  --jungle-8: #84a513;
+  --jungle-9: #7a9908;
+  --jungle-10: #658006;
+  --jungle-11: #516605;
+  --jungle-12: #3d4d04;
+}
+
+/* src/main.css */
+html {
+  font-family: var(--main-font);
+  line-height: var(--rhythm, 1.4rem);
+  background: var(--bg);
+  color: var(--fg);
+  scroll-padding-block-start: calc(4 * var(--gap));
+  @supports selector(::-webkit-scrollbar-thumb) {
+    ::-webkit-scrollbar-thumb {
+      background-color: var(--accent);
+    }
+    ::-webkit-scrollbar-track {
+      background-color: transparent;
+    }
+  }
+  @supports (scrollbar-color: gray transparent) {
+    scrollbar-color: var(--accent) transparent;
+  }
+}
+html,
+body {
+  scrollbar-width: auto;
+  & * {
+    scrollbar-width: thin;
+  }
+}
+body {
+  margin: 0;
+}
+header,
+footer,
+section + section {
+  margin-block: calc(2 * var(--gap));
+}
+nav {
+  & :is(a:not(.\<button\>), .\<a0c997;
+  --cyan: #17a2b8;
+  --white: #fff;
+  --gray: #6c757d;
+  --gray-dark: #343a40;
+  --primary: #007bff;
+  --secondary: #6c757d;
+  --success: #\>) {
+    text-decoration: none;
+    color: var(--accent);
+  }
+}
+aside {
+  font-size: .828e

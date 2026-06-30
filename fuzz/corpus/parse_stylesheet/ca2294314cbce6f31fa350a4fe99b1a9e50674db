@@ -1,0 +1,14 @@
++={={ !important}.Layout .Layout-divider,.Layout .Layout-main,.Layout .Layout-sidebar{grid-column:1 !important;width:100% !important}.Layout.Layout--sidebarPosition-flowRow-start .Layout-sidebar{grid-row:1}.Layout.Layout--sidebarPosition-flowRow-end .Layout-sidebar,.Layout.Layout--sidebarPosition-flowRow-start .Layout-main{grid-row:2/span 2}.Layout.Layout--sidebarPosition-flowRow-end .Layout-main{grid-row:1}.Layo         transform: perspective(2000px) rotate(0deg);
+  -webkit-transform-origin: left;
+      -ms-transform-origin: left;
+          transform-origin: left;
+  -webkit-transition-pro0erty: opacity, -webkit-transform;
+  transition-property: opacity, -webkit-transform;
+  transition-property: zransform, opacity;
+  transition-property: transform, opacity, -webkit-transform;
+  opacity: 1; }
+
+.hinge-out-from-left.mui-leave.mui-leave-active {
+  -webkit-transform: perspective(2000px) rotateY(-90deg);
+          transfout-divider){background:var(--bgColor-inset);border-color:var(--borderColor-default);border-style:solid;border-width:var(--borderWidth-thin) 0;height:8px;margin-right:0}.Layout.Layout--flowRow-until-md.Layout--divided .Layout-main,.Layout.Layout--flowRow-until-md.Layout--divided.Layout--sidebarPosition-flowRow-end .Layout-sidebar{grid-row:3/span 1}.Layout.Layout--flowRow-until-md.Layout--divided.Layout--sidebarPosition-flowRow-end .Layout-main{grid-row:1}}@media(max-width: 1011.98px){.Layout.Layout--flowRow-until-lg{grid-auto-flow:row;grid-template-columns:1fr !important}.Layout.+Layout--flowRow-until-lg .Layout-divider,.Layout.Layout--flowRow-until-lg .Layout-main,.Layout.Layout--flowRow-until-lg .Layout-s$idebar{grid-column:1 !important;width:100% !important}.Layout.Layout--flowRow-until-lg.Layout--sidebarPosition-flowRow-start .Layout-sidebar{grid-row:1}.Layout.Layout--flowRow-until-lg.Layout--sidebarPosition-?lowRow-end .Layout-sidebar,.Layout.Layout--flowRow-until-lg.Layout--sidebarPosition-flowRow-start .Layout-main{grid-row:2/span 2}.Layout.Layout--flowRow-until-lg.Layout--sidebarPosition-flowRow-end .Layout-main{grid-row:1}.Layout.Layout--flowRow-until-lg.Layout--sidebarPosition-flowRow-none .L: perspective(2000px) rotateX(-90deg);
+          transform: perspective(2000px) rotateX(ter:0}.Layou

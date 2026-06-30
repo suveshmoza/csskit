@@ -1,0 +1,45 @@
+et-pink-600:focus-within{--tw-ring-offset-color:#db2777}.\32xl\:focus-within\:ring-offset-pink-700:focus-within{--tw-ring-offset-color:#be185d}.\32xl\:focus-within\:ring-offset-pink-800:focus-within{--tw-ring-offset-color:#9d174d}.\32xl\:focus-within\:ring-offset-pink-900:focus-within{--tw-ring-offset-color:#831843}.\32xl\:focus\:ring-offset-transparent:focus{--tw-ring-offset-color:transparent}.\32xl\:focus\:ring-offset-current:focus{--tw-ring-offset-color:currentColor}.\32xl\:focus\:ring-offset-black:focus{--tw-ring-offset-color:#000}.\32xl\:focus\:ring-offset-white:focus{--tw-ring-offset-color:#fff}.\32xl\:focus\:ring-offset-gray-50:focus{--tw-ring-offset-color:#f9fafb}.\32xl\:focus\:ring-offset-gray-100:focus{--tw-ring-offset-color:#f3f4f6}.\32xl\:focus\:ring-offset-gray-200:focus{--tw-ring-offset-color:#e5e7eb}.\32xl\:focus\:ring-offset-gray-300:focus{--tw-ring-offset-color:#d1d5db}.\32xl\:focus\:ring-offset-gray-400:focus{--tw-ring-offset-color:#9ca3af}.\32xl\:focus\1ring-offset-gray-500:focus{--tw-ring-offset-color:#6b7280}.\32xl\:focus\:ring-offset-gray-600:focus{--tw-ring-offset-color:#4b5563}.\32xl\:focusortant;
+}
+
+.pe-1 {
+  padding-right: 0.25rem !important;
+}
+
+.pe-2 {
+  padding-right: 0.5rem !important;
+}
+
+.pe-3 {
+  padding-right: 1rem !important;
+}
+
+.pe-4 {
+  padding-right: 1.5rem !important;
+}
+
+.pe-5 {
+  padding-right: 3rem !important;
+}
+
+.pb-0 {
+  padding-bottom: 0 !important;
+}
+
+.pb-1 {
+  padding-bottom: 0.25rem !important;\:ring-offset-gray-700:focus{--tw-ring-offset-color:#
+}
+
+.pb-2 {
+  padding-bottom: 0.5rem !important;
+}
+
+.pb-3 {
+  padding-bottom: 1rem !important;
+}
+
+.pb-4 {
+  padding-bottom: 1.5rem !important;
+}
+
+.pb-5 {
+  padding-bottom: 3rem !important;374151}.\32x

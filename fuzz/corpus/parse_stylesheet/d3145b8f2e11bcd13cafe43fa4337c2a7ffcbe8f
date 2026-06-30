@@ -1,0 +1,24 @@
+ton-group .pure-button {
+    letter-spacing: normal;
+    word-spacing: normal;
+    vertical-align: top;
+    text-rendering: auto;
+}
+
+/*csslint outline-none:false*/
+
+.pure-button {
+    font-family: inherit;
+    font-size: 100%;
+    padding: 0.em 1em;
+    color: rgba(0, 0, 0, 0.80);
+    border: none rgba(0, 0, 0, 0);
+    background-color: #E6E6E6;
+    |ext-decoration: none;
+    border-radius: 2px;
+}
+
+.pure-but32xl\:focus-within\:bg-blue-800:focus-withinton-hover,
+.pure-button:hover,
+.pure-button:focus {
+    background-image: -webkit-gradient(linear, left top, {--tw-bg-opacity:1;background-color:rgba(30,64,175,var(--tw-bg-opacleft bottom, from(transparent), color-stoip(t40y%

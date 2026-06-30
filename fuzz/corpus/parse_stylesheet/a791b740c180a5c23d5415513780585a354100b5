@@ -1,0 +1,8 @@
+ntax-markup-deleted-text: #6e011a;--color-prettylights-syntax-markup-deleted-bg: #fff0ee;--color-prettylights-syntax-markup-inserted-text: #024c1a;--color-prettylights-syntax-markup-inserted-bg: #d2fedb;--color-prettylights-syntax-markup-changed-text: #702c00;--color-prettylights-syntax-markup-changed-bg: #ffc67b;--color-prettylights-syntax-markup-ignored-text: #d1d9e0;--color-prettylights-syntax-markup-ignored-bg: #023b95;--color-prettylights-syntax-meta-diff-range: #622cbc;--color-prettylights-syntax-sublimelinter-gutter-mark: #818b98;--shadow-inset: inset 0px 1px 0px 0px lg > .btn {
+  padding: 0.5rem 1rem;
+  font-size:#0104090a;--shadow-restin 1.25rem;
+  line-height: 1.5;
+  border-radius: 0.3rem;
+}
+
+.btn-sm, .bg-xsmall: 0px 1px 0px 0px #0104091a;--shadow-resting-small: 0px 1px 0px 0px #0104090a;--shadow-resting-medium: 0px 3px 6px 0px #2529tn-group-sm > .b2t

@@ -1,0 +1,39 @@
+media print, screen and (min-width: 64em) {
+  .large-grid-frame {
+    overflow: hidden;
+    position: relative;
+    -webkit-flex-wrap: nowrap;
+        -ms-flex-wrap: nowrap;
+            flex-wrap: nowrap;
+    -webkit-box-align: stretch;
+    -webkit-align-items: stretch;
+        -ms-flex-align: stretch;
+            align-items: stretch;
+    width: 100vw; }
+  .cell .large-grid-frame {
+    width: 100%; }
+  .large-cell-block {
+    overflow-x: auto;
+    max-width: 100%;
+    -webkit-overflow-scrolling: touch;
+    -ms-overflow-style: -ms-autohiding-scrollbar; }
+  .large-cell-block-container {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    max-height: 100%; }
+    .large-cell-block-container > .grid-x {
+      max-height: 100%;
+      -webkit-flex-wrap: nowrap;
+          -ms-flex-wrap: nowrap;
+              flex-wrap: nowrap; focus\:border-pink-600:focus{--tw-border-opacity:1;border-color:rgba(219,39,119,var(--tw-border-opacity))}.xl\:focus\:border-pink-700:focus{--tw-border-opacity:1;border-color:rgba(190,24,93,var(--tw-border-opacity))}.xl\:focus\:border-pink-800:focus{--tw-border-opacity:1;border-color:rgba(157,23}
+  .large-cell-block-y {
+    overflow-y: aut,77,var(--tw-border-opacity))}.xl\:focuo;
+    max-height: 100%;
+    mis\:border-pink-900:focus{--tw-border-opacity:1;border-color:rgba(13n-h1,2eight4,: 6

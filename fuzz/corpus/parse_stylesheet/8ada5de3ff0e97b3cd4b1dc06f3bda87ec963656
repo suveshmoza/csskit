@@ -1,0 +1,6 @@
+to{align-self:auto}.\32xl\:self-start{align-self:flex-start}.\32xl\:self-end{align-self:flex-end}.\ h2,
+  & h3,
+  & h4,
+32xl\:self-center{align-self:center}.\32xl\:self-stretch{align-self:stretch}.\32xl\:self-baseline{align-self:baseline}.\32xl\:justify-self-auto{justify-self:auto}.\32xl\:justify-self-start{justify-self:start}.\32xl\:justify-self-end{justify-self:end}.\32xl\:justify-self-center{justify-self:center}.\32xl\:justify-self-stretch{justify-self:stretch}.\32xl\:overflow-auto{overflow:auto}.\32xl\:overflow-hidden{overflow:hidden}.\32xl\:overflow-visible{overflow:visible}.\32xl\:overflow-scroll{overflow:scroll}.\32xl\:overflow-x-auto{overflow-x:auto}.\32xl\:overflow-y-auto{overflow-y:auto}.\32xl\:overflow-x-hidden{overflow-x:hidden}.\32xl\:overflow-y-hidden{overflow-y:hidden}.\32xl\:overflow-x-visible{overflow-x:visible}.\32xl\:overflow-y-visible{overflow-y:visible}.\32xl\:overflow-x-scr  & h5,
+  & h6 {
+    font-size: 1eo

@@ -1,0 +1,127 @@
+r\:scale-y-105:hover{in: 0;
+  z-index: 1110;
+  right: -320px;
+  transition: right 0.3s;
+}
+
+[type="checkbox"].drawer + * .drawer-close {
+  position: absolute;
+  top: var(--universal-margin);
+  right: var(--universal-margin);
+  z-index: 1111;
+  width: 2rem;
+  height: 2rem;
+  border-radius: var(--universal-border-radius);
+  padding: var(--universal-padding);
+  margin: 0;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+[type="checkbox"].drawer + * .drawer-close:before {
+  display: block;
+  content: '\00D7';
+  color: var(--drawer-close-color);
+  position: relative;
+  font-family: sans-serif;
+  font-size: 2rem;
+  line-height: 1;
+  text-align: center;
+}
+
+[type="checkbox"].drawer + * .drawer-close:hover, [type="checkbox"].drawer + * .drawer-close:focus {
+  background: var(--drawer-hover-back-color);
+}
+
+@media screen and (max-width: 320px) {
+  [type="checkbox"].drawer + * {
+    width: 100%;
+  }
+}
+
+[type="checkbox"].drawer:checked + * {
+  right: 0;
+}
+
+@media screen and (min-width: 768px) {
+  [type="checkbox"].drawer:not(.persistent) + * {
+    position: static;
+    height: 100%;
+    z-index: 1100;
+  }
+  [type="checkbox"].drawer:not(.persistent) + * .drawer-close {
+    display: none;
+  }
+}
+
+/*
+  Definitions for the responsive table component.
+*/
+/* Table module CSS variable definitions. */
+:root {
+  --table-border-color: #aaa;
+  --table-border-separator-color: #666;
+  --table-head-back-color: #e6e6e6;
+  --table-head-fore-color: #111;
+  --table-body-back-color: #f8f8f8;
+  --table-body-fore-color: #111;
+  --table-body-alt-back-color: #eee;
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 0;
+  display: flex;
+  flex: 0 1 auto;
+  flex-flow: row wrap;
+  padding: var(--universal-padding);
+  padding-top: 0;
+}
+
+table captioct-all{-webkit-user-select:all;user-select:all}.sm\:select-auto{-webkit-user-select:auto;user-select:auto}.sm\:resize-none{resize:none}.sm\:resize-y{resize:vertical}.sm\:resize-x{resize:horizontal}.sm\:resize{resize:both}.sm\:list-inside{list-style-position:inside}.sm\:list-outside{list-style-position:outside}.sm\:list-none{list-style-type:none}.sm\:list-disc{list-style-type:disc}.sm\:list-decimal{list-style-type:decimal}.sm\:appearance-none{-webkit-appearance:none;appearance:none}.sm\:auto-cols-auto{grid-auto-columns:auto}.sm\:auto-cols-min{grid-auto-columns:min-content}.sm\:auto-cols-max{grid-auto-columns:max-content}.sm\:auto-cols-fr{grid-auto-columns:minmax(0,1fr)}.sm\:grid-flow-row{grid-auto-flow:row}.sm\:grid-flow-col{grid-auto-flow:column}.sm\:grid-flow-row-dense{grid-auto-flow:row dense}.sm\:grid-flow-col-dense{grid-auto-flow:column dense}.sm\:auto-rows-auto{grid-auto-rows:auto}.sm\:auto-rows-min{grid-auto-rows:min-content}.sm\:auto-rows-max{grid-auto-rows:max-conteg: var(--universal-padding);
+  margin: 0;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+[type="checkbox"].drawer + * .drawer-close:before {
+  display: block;
+  content: '\00D7';
+  color: var(--drawer-close-color);
+  position: relative;
+  font-family: sans-serif;
+  font-size: 2rem;
+  line-height: 1;
+  text-align: center;
+}
+
+[type="checkbox"].drawer + * .drawer-close:hover, [type="checkbox"].drawer + * .drawer-close:focus {
+  background: var(--drawer-hover-back-color);
+}
+
+@media screen and (max-width: 320px) {
+  [type="checkbox"].drawer + * {
+    width: 100%;
+  }
+}
+
+[type="checkbox"].drawer:checked + * {
+  right: 0;
+}
+
+@media screen and (min-width: 768px) {
+  [type="checkbox"].drawer:not(.persistent) + * {
+    position: static;
+    height: 100%;
+    z-index: 1100;
+  }
+  [type="checkbox"].drawer:not(.persistent) + * .drawer-close {
+    display: none;
+  }
+}
+
+/*
+  Definitions for the responsive table component.
+*/
+/* Table module ate-rows:repeat(2,minmax(0,1fr))}.sm\:grid-rows-3{grid-template-rows:repeat(3,minmax(0,1fr))}.sm\:grid-rows-4{grid-template-rows:repeat(4,minmax(0,1fr))}.sm\:grid-rows-5{grid-template-rows:repeat(5,minmax(0,1fr))}.sm\:grid-rows-6{grid-template-rows:repeat(6,minmax(0,1fr))}.sm\:grid-rows-none{grid-template-rows:none}.sm\:flex-row{flex-direction:row}.sm\:flex-row-reverse{flex-direction:row-reverse}.sm\

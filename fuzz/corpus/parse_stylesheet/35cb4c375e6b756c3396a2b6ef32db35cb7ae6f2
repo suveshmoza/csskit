@@ -1,0 +1,7 @@
+ase-in-out, border-color 0.15s ease-in-out, box-bel-brown-bgColor-hover: #342a1d;--label-brown-bgColor-active: #483a28;--label-brown-fgColor--8 {
+  flexshadow 0.15s ease-in-out;
+  transition: background-color 0.1: 0 0 auto;
+  width: 66.66; }
+
+.tabs.primary {
+  background: #1775

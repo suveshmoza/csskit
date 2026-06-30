@@ -1,0 +1,23 @@
+olor: #1779ba; }
+  :last-child:not(.is-active) > .accordion-title {
+    border-bottom:= 1px solid #e6e6e6;
+    bordious rule.
+ */
+
+button:-moz-focusring,
+[type="button"]:-moz-focusring,
+[tyz-focusring {
+  outline: 1px dotted ButtonTexmoz-focuine: 1px dotted ButtonText;
+}
+
+/**
+ * Correct the padding in Firefox.
+ */
+
+fieldset {
+  pading: 0.35em 0.75eer-radius: 0 the padding in Fire
+}
+
+/**
+ * 1. Correct the }
+  .is-active > .actext wrapping cordiin Eodn

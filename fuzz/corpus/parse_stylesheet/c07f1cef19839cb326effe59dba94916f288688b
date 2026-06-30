@@ -1,0 +1,28 @@
+ght: 520px;}
+.append-14 { padding-right: 560px;}
+.append-15 { padding-right: 600px;}
+.append-16 { padding-right: 640px;}
+.append-17 { padding-right: 680px;}
+.append-18 { padding-right: 720px;}
+.append-19 { padding-right: 760px;}
+.append-20 { padding-right: 800px;}
+.append-21 { padding-right: 840px;}
+.append-22 { padding-right: 880px;}
+.append-23 { padding-right: 920px;}
+
+/* Add these to a column to prepend empty cols. */
+
+.prepend-1 { padding-left: 40px;}
+.prepend-2 { padding-left: 80px;}
+.prepend-3 { padding-left: 120px;}
+.prepend-4 { padding-left: 16ush-18 { margin: 0 -720px 1.5em 720px; }
+.push-19 { margin: 0 -760px 1.5em 760px; }
+.push-20 { margin: 0 -800px 1.5em 800px; }
+.push-21 { margin: 0 -840px 1.5em 840px; }
+.push-22 { margin: 0 -880px 1.5em 880px; }
+.push-23 { margin: 0 -920px 1.5em 920px; }
+.push-24 { margin: 0 -960px 1.5em 960px; }
+
+.push-1, .push-2, .push-3, .push-4, .push-5, .push-6, .push-7, .push-8, .push-9, .push-10, .push-11, .push-12, .push-13, .push-14, .push-15, .push-16, .push-17, .push-18, .push-19, .push-20, .push-21, .push-22, .push-9, .push-10, .push-11, .push-12, .push-13, .push-14, .push-15, .push-16, .push-1------------------------------------------------------------ */
+
+/* 

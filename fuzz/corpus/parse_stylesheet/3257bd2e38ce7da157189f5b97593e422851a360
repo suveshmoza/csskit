@@ -1,0 +1,49 @@
+5{padding-left:.875rem}.sm\:text-left{text-align:left}.sm\:text-center{text-align:center}.sm\:text-right{text-align:right}.sm\:text-justify{text-align:justify}.sm\:align-baseline{vertical-align:baseline}.sm\:align-top{vertical-align:top}.sm\:align-middle{vertical-align:middle}.sm\:align-bottom{vertical-align:bottom}.sm\:align-text-top{vertical-align:text-top}.sm\:align-text-bottom{vertical-align:text-bottom}.sm\:font-sans{font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}.sm\:font-serif{font-family:ui-serif,Georgia,Cambria,"Times New Roman",Times,serif}.sm\:font-mono{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace}.sm\:text-xs{font-size:.75rem;line-height:1rem}.sm\:text-sm{font-size:.875rem;line-height:1.25rem}.sm\:text-base{font-size:1rem;line-height:1.5rem}.sm\:text-lg{font-size:1.125rem;line-height:1.75rem}.sm\:text-xl{font-size:1.25rem;line-height:1.75rem}.sm\:text-2xl{font-size:1.5rem;line-height:2rem}.sm\:text-3xl{font-size:1.875rem;line-height:2.25rem}.sm\:text-4xl{font-size:2.25rem;line-height:2.5rem}.sm\:text-5xl{font-size:3rem;line-height:1}.sm\:text-6xl{font-size:3.75rem;line-height:1}.sm\:pure-form input[type="tel"]:focus,
+.pure-form input[type="color"]:focus,
+.pure-form select:focus,
+.pure-form textarea:focus {
+    outline: 0;
+    border-color: #129FEA;
+}
+
+/*
+Need to separate out the :not() selector from the rest of the CSS 2.1 selectors
+since IE8 won't execute CSS that contains a CSS3 selector.
+*/
+.pure-form input:not([type]):focus {
+    outline: 0;
+    border-color: #129FEA;
+}
+
+.pure-form input[type="file"]:focus,
+.pure-form input[type="radio"]:focus,
+.pure-form input[type="checkbox"]:focus {
+    outline: thin solid #129FEA;
+    outline: 1px auto #129FEA;
+}
+.pure-form .pure-checkbox,
+.pure-form .pure-radio {
+    margin: 0.5em 0;
+    display: block;
+}
+
+.pure-form input[type="text"][disabled],
+.pure-form input[type="password"][disabled],
+.pure-form input[type="email"][disabled],
+.pure-form input[type="url"][disabled],
+.pure-form input[type="date"][disabled],
+.pure-form input[type="month"][disabled],
+.pure-form input[type="time"][disabled],
+.pure-form input[type="datetime"][disabled],
+.pure-form input[type="datetime-local"][disabled],
+.pure-form input[type="week"][disabled],
+.pure-form input[type="number"][disabled],
+.pure-form input[type="search"][disabled],
+.pure-form input[type="tel"][disabled],
+.pure-form input[type="color"][disabled],
+.pure-form select[disabled],
+.pure-form textarea[disabled] {
+    cursor: not-allowed;
+    background-color: #eaeded;
+    color: #cad2d3;
+}em}.sm\:leading-7{line-height:1.75rem}.sm\:leading-8{line-height:2rem}.sm\:leading-9{line-height:2.25rem}.sm\:leading-10{line-height:2.5rem}.sm\:leading-none{line-height:1}.sm\:leading-tight{line-height:1.25}.sm\:leading-snug{line-height:1.375}.sm\:leading-normal{line-height:1.5}.sm\:leading-relaxed{line-height:1.625}.sm\:leading-loose{line-height:2}.sm\:tracking-tighter{letter-spacing:-.05em}.sm\:tracking-tight{letter-spacing:-.025em}.sm\:tracking-normal{letter-spacing:0}.sm\:tracking-wide{letter-spacing:.025em}.sm\:tracking-wider{letter-spacing:.05em}.sm\:tracking-widest{letter-spacing:.1em}.sm\:text-transparent{color:transparent}.sm\:text-current{color:currentColor}.sm\:text-black{--tw-text-opacity:1;color:rgba(0,0,0,var(--tw-text-opacity))}.sm\:text-white{--tw-text-opacity:1;color:rgba(255,255,255,var(--tw-text-opacity))}.sm\:text-gray-50{--tw-text-opacity:1;color:rgba(249,250,251,var(--tw-text-opacity))}.sm\:text-gray-100{--tw-text-opacity:1;color:rgba(243,244,246

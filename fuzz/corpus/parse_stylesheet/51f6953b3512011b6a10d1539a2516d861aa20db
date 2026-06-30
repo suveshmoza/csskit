@@ -1,0 +1,63 @@
+muted: #2d1524;--data-red-color-emphasis: #eb3342;--data-red-color-muted: #3c0614;--data-gray-color-emphasis: #576270;--data-gray-color-muted: #1c1c1c;--display-blue-bgColor-muted: #001a47;--display-blue-bgColor-emphasis: #005bd1;--display-blue-fgColor: #4da0ff;--display-blue-borderColor-muted: #002766;--display-blue-borderColor-emphasis: #0576ff;--display-green-bgColor-muted: #122117;--display-green-bgColor-emphasis: #2f6f37;--display-green-fgColor: #41b445;--display-green-borderColor-muted: #182f1f;--display-green-borderColor-emphasis: #388f3f;--display-orange-bgColor-muted: #311708;--display-orange-bgColor-emphasis: #984b10;--display-orange-fgColor: #ed8326;--display-orange-borderColor-muted: #43200a;--display-orange-borderColor-emphasis: #c46212;--display-purple-bgColor-muted: #211047;--display-purple-bgColor-emphasis: #7730e8;--display-purple-fgColor: #b687f7;--display-purple-borderColor-muted: #31146b;--display-purple-borderColor-emphasis: #975bf1;--disp https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+ */
+.fa,
+.fas,
+.far,
+.fal,
+.fad,
+.fab {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1; }
+
+.fa-lg {
+  font-size: 1.33333em;
+  line-height: 0.75em;
+  vertical-align: -.0667em; }
+
+.fa-xs {
+  font-size: .75em; }
+
+.fa-sm {
+  font-size: .875em; }
+
+.fa-1x {
+  font-size: 1em; }
+
+.fa-2x {
+  font-size: 2em; }
+
+.fa-3x {
+  font-size: 3em; }
+
+.f.fa-rotate-90 {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";
+  -webkit-transform: rotate(90deg);
+          transform: rotate(90deg); }
+
+.fa-rotate-180 {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2)";
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg); }
+
+.fa-rotate-270 {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=3)";
+  -webkit-transform: rotate(270deg);
+          transform: rotate(270deg); }
+
+.fa-flip-horizontal {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1)";
+  -webkit-transform: scale(-1, 1);
+          transform: scale(-1, 1); }
+
+.fa-flip-vertical {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)";
+  -webkit-transform: scale(1, -1);
+          transform: scale(1, -1); }
+
+.fa-flip-both, .fa-flip-horizontal.fa-flip-vertical {
+  -ms-filter: "progvatar-shadow: 0px 0px 0px 2px #0d1117;--avatarStac

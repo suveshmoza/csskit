@@ -1,0 +1,34 @@
+ot([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-right:calc(.125rem * var(--tw-space-x-reverse));margin-left:calc(.125rem * calc(1 - var(--tw-space-x-reverse)))}.md\:space-x-1\.5>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-right:calc(.375rem * var(--tw-space-x-reverse));margin-left:calc(.375rem * calc(1 - var(--tw-space-x-reverse)))}.md\:space-x-2\.5>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-right:calc(.625rem * var(--tw-space-x-reverse));margin-left:calc(.625rem * calc(1 - var(--tw-space-x-reverse)))}.md\:space-x-3\.5>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-right:calc(.875rem * var(--tw-space-x-reverse));margin-left:calc(.875rem * calc(1 - var(--tw-space-x-reverse)))}.md\:-space-x-0>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-right:calc(0px * var(--tw-space-x-reverse));margin-left:calc(0px * calc(1 - var(--tw-space-x-reverse)))}.md\:-space-x-1>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-right:calc(-.25rem * var(--tw-space-x-reverse));margin-lefisplay-pink-bgColor-muted: #ffe5f1;--display-pink-bgColor-emphasis: #ce2c85;--display-pink-fgColor: #b12f79;--display-pink-borderColor-muted: #fdc9e2;--display-pink-borderColor-emphasis: #ce2c85;--avatar-bgColor: #ffffff;--avatar-borderColor: #1f232826;--avatar-shadow: 0px 0px 0px 2px #ffffffcc;--avatarStack-fade-bgColor-default: #c8d1da;--avatarStack-fade-bgColor-muted: #dae0e7;--control-bgColor-rest: #f6f8fa;--control-bgColor-hover: #eff2f5;--control-btarget,
+h5:target,
+h6:target {
+  outline: none;
+  &::before {
+    content: "";
+    display: block;
+    position: absolute;
+    left: -.5em;
+    width: 4px;
+    height: 100%;
+    background: var(--accent);
+  }
+}
+header {
+  font-family: var(--display-font);
+  border-block-end: var(--border-block-end-width) var(--border-block-end-style) var(--graphical-fg);
+}
+footer {
+  font-family: var(--secondary-font);
+  font-size: .8em;
+  line-height: calc(var(--rhythm, 1rlh) *first-child,
+h4:first-child,
+h5:first-child,
+h6:first-child {
+  margin-block-start: var(--gap);
+}
+h1:target,
+h2:target,
+h3:target,
+h4:target,
+h5:target,
+h6:target {
+  outline: t:calc(-.25rem * calc(1 - var(--tw-space-x-reverse)))}.md\:-space-x-2>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-right:calc(-.5rem * var(--tw-space-x-reverse));margin-left:calc(-.5rem * calc(1 - var(--tw-space-x-reverse)))}.md\:-space-x-3>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-right:calc(-.75rem * var(--tw-space-x-reverse));margin-left:calc(-.75rem * calc(1 - var(--tw-space-x-reverse)))}.md\:-space-x-4>:not([-x-reverse));margin-left:calc(-3.5rem * calc(1 - var(--tw-space-x-reverse)))}.md\:-space-x-16>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-right:calc(-4rem * var(--tw-space-x-reverse));margin-left:calc(-4rem * calc(1 - var(--tw-space-x-reverse)))}.md\:-space-x-20>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-right:calc(-5rem * var(--tw-space-x-reverse));margin-left:calc(-5rem * calc(1 - var(--tw-space-x-reverse)))}.md\:-space-x-24>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-right:calc(-6rem * var(--tw-space-x-reverse));margin-left:calc(-6rem * calc(1 - var(--tw-space-x-reverse)))}.md\:-space-x-28>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-right:calc(-7rem * var(--tw-space-x-reverse));margin-left:calc(-7rem * calc(1 - var(--tw-space-x-rever

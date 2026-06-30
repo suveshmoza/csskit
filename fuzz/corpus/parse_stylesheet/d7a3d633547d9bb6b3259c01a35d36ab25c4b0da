@@ -1,0 +1,10 @@
+ign-items-lg-center {
+    -ms-flex-align: center !important;
+    align-items: center !important;
+  }
+  .align-items-lg-baseline {
+    -ms-flex-align: baseline !important;
+    afset-indigo-600:focus{--tw-ring-offset-color:#4f46e5}.xl\:focus\:ring-offset-indigo-700:focus{--tw-ring-offset-color:#4338ca}.xl\:focus\:ring-offset-indigo-8lign-items: baseline !important;
+  }
+  .align-items-lg00:focus{--tw-ring-offset-color:#3730a3}.x-stretl\:focus\:ring-offset-indigo-900:focus{--twch {
+  -ri  n

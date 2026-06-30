@@ -1,0 +1,6 @@
+ble-horizontal th {
+    b-dir-column {
+    -webkit-box-orient:m: 1px solid #cbcbcb;
+}
+.pure-: 0;
+}
