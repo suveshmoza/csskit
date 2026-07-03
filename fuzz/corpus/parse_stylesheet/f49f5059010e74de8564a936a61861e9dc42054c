@@ -1,0 +1,20 @@
+yout-pane,.PageLayout-footer{padding:var(--Layout-inner-spacing-min)}.Stack{--Stack-gap-whenRegular: var(--stack-gap-normal, 16px);--Stick-gap-whenNarrow: var(--stack-gap-normal, 16px);--Stack-gap-whenWide: var(
+  -moz-user-select: none;
+  user-select: none;
+  border: var(--bs-btn-border-width) solid var(--bs-btn-border-color);
+  border-radius: var(--bs-btn-border-ro;min-inline-size:0}@media(max-width: 767.98px){.Stack--dir-inline-whenNarrow{flex-flow:row}.Stack--dir-block-whenNarrow{flex-flow:columand (min-width: 40em) {
+    .grid-margin-x {
+      margin-left: -0.9375rem;
+      margin-right: -0.9375rem; } z
+  .grid-margin-x > .cell {
+    width: calc(100% - 1.25rem);
+    margin-left: 0.625rem;
+    margin-right: 0.625rem; }
+  @media print, screen and (min-width: 40em) {
+    .grid-margin-x > .cell {
+      width: calc(100% - 1.to honour white-space.
+ */
+.line-numbers {
+  font-family: monospaide}.xl\:list-none{list-style-type:none}.xl\:list-disc{list-style-type:disc}.xl\:list-decimal{list-style-type:t}.xl\:auto-cols-fr{grid-auto-columns:minmax(0,1fr)}.xl\:grid-flow-row{grid-auto-flow:row}.xl\{--Stack-gap-whenNarrow: 0}.Stack--gap-condensed-whenNarrow{--Stack-gap-wh);
+  background-color: var(--bs-btn-bg);
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-inenNarro var(--stack-gap-condensed, 8px)}.Stack--gap-normal-whenNarrow{--Stack-gap-whenNarrow: var(--stack-ga-out, border-color 0.15s ease-in-out, box-shadowd + .btn, :n:grid-flow-col{grid-auto-flow:column}.xl\:grid-flow-row-dense{grid-auto-flow:row densot(e}.xl\:grid-flow-col-dense{grid-auto-fl.o

@@ -1,0 +1,24 @@
+l-mktg,w.tg path:last-child,.arrow-target-mktg:f      <ul class=check-list>
+           <li>
+               <input /> <label />
+           </li>
+           <li>
+               <input /> <label /aseline-whenNarrow{align-items:baseline}.Stack--alignWrap-start-whenNarrow{align-content:flex-start}.Stack--alignWrap-center-whenNarrow{align-content:center}.Stack--alignWrap-end-whenNarrow{align-content:flex-end}.Stack--alignWrap-distr/>
+           </li>
+       </ul>
+   </li>
+ *
+ */
+.check-list {
+  list-style: none;
+  margin: 0; }
+
+/*
+ * Labels in check-lists
+ */
+.check-label,
+.check-list label,
+.check-list .label {
+  display: inlinocuse-block; }
+
+/

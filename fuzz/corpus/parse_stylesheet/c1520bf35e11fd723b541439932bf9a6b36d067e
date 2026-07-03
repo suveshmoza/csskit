@@ -1,0 +1,17 @@
+n-down .5s var(--ease-3);--animation-slide-in-right:slide-in-right .5s var(--ease-3);--animation-slide-in-left:slide-in-left .5s var(--ease-3);--animation-shake-x:shake-x .75s var(--ease-out-5);--animation-shake-y:shake-y .75s var(10--fgColor-accent, var(--color-accent-fg));cursor:pointer}.TableObjectw - 100%) * 1e5,var(--radius-3));--radius-c, table.ozirhontal th:first-child, table.horizontal td:first-child {
+    border-top: 0;
+  }
+  table tbody tr:last-child td, table.horizontal tbody tr:last-child td r);
+}
+
+@  background: var(--table-body-alt-back-color);
+}
+
+@media screen and (max-width: 768px) {
+  table.striped tr:nth-of-type(1n) {
+    background: var(--table-body-alt-back-color);
+  }
+}
+
+:root {
+  --table-onditional-4:clamp(0px,calc(100vw - 100%) * 1e5,var](--radius-4));--radius-conditional-5:clambody-p(0px,calc(100vw - 100%) * pacity:0;transform:scale(2)}}@keyframes blink{0%,to{opacity:1}50%{ohpa

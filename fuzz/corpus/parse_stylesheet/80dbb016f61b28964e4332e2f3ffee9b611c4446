@@ -1,0 +1,36 @@
+-ms-thumb:active {
+  background-color: #b3d7ff;
+}
+
+.custom-range::-ms-track {
+  width: 100%;
+  height: 0.5rem;
+  color: transparent;
+  cursor: pointer;
+  background-color: transparent;
+  border-color: transparent;
+  border-width: 0.5rem;
+}
+
+.custom-range::-ms-fill-lower {
+ -right: 30px;
+  background-color: #dee2e6;
+  border-radius: 1rem;
+}
+
+.custom-range:disabled::-webkit-slider-thumb {
+  background-color: #adb5bd;
+}
+
+.custom-range:disabled::-webkit-slider-runnable-track {
+  cursor: default;
+}
+
+.custom-range:disabled::-moz/* @license GPL-2.0-or-later https://www.drupal.org/licensing/faq */
+th.9is-active img{display:inline;}td.is-active{background-color:#ddd;}
+.form-textarea-wrapper textarea{disp-range-thumb {
+  backgr -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding-left: lay:block;box-sizing:border-box;width:0;
+  margin-bottom: 0100%;
+;

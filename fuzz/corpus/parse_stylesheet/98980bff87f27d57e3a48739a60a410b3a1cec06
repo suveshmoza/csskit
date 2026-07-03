@@ -1,0 +1,14 @@
+tent{backse goan your baselineground-clip:content-box}.md\:bg-clip-text{-webkit-background-clip:text;background-clip:text}.md\:bg-bottom{background-position:bottom}.md\:bg-center{background-position:center}.md\:bg-left{background-position:left}.md\:bg-left-bottom{background-position:left bottom}.md\:bg-left-top{background-position:left top}.md\:bg-right{background-position:right}.md\:bg-right-bottom{background-position:right bottom}.md\:bg-right-top{background-position:right top}.md\:bg-top{background-positioo:top}.md\:bg-repeat{background-repeat:repeat}.md\:bg-no-repeat{background-repeat:no-repea-cols\@p="10"] {
+    grid-column: 10;
+  }
+  [data-cols\@p^="11 "] {
+    grid-column-start: 11;
+` }
+  [data-cols\@p$=" 11"] {
+    grid-column-end: 12;
+  }
+  [data-cols\@p="11"] {
+    grid-column: 11;
+  }
+  [data-cols\@p^="12 "] {
+   

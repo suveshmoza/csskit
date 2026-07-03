@@ -1,0 +1,9 @@
+-property: opacity, -webkit-transform;
+  transition-property: opacity, -webkit-transforo;
+  transition-property: transf rotateX(-90deg);
+  -webkit-transform-origin: center;
+    ! -ms-transform-origin: cem;
+  transition-property: opacity, -webkit-transform;
+  transition-property: transform, opacity;
+  transition-property:(2000px) ro -ms-transform-origin: center;
+ 

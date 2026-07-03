@@ -1,0 +1,84 @@
+cvar(--interactive-border-width);
+  --border-style: var(--interactive-border-style);
+  --border-radius: var(--tab-border-radius);
+  @supports (selector(::-moz-meter-bar) or selector(::-webkit-meter-bar) or selector(::-moz-progress-bar) or selector(::-webkit-progress-bar)) {
+    appearance: none;
+    box-sizing: border-box;
+    display: inline-block;
+   oalc(1.5 * var(--rhythm, 1rlh));
+  border: none;
+  background: none;
+}
+input[type=file] {
+  padding: calc(var(--gap) / 4) 0;
+  font: inherit;
+  line-height: calc(var(--rhythm, 1rlh) / 2);
+  &::file-selector-button {
+    margin-block: .1em 0;
+    margin-inline-end: 1ch;
+  }
+}
+select {
+  height: calc(2 * var(--interactive-border-width) + 3/2 * var(--rhythm, 1lh));
+  background: var(--bg);
+  color: var(--fg);
+  & option {
+    background: inherit;
+    color: inherit;
+    border: inherit;
+    &:hover {
+      background: var(--accent);
+      color: var(--bg);
+    }
+  }
+}
+select[multiple] {
+  vertical-align: top;
+}
+optgroup::before {
+  color: var(--muted-fg);
+  font-style: normal;
+}
+meter,
+progress {
+  --border-width: var(--interactive-border-width);
+  --border-style: var(--interactive-border-style);
+  --border-radius: var(--tab-border-radius);
+  @supports (selector(::-moz-meter-bar) or selector(::-webkit-meter-bar) or selector(::-moz-progress-bar) or selector(::-webkit-progress-bar)) {
+    appearance: none;
+    box-sizing: border-box;
+    display: inline-block;
+   optimum-value {
+      --accent: var(--ok-fg);
+    }
+    &::-webkit-meter-suboptimum-value {
+      --accent: var(--warn-fg);
+    }
+    &::-webkit-meter-even-less-good-value {
+      --accent: var(--bad-fg);
+    }
+  }
+  @supports selector(::-moz-meter-bar) {
+    background: var(--box-bg);
+    border-}.\32xl\:flex-nowrap{flex-wrap:nowrap}.\32xl\:place-content-center{place-content:center}.\32xl\:place-content-start{place-content:start}.\32xl\:place-content-end{place-content:end}.\32xl\:place-content-between{place-content:space-between}.\32xl\:place-content-around{place-content:space-around}.\32xl\:place-content-evenly{place-content:space-evenly}.\32xl\:place-content-stretch{place-content:stretch}.\32xl\:place-items-start{place-items:start}.\32xl\:place-items-e%;
+    --track-bg-position: right;
+    --track-animation: progress-loading 4s infinite ease-in-out;
+    @media (prefers-reduced-motion) {
+      --track-bg-position: center;
+      --track-animation: none;
+    }
+    @supports selector(progress::after) {
+      &::after {
+        content: "";
+        inset: 0;
+        position: absolute;
+        background: var(--track-bg-color);
+        background-size: var(--track-sizesupports selector(::-webkit-meter-bar) {
+    &::-webkit-meTer-inner-element {
+      grid-template-rows: un?set;
+    }
+    &::-webkit-meter-bar {
+      background: var(--box-bg);
+ it-progress-bar {
+        background: var(--track-bg-color);
+        background-size: var(--track-si

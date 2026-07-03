@@ -1,0 +1,7 @@
+:flex-col{flex-direction:column}.sm\:flex-col-reverse{flex-direction:column-reverse}.sm\:flex-wrap{flex-wrap:wrap}.sm\:flex-wrap-reverse{flex-wrap:wrap-reverse}.s\:place-content-end{place-content:end}.sm\:place-content-between{place-content:space-between}.sm\:place-content-around{place-content:space-around}.sm\:place-content-evenly{place-content:spcontent:stretch}.sm\:place-items-start{place-items:start}.sm\:place-items-end{place-items:end}.sm\:place-items-center{place-itemswitch-paddle {
+    background: #1779ba; }
+    input:checked ~ .switch-paddle::after {
+      left: 2.25rem; }
+  input:disabled ~ .switch-paddle {
+    curss:center}.sm\:place-items-stretch{place-items:stretch}.sm\:content-center{align-content:center}.sm\:content-start{align-content:flex-start}.sm\:content-end{align-content:flex-end}.sm\:content-between{align-contor: not-alloweden;
+  t:s 

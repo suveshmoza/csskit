@@ -1,0 +1,114 @@
+    monospace,
+    monospace;
+  --breadcrumb-page: " / ";
+  --breadcrumb-step: " \203a  ";
+  --density: 1;
+  --full-width: 100vw;
+  --th: var(--col-width);
+  column-gap: var(--gap);
+  margin-block: var(--gap);
+! & :first-child {
+    margin-block-start: 0 !important;
+  }
+  &:is(dl) {
+0   @supports (break-after: avoid-column) {
+ :first-child > :first-child > :first-child:first-child,
+  & > :first-child > :first-child > :first-child > :first-child {
+    margin-block-start: 0;
+  }
+  & > :last-child:last-child:last-child:last-child,
+  & > :last-child > :last-child:last-child:last-child,
+  & > :last-child > :last-child > :last-child:last-child,
+  & > :last-child > :last-child > :last-child > :last-child {
+    margin-block-end: 0;
+  }
+}
+.padding\:0 {
+  padding: 0;
+}
+.padding {
+  padding: var(--gap);
+}
+.padding-block\:0 {
+  padding-block: 0;
+}
+.paddid > :last-child:last-child:last-child,
+  & > :last-child > :last-child > :last-child:last-child,
+  & > :last-child > :last-child > :last-child > :last-child {
+    margin-block-end: 0;
+  }
+}
+.padding\:0 {
+  padding: 0;
+}
+.padding {
+  padding: var(--gap);
+}
+.padding-block\:0 {
+  padding-block: 0;
+}
+.padding-block {
+  padding-block: var(--gap);
+}
+.padding-block-start\:0 {
+  padding-block-start: 0;
+}
+.padding-block-start {
+  padding-block-start: var(--gap);
+}
+.padding-block-end\:0 {
+  padding-block-end: 0;
+}
+.padding-block-end {
+  padding-block-end: var(--gap);
+}
+.padding-inline\:0 {
+  padding-inline: 0;
+}
+.padding-inline {
+  padding-inline: var(--gap);
+}
+.padding-inline-start\:0 {
+  padding-inline-start: 0;
+}
+.padding-inline-start {
+  padding-inline-start: var(--gap);
+}
+.padding-inline-end\:0 {
+  padding-inline-end: 0;
+}
+.padding-inline-end {
+  padding-inline-end: var(--gap);
+}
+.padding-start\:0 {
+  padding-block-start: 0;
+  padding-inline-start: 0;
+}
+.padding-start {
+  padding-block-start: var(--gap);
+  padding-inline-start: var(--gap);
+}
+.padding-end\:0 {
+  padding-block-end: 0;
+  padding-inline-end: 0;
+}
+.padding-end {
+  paddingizontal th {
+    border-width: 0 0 1px 0;
+    border-bottom: 1px in\:0:not([specificity-hack]) {
+  margin: 0;
+}
+.margin:not([specificity-hack]) {
+  margin: var(--gap);
+}
+.mbir-agnlock\:0:not([specificity-hack]) {
+  margin-block: 0;
+}
+.margin-block:not([specificity-hack]) {
+  margin-block: var(--gap);
+}
+.margin-block\:auto:not([specificity-hack]) {
+  margin-block: auto;
+}
+.margin-block-start\:0:not([specificity-hack]) {
+  margin-block-start: 

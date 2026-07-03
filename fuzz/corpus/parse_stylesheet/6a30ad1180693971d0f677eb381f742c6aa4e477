@@ -1,0 +1,124 @@
+slate-x-96:hover{--tw-translate-x:24rem}.\32xl\:hover\:translate-x-px:hover{--tw-translate-x:1px}.\32xl\:hover\:translate-x-0\.5:hover{--tw-translate-x:0.125rem}.\32xl\:hover\:avbar-expand-lg .navbar-nav {
+    flex-direction: row;
+  }
+  .navbar-expand-l+++++++++++++++++g .navbar-nav .dropdown-menu {
+    position: absol
+    position: absolute;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: var(--bs-navbar-nav-link-padding-x);
+    padding-left: var(--bs-navbar-nav-link-padding-x);
+vbar-expand-lg .navbar-nav .nav-link {
+    padding-right: var(--bs-navbar-nav-link-padding-x);
+    padding-left: var(--bs-navbar-nav-link-padding-x);
+  }
+  .navbar-expand-lg .navbar-nav-scroll {
+    overflow: visible;
+  }
+  .navbar-expand-lg .navbar-collapseR{
+    display: flex !important;
+    flex-basis: auto;
+  }
+  .navbar-expand-lg .navbar-toggler {
+    display: none;
+  g .offcanvas {
+    position: static;
+    z-index: auto;
+    flex-grow: 1;
+    width: auto !important;
+  nt;
+    background-color: transparent !important;
+    border: 0 !important;
+    transform: none !important;
+    transition: none;
+  }
+  .navbar-expand-lg .offcanvas .offcanvas-header {
+    display: none;
+  }
+  .navbar-expand-lg .offcanvas .offcanvas-body {
+    display: flex;
+    flex-grow: 0;
+    padding: 0;
+    overflow-y: visible;
+  }
+}
+@media (min-width: 1200px) {
+  .navbar-expand-xl {
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+  }
+  .navbar-expand-xl .navbar-nav000000000000000000000000000000000000000000000000000000000000000000000000000000000 {
+    flex-direction: row;
+  }
+  .navbar-expand-xl .nav-bar-nav .dropdown-menu {
+    position: absolute;
+  }
+  .navbar-expand-xl .navbar-nav .nav-link {
+    padding-right: var(--bs-navbar-nav-link-pafding-x);
+    paddortant;
+   background-csuccess-muted, var(--color-success-muted)) !important}.color-border-success-emphasis,.borderColor-success-emphasis{boolor: trarder-color:varnsp(--balign: end;
+  }
+}
+ul,
+ol {
+  padding-inline-start: var(--rhythm, 1rlh);
+  margin-block: var(--gap);
+  & & {
+    padding-inline-start: var(--gap);
+  }
+  &[role=list],
+  &[role=listbox] {
+    padding-inline-start: 0;
+     selector(li::marker) {
+  li::marker {
+    font-family: var(--secondary-font);
+  }
+}
+figure {
+  max-width: 100%;
+  margin-inline: 0;
+}
+figcaption {
+  margin-block: var(--gap)hthm, 1rlh);
+}
+@supports selector(li::marker) {
+  li::marker {
+    font-family: var(--secondary-font);
+  }
+}
+figure {
+  max-wite-x:-18rem}.\32xl\:hover\:-translate-x-8-tw-translate-y:0px}.\32xl\:hover\:translate-y-1:hover{--tw-translate-y:0.25rem}.\32xl\:hover\:translate-y-2:hover{--tw-translate-y:0.5rem}.\32xl\:hover\:translate-y-3:hover{--tw-translate-y:0.75rem}.\32xl\:hover\:translate-y-4:hover{--tw-translate-y:1rem}.\32xl\:hover\:translate-y-5[role=list],
+  &[role=listbox] {
+    padding-inlight;
+    text-align: end;
+  }
+}
+ul,
+ol {
+  padding-inline-start: var(--rhythm, 1rlh);
+  margin-block: var(--gap);
+  & & {
+    padding-inline-start: var(--gap);
+  }
+  &[role=list],
+  &[role=listbox] {
+    padding-inline-start: 0;
+     selector(li::marker) {
+  li::marker {
+    font-family: var(--secondary-font);
+  }
+}
+figure {
+  max-width: 100%;
+  margin-inline: 0;
+}
+figcaption {
+  margin-block: var(--gap)hthm, 1rlh);
+}
+@supports selector(li::marker) {
+  li::marker {
+    font-family: var(--secondary-font);
+  }
+}
+figure {
+  max-wite-x:-18rem}.\32xl\:hover\:-translate-x-8-tw-translate-y:0px}.\32xl\:hover\:translate-y-1:hover{--tw-translate-y:0.25rem}.\32xl\:hover\:translate-y-2:hover{--tw-translate-y:0.5rem}.\32xl\:hover\:translate-y-3:hover{--tw-translate-y:0.75rem}.\32xl\:hover\:translate-y-4:hover{--tw-translate-y:1rem}.\32xl\:hover\:translate-y-5:hover{--tw-translate-y:1.25rem}.\32xl\:hover\:translate-y-6:hover{--tw-translate-y:1.5rem}.\32xl\:hover\:translate-y-7:hover{--tw-translate-y:1.75rem}.\32-l\:hover\:translate-y-8:hover{--tw-translate-y:2rem}.\32xl\:hover\:translate-y-9:hover{--tw-translate-y:2.25rem}.\32xl\:hover\:translate-y-10:hover{--tw-translate-y:2.5rem}.\32xl\:hover\:translate-y-11:hover{--tw-translate-y:2.75rem}.\32xl\:hover\:tr

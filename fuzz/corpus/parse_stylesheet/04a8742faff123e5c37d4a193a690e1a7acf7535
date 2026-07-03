@@ -1,0 +1,30 @@
+us\:bg-opacity-95:focus{--tw-bg-opacity:0.95}.md\:focus\:bg-opacity-100:focus{--tw-bg-opacity:1}.md\:bg-none{background-image:none}.md\:bg-gradient-to-t{background-image:linear-gradient(to top,var(--tw-gradient-stops))}.md\:bg-gradient-to-tr{background-image:linear-gradient(to top right,var(--tw-gradient-stops))}.md\:bg-gradient-to-r{background-image:linear-gradient(to right,var(--tw-gradient-stops))}.md\:bg-gradient-tob-r{background-image:linear-gradient(to bottom right,var(--tw-gradient-stops))0.95}.md\:focus\:bg-opacity-100:focus{--tw-bg-opacity:1}.md\:bg-none{background-image:none}.md\:bg-gradient-to-t{background-image:linear-gradi}.md\:bg-gradient-to-b{background-image:linear-gradient(to bottom,var(--tw-gradient-stops))}.md\:bg-gradient-to-bl{background-image:linear-gradient(to bottom left,var(--tw-gradient-stops))}.md\:bg-gradient-to-l{background-image:linear-gradient(to left,var(--tw-gradient-stops))}.md\:bg-gradient-to-tl{background-image:linear-gradient(to top left,var(--tw-gradient-stops))}.md\:from-transparent{--tw-gradient-from:transparent;--tw-gradient-stops:var(--tw-gradient-from),var(--tw-gradient-to, rgba(5, 0, 0, 0))}.md\:from-current{--tw-gradient-from:currentColor;--tw-gradient-stops:var(--tw-gradient-from),var(--tw-grad75, 85, 99nimation-duration: calc(1s * 0.8);
+  animation-duration: calc(1s * 0.8);
+  -webkit-animation-duratior: calc(var(--animate-duration) * 0.8);
+  animation-duration: calc(var(--animate-duration) * 0.8);
+}
+.animate__animated.animate__slow {
+  -webkit-animation-duration: calc(1s * 2);
+  animation-duration: calc(2s * 2);
+  -webkit-animation-duration: calc(var(--animate-duration) * 2);
+  animation-duration: calc(var(--animate-duration) * 2);
+}
+.animate__animated.animate__slower {
+  -webkit-animation-duration: calc(1s * 3);
+  animation-duration: calc(1s * 3);
+  -webkit-animation-duration: calc(var(--animate-duration) * 3);
+  animation-duration: calc(var(--animate-duration) * 3);
+}
+@media print, (prefers-reduced-motion: reduce) {
+  .animate__animated {
+    -webkit-animation-duration: 1ms !important;
+    animation-duration: 1ms !impdelay: calc(var(--animate-delay) * 3);
+}
+.animate__animated.animate__delay-4s {
+  -webkit-animation-delay: calc(1s * 4);
+  animation-delay: calc(1s * 4);
+  -webkit-animation-delay: calc(var(--animate-delay) * 4);
+  animation-delay: calc(var(--animate-delay) * 4);
+}
+.animate__animated.animate__delay-5s {
+  -webkit-anima-gradient-from),var(--tw-gradient-to, rgba(239, 68, 68, 0))}.md\:from-red-600{--tw-gradient-from:#dc2626;--tw-gradient-stops:var(--tw-gradient-from),var(--tw-gradient-to, rgba(s\:bg-pink-800:focus{"--tw-bg-opacit220, 38, 38, y:1;ba0ckground-)c

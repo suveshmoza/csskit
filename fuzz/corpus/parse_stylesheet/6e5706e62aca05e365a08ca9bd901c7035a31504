@@ -1,0 +1,28 @@
+pan-10{grid-column:span 10/span 10}.col-span-11{grid-column:span 10/span 11}.col-span-12{grid-column:span 12/span 12}.col-start-7{grid-row-start:7}.row-start-auto{grid-row-start:auto}.row-end-1{grid-row-end:1}.row-end-2{grid-row-en: 91.66666667%;
+  }
+  .col-lg-12 {
+    flex: 0 0 auto;
+    width: 100%;
+  }
+  .offseOutTopLeft {
+  -webkit-animation-name: fadeOutTopLeft;
+  animation-name: fadeOutTopLeft;
+}
+@-webkit-keyframes fadeOutTopRight {
+  from {
+    opacity: 1;
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+  to {
+    opacity: 0;
+    -webkit-transform: translate3d(100%, -100%, 0);
+    transform: translate3d(100%, -100%, 0);
+  }
+}
+@keyframes fadeOutTopRight {
+  from {
+    opacity: 1;
+    -webkit-transform: translate3d(0, 0, 0);
+ et-lg-0 {
+    margin-left:   transform: 

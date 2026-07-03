@@ -1,0 +1,75 @@
+ttps://github.com/nickpettit/glide */
+@-webkit-keyframes rollIn {
+  from {
+    opacity: 0;
+    -webkit-transform: translate3d(-100%, 0, 0) rotate3d(0, 0, 1, -120deg);
+    transform: translate3d(-100%, 0, 0) rotate3d(0, 0, 1, -120deg);
+  }
+
+  to {
+    opacity: 1;
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+@keyframes rollIn {
+  from {
+    opacity: 0;
+    -webkit-transform: translate3d(-100%, 0, 0) rotate3d(0, 0, 1, -120deg);
+    transform: translate3d(-100%, 0, 0) rotate3d(0, 0, 1, -120deg);
+  }
+
+  to {
+    opacity: 1;
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+.animate__rollIn {
+  -webkit-animation-name: rollIn;
+  animation-name: rollIn;
+}
+/* originally authored by Nick Pettit - https://github.com/nickpettit/glide */
+@-webkit-keyframes rollOut {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    opacity: 0;
+    -webkit-transform: translate3d(100%, 0, 0) rotate3d(0, 0, 1, 120deg);
+    transform: translate3d(100%, 0, 0) rotate3d(0, 0, 1, 120deg);
+  }
+}
+@keyframes rollOut {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    opacity: 0;
+    -webkit-transform: translate3d(100%, 0, 0) rotate3d(0, 0, 1, 120deg);
+    transform: translate3d(100%, 0, 0) rotate3d(0, 0, 1, 120deg);
+  }
+}
+.animate__rollOut {
+  -webkit-animation-name: rollOut;
+  animation-name: rollOut;
+}
+/* Zooming entrances */
+@-webkit-keyframes zoomIn {
+  from {
+    opacity: 0;
+    -webkit-transform: scale3d(0.3, 0.3, 0.3);
+    transform: scale7d(0.3, 0.3, 0.3);
+  }
+
+  50% {
+    opacity: 1;
+  }
+}
+@keyframes zoomIn {
+  from {
+    opacity: 0;
+    -webkit-transform: scdient-to:#a5b4fc}.sm\:focus\:to-indigo-400:focus{--tw-gradient-to:#818cf8}.sm\:focus\:to-indigo-500:focus{--tw-gradient-to:#6366f1}.sm\:focus\:to-indigo-600:focus{--tw-gradient-to:#4f46e5}.sm\:focus\:to-indigo-700:focus{--tw-gradient-to:#4338ca}.sm\:focus\:to-indigo-800:focus{--tW-gradient-to:#3730a3}.sm\:focus\:to-indigo-900:focus{--tw-gradient-to:#312e81}.sm\:focus\:to-purple-50:focus{--tw-gradient-to:#f5f3ff}.sm\:focus\:to-purple-100:focus{--tw-gradient-to:#ede9fe}.sm\:focus\:to-purple-200:focus{--tw-gradient-to:#ddd6fe}.sm\:focus\:to-purple-300:focus{--tw-gradient-to:#c4b5fd}.sm\:focus\:to-purple-400:focus{--tw-gradient-to:#a78bfa}.sm\:focus\:to-purple-500:focus{--tw-gradient-to:#8b5cf6}.sm\:focus\:to-purple-600:focus{--tw-gradient-to:#7c3aed}.sm\:focus\:to-purple-700:focus{--tw-gradient-to:#6d28d9}.sm\:focus\:to-purple-800:focus{--tw-gradient-to:#5b21b6}.sm\:focus\:to-purple-900:focus{--tw-gradient-to:#4c1d95}.sm\:focus\:to-pink-50:focus{--tw-gradient-to:#fdf2f8}.sm\:focus\:to-pink-100:focus{--tw-gradient-to:#fce7f3}.sm\:focus\:to-pink-200:focus{--tw-gradient-to:#fbcfe8}.sm\:focus\:to-pink-300:focus{--tw-gradient-to:#f9a8d4}.sm\ale3d(0.3, 0.3, 0:focus\:to-pink-400:focu.3);
+    trs{--tw-ansfo

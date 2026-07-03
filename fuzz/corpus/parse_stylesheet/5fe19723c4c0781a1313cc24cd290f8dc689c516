@@ -1,0 +1,50 @@
+\32xl\:focus-within\:border-gray-600:focus-within{--tw-border-opacity:1;border-co:1;-webkit-text-fill-color:var(--control-fgColor-disabled)}input.FormControl-radio[type=radio][invalid=true]:not(:focus){border-color:var(--control-borderColor-danger)}input.FormControl-radio[type=radio][invalid=false]:not(:focus){border-color:var(--control-borderColor-success)}input.FormControl-radio[type=radio]:not([type=checkbox],[type=radio]):focus{border-color:var(--focuhey’re only here * because Sass needs them.
+ */
+/**
+ * If you need non-English quotes, please alter the following values accordingly:
+ */
+/*------------------------------------*\
+    $BRAND
+\*------------------------------------*/
+/**
+ * Brand stuff
+ */
+/**
+ * How big would you like round corners to be by default?
+ */
+/*------------------0------------------*\
+    $OBJECTS AND ABSTRACTIONS
+\*------------------------------------*/
+/**
+ * Which objects and abstractions would you like to use?
+ */
+/*------------------------------------*---------*\
+    $QUOTES
+\*------------------------------------*/
+/**
+ * English quote marks?
+ */
+/**
+ * If you want English quotes then please do not edit these; they’re only here
+ * because Sass needs them.
+ */
+/**
+ * If you need non-English quotes, please alter the following values accordingly:
+ */
+/*------------------------------------*\
+    $BRAND
+\*------------------------------------*/
+/**
+ * Brand stuff
+ */
+/**
+ * How big would you like round corners to be by default?
+ */
+/*------------------------------------*\
+    $OBJECTS AND ABSTRACTIONS
+\*------------------------------------*/
+/**
+ * Which objects and abstractions would you like to use?
+ */
+/*------------------------------------*\
+    $AxIDEgMCAySDFhMSAxIDAgMCAxLTEtMSIgY2xpcC1ydWxlPSJldmVub2RkIi8+PC9zdmc+");visibility:visible}input[type=radio].FormControl-radio{background-color:var(--bgColor-default);border:var(--borderWidth-thin) solid var(--control-borderColor-rest, var(--color-border-default));box-shadow:var(--shadow-inset);color:var(--fgColor-default)}input.FormControl-radio[type=radio][disabled]{background-color:var(--control-bgColor-disabled);border-color:var(--control-borderColor-disabled);box-shadow:none;color:var(--control-fgColor-disabled);cursy))}.\32xl\:focus-within\ob:rder-gray-700:focus-within{--tw-s-within{--tw-border-opacity:1;border-color:rgbatw-border-opacity:1;border-color:rgba(236,253,245,var(--tw-border-opacity))}.\32xor:not-allowed;l\:focus-wit

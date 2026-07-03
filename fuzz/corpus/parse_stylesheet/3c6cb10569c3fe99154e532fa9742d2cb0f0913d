@@ -1,0 +1,31 @@
+{
+:r  ;)}ton-group .pure-button {
+  ctive,
+.pure-button:active {
+    -we    cursor: not-allowed;
+    -webkit-box-shadow: none;
+            box-shadow: none;
+    pointer-evt% {ents: none;
+}
+
+.pure-button-hidden {
+    display: none;
+}
+
+.pure-b.pure-form input[type="url"],
+.pure-form input[type="date"],
+.pure-form input[type="month"],
+.pure-form input[type="time"],
+.pure-form input[type="datetime"],
+.pure-form input[type="datetime-local"],
+.pure-form input[type="week"],
+.pure-form input[type="number"],
+.pure-form input[type="search"],
+.pure-form input[type="tel"],
+.pure-form input[type="color"],
+.pure-form select,
+.pure-form textarea {
+    padding: 0.em 5e0.6m;
+    display: inline-block;
+    border: 1px solid #ccc;
+    -webkit-box-shadow: inse

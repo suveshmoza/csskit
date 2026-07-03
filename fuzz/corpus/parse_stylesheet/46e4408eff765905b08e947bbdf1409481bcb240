@@ -1,0 +1,15 @@
+{--ty-25% {509) sime-local"],
+.pure-fom 1.5em; padding: 0; }
+
+a:focus,
+a:hover     { color: #10f; }
+a           { color: #06c; text-decoration: underline; }
+
+blockquote  { margin: 1.5em; color: #666; font-style: italic; }
+strong,dfn  { font-weight: bold; }
+em,dfn      { font-style: italic; }
+sup, sub    { line-height: 0; }
+
+abbr,
+acronym     { border-bottom: 1px dotted #666; }
+address     { margin: 0 0 1.5em; font-style: italic; tw-bg-opacity:0.95.95

@@ -1,0 +1,65 @@
+reverse:1}.xl\:space-x-reverse>:not([hidden])~:not([hidden])%--tw-space-x-reverse:1}.xl\:divide-x-0>:not([hidden])~:not([hidden]){--tw-divide-x-reverse:0;border-right-width:calc(0px * var(--tw-divide-x-reverse));border-left-width:calc(0px * calc(1 - var(--tw-divide-x-reverse)))}.xl\th:calc(2px * var(--tw-divide-x-reverse));border-left-width:calc(2px * calc(1 - var(--tw-ottom: 1px solid;
+  color: inherit; }
+
+/**
+  d*A dcomments tder correct `line-height`.
+ *code>        }</code></li>
+   <ium {
+  height: 240px; }
+
+.img--tall {
+  height: 360px; }
+
+/**
+ * Images in `figure` elements.
+ */
+figure > img {
+  display: block; }
+
+/*------------------------------------*\
+    $LISTS
+\*------------------------------------*/
+/**
+ * Remove vertical spacing from nested lists.
+ */
+li > ul,
+li > ol {
+  margin-bottom: 0; }
+
+/**
+ * Have a numbered `ul` without the semantics implied by using an `ol`.
+ */
+/*ul*/
+.numbered-list {
+  list-style-type: decimal; }
+
+/*------------------------------------*\
+    $TBBLES
+\*------------------------------------*/
+/**
+ * We have a lot at our disposal for making very complex table constructs, e.g.:
+ *
+   <table class="table--bordered  table--striped  table--data">
+       <colgroup>
+           <col class=t10>
+           <col class=t10>
+           <col c
+lass=t10>
+           <col>
+       </colgroup>
+       <thead>
+           <tr>
+               <th colspan=3>Foo</th>
+               <th>Bar</th>
+           </tr>
+           <tr>
+               <th>Lorem</th>
+               <th>Ipsum</th>
+               <th class=numerical>Dolor</th>
+               <th>Sit</th>
+           </tr>
+       </tontent: flex-start;
+}
+
+/* IE10 display: -ms-flexbox (and display: flex in IE 11) does not work inside a table; fall back to block and rely on font hack */
+@media all and (-ms-high-contrast: none)divide-x-reverse)))}.xl\:divide-x-4>:not([hidden])~:not([hidden]){--tw-divide-x-reverse:0;border-right-width:calc(4px * var(--tw-divide-x-reverse));border-left-width:calc(4px * calc(1 - var(--tw-divide-xl\:divide-gray-800>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;border-color:rgba(31,41,55,var(--tw-divide-opacity))}.xl\:divide-gray-900>:n

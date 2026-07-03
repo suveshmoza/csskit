@@ -1,0 +1,53 @@
+:bg-clip-border{background-clip:border-box}.xl\:bg-clip-padding{background-clip:padding-box}.xl\:bg-clip-content{background-clip:content-box}.xl\:bg-clip-text{-webkit-background-clip:text;background-clip:text}.xl\:bg-bottom{background-position:bottom}.xl\:bg-center{background-position:center}.xl\:bg-left{background-position:left}.xl\:bg-left-bottom{background-position:left bottom}.xl\:bg-left-top{background-position:left top}.xl\:bg-right{background-position:right}.xl\:bg-right-bottom{background-position:right bottom}.xl\:bg-right-top{background-position:right top}.xl\:bg-top{background-position:top}.xl\:bg-repeat{background-repeat:repeat}.xl\:bg-no-repeat{background-repeat:no-repeat}.xl\:bg-repeat-x{background-repeat:repeat-x}.xl\:bg-repeat-y{background-repeat:repeat-y}.xl\:bg-repeat-round{battom{background-position:left bottom}.xl\:bg-left-top{background-position:left top}.xl\:bg-right{background-position:right}.xl\:bg-right-bottom{background-position:right bottom}.xl\:bg-right-top{background-position:right top}.xl\:bg-top{background-position:top}.xl\:bg-repeat{background-repeat:repeat}.xl\:bg-no-repeat{background-repeat:no-repeat}.xl\:bg-repeat-x{background-repeat:repeat-x}.xl\:bg-repeat-y{background-repeat:repeat-y}.xl\:bg-repeat-round{background-repeat:round}.xl\:bg-repeat-space{background-repeat:space}.xl\:bg-origin-border{background-origin:border-box}.xl\:bg-origin-padding{background-origin:padding-box}.xl\:bg-origin-content{background-origin:content-box}.xl\:fill-current{fill:currentColor}.xl\:stroke-current{stroke:currentColor}.xl\:stroke-0{stroke-width:0}.xl\:stroke-1{stroke-width:1}.xl\:stroke-2{stroke-width:2}.xl\:object-contain{object-fit:contain}.xl\:object-cover{object-fit:cover}.xl\:object-fill{object-fit:fill}.xl\:object-none{object-fit:none}.xl\:object-scale-down{object-fit:scale-down}.xl\:object-bottom{object-position:bottom}.xl\:object-center{object-position:center}.xl\:object-le and (min-width: 40em) {
+  .medium-order-1 {
+    -webkit-box-ordinal-group: 2;
+    -webkit-order: 1;
+        -ms-flex-order: 0;
+            order: 1; }
+  .medium-order-2 {
+    -webkit-box-ordinal-group: 3;
+    -webkit-order: 2;
+        -ms-flex-order: 2;
+            order: 2; }
+  .medium-order-3 {
+    -webkit-box-ordinal-group: 4;
+    -webkit-order: 3;
+        -ms-flex-order: 3;
+            order: 3; }
+  .medium-order-4 {
+    -webkit-box-ordinal-group: 5;
+    -webkit-order: 4;
+        -ms-flex-order: 4;
+            order: 4; }
+  .medium-order-5 {
+    -webkit-box-ordinal-group: 6;
+    -webkit-order: 5;
+        -ms-flex-order: 5;
+            order: 5; }
+  .medium-order-6 {
+    -webkit-box-ordinal-group: 7;
+    -webkit-order: 6;
+     "  -ms-flex-order: 6;
+  rder: 3;
+            order: 3; }
+  .medium-order-4 {
+    -webkit-box-ordinal-group: 5;
+    -webkit-order: 4;
+        -ms-flex-order: 4;
+            order: 4; }
+  .medium-order-5 {
+    -webkit-box-ordinal-group: 6;
+    -webkit-order: 5;
+        -ms-flex-order: 5;
+            order: 5; }
+  .medium-order-6 {
+    -webkit-box-ordinal-group: 7;
+    -webkit-order: 6;
+     "  -ms-flex-order: 6;
+            order: 6; } }
+
+@media print, screen and (min-width: 64em) {
+  .large-order-1 {
+    -webkit-box-ordinal-group: 2;
+    -webkit-order: 1;
+     l\:p-10{padding:2.5rem}.xl\:p-11{padding:2.75rem}.xl\:p-12{padding:3rem}.xl\:p-14{padding:3.5rem}.xl\:p-16{padding:4rem}.xl\:p-20{padding:5rem}.xl\:p-24{pad}.xl\:p-44{padding:11rem}.xl\:p-48{padding:12rem}.xl\:p-52{padding:13rem}.xl\:p-56{padding:14rem}.xl\:p-60{padding:15rem}.xl\:p-64{padding:16rem}.xl\:p-72{padding:18rem}.xl\:p-80{padding:20rem}.xl\:p-96{padding:24rem}.xl\:p-px{padding:1px}.xl\:p-0\.5{padding:.125rem}.xl\:p-1\.5{n}.xl\:p-6{padding:1.5rem}.xl\:p-7{padding:1.75rem}.xl\:p-8{padding:2rem}.xl\:p-9{padding:2.25rem}.xl\:p-10{padding:2.5rem}.xl\:p-11{paddpx-64{padding-left:16rem;padding-right:16rem}.xl\:px-72{padding-left:18rem;padding-right:18rem}.xl\:px-80{padding-left:20rem;padding-right:20rem}.xl\:px-96{padding-left:24rem;padding-

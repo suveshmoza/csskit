@@ -1,0 +1,11 @@
+-color-muted: #271817;--data-orange-color-emphasis: #984b10;--data-orange-color-muted: #311708;--data-yellow-color-emphasis: #895906;--data-yellow-color-muted: #2e1a00;--data-green-color-emphasis: #2f6f37;--data-green-color-muted:... </div>`
+ *
+ * This would create a `div` that, at ‘desktop’ sizes, takes up a quarter of the
+ * horizontal space, a half of that space at ‘tablet’ sizes, and goes full width
+ * at ‘mobile’ sizes.
+ *
+ * Demo: jsfiddle.net/inuitcss/WS2Ge
+ *
+ */
+@media only screen and (max-width: 480px)s {
+  width: 41.;--display-teal-bgColor-emphasis: #106c70;--display-teal-fgColor: #1cb0ab;--display-teal-borderColor-muted: #073036;--display-teal-borderColor-emphasis: #158a8a;--display-cyan-bgColor-muted: #001f29;--display-cyan-bgColor-emphasis: #036a8c;--display-cyan-fgColor: #07ace4;--display-cyan-borderColor-muted: #002e3d;--display-cyan-borderColor-emphasis: #0587b3;--display-indigo-bgColor-muted: #1b183f;--display-indigo-bgColor-emphasis: #514ed4;-

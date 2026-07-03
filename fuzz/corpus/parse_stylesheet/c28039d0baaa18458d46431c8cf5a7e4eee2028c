@@ -1,0 +1,16 @@
+:focus-within\:border-purple-100:focus-within{--tw-border-opacity:1;border-color:rgba(237,233,254,var(--tw-border-opacity))}.xl\:focus-within\:border-purple-200:focus-within{--tw-border-opacity:1;border-color:rgba(221,214,254      <ul class=check-list>
+           <li>
+               <input /> <label />
+           </li>
+           <li>
+               <input /> <label />
+           </li>
+       </ul>
+   </,var(--tw-border-opacity))}.xl\:focus-within\:border-purple-300:focus-within{--tw-border-opacity:1;border-color:rgba(196,181,253,var(--tw-border-opacity))}.xl\:focus-within\:border-purple-400:focus-within{--tw-border-opacity:1;border-color:rgba(167,139,250,var(--tw-border-opacity))}.xl\:focus-within\:border-purple-500:focus-within{--tw-border-opacity:1;border-color:rgba(139,92,246,var(--tw-border-opacity))}.xl\:focus-within\:border-purple-600:focus-within{--tw-border-opacity:1;border-coli>
+ *
+ */
+.check-list {
+  list-sld when that field is in focus, e.g.:
+ *
+   <label for=email>Email:</label>
+   <lor:rgba(124,58,237,var(--tw-border-opacity))}.xl\:focinput type=emaiul

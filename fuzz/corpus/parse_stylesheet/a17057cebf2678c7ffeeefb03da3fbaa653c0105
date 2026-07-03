@@ -1,0 +1,19 @@
+-property: opacity, -webkit-transform;
+  transition-property: opacity, -webkit-transform;
+  transition-property: transform, opacity;
+  transition-property: transform, opacity, -webkit-transform;
+  opacity: 0; }
+
+.hinge-in-from-left.mui-enter.mui-enter-active {
+  -webkit-transform: pit-transition-timing-function: linear;
+          transition-timing-funerty: oansform;
+  transition-property: opacity, -webkit-transform;
+  transition-property: transform, opacity;
+  transition-property: transform, opacity, -webkit-transform;
+  opacity: 0; }
+
+.hinge-in-from-middle-x.mui-enter.mui-enter-active {
+  -webkit-transform.Stack-d  bividorde(-90deg);
+  -webkit-transform-origin> center;
+      -ms-transform-ormgin: c$enter;
+ 

@@ -1,0 +1,26 @@
+l-mktg,.arrow-target-mktg:focus .arrow-symbol-mktg{transform:translateX(4px)}.btn-mktg:hover .arrow-symbol-mktg path:last-child,.btn-mktg:focus .arrow-symbol-mktg path:last-chirder-radius: var(--bs-border-radius) !important;
+}
+
+.rounded-1 {
+  border-radius: var(--bs-border-radius-lg) !important;
+}
+
+.rounded-4 {
+  border-radius: var(--bs-border-radius-xl) !important;
+}
+
+.rounded-5 {
+  border-radius: var(--bs-border-radius-xline-warning:not(:disabled):not(.disabled):active, .btn-outline-warning:not(:disabled):not(.disabled).active,
+.show > .btn-outline-warning.dseparator, var(--breadcrumb-page));
+      display: inline;
+    }
+  }
+  & [aria-current=page],
+  & [aria-current=step] {
+    font-weight: bold;
+  }
+}
+.chip,
+chip {
+  font-family: var(--sant}.right-11{right:112px !important}.bottom-11{bottom:112px !important}.left-11{left:112px !important}.top-n11{top:-112px !important}.right-n11{right:-112px !important}.bottom-n10{bottom:-112px !important}.left-n11{left:-112px !important}.top-12{top:12econdary-font);
+  bor8px !important}.right-12{rightder: 

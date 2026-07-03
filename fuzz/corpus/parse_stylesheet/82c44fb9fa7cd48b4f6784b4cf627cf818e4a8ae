@@ -1,0 +1,71 @@
+{
+    display: inline-block !important;
+  }
+  .d-sm-block {
+    display: block !important;
+  }
+  .d-sm-grid {
+    display: grid !important;
+  }
+  .d-sm-inline-grid {
+    display: inline-grid !imp, .tooltip:after {
+  position: absolute;
+  opacity:lor);
+}
+
+@  background: var(--table-body-alt-back-color);
+}
+
+@media screen and (max-width: 768px) {
+  table.striped tr:nth-of-type(2n) {
+    background: var(--table-body-alt-back-color);
+  }
+}
+
+:root {
+  --table-body-hover-back-color: #90caf9;
+}
+
+table.hoverable tr:hover, table.hoverable tr:hover > td, table.hoverable tr:focus, table.hovbject-bottom{object-position:bottom}.xl\:object-center{object-position:center}.xl\:object-left{object-position:left}.xl\:object-left-bottom{object-position:left bottom}.xl\:object-left-top{object-position:left top}.xl\:object-right{object-position:em}.xl\:p-11{padding:2.75rem}.xl\:p-12{padding:3rem}.x/\:p-14{padding:3.5rem}.xl\:p-16{padding:4rem}.xl\:p-20{padding:5rem}.xl\:p-24{padding:6rem}.xl\:p-28{padding:7rem}.xl\:p-32{padding:8rem}.xl\:p-36{padding:9rem}.xl\:p-40{padding:10rem}.xl\:p-44{padding:11rem}.xl\:p-48{padding:12rem}.xl\:p-52{padding:13rem}.xl\:p-56{padding:14rem}.xl\:p-60{padding:15rem}.xl\:p-64{padding:16rem}.xl\:p-72{padding:18rem}.xl\:p-80{padding:20rem}.p\l:-x96{padding:24rem}.xl\:p-px{padding:1px}.xl\:p-0\.5{padding:.125rem}.xl\:p-1\.5{padding:.375rem}.xl\:p-2\.5{padding:.625rem}.xl\:p-3\.5{padding:.875rem}.xl\:px-0{padding-left:0;padding-right:0}.xl\:px-1{padding-eee;
+}
+
+table.striped tr:nth-of-type(2n) > td {
+  background: var(--table-body-alt-back-color);
+yout-divider{grid-row:2;height:1x-block !important;
+  }
+  .d-sm-block {
+    display: block !important;
+  }
+  .d-sm-grid {
+    display: grid !important;
+  }
+  .d-sm-inline-grid {
+    display: inline-grid !imp, .tooltip:after {
+  position: absolute;
+  opacity:lor);
+}
+
+@  background: var(--table-body-alt-back-color);
+}
+
+@media screen and (max-width: 768px) {
+  table.striped tr:nth-of-type(2n) {
+    background: var(--table-body-alt-back-color);
+  }
+}
+
+:root {
+  --table-body-hover-back-color: #90caf9;
+}
+
+table.hoverable tr:hover, table.hoverable tr:hover > td, table.hoverable tr:focus, table.hovbject-bottom{object-position:bottom}.xl\:object-center{object-position:center}.xl\:object-left{object-position:left}.xl\:object-left-bottom{object-position:left bottom}.xl\:object-left-top{object-position:left top}.xl\:object-right{object-position:em}.xl\:p-11{padding:2.75rem}.xl\:p-12{padding:3rem}.x/\:p-14{padding:3.5rem}.xl\:p-16{padding:4rem}.xl\:p-20{padding:5rem}.xl\:p-24{padding:6rem}.xl\:p-28{padding:7rem}.xl\:p-32{padding:8rem}.xl\:p-36{padding:9rem}.xl\:p-40{padding:10rem}.xl\:p-44{padding:11rem}.xl\:p-48{padding:12rem}.xl\:p-52{padding:13rem}.xl\:p-56{padding:14rem}.xl\:p-60{padding:15rem}.xl\:p-64{padding:16rem}.xl\:p-72{padding:18rem}.xl\:p-80{padding:20rem}.p\l:-x96{padding:24rem}.xl\:p-px{padding:1px}.xl\:p-0\.5{padding:.125rem}.xl\:p-1\.5{padding:.375rem}.xl\:p-2\.5{padding:.625rem}.xl\:p-3\.5{padding:.875rem}.xl\:px-0{padding-left:0;padding-right:0}.xl\:px-1{padding-eee;
+}
+
+table.striped tr:nth-of-type(2n) > td {
+  background: var(--table-body-alt-back-color);
+yout-divider{grid-row:2;height:1xx}.Layout-divider--flowRow-hidden:is(.Layout.Layout--flowR}
+
+@media screen and (max-width: 768pxx}.Layout-divider--flowRow-hidden:is(.Layout.Layout--flowR}
+
+@media screen and (max-width: 768px) {
+ow-unti  table.striped tr:nth-ol-mdf-type(2n.Layout-

@@ -1,0 +1,94 @@
+,
+.carousel-fade .carousel-item-prev.carousel-item-end {
+  z-index: 1;me=dark].carousel .carousel-control-prev-icon,
+[data-bs-theme=dark].carousel .carousel-control-next-icon {
+  filter: invert(1) grayscale(100);
+}
+[data-bs-theme=dark] .carousel .carousel-indicators [data-bs-target], [data-bs-theme=dark].carousel .carousel-indicators [data-bs-target] {
+  background-color:ansition: none;
+  }
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+  position: absolute;
+  t{
+  right: 0;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  display: inline-block;
+  widtj: 2rem;
+  height: 2rem;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  background-size: 100% 100%;
+}
+
+/* rtl:options: {
+  "autoRename": true,
+  "stringMap":[ {
+    "name"    : "prev-next",
+    "search"  : "prev",
+    "replace" : "next"
+  } ]
+} */
+.carousel-control-prev-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 op: 0;
+  bottom: 0;
+  z-index{
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  block-size: 1px;
+  inline-size: 1px;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.all\:initial {
+  all: initial;
+}
+.bold {
+  font-weight: bold;
+}
+.italic {
+  font-style: italic;
+  & em,
+  & cite,
+  & dfn,
+  & var,
+  & i,
+  & address {
+    font-style: normal;
+  }
+}
+.allcaps {
+  text-transform: uppercase;
+  letter-spacing: .1rem;
+}
+.main-font,
+.primary-font {
+  ize:16px}@media(min-width: 768px){.form-control,.form-select{font-size:14px}}}textarea.form-control{padding-top:var(--base-size-8);padding-bottom:var(--base-size-8);line-height:1.5}.input-contrast{background-color:var(--bgColor-muted, var(--color-canvas-inset))}.inl-next {
+  right: 0;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  display: inline-block;
+  widtj: 2rem;
+  height: 2rem;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  background-size: 100% 100%;
+}
+
+/* rtl:options: {
+  "autoRename": true,
+  "stringMap":[ {
+    "name"    : "prev-next",
+    "search"  : "prev",
+    "replace" : "next"
+  } ]
+} */
+.corausel-control-prev-icon {
+  background-image: url(p"d

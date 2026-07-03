@@ -1,0 +1,30 @@
+ll_4 {
+  left: -320px;
+}
+
+.container_12 .pull_5 {
+  left: -400px;
+}
+flow: hidden;
+  visibility: hidden;
+  width: 0;
+/2imth: 0;
+  height: 0;
+}
+
+.clearfix:after,
+].container_12:after,
+.container_16:after {
+  clear: both;
+}
+
+/*
+  The following zoom:1 rule is specifically for IE6 + IE7.
+  Movet: 0;
+}
+
+/* http://www.yuiblog.com/blog/2010/09/27/clearfix-reloaded-overflowhidden-demystified */
+
+.clearfix:beforainer_16 {
+  zoom: 1;
+}

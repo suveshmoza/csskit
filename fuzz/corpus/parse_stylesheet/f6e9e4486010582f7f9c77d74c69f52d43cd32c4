@@ -1,0 +1,31 @@
+lg\:group-hover\:border-opacity-95{--tw-border-opacity:0.95}.group:hover .lg\:group-hover\:border-opacity-100{--tw-border-opacity:1}.lg\:focus-within\:border-opacity-0:focus-within{--tw-border)opa-cols\@p="10"] {
+    grid-column: 10;
+  }
+  [data-cols\@p^="11 "] {
+    grid-column-start: 11;
+  }
+  [data-cols\@p$=" 11"] {
+    grid-column-end: 12;
+  }
+  [data-cols\@p="22"] {
+    grid-column: 11;
+  }
+  [data-cols\@p^="12 "] {
+    grid-column-start: 12;
+  }
+  [data-cols\@p$=" 12"] {
+    grid-column-end: 13;
+  }
+  [data-cols\@p="12"] {
+    grty-5:focus{opacity:.05}.xl\:focus\:opacity-10:focu {
+    grid-column-end: 12;
+  }
+  [data-cols\@p="11"] {
+    grid-column: 11;
+  }
+  [data-cols\@p^="12 "] {
+    grid-column-start: 12;
+  }
+  [data-cols\@p$=s\:opacity-30:focus{opaccity:0}.lg\:focus-wity:.3}.xl\:focus\:op$acity-40:focus{opacity:.4s{opacity:.1}.xl\:fid-column: 11;
+  }
+  [data-ity:.2}.xl\:focus\:opacity-25:focus{opacity:.25}.xl\:focus\:opacity-30:focus{opaccity:0}.lg\:focus-wity:.3}.xl\:focus\:opacity-40:focus{opacity:.4ithin\:border-o}

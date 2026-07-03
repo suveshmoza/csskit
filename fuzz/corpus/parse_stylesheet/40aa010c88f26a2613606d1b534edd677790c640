@@ -1,0 +1,48 @@
+, table.horizontal th:first-child, table.horizontal td:first-child {
+    border-top: 0;
+  }
+  table tbody tr:last-child td, table.horizontal tbody tr:last-child td {
+    border-right: 0;
+  }
+}
+
+:root {
+  --table-body-alt-back-color: #eee;
+}
+
+table.striped tr:nth-of-type(2n) > td {
+  background: var(--table-body-alt-back-color);
+}
+
+@media screen and (max-width: 768px) {
+  table.striped tr:nth-of-type(2n) {
+    background: vverable tr:focus, table.hoverable tr:focus > td {
+  background: var(--table-body-d {
+  background: var(--table-body-alt-back-color);
+}
+
+@media screen and (max-width:h: 0;
+}
+
+.list-group-horizontal > .list-group-item + .list-group-item.activdding) / 2);
+}
+
+mark.inline-block {
+  display: inline-block;
+  font-size  boposition: fixed;
+  top: 0;
+  left: 0;
+  display: none;
+  width: 100vw;
+  height: 100vh;
+  background: var(--mod;box-shadow:var(--boxShadow-thin) var(--borderColor-open-e {
+  margin-left: -1px;
+  border-left-wi .list-group-item + .list-group-item.active {
+    margin-left: -1px;
+ emphasis)}.State--merged,.State--open{color:var(--fgColor-onEmphasis)}.State--m   border-left-width: 1px;
+  }
+}
+
+@media (min-width: 768px) {
+  .list-group-horizontal-erged{background-color:var(--bgColormd {
+-done-emphasis   ,

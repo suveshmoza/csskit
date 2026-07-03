@@ -1,0 +1,66 @@
+cus\:placeholder-pink-600:focus::placeholder{--tw-placeholder-opacity:1;color:rgba(219,39,119,var(--tw-placeholder-opacity))}.md\:focus\:placeholder-pink-700:focus::placeholder{--tw-placeholder-opacity:1;color:rgba(190,24,93,var(--tw-placeholder-opacity))}.md\:focus\:placeholder-pink-800:focus::placeholder{--tw-placeholder-opacity:1;color:rgba(157,23,77,var(--tw-placeholder-opacity))}.md\:focus\:placeholder-pink-900:focus::placeholder{--tw-placeholder-opacity:1;color:rgba(131,24,67,var(--tw-placeholder-opacity))}.md\:placeholder-opacity-0::placeholder{--tw-placeholder-opacity:0}.md\:placeholder-opacity-5::placeholder{--tw-placeholder-opacity:0.05}.md\:placeholder-opacity-10::placeh      <td>Lorem</td>
+           </tr>
+           <tr>
+               <th rowspan=2>Sit</th>
+               <td>Dolor</td>
+               <td class=numerical>09.640</td>
+               <td>Lorem</td>
+           </tr>
+           <tr>
+   {
+  vertical-align: middle; }
+
+[rowspan="1"] {
+  vertical-align: top; }
+
+.numerical {
+  text-align: right; }
+
+/**
+ * In the HTML above we see several `col` elements with classes whose numbers
+ * represent a percentage width for that column. We leave one column free of a
+ * class so that column can soak up the effects of any accidental breakage in
+ * the table.
+ */
+.t5 {
+  width: 5%; }
+
+.t10 {
+  width: 10%; }
+
+.t12 {
+  width: 12.5%; }
+
+/* 1/8 */
+.t15 {
+  width: 15%; }
+
+.t20 {
+  width: 20%; }
+
+.t25 {
+  width: 25%; }
+
+/* 1/4 */
+.t30 {
+  width: 30%; }
+
+.t33 {
+  width: 33.333%; }
+
+/* 1/3 */
+.t35 {
+  width: 35%; }
+
+.t37 {
+  width: 37.5%; }
+lder{--tw-placeholder-opacity:0.1}.md\:placeholder-opacity-20::placeholder{--tw-placeholder-opacity:0.2}.md\:placeholder-opacity-25::placeholder{--tw-placeholde * Group sets of form fieldr-opacity:0.25}.md\:placeholder-opacity-30::placeholder{--tw-placeholder-opacity:0.3}.md\:placeholder-opacity-40s in a list, e.g.:
+ *
+   <ul class=form-fields>
+       <li>
+           <label />
+        ::placeholder{--tw-placeholder-opacity:0.4}.md\:placeholder-opacity-50::placeholder{--tw-placeholder-opacity:0.5}.md\:placeholder-opacity-60::placeholder{--tw-placeholder-opacity:0.6}.md\:placeholder-opacity-70::placeholder{--tw-   <input />
+       ch kind of form input, we just use a
+ * class to target any/every one, e.g.:
+   <inputplaceholder-opacity:0.7}.md\:placeholder-opac type=text class=text-input>
+   <input type=email classi=text-intyp

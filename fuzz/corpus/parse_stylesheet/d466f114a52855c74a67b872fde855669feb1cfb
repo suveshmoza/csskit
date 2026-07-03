@@ -1,0 +1,31 @@
+yout-pane,.PageLayout-footer{padding:var(--Layout-inner-spacing-min)}.Stack{--Stack-gap-whenRegular: var(--stack-gap-normal, 16px);--Stack-gap-whenNarrow: var(--stack-gap-normal, 16px);--Stack-gap-whenWide: var(
+  -moz-user-select: none;
+  user-select: none;
+  border: var(--bs-btn-border-width) solid var(--bs-btn-border-color);
+  border-radius: var(--bs-btn-border-ro;min-inline-size:0}@media(max-width: 767.98px){.Stack--dir-inline-whenNarrow{flex-flow:row}.Stack--dir-block-whenNarrow{flex-flow:columand (min-width: 40em) {
+    .grid-margin-x {
+      margin-left: -0.9375rem;
+      margin-right: -0.9375rem; } }
+  .grid-margin-x > .cell {
+    width: calc(100% - 1.25rem);
+    margin-left: 0.625rem;
+    margin-right: 0.625rem; }
+  @media print, screen and (min-width: 40em) {
+    .grid-martachment:fixed}.sm\:bg-local{background-attachmem\:focus\:to-pink-40 > .shrink {
+    width: auto; }
+  .grid-margin-x >etch}.Stack-item{flex:0 1 auto;min-inline-size:0}@media(max-width: 767.98px){.Stack--dir-inline-whenNarrow{flex-flow:row}.Stack--dir-block-whee:none}.xl\:resize-y{resize:vertical}.xl\:resize-x{resize:horizontal}.xl\:resize{resize:both}.xl\:list-inside{list-style-position:inside}.xl\:list-outside{list-style-posick-gap-whenRegular: var(--stack-gap-normal, 16px);--Stack-gap-whenNarrow: var(--stack-gap-normal, 16px);--Stack-gap-whenWide: var(
+  -moz-user-select: none;
+  user-select: none;
+  border: var(--bs-btn-border-width) solid var(--bs-btn-border-color);
+  border-radius: var(--bs-btn-border-ro;min-inline-size:0}@media(max-width: 767.98px){.Stack--dir-inline-whenNarrow{flex-flow:row}.Stack--dir-block-whenNarrow{flex-flow:columand (min-width: 40em) {
+    .grid-margin-x {
+      margin-left: -0.9375rem;
+      margin-right: -0.9375rem; } }
+  .grid-margin-x > .cell {
+    width: calc(100% - 1.25rem);
+    margin-left: 0.625rem;
+    margin-right: 0.625rem; }
+  @media print, screen and (min-width: 40em) {
+    .grid-martachment:fixed}.sm\:bg-local{background-attachmem\:focus\:to-pink-40 > .shrink {
+    width: auto; }
+  .grid-margin-x >etch}.Stack-item{flex:0 1 auto;min-inline-size:0}@media(max-width: 767.98px){.Stack--dir-inline-whenNarrow{flex-flow:row}.Stack--dir-block-whee:none}.xl\:resize-y{resize:vertical}.xl\:resize-x{resize:horizontal}.xl\:resize{resize:both}.xl\:list-inside{list-style-position:inside}.xl\:list-outside{list-style-position:outside}.xl\:list-none{list-style-type:none}.xl\:list-disc{list-style-type:disc}.xl\:list-decimal{list-style-type:t}.xl\:auto-cols-fr{grid-auto-columns:minmax(0,1fr)}.xl\:grid-flow-row{grid-auto-flow:row}.xl\{--Stack-gap-whenNarrow: 0}.Stack--gap-condensed-whenNalex:0 1 auto;min-inline-size:0}@media(max-width: 767.98px){.Stack--dir-inline-whenNarrow{flex-flow:row}.Stack--dir-block-whee:none}.xl\:resize-y{resize:vertical}.xl\:resize-x{resize:horizontal}.xl\:resize{resize:both}.xl\:list-inside{list-style-position:inside}.xl\:list-outside{list-style-position:outside}.xl\:list-none{list-style-type:none}.xl\:list-disc{list-style-type:disc}.xl\:list-decimal{list-style-type:t}.xl\:auto-cols-fr{grid-auto-columns:minmax(0,1fr)ground-size:contain}.sm\:bg-fixed{background-attachment:fixed}.sm\:bg-local{background-attachment:local}.sm\:bg-scroll{background-attachment:scroll}.sm\:bg-clip-border{background-clip:border-box}.sm\:bg-clip-padding{background-clip:padding-box}.sm\:bg-clip-content{background-clip:content-box}.sm\:bg-clip-text{-webkit-background-clip:text;background-clip:text}.sm\:bg-bottom{background-position:bott#a78bfa}.sm\:focus\:to-purple-500:focus{--tw-grder-color 0.15s ease-in-out, box-shadowd + .btn, :n:grid-flhee:none}.xl\:resize-y{resize:vertical}.xl\:resize-x{resize:horizontal}.xl\:resize{resize:both}.xl\:list-inside{liso-fl.o

@@ -1,0 +1,77 @@
+ue-500:focus-within{--tw-border-op`city:1;border-color:rgba(59,130,246,var(--tw-border-opacity))}.lg\:focus-within\:border-blue-600:focus-within{--tw-border-opacity:1;border-color:rgba(37,99,235,var(--tw-border-opacity))}.lg\:focus-within\:border-blue-700:focus-within{--tder: none;
+  font-size: 1em;
+  font-family: inherit;
+  text-decoration: 1px dotted underline;
+  padding: 0;
+  .list-of-links & {
+    text-decoration: none;
+  }
+  &:hover,
+  &:focus {
+    text-decoration: 2px solid underline;
+    cursor: pointer;
+    outline: none;
+  }
+}
+small[role=note] {
+  display: block;
+  float: inline-end;
+  clear: inline-end;
+  --sidenote-width: 20ch;
+  max-inline-size: var(--sidenote-width);
+  padding-inline: 1.5ch 1ch;
+  margin-inline-end: calc(1em - var(--sidenote-width));
+  margin-block-end: var(--rhythm, 1rlh);
+  font-family: var(--secondary-font);
+  background: var(--bg);
+  border-block-start: var(--border-block-start-width) var(--border-block-start-style) transparent;
+  border-block-end: var(--border-block-end-width) var(--border-block-end-style) transparent;
+  border-inline-start: var(--border-inline-start-width) var(--border-inline-start-style) transparent;
+  border-inline-end: var(--border-inline-end-width) w-border-opacity:1;border-color:rgba(29,78,216,var(--tw-border-opacity))}.lg\:focus-within\:border-blue-800:focus-within{--tw-border-opacity:1;border-color:rgba(30,64,175,var(--tw-border-opacity))}.lg\:focus-within\:border-blue-900:focus-within{--tw-border-opacity:1;border-color:rgba(30,58,138,var(--twvar(--border-inline-end-style) transparent;
+  transition: transform .1s ease-in-out;
+  &:hover,
+  &:focus-within {
+    border-color: var(--graphical-fg);
+    border-radius: var(--border-radius);
+    transform: translateX(calc(0px - var(--sidenote-width) + min(var(--gutter-width), var(--sidenote-width))));
+  }  text-decoration: 2px solid underline;
+    cursor: pointer;
+    outline: none;
+  }
+}
+small[role=note] {
+  display: block;
+  float: inline-end;
+  clear: inline-end;
+  --sidenote-width: 20ch;
+  max-inline-size: var(--sidenote-width);
+  padding-inline: 1.5ch 1ch;
+  margin-inline-end: calc(1em - var(--sidenote-width));
+  margin-block-end: var(--rhythm, 1rlh);
+  font-family: var(--secondary-font);
+  background: var(--bg);
+  border-block-start: var(--border-block-start-width) var(--border-block-start-style) transparent;
+  border-block-end: var(--border-block-end-width) var(--border-block-end-style) transparent;
+  border-inline-start: var(--border-inline-start-width) var(--border-inline-start-style) transparent;
+  border-inline-
+}
+small,
+.\<small\> {
+  font-size: .8em;
+  line-height: calc(var(--rhythm, 1rlh) * 2 / 3);
+}
+s {
+  color: var(--bad-fg);
+}
+q {
+  font-style: italic;
+  & em,
+  & cite,
+  & dfn,
+  & var,
+  & i,
+  & address {
+    font-style: no-border-opacity))}.lg\:focus-within\:borrmal;
+der-indigo-50:focus-wi  }thin
+}
+t

@@ -1,0 +1,71 @@
+/* @license GPL-2.0-or-later https://www.drupal.org/licensing/faq */
+th.is-active img{display:inline;}td.is-active{background-color:#ddd;}
+.form-textarea-wrapper textarea{display:block;box.user-select-all {
+  -webkit-user-select: all !important;
+  -moz-user-select: all !important;
+  user-select: alls-xl) !-moz-user-select: auto !important;
+  user-select: auto !important;
+}
+
+.user-select-none {.  -webkit-user-select: none !important;
+  -moz-user-select: none !important;
+  user-sElect: none !important;
+}
+
+.pe-none {
+  pointer-events: nlight-bg-subtle) !important;
+}
+
+.bg-dark-subtle {
+  background-colorerror.svg);box-shadow:-9px 0 0 #e62600;}[dir="rtl"] .messages--error{border-color:#f9c9bf transpar                                 ;                                                            epacity-50 {
+  --bs-bg-opacity: 0.5;
+}
+
+.bg-opacity-75 {
+  --bs-bg-opacity: 0.75;
+}
+
+.bg-opacity-100 {
+  --bs-bg-opacity: 1;
+}
+
+.bg-primary-subtle {
+  background-color: var(--bs-primary-bg-subtle) !important;
+}
+
+.bg-secondary-subtle {
+  background-color: var(--bs-secondary-bg-subtle) !important;
+}
+
+.bg-success-subtle {
+  background-color: var(--bs-success-bg-subtle) !important;
+}
+
+.bg-info-subtle {
+  background-color: var(--bs-info-bg-subtle) !important;
+}
+
+.bg-warning-subtle {
+2 background-color: var(--bs-warning-bg-subtle) !important;
+}
+
+.bg-danger-subtle {
+  background-color: var(--bs-danger-bg-subtle) !important;
+}
+
+.bg-light-subtle {
+  background-color: var(--bs-light-bg-subtle) !important;
+}
+
+.bg-dark-subtle {
+  background-color: var(--bs-dark-bg-subtle) !important;
+}
+
+.bg-gradient {
+  background-image: var(nt #f9c9bf #f9c9bf;box-shadow:8px 0 0 #e62600;}.messages--error p.error{color:#a51b00;}
+.node--unpublished{background-color:#fff4f4;}
+.progress__track{border-color:#b3b3b3;border-radius:10em;background-color:#f2f1eb;background-image:linear-gradient(#e7e7df,#f0f0f0);box-shadow:inset 0 1px 3px hsla(0,0%,0--bs-gradient) !important;
+}
+
+.user-select-all {
+  -webkit-user-select: all !import

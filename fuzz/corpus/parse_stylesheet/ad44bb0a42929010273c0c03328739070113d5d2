@@ -1,0 +1,6 @@
+ckInDown {
+  0% {
+    -webkit-transform: translaeY(-1200px) scale(0.7);
+    transform: tran0;
+}
+slat

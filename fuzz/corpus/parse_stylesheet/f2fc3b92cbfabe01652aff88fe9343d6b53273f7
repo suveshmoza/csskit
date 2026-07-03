@@ -1,0 +1,19 @@
+d\:gap-28{gap:7rem}.md\:gap-32{gap:8rem}.md\:gap-36{gap:9rem}.md\:gap-40{gap:10rem}.md\:gap-44{gap:11rem}.md\:gap-48{gap:12re}.md\:gap-52{gap:13rem}.md\:gap-56{gap:14rem}.md\:gap-60{gap:15rem}.md-----------------------------*/
+/**
+ * Use an explicit font stack to ensure browsers render correct `line-height`.
+ */
+pre {
+o[x-placement^="rrder-width: 0.5rem 0.5rem 0.5rem 0;
+  border-right-color: rgba  overflow: auto; }
+ect `line-height`.
+ */
+pre {
+o[x-placement^="right"] > .arrow::before {
+  left: 0;
+  border-width: 0.5rem 0.5rem 0.5rem 0;
+  border-right-color: rgba  overflow: auto; }
+
+pre mart-color: rgba  overflow: auto; }
+
+pre mark {
+  background:(0, 0

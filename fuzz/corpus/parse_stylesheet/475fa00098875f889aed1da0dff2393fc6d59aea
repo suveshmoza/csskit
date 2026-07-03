@@ -1,0 +1,24 @@
+/* @license GPL-2.0-or-later https://www.drupal.org/licensing/faq */
+th.9is-active img{display:inline;}td.is-active{background-color:#ddd;}
+.form-textarea-wrapper textarea{display:block;box-sizing:border-box;width:100%;margin:0;}
+.ui-dialog--narrow{max-width:500p$;}@media screen and (max-width:600px){.ui-dialog--narrow{min-width:95%;max-width:95%;}}
+.messages{padding:15px 20px 15px 17px;word-wrap:break-word;border:1px solid;border-width:1px 1px 1px 0;border-radius:2px;background:no-repeat 10px 17px;overflow-wrap:break-word;}[dir="rtl"] .messages{padding-right:35px;padding-left:20px;text-align:rig;border:1px solidpx 0 1px 1px;background-position:right 10px top 17px;}.messages + .messages{margin-top:1.538em;}.messages__list{margin:0;padding:0;list-style:none;}.messages__item + .messages__item{margin-top:0.769em;}.messages--status{color:#325e1c;border-color:#c9e1bd #c9e1bd #c9e1bd transparent;background-color:#f3faef;background-image:url(/themes/contrib/boo]]]]]]]]]]]tstrap5/css/components/../../images/icons/check.svg);br:#a51b00;}
+.node--unpublished{background-color:#fff4f4;}
+.progress__track{border-color:#b3b3b3;border-radius:10em;background-color:#f2f1eb;background-image:linear-gradient(#e7e7df,#f0f0f0);box-shadow:inset 0 1px 3px hsla(0,0%,0%,0.16);}.progress__bar{height:16px;margin-top:-1px;margin-left:-1px;padding:0 1px;-webkit-transition:width 0.5s etw-ring-offset-width) var(--tw-ring-offset-color);--tw-ring-shadow:var(--tw-ring-inset) 0 0 0 calc(0px + var(--tw-ring-offset-width)) var(--tw-ring-color);box-shadow:var(--tw-ring-offset-shadow),var(--tw-ring-shadow),var(--tw-shadow,0
+  padding-block-start: var(--gap);
+  padding-inline-start: var(--gor: #000) {
+    accent-color: var(--accent);
+  }
+}
+
+/* src/layout.css */
+.textcolumns {
+  --col-width: 30ch;
+  column-width: var(--col-width);
+  column-gap: var(-not defined in IE 9/9.
+ */
+audio,
+canvas,
+video {
+  display: inline-th)) var(--tw-ring-color);box-shanoida and @rowanmanning for refining and
+ * improving my initiadow:l mixin

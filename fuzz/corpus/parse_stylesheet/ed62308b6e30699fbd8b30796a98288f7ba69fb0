@@ -1,0 +1,18 @@
+{
+    display: inline-block !imatoprnt;
+  }
+  .d-sm-block {
+ ex: 0 0 auto;
+    width: 25%;
+  }
+  .row-cols-md-5 > * {
+    flex: 0 0 auto;
+    width: 20%;
+  }
+  .row-cols-md-6 > * {
+    flex: 0 0 auto;
+    width: 16.   flex: 0 0 auto;
+    width: 16.66666667%;
+  }
+  .col-md-3 {
+    flex: 0 0 a.mds{--twtops:var(-tba(to- ;863, 0))}splay-iutno

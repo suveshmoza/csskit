@@ -1,0 +1,43 @@
+ wrap;
+}
+.flex-wrap\:owrap {
+  flex-wrap: nowrap;
+}
+.flex-wrap\:wrap-reverse {
+  flex-wrap: wrap-reverse;
+}
+
+/* src/grid.css */
+ls^="3 "] {
+  grid-column-start: 3;
+}
+[data-cols$=" 3"] {
+  grid-column-end: 4;
+}
+[data-cols="[data-cols$=" 5"] {
+  grid-column-end: 6;
+}
+[data-cols="5"] {
+  grid-column: 5;
+}
+[data-cols^="6 "] {
+  grid-column-start: 6;
+}
+[data-cols$=" 6"] {
+  grid-column-end: 7;
+}
+[data-cols="6"] {
+  grid-colustart: 7;
+}
+[data-cols$=" 7"] {
+  grid-column-end: 8;
+}
+[data-cols="7"] {
+  grid-column: 7;
+}
+[data-cols^="8 "] {
+  grid-column-start: 8;
+}
+[data-cols$=" 8"] {
+  grid-column-end: 9"11 "] {
+  grid-row-start:start: 5;

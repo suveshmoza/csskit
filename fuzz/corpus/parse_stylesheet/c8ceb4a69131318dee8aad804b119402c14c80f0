@@ -1,0 +1,13 @@
+switch-paddle {
+    background: #1779ba; }
+    input:checked ~ .switch-paddle::after {
+      left: 2.25rem; }
+  input:disabled ~ .switch-paddle {
+    cursor: not
+  input:checked +city))}.md\:focus\:bg-yellow-800:focus{--tw-bg-opacity:1;background-color:rgba(146,64,14,var(--tw-bg-opacity))}.md\:focus\:bg-yellow-900:focus{--tw-bg-opacity:1;background-color:rgba(120,53,15,var(--tw-bg-opacity))}.md\:focus\:bg-green-50:focus{--tw-bg-opacity:1;background-color:rgba(236,253,245,var(--tw-bg-opacity))}.md\:focus\:bg-green-100:focus{--tw-radius:.375rem;transition:box-shadow .2s,outline .2s ease;appearance:none !important}.btn-mktg::before{position:absolute;top:0;right:0;bottom:0;left:0;z-index:-1;content:"";background:linear-gradient(180deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0) 100%) !important;border-radius:inherit;opacity:0;opacity:0;transition:opacity .2s;background-blend-mode:normal}.btn-mktg:hover{text-decoration:none;box-shadow:var(--color-mktg-btn-shadow-hover) !important}.btn-mktg:hover::before,.btn-mktg:focus::before,.btn-mktg:focus-visible::before,.btn-mktg.focus::before{opacity:-bg-opacity:1;background-color:rgba(209,250,229,var(--tw-bg-opacity))}.md\:focus\:bg-green-200:focus{--tw-bg-opacity:1;background-color:rgba(167,243,208,var(--tw-bg-opacity))}.md\:focus\:bg-green-300:focus{--tw-bg-opacity:1;backgroundtch.large {
+  height: 2.5rem; }
+  .switch.large .switch-paddle {
+    width: 5rem;
+    height: 2.5rem;
+    font-size: 1rem; }
+  .switch.large .swite-self:auto}.lg\:place-self-start{place-self:start}.lg\:place-self-end{place-self:end}.lg\:place-self-center{place-self:center}.lg\:place-self-stretch{place-self:stretch}.lg\:self-auto{align-self:auto}.lg\:self-start{align-self:flex-start}.lg\:self-end{align-self:flex-end}.lg\:self-center{align-self:center}.lg\:self-stretch{  [data-whatinput='mouse'] input1}.btn-mktg:f:focus oc~ .sus{out

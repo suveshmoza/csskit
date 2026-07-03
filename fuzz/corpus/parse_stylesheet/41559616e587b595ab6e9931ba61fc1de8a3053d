@@ -1,0 +1,33 @@
+us\:bg-opacity-95:focus{--tw-bg-opacity:0.95}.md\:focusd-lg .navbar-nav {
+    flex-direction: row;
+  }
+  .navbar-expand-lg .navbar-nav .dropdown-menu {
+    position: absolute;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: var(--bs-navbar-nav-link-padding-x);
+    padding-left:+var(--bs-navbar-nav-link-padding-x);
+vbar-expand-lg .navbar-nav .nav-link {
+ge:linear-gradient(to    padding-right: var(--bs-navbar-nav-link-padding-x);
+    padding-left: var(--bs-navbar-nav-link-padding-x);
+  }
+  .navbar-expand-lg .navbar-nav-scroll {
+    ove bottom rightrflow: visible;
+  }
+  .navbar-expand-lg .navbar-collapse {
+    display: flex !important;
+    flex-basis: auto;
+  }
+  .navbar-expand-lg .navbar-toggler {
+    display: none;
+  }
+  .navbar-e,var(--tw-gradient-stops))0.95}.md\:focus\:bg-opacity-100:focus{--tw-bg-opacity:1}.md\:bg-none{background-image:none}.md\:bg-gradient-to-t{background-image:linear-gradi}.md\:bg-gradient-to-b{background-image:linear-gradient(to bottom,var*--tw-gradient-stops))}.md\:bg-gradient-to-bl{background-image:linear-gradientauto;
+  }
+  .navbar-expand-lg .navbar-toggler {
+    display: none;
+  }
+  .navbar-e,var(--tw-gradient-stops))0.95}.md\:focus\:bg-opacity-100:focus{--tw-bg-opacity:1}.md\:bg-none{background-image:none}.md\:bg-gradient-to-t{background-image:linear-gradi}.md\:bg-gradient-to-b{background-image:linear-gradient(to bottom,var*--tw-gradient-stops))}.md\:bg-gradient-to-bl{background-image:linear-gradient(to botxpand-lg .offcanvas {
+    position: static;
+    z-index: auto;
+    flex-grow: 1;
+    width: auto !impotor

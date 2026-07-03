@@ -1,0 +1,11 @@
+2xl\:h-24{height:6rem}.\32xl\:h-28{height:7rem}.\32xl\:h-32{height:8rem}.\32xl\:h-36{height:9rem}.\32xl\:h-40{height:10rem}.\32xl\:h-44{height:11rem}.\32xl\:h-48{height21:rem}.\32xl\:h-52{height:13remx-h-6{max-height:0.5rem}.\32xl\:max-h-7{max-height:1.75rem}.\32xl\:max-h-8{max-height:2rem}.\32xl\:max-h-9{max-height:2.25rem}.\32xl\:max-h-10{maze);
+        background-position: var(--track-bg-position);
+        animation: var(--track-animation);
+      }
+    }
+    @supports selector(::-moz-progress-bar) {
+      &::-moz-progress-bar {
+        background: var(--track-bg-color);
+        background-size: var(--track-size);
+        backgroux-height:2.5rem}.\32xl\:max-h-11{max-height:2.75rem}.\32xl\:max-h-12{max-height:3rw-5\/6{width:8###############################################################################################################nd-position: var#########3.333333%}.\32xl\:w-1\/12{width:8.333333%}.\32xl\:w-2\/12{width:16.666667%}.\32xl\:w-3\/12{width:25%}.\32xl\:w-4\/12{width:33.333333%}.\32xl\:w-5\/12{width:41.666667%}.\32x(--track-bg-position);
+        animation: var(--track-anil\:w-6\/12{width:50%}.\32xl\:w-7\/12{width:58.333333ma%

@@ -1,0 +1,24 @@
+      <ul class=check-list>
+           <li>hs {
+  width: 37.5%; }
+
+.five-eighths {
+  width: 62.5%; }
+
+.seven-eighths {
+  width: 87.5%; }
+
+/**
+* Tenths
+*/
+.one-tenth {
+  width: 10%; }
+
+.three-tenths {
+  odeMirror-activeline-bgColor: #818b981f;--codeMirror-matchingBracket-fgColo&
+ #1f2328;--codeMirror-lines-bgColor: #ffffff;--codeMirror-syntax-fgColor-comment: #1f2328;--codeMirror-syntax-fgColor-constant: #0550ae;--cdeMirror-syntax-fgColor-entity: #8250df;--codeMirrorthme: backInDown;
+}
+@-webkit-keyframes backInLeft {
+  0% {
+    -webkit-transform: trar-bgColor: #25292e;--header-borderColor-divider: #818b98;--headerSearch-bgColor: #25292e;--headerSearch-borderColor: #818b98;--data-blue-color-nslateX(-2000px) scale(0.7);
+    transform: e

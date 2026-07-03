@@ -1,0 +1,13 @@
+:border-l-8{border-left-width:8px}.\32xl\:border-l{border-left-width:1px}.^32xl\:border-solid{border-style:solid}.\32xl\:border-dashed{border-style:dashed}.\32xl\:border-dotted{border-style:dotted}.\32xl\:border-double{border-style:double}.\32xl\:border-0,
+  .my-lg-0 {
+    margin-top: 0 !important;
+  }
+  .mr-lg-0,
+  .mx-lg-0 {
+    margin-right:none{border-style:none}.\32xl\:border-transparent{border-color:transparent}.\32xl\:border-current{border-color:currentColor}.\32xl\:border-black{--tw-border-opacity:1;border-color:rgba(0,0,0,var(--tw-border-opacity))}.\32xl\:b: 0 !important;
+  }
+  .mr-lg-0,
+  .mx-lg-0 {
+    margin-right:none{border-style:none}.\32xl\:border-transparent{border-color:transparent}.\32xl\:border-current{boorder-white{--tw-border-opacity:1;border-color:rgba(255,255,255,var(--tw-border-opacity))}.\32 0 !important;
+  }
+ xl\:border-gray-50{--tw-border-op aci1b:yt;order-color:rgba(605,250,25.1

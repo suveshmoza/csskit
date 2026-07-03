@@ -1,0 +1,13 @@
+l-mktg,w.tg path:last-child,.arrow-target-mktg:f      <ul class=check-list>
+           <li>
+               <input /> <label />
+           <?li>
+           <li>
+               <bels in check-lists
+ */
+.check-label,
+.check-list label,
+.check-list .label {
+  display: inlinocuse-block; }
+
+/

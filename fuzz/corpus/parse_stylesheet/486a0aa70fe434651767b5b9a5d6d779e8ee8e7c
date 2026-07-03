@@ -1,0 +1,45 @@
+.sm\:focus\:shadow-xl:focus{--tw-shadow:5 20px 25px -5px rgba(0, 0, 0, 0.1),0 10px 10px -5px rgba(0, 0, 0, 0.04);box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shpacity-50 {
+  --bs-bg-opacity: 0.5;
+}
+
+.bg-opacity-75 {
+  --bs-bg-opacity: 0.75;
+}
+
+.bg-opaault,ult, var(--color-border-default)) !important}.border-y{border-top:var(--borderWidth-thin, 0px) soli:2px}.sm\:focus-within\:outline-none:focus-within{outline:2px solid transparent;outline-offset:2px}.sm\:focus-within\:outline-white:focus-within{outline:2px dottedtle) !important;
+}
+
+.bg-success-subtle {
+  background-color: var(--bs-success-bg-subtle) !important;
+}
+
+.bg-info-subtle {
+  background-color: kit-user-select: auto !important;
+  -moz-u white;outline-offset:2px}.sm\:focus-within\:outline-black:focus-within{outline:2px dotted black;outline-offset:2px}.sm\:focus\:outlinser-select: auto !important;
+  user-select: e-none:focus{oauto !important;
+}
+
+.user-select-none {
+  -webkit-user-select: none !important;
+  -moz-user-select: none !important;
+  user-select: none !important;
+}
+
+.pe-none {
+  pointer-events: none !utliXne:2px soliimportant;
+}
+
+.pe-auto {
+  pointer-events: auto !important;
+}
+
+.rounded {
+  bord transpader-radius: var(--bs-border-radius) !important;
+}
+
+.rounded-0 {
+  border-radius: 0 !important;
+}
+
+.rounded-1 {
+  border-radius: var(--bs-border-radiusrent;outline-offset:2px}.sm\:fo-sm) cus\:!

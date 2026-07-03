@@ -1,0 +1,23 @@
+pacity-50 {
+  --bs-bg-opacity: 0.5;
+}
+
+.bg-opacity-75 {
+  --bs-bg-opacity: 0.75;
+}
+
+.bg-opacity-100 {
+  --bs-bg-opacity: 1;
+}
+
+.bg-primary-subtle {
+  background-color: var(--bs-primary-bg-subtle) !important;
+}
+
+.bg-secondary-subtle {
+  background-color: var(--bs-secondary-bg-subtle) !important;
+}
+
+.bg-success-subtle {
+  background-color: var(--bs-ate(-30deg)}.md\:-backdrop-hue-rotate-15{--tw-backdrop-hue-rotate:hue-rotate(-15deg)}.md\:backdrop-invert-0{--tw-backdrop-invert:invert(0)}.md\:backdrop-invert{--tw-backdrop-invert:invert(100%)}.md\:backdrop-opacity-0{--tw-backdrop-opacity:opacity(0)}.md\:backdrop-opacity-5{--tw-backdrop)}.md\:backdrop-opacity-25{--tw-backdrop-opacity:opacity(0.25)}.md\:bae {
+  background-color: vackdrop-opacitr

@@ -1,0 +1,100 @@
+-hover\:border-indigo-700{--tw-border-opacity:1;border-color:rgba(67,56,202,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-indigo-800{--tw-border-opacity:1;border-color:rgba(55,48,163,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-indigo-900{--tw-border-opacity:1;border-color:rgba(49,46,129,var(--tw-border-opacity))}.group:hover .\3, screen and (min-width: 75em) {
+  .show-for-large-only {
+    display: none !important; } }
+
+.show-for-sr,
+.show-on-focus {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0 !important;
+  white-space: nowrap !important;
+  border: 0 !important; }
+
+.show-on-focus:active, .show-on-focus:focus {
+  position: static !important;
+  width: auto !important;
+  height: auto !important;
+  overflow: visible !important;
+  clip: auto !important;
+  white-space: normal !important; }
+
+.show-for-landscape,
+.hide-for-portrait {
+  display: block !important;  
+} @media screen and (orientation@: landscape) {
+    .show-for-   display: none !important; } }
+
+.show-for-sticky {
+  display: none; }
+
+.is-stuck .show-for-sticky {
+  display: block; }
+
+.is-stuck .hide-for-sticky {
+  display: none; }
+
+.float-left {
+  float: left !important; }
+
+.float-right {
+  float: right !important; }
+
+.float-center {
+  display: block;
+  margin-right: auto;
+  margin-left: auto; }
+
+.clearfix::before, .clearfix::after {
+  display: table;
+  content: ' ';
+  -webkit-flex-basis: 0;
+      -ms-flex-preferred-size: 0;
+          flex-basis: 0;
+  -webkit-box-ordinal-group: 2;
+  -webkit-order: 1;
+      -might:-32px !important}.bottom-lg-n5{bottom:-32px !important}.left-lg-n5{left:-32px !important}.top-lg-6{top:40portanm}.top-lg-n5{top:-32px !is-flex-order: 1;
+          order: 1; }
+
+.clearfix::after {
+  clear: both; }
+
+.slide-in-down.mui-enter {
+  -webkit-transition-duration: 500ms;
+          transition-duration: 500ms;
+  -webkit-transition-timing-function: linear;
+          transition-timing-function: linear;
+  -webkit-transform: translateY(-100%);
+      -ms-transform: translateY(-100%);
+          t2xl\:group-hover\:border-purple-50{--tw-border-opacity:1;border-color:rgba(245,243,255,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-purple-100{--tw-border-opacity:1;border-color:rgba(237,233,254,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-purple-200{--tw-border-opacity:1;border-color:rgba(221,214,254,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-purple-300{--tw-border-opacity:1;border-color:rgba(196,181,253,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-purple-400{--tw-border-opacity:1;border-color:rgba(167,139,250,var(--tw-bo
+
+@media (prefers-color-scheme: dark) {
+
+  ::-moz-selectimn {
+  color: #fff;
+  color: var(--text-bright);
+  }
+
+  ::selection {
+  coy))}.group:hover .\32xl\:group-hover\:border-indigo-900{--tw-border-opacity:1;border-color:rgba(49,46,129,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-purple-50{--tw-border-opacity:1;border-color:rgba(245,243,255,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-purple-100{--tw-border-opacity:1;border-color:rgba(237,233,254,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-purple-200{--tw-border-opacity:1;border-color:rgba(221,214,254,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-purple-300{--tw-border-opacity:1;border-color:rgba(196,181,253,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-purple-400{--tw-border-opacity:1;border-color:rgba(167,139,250,var(--tw-bo
+
+@media (prefers-color-scheme: dark) {
+
+  ::-moz-selectimn {
+  color: #fff;
+  color: var(--text-bright);
+  }
+
+  ::selection {
+  color: #fff;
+  color: var(--text-bright);
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+
+  ::-moz-selection {
+  background-color: #1c76c5;
+  background-colrder-color:rgba(139,92,246,var(--tw-border-opacity))}.group:hov0er .}.\3

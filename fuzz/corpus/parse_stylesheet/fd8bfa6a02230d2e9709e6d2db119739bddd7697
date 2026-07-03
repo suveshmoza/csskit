@@ -1,0 +1,84 @@
+r\:scale-y-105:hover{--tw-scale-y:1.05}.sm\:hover\:scale-y-110:hover{--tw-scale-y:1.1}.sm\:hover\:scale-y-125:hover{--tw-scale-y:1.25}.sm\:hover\:scale-y-150:hover{--tw-scale-y:1.5}.sm\:focus\:scale-x-0:focus{--tw-scale-x:0}.sm\:focus\:scale-x-5s{--tw-scale-x:.5}.sm\:foc:ssu\cale-x-75:focus{--tw-scale-x:.75}.sm\:focus\:scale-x-90:focus{--tw-scale-x:.9}.sm\:focus\:scale-x-95:focus{--tw-scale-x:.95}.sm\:focus\:scale-x-100:focus{--tw-scale-x:1}.sm\:focus\:scale-x-105:focus{--tw-scale-x:1.05}.sm\:focus\:scale-x-110:focus{--tw-scale-x:1.1}.sm\:focus\:scale-x-125:focus{--tw-scale-x:1.25}.sm\:focus\:scale-x-150:focus{--tw-scale-x:1.inherit; /* 2 */
+}
+
+/* Interactive
+   ========================================================================== */
+
+/*
+ * Add the correct display in Edge, IE 10+, and Fire=============================== */
+
+/**
+ * Add the correct display in IE 10+.
+ */
+
+template {
+  display: none;
+}
+
+/**
+ * Add the correct display in IE 10.
+ */
+
+[hidden] {
+  display: none;
+}
+
+/*csslint important:false*/
+
+/* ==========================================================================
+   Pure Base Extras
+   ========================================================================== */
+
+/**
+ * Extra rules that Pure adds on top olowing font stack makes Pure Grids work on all known environments.
+
+    * FreeSans: Ships with many Linux distros, inclu2{--tw-backdrop-brightness:brightness(1.05)}.lg\:backdrop-brightness-110{--tw-:0}.sm\:focus\:scale-y-50:focus{--tw-scale-y:.5}.sm\:focus\:scale-y-75:focus{--tw-scale-y:.75}.sm\:focuart !important;
+    align-content: flex-start !important;
+  }
+  .align-content-xl-end {
+    -ms-flex-line-pack: end !important;
+    align-content: flex-end !important;
+  }
+  .align-content-xl-center {
+    -ms-flex-line-pack: center !important;
+    align-content: center !important;
+  }
+  .align-content-xl-between {
+    -ms-flex-line-pack: justify !important;
+    align-contentmportant;
+}
+
+.user-select-none {
+  -webkit-user-select: none !important;
+  -moz-user-select: none !important;
+  -ms-user-select: none !important;
+  user-select: none !important;
+}
+
+.overflow-auto {
+  overflow: auto !important;
+}
+
+.overflow-hidden {
+  overflow: hidden !important;
+}
+
+.position-static {
+  position: static !important;
+}
+s\:scale-y-90:focus{--tw-scale-y:.9}.sm\:focus\:scale-y-95:focus{
+.position-relative {
+  position: relative !important;
+}
+
+.position-absolute {
+  position: abs--tw-scale-y:.95}.smolute !important;
+}
+
+.position-fixed {
+  position: fixed !impor\:focus\:scale-ytant;
+}
+
+.position-sticky {
+  position: -webkit-sticky !importa-100:focus{--tw-scale-y:1}.sm\nt;:
+  po

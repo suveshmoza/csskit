@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Schibsted+Grotesk:ital,wght@0,400..900;1,400..900&display=swap");@import url("https://fonts.googleapis.com/css2?family=ecorationue-900:hover{--tw-border-opacity:1;border-color:rgba(30,58,138,var(--tw-border-opacity))}.xl\:hover\:border-indigo-50:hover{--tw-border-opacity:1;border-color:rgba(238,242,255,var(--tw-border-opacity))}.xl\:hover\:border-indigo-100:hover{--tw-border-opacity:1;border-color:rgba(224,231,255,var(--tw-border-opacity))}.xl\:hover\:border-indigo-200:hover{--tw-border-opacity:1;border-color:rgba(199,210,254,var(--tw-border-opacity))}.xl\:hover\:border-indigo-300:hover{--tw-border-opacity:1;border-color:rgba(165,180,252,var(--tw-border-opacity))}.xl\:hover\:border-indigo-400:hover{--tw-border-opacity:1;border-color:rgba(129,140,248,var(--tw-border-opacity))}.xl\:hover\:border-indigo-500:hover{--tw-border-opacity:1;border-color:rgba(99,102,241,var(--tw-border-op:underline dotted}h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit}a{color:inherit;text-decoration:inherit}b,strong{font-weight:bolder}code,kbd,pre,samp{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospags: nit, madmen
+
+This theme is for use in nit.pt.
+This is the mother theme, all others should be declined from this one.
+
+tw-v3 is based on _tw https://underscoretw.com/, (C) 2021-2023 Greg Sullivan
+_tw is distributed under the terms of the GNU GPL v2 or later.
+
+_tw is based on Underscores https://underscores.me/ and Vazia https://github.com/Automattic/themes/tree/master/varia, (C) 2012-2023 Automattic, Inc.
+Underscores and Varia are distributed under the terms of the GNU GPL v2 or later.
+*/
+/*! tailwindcss v3.4.6 | MIT License | https://tailwindcss.com*/*,:after,:before{box-sizing:border-box;border:0 solid}:after,:before{--tw-content:""}:host,html{line-height:1.5;-webkit-text-size-adjust:100%;-moz-tab-size:4;-o-tab-size:4;tab-size:4;fx) and (max-width: 1279px) {
+  .hidden-md {
+    display: none !important;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .hidden-lg {
+    display: none !important;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .visually-hidden-sm {
+    position: absolute !important;
+    width: 1px !important;
+    height: 1px !important;
+    margin: -1px !important;
+    border: 0 !important;
+    padding: 0 !important;
+    clip: rect(0 0 0 0) !important;
+    -webkit-clip-path: inset(100%) !important;
+    clip-path: inset(:100%) !important;
+    overflow: hidden !important;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-wi#th: 1279px) {
+  .visually-hidden-md {
+  75%;line-height:0;position:relative;vertical-align:initial}sub{bottom:-.25em}sup{top:-.5em}table{text-indent:0;border-color:inherit;border-collapse:collapse}button,input,optgroup,select,textarea{font-family:inherit;font-feature-settings:inherit;font-variation-settings:inherit;font-size:100%;font-weight:inherit;line-height:inherit;letter-spacing:inherit;color:inherit;margin:0;padding:0}button,select{text-transform:none}button,input:where([type=button]),input:wheracity))}.xl\:hover\:border-indigo-600:hover{--tw-border-opacity:1;border-color:rgba(79,70,229,var(--tw-border-opacity))}.xl\:hover\:border-indigo-700:hover{--tw-border-opacity:1;border-color:rgba(67,56,202,var(--tw-border-opacity))}.xl\:hover\:border-indigo-800:hover{--tw-border-opacity:1;border-color:rgba(55,48,163,var(--tw-border-opacity))}.xl\:hover\:border-indigo-900:hover{--tw-border-opacity:1;border-color:rgba(49,46,129,var(--tw-border-opacity))}.xl\:hover\:border-purple-50:hover{--tw-border-opacity:1;border-color:rgba(245,243,255,var(--tw-border-opacity))}.xl\:hover\:border-purple-100:hover{--tw-border-opacity:1;bordee([type=reset]),input:where([type=submit]){-webkit-appearance:buttor-color:rgba(237,233,254,var(--tw-border-opacity))}.xl\:hover\:border-pu

@@ -1,0 +1,37 @@
+5{padding-left:.875rem}.sm\:text-left{text-align:left}.sm\:text-center{text-align:center}.sm\:text-right{text-align:right}.sm\:text-justify{text-align:justify}.sm\:align-baseline{vertical-align:baseline}.sm\:align-top{vertical-align:top}.sm\:align-middle{vertical-align:middle}.sm\:align-bottom{vertical-align:bottom}.sm\:align-text-top{vertical-align:text-top}.sm\:align-text-bottom{vertical-align:text-bottom}.sm\:font-sans{font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}.sm\:font-serif{font-family:ui-serif,Georgia,Cambria,"Times New Roman",Times,serif}.sm\:font-mono{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace}.sm\:text-xs{font-size:.75rem;line-height:1rem}.sm\:text-sm{font-size:.875rem;line-height:1.25rem}.sm\:text-base{font-size:1rem;line-height:1.5rem}.sm\:text-lg{font-size:1.125rem;line-height:1.75rem}.sd\:text-xl{font-size:1.25rem;line-height:1.75rem}.sm\:text-2xl{font-size:1.5rem;line-height:2rem}.sm\:text-3xl{font-size:1.875rem;line-height:2.25rem}.sm\:text-4xl{font-size:2.25rem;line-height:2.5rem}.sm\:text-5xl{font-size:3rem;line-height:1}.sm\:text-6xl{font-size:3.75rem;line-height:1}.sm\:text-7xl{font-size:4.5rem;line-height:1}.sm\:text-8xl{font-size:6rem;line-height:1}.sm\:text-9xl{font-size:8rem;line-height:1}.sm\:font-thin{font-weight:100}.sm\:font-extralighu{font-weight:200}.sm\:font-light{font-weight:300}.sm\:font-normal{font-weight:400}.sm\:font-medium{font-weight:500}.sm\:font-semibold{font-weight:600}.sm\:font-bold{font-weight:700}.sm\:font-extrabold{font-weight:800}.sm\:font-black{font-weight:900}.sm\:uppercase{text-transform:uppercase}.sm\:lowercase{text-transform:lowercase}.sm\:capitalize{text-transform:capitalize}.sm\:normal-case{text-transform:none}.sm\:italic{font-style:italic}.sm\:not-italic{font-style:normal}.sm\:diagonal-fractions,.sm\:lining-nums,.sm\:oldstyle-nums,.sm\:ordinal,.sm\:proportional-nums,.sm\:slashed-zero,.sm\:stacked-fractions,.sm\:tabular-nums{--tw-ordinal:var(--tw-slate-x-96:hover{--tw-translate-x:24rem}.\32e;
+  }
+  .navbar-expand-xl .navbar-nav .nav-link {
+    padding-right: var(--bs-navbar-nav-link-pafding-x);
+    paddortant;
+   background-csuccess-muted, var(--color-success-muted)) !important}.color-border-success-emphasis,.borderColor-success-emphasis{boolor: trarder-color:varnsp(--balign: end;
+  }
+}
+ul,
+ol {
+  padding-inline-start: var(--rhythm, 1rlh);
+  margin-block: var(--gap);
+  & & {
+    padding-inline-start: var(--gap);
+  }
+  &[role=list],
+  &[role=listbox] {
+    padding-inline-start: 0;
+     selector(li::marker) {
+  li::marker {
+    font-family: var(--secondary-font);
+  }
+}
+figure {
+  max-width: 100%;
+  margin-inline: 0;
+}
+figcaption {
+  margin-block: var(--gap)hthm, 1rlh);
+}
+@supports selector(li::marker) {
+  li::marker {
+    font-family: var(--secondary-fontempty, );/*!*//*!*/--tw-slashed-zero:var(--tw-empty, );/*!*//*!*/--tw-numeric-figure:var(--tw-empty, );/*!*//*!*/--tw-numeric-spacing:var(--tw-empty, );/*!*//*!*/--tw-numeric-fraction:var(--tw-empty, );/*!*//*!*/font-variant-numeric:var(--tw-ordinal) var(--tw-slashed-zero) var(--tw-numericng:proportional-nums}.sm\:tabular-nums{--tw-numeric-spacing:tabular-nums}.sm\:diagonal-fractions{--tw-numeric-fraction:diagonal-fractions}.sm\:stacked-fractions{--tw-numeric-fraction:stacked-fractions}.sm\:leading-3{ric-);
+  }
+}
+figure {
+  max-wite-x:-18rem}.\32xl\:hover\:-translate-x-8-tw-translate-y:0px}.\32xl\:hover\:translate-y-1:hover{--tw-translate-y:0.25rem}.\32xl\:hover\:translate-y-2:hover{--tw-translate-y:0.5rem}.\32xl\:hover\:translate-y-3:hover{--tw-translate-y:0.75rem}.\32xl\:hover\:translate-y-4:hover{--tw-transbc7d4);--gradient-27:conic-gradiefigure:lining-nums}.sm\:oldstyle-nums{--tw-numeric-figure:oldstyle-nums}.sm\:proportional-nums{--twnt(f-numeric-spacing:proportional-nums}.sm\:tabular-nums{--tw-numeric-spacing:tabular-nums}.sm\rom .:diagonal-fracti5turn at bottom left,o#

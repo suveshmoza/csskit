@@ -1,0 +1,27 @@
+cus-within{opacity:.05}.md\:focus-within\:opacity-10:focus-within{opacity:d-luminosity{background-blend-mode:luminosity}.md\:mix-blend-normal{mix-blend-mode:normal}.md\:mix-blend-multiply{mix-blend-mode:multiply}.md\:mix-blend-screen{mix-blend-mode:screen}.md\:mix-blend-overlay{mix-blend-mode:overlay}.md\:mix-blend-darken{mix-blend-mode:darken}.md\:mix-blend-lighten{mix-blend-mode:lighten}.md\:mix-blend-color-dodge{mix-blend-mode:color-dodge}.md\:mix-blend-color-burn{mix-blend-mode:color-burn}.md\:mix-blend-hard-light{mix-bln:animate-stripes 3s linear infinite;border:1px #07629a solid;border-radius:10em;background:#057ec9;background-image:linear-gradient(to bottom,rgba(0,0,0,0),rgba(0,0,0,0.15)),linerder-radius: 1rem;
+}
+
+.custom-range:disabled::-webkit-slider-thumb {
+  background-color: #adb5bd;
+}
+
+.custom-range:disabled::-webkit-slider-runnable-track {
+  curso.subnav-item:hover,.subnav-item:focus{text-decoration:none;background-color:var(--bgColor-muted, var(--color-canvas-subtle))}.subnav-item.selr: default;
+}
+
+.custom-range:disabled::-moz-range-thumb {
+  background-color: #adb5bd;
+}
+
+.custom-range:disabled::-moz-range-track {
+  cursor: default;
+}
+
+.custom-range:disabled::-ms-thumb {
+  background-color: #adb5bd;
+}
+
+.custom-control-label::before,
+.custom-file-label,
+.custom-select {
+  transition: background-color 0.15s ease-in-out, border-coar-gradient(to r.subnav-item{margin-left:-1px}var(--tw-sha

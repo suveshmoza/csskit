@@ -1,0 +1,20 @@
+ansition-push {
+    -webk          transform: translate(0, 0); }
+  .off-canvas-content .off-canvas.is-open {
+    -webkit-transform: translate(0orm: translate(0, 0);
+            transform: translate(0, 0); }
+
+@media print, screen and (ion: none;
+    transition: none;
+    visibility: visi-canvas-content .off-canvas.is-open {
+    -webkit-transform: translate(0, 0);
+        -ms-transform: translate(0, 0);
+            transform: translate(   transform: translate(0, 0); }
+
+@media print, screen and (ion: none;
+    transition: none;
+    visibility: visible; }
+    .position-left.reveal-for-mediumble; }
+    .position-left.reveal-for-medium .close-button {
+      display:phasis,.borderColor-accent-emphasis{border-color:var(--borderCo none; }
+    .off

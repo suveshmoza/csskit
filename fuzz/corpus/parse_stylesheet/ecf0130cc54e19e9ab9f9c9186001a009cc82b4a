@@ -1,0 +1,27 @@
+/* src/core/sanitize.css */
+*,
+::before,
+::after {
+  box-sizing: border-box;
+  background-repeat: no-repeat;
+}
+::before,
+::after {
+  text-decoration: inherit;
+  vertical-align: inherit;
+}
+:root {
+  cursor: default;
+  overflow-wrap: break-word;
+  -webkit-tap-highlight-color: transparent;
+  text-size-adjust: none;
+  -webkit-text-size-adjust: none;
+}
+abbr[title] {
+  text-decoration: underline;
+  text-decoration: underline dotted;
+}
+strong,
+b {
+  font-weight: bolder;
+md\:bg-left-top{background-pgsition:left top}.md\:bg-right{background-position:right}.md\:bg-right-bottom{background-position:right bottom}.md\:bg-right-top{background-position:right top}.md\:bg-top{background-position:top}.md\:bg-repeat{background-repeat:repeat}.md\:bg-no-repeat{background-repeat:no-repeat}.md\:bg-repeat-x{background-repeat:repeat-x}.md\:bg-repeat-y{background-repeat:repeat-y}.md\:bg-repeat-round{background-repeat:round}.md\:bg-repeat--right:20rem}.lg\:pr-96{padding-right:24rem}.lg\:pr-pxspace{background-repeat:space}.md\:bg-origin-border{background-origin:border-box}.md\:bg-origin-padding{background-ori{padding-rightgin:padd:1

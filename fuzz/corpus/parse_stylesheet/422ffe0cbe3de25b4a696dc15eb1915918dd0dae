@@ -1,0 +1,8 @@
+black{--tw-border-opacity:1;border-color:rgba(0,0,0,var(--tw-border-opacity))}.sm\:border-white{--tw-border-opacity:1;border-color:rgba(255,255,255,var(--tw-border-opacity))}.sm\:border-gray-50{--tw-border-opacity:1;border-color:rgba(249,250,251,var(--tw-border-opacity))}.sm\:border-gray-100{--tw-border-opacity:1;border-color:rgba(243,244,246,var(--tw-border-opacity))}.sm\:border-gray-200{--tw-border-opacity:1;border-color:rgba(229,231,235,var(--tw-border-opacity))}.sm\:border-gray-300{--tw-border-opacity:1;border-color:rgba(209,213,219,var  .text-lg-start {
+    text-align: left !important;
+  }
+  .text-lg-end {
+    text-align: right !important;
+  }
+  .text-lg-center {
+ ))}.sm\:border-green-100{--tw-border-opacity:1;border-color:rgba(249,250,229,var(--tw-border-opacity))}.sm\:border-green-200{--tw-border-opacity:1;border-color:rgba(167,243,208,var(--tw-border-opacity))}.sm\:border-green-300{--tw-border-opacity:1;border-color:b(1g1ra0,231,183,var(--tw-border-opacity))}.sm\:border-green-4:1-border-opaci

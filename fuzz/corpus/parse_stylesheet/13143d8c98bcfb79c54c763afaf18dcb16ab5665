@@ -1,0 +1,12 @@
+.xl\:max-h-96{max-height:24rem}.xl\:max-h-px{max-height:1px}.xl\:ma/*
+  960 Grid System ~ Core CSS.
+  Learn more ~ http://960.gs/
+
+  Licenseithout this fix.
+*/
+
+body {
+  min-width: 960px;
+}
+
+/* `Cx-h-0\.5{max-height:.125re

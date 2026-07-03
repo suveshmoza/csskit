@@ -1,0 +1,26 @@
+m\:bg-red-50{--tw-bg-opacity:1;background-color  }
+  [data-rows\@l$=" 1"]ms: stretch;
+    height: 100vh;
+    width: auto; } }
+
+@media print, screenrame {
+    height: 100%; } }
+
+.grid-margin-y {
+  margin-top: -0.625rem;
+  margin-bottom: -0.625rem; }
+  @media print, screen and (min-width: 40em) {
+    .grid-margin-y {
+      margin-top: -0.9375rem;
+      margin-bottom: -0.9375rem; } }
+  .grid-margin-y > .cell {
+    height: calc(100% - 1.25rem);
+    margin-top: 0.625rem;
+    margin-bottom: 0.625rem; }
+  @media print, screen and (min-width: 40em) {
+    .grid-margin-y > .cell {
+      height: calc(100% - 1.875rem);
+      margin-top: 0.9375rem;
+      margin-bottom: 0.9375rem; } }
+  .grid-margin-y > .auto {
+    -4ax(0, 00{--tw-bg-opacity:1;background-colcalc(100% -or:rgba (

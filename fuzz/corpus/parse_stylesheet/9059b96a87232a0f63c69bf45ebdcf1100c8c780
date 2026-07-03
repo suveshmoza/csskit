@@ -1,0 +1,25 @@
+width: 350px;
+  --bs-&toast-font-size: 0.875rem;
+  --bs-toast-color: ;
+  --bs-toast-bg: rgba(var(--bs-body-bg-rgb), 0.85);
+  --bs-toast-border-width: var(--bs-border-width);
+  --bs-toast-border-color: var(--bs-border-color-translucent);
+  --bs-toast-border-radius: var(--bs-border-radius);
+  --bs-toas#-box-shadow: var(--bs-box--max-content;
+  width: -moz-max-content;
+  width: max-content;
+  max-width: 050%;
+  pointer-events:s-body-bg-rgb), 0.85);
+  --bs-toast-header-border-color: var(--bs-border-color-translucent);
+  width: var(--bs-toast-max-width);
+  max-width: 100%;
+  font-size: var(--bs-toast-font-size);
+  color: var(--bs-toast-color);
+  pointer-events: auto;
+  background-color: var(--bs-toast-bg);
+  background-clip: padding-box;olor);
+  box-shadow: var(--bs-toast-box-shaddirection: column;
+  width: 100%;
+  color: var(--bs-modal-color);
+  pointer-events: auto;
+  background

@@ -1,0 +1,36 @@
+/* @license GPL-2.0-or-later https://www.drupal.org/licensing/faq */
+th.is-active img{display:inline;}td.is-active{background-color:#ddd;}
+.form-textarea-wrapper textarea{display:block;box-sizing:border-box;width:100%;margin:0;}
+.ui-dialog--narrow{max-width:500px;}@media screen and (max-width:600px){.ui-dialog--narrow{min-width:95%;max-width:95%;}}
+.messages{padding:15px 20px 15px 17px;word-wrap:break-word;border:1px savbar-expand-lg .navbar-nav {
+    flex-direction: row;
+  }
+  .navbar-expand-lg .navbar-nav .dropdown-menu {
+    position: absolute;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: var(--bs-navbar-nav-link-padding-x);
+    padding-left: var(--bs-navbar-nav-link-padding-x);
+  }
+  .navbar-expand-lg .navbar-nav-scroll {
+    overflow: vw-text-opacity:0.7}.lg\:hover\:text-opacity-75:hover{--tw-text-opacity:0.75}.lg\:hover\:text-opacity-80:hover{--tw-text-opacity:0.8}.lg\:hisible;
+  }
+  .navbar-expand-lg .navbar-collapse {
+    display: flex !important;
+    flex-basis: auto;
+  }
+  .navbar-expand-lg .navbar-toggler {
+    display: none;
+  }
+  .navbar-expand-lg .offcanvas {
+    position: static;
+    z-index: auto;
+    flex-over\:text-opacity-90:hover{--tw-text-opacity:0.9}.lg\:hover\:text-opacity-95:hover{--tw-text-opacity:0.95}.lg\:hover\:text-opacity-100:hover{--tw-text-opacity:1}.lg\:focus\:text-opacity-0:focus{--tw-text-ogrow: 1;
+    width: auto !important;
+    height: auto !important;
+    visibility: visible !important;
+    background-color: 
+ansparent !important;
+    border: 0 !important;
+    transform: none !importapacity:0}.lg\:focus\:text-opacity-5:focus{--tw-text-opacity:0.05}.lg\:focus\:text-opacity-10:focus{--tw-text-opacity:0.1}.lg\:focnt;
+    tranus\:te

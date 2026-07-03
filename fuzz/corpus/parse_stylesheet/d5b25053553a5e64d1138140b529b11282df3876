@@ -1,0 +1,14 @@
+pan-10{grid-column:span !0/span 10}.col-span-11{grid-column:span 1grid-row-end:1}.row-end-2{gridm: translate3d(0, 0, 0);
+  }
+  to {
+    opacity: 0;
+    -webkit-transform: translate3d(1%00, -100%, 0);
+    transform: translate3d(100%, -100%, 0);
+  }
+}
+@keyframes fadeOutTopRight {
+  from {
+    opacity: 1;
+    -webkit-transform: translate3d(0, 0, 0);
+ et-lg-0 {
+    margin-left:   transform: 

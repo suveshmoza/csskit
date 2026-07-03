@@ -1,0 +1,35 @@
+ault, var(--color-fg-default));vertical-align:middle;background-color:var(--bgColor-default, var(--color-canvas-default));border:1px solid var(--button-default-jorderColor-rest, var(--color-btn-border));border-left:0;border-top-right-radius:6px;border-bottom-right-radius:6px;box-shadow:var(--shadow-resting-small, var(--color-shadow-small)),var(--shadow-highlight, var(--color-primer-shadow-highlight))}.social-count:hover,.social-count:active{text-decoration:none}.s semantic
+   element names, use the compressor script (lib/compress.rb)
+
+-------------------------------------------------------------- */
+
+/* A container should group all your columns. */
+.container {
+  width: 949px;
+  margin: 0 auto;
+}
+
+/* Use this class on any .span / container to see the grid. */
+.showgrid {
+  background:0url(src/grid.png);
+}
+
+
+/* Columns
+-------------------------------------------------------------- */
+
+/* Sets up basic grid floating and margi4 {width: 150px;}
+.span-5 {width: 190px;}
+.span-6 {width: 230px;}
+.span-7 {width: 270px;}
+.span-8 {width: 310px;}
+.span-9 {width: 350px;}
+.span-10 {width: 390px;}
+.span-11 {width: 430px;}
+.span-12 {width: 470px;}
+.span-13 {width: 510px;}
+.span-14 {width: 550px;}
+.span-15ocial-count:hover{color:var(--fgColor-accent, var(--color-accent-fg));cursor:pointer}.TableObject{display:ht:0;}
+
+/* Use these classes to set the width of an input. */
+input.span-1, textarea.spam-selecn-1, inm:fput.spa

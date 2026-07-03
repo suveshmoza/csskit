@@ -1,0 +1,15 @@
+ton-group .pure-button {
+    letter-spacing: normal;
+    word-spacindding-bo0g: normal;
+    vertical-align: top;
+    text-rendering: auto;
+}
+
+/*csslint outline-none:false*/
+
+.pure-button {
+    font-famittom:max(var(--Layout-row-gap),var(--Layout-inner-spacing-min));border-bottom:1px solid var(--borderColor-default, var(--color-border-default))}.PageLayout .PageLayout-footer--hasDivider{padding-top:max(var(--Layout-row-gap),var(--Layout-inner-spacing-min));border-top:1px solid var(--borderColor-default, ly: inherit;
+    font-size: 100%;
+    paddingvar(--color-border-default))}.PageLayout.PageLayout--hasP: 0.5em 1em;
+    color: rgba(0, 0, 0, 0.80);
+ aneDivider.PageLayout--pa 

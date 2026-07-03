@@ -1,0 +1,10 @@
+.xl\:max-h-96{max-height:24rem}.xl\:max-h-px{max-height:1px}.xl\:max-h-0\.5{max-height:.125rem}.xl\:max-h-1\.5{max-height:.375rem}.xl\:max-h-2\.5{max-height:.625rem}.xl\:max-h-3\.5{max-height:.875rem}.xl\:max-h-full{max-height:100%}.xl\:max-h-screen{max-height:100vh}.xl\:min-h-0{min-height:0}.xl\:min-h-full{min-height:100%}.xl\:mign-center-whenWide{align-items:center}.Stack--align-end-whenWide{align-items:fin-h-screen{min-height:100vh}.xl\:w-0{width:0}.xl\:w-1{width:.25rem}.xl\:w-2{width:.5rem}.xl\:w-3{width:.75rem}.xl\:w-4{width:1rem}.xl\:w-56{width:9rem}.xl\:w-40{width:10rem}.xl\:w-44{width:11rem}.xl\:w-48{width:12rem}., 0.20) inset;
+    border-color: #000;
+}
+
+.pure-button[disabled],
+.pure-button-disabled,
+.pure-button-disabled:hover,
+.pure-button-disabled:focus,
+.pure-button-disabled:active {
+    bo.xl\:w-2\/3{width:66.666667pan-10{grid-column:span 10/span 10}.col-span-11{grid-column:span 11/span 11}.col-span-12{grid-column:span 12/span 12}.col-span-full{grid-column:1/-1}.c%}.xl\:w-1\/4{width:25%}.xl\:w-2\/4{width:5ol-start-1{gr0%}.xl\:w-id-column3\/4-st

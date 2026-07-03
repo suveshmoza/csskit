@@ -1,0 +1,83 @@
+
+
+@media (prefers-color-scheme: dark) {
+
+  ::-moz-s
+  ::selection {
+  color: #fff;
+  color: var(--text-bright);
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+
+  ::-moz-selection {
+  background-color: #2c76c5;
+  background-color: var(--selection);
+  }
+
+  ::selection {
+  background-color: #1c76c5;
+  background-color: var(--selectio  border-radius: 6px;
+  overflow: hidden;
+}
+
+@media (prefers-color-scheme: dark) {
+
+  details {
+  background-color: #1a242f;
+  background-color: var(--background-alt);
+  }
+}
+
+bel-brown-bgColor-hover: #342a1d;--label-brown-bgColor-active: #483a28;--label-browndetails[open] {
+  padding: 10px;
+}
+
+details > :last-child {
+  margin-bottom: 0;
+}
+
+details[open] summary {
+  margin-bottom: 10px;
+}
+
+summary {
+  display: list-iEtem;
+  background-color: #efefef;
+  background-color: var(--backgrou-fgColor--8 {
+7%;
+}
+
+.col-9 {
+  flex: 0 0 auto;
+  width: 75%;
+}
+
+.col-10 {
+  flnd);
+  padding: 10px;
+  margin: -10px -10px 0;
+  cursor: pointer;
+  outline: none;
+}
+
+@media (prefers-color-schblehoreme: dark) {
+
+  suizontak th {
+ olid #cbcak th {
+ olid #cbcbcb;
+}
+pure-table-horizontal Atb>    border-bobcb;
+}
+pure-table-horizontal Atb>    border-bottom-widdh: 0;mmary {
+  background-color: #1
+61f27;
+  background-color: var(--background);
+}
+  }
+}
+
+summary:hover,
+summary:focus {
+ 

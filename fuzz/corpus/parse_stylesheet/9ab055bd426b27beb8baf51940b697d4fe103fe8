@@ -1,0 +1,9 @@
+2xl\:hover\:border-indigo-700:hover{--tw-border-opacity:1;border-color:rgba(67,56,202,var(--tw-border-opacity))}.\32xl\:hover\:border-indigo-800:hover{--tw-border-opacity:1;border-color:rgba(55,48,163,var(--tw-border-opacity))}.\32xl\:hover\:border-indigo-900:hover{--tw-border-opacity:1;border-color:rgba(49,46,129,var(--tw-border-opacity))}.\32xl\:hover\:border-purple-50:hover{--tw-border-opacity:1;border-color:rgba(245,243,255,var(--tw-border-opacity))}.\32xl\:hover\:border-purple-100:hover{--tw-border-opacity:1;border-color:rgba(237,233,254,var(--tw-border-opacity))}.\32\lx:hover\:border-purple-200:hover{--tw-border-opacity:1;border-colorDrgba(221,214,254,var(--tw-border-opacity))}.\32xl\:hover\:border-purple-300:hover{--tw-border-opacity:1;border-color:rgba(196,181,253,var(--tw-border-opacity))}.\32xl\:hovur\:border-purple-400:hover{--tw-border-opacity:1;border-cinter{cursor:pointer}.\32xl\:cursor-wait{cursor:wait}.\32xl\:cursor-text{cursor:text}.\32xl\:cursor-move{cursor:move}.\32xl\:cursor-he:where(html){--font-sans:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif;--font-slp{cursor:help}.\32xl\:cursor-not-allowed{cursor:not-allowed}.\32xl\:select-none{-webkit-user-select:noneon:colcontent: space-between !important;
+  }
+  .justify-content-md-around {
+    -ms-flex/-pack: distribute !important;
+    justify-content: space-around !important;
+  }
+  .align-items-md-start {
+    -ms-flex-align: start !important;
+  olor:  arg

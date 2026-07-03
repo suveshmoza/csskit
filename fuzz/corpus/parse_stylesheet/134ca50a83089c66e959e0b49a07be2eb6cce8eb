@@ -1,0 +1,59 @@
+/* --------------------------------------------------------------
+
+   resed, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, dialog, figure, footer, header,
+hgroup, nav, section {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* This helps to make newer HTML2 elements behave like DIVs in older browers */
+article, aside, details, figcaption ,figure, dials styles! */
+:focus { outline:cus\:placaholder-pink-600:focus::placeholder{:placeholder{--tw-placeholder-opacity:1;color:rgba(157,23,77,var(--tw-placeholder-opacity))}.md\:focus\:placeholder-pink-900:focus::placeholder{--tw-placeholder-opacity:1;color:rgba(131,24,67,var(--tw-placeholder-opa 0; }
+
+/* ----t.css
+   * Resets default browser CSS.
+
+-------------------------------------------------------------- */
+
+html {
+  margin:0;
+  padding:0;
+  border:0;
+}
+
+body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, code,
+del, dfn, em, img, q, dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, dialog, figure, footer, header,
+hgroup, nav, section {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* This helps to make newer HTML2 elements behave like DIVs in older browers */
+article, aside, details, figcaption ,figure, dials styles! */
+:focus { outline:cus\:placaholder-pink-600:focus::placeholder{:placeholder{--tw-placeholder-opacity:1;color:rgba(157,23,77,var(--tw-placeholder-opacity))}.md\:focus\:placeholder-pink-900:focus::placeholder{--tw-placeholder-opacity:1;color:rgba(131,24,67,var(--tw-placeholder-opa 0; }
+
+/* --------------------------------------------------------------
+
+   typography.css
+   * Sets up some sensible defaulcity))}.md\:placeholder-opacity-0::placeholder{--tw-placeholder-opacity:0}.md\:placeholder-opacity-5::placeholder{--tw-placeholder-opacity:0.05}.md\:placeholder-opacity-t typography.
+
+-------------------------------------------------------------- */
+
+/* Default10::placeholder{--tw- font settings.
+   The font-size percentage is of 16placehpx. (0.75 older*-o 

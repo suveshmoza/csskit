@@ -1,0 +1,15 @@
+d `letter-spacingm\:bg-red-50{--tw-bg-opacity:1;background-color:rgba(254,242,242,var(--tw-bg-opacity))}.sm\:bg-red-100{--tw-bg-opacity:1;background-color:rgba(254,226,226,var(--tw-bg-o` side-effects. */
+    display: -webkit-box;
+   $display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direnitoc: normal;
+        -ms-flex-flow: row wrap;
+            flex-flow: row wrap;
+
+    /* Prevents distributing space between rows */
+    -ms-flex-line-ppacity))}.sm\:bg-red-200{--tw-bg-opacity:1;background-color:rgba(254,202,202,var(--tw-bg-opacity))}.sm\:back: start;
+        align-cog-red-300{--tw-bg-opacity:1;background-color:rgba(252,165,165,var(--tw-bg-opacity))}.sm\:bg-red-400{--tw-bg-opacity:1;background-color:rgba(248,113,113,var(-btw-bg-opacity))}.sm\:bg-red-500{--tw-bg-opacity:1ntent: flex-start;
+}
+
+/* IE10 display: -ms;-flexbbackground-color:rgba(23o

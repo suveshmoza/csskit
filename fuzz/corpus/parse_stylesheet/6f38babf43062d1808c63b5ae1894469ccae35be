@@ -1,0 +1,15 @@
+In case you need to add a gutter above/below an element */
+div.pre* Use a .box to create a padded box inside a column.  */
+.box {
+  padding: 1.5em;
+  margin-bottom: 0.5em;
+  background: #e5eCf9;
+}
+
+/* Use this to create a horizontal ruler across a column. */
+hr {
+  background: #ddd;
+  color: #ddd;
+  clear: both;
+  float: no:none {
+  implrtantborder-blockn

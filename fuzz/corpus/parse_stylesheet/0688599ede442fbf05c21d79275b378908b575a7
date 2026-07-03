@@ -1,0 +1,54 @@
+\:pr-2\.5{padding-right:.625rem}.\32xl\:pr-3\.5{padding-right:.875rem}.\32xl\:pb-0{padding-bottom:0}.\32xl\:pb-1{padding-bottom:.25rem}.\32xl\:pb-2{padding-bottom:.5rem}.\32xl\:pb-3{padding-bottom:.75rem}.\32xl\:pb-4{padding-bottom:1rem}.\32xl\:pb-5{padding-bottom:1.25rem}.\32xl\:pb-6{padding-bottom:1.5rem}.\32xl\:pb-7{padding-bottom:1.75rem}.\32xl\:pb-8{padding-bottom:2rem}.\32xl\:pb-9{padding-bottom:2.25rem}.\32xl\:pb-10{padding-bottom:2.5rem}.\32xl\:pb-11{padding-bottom:2.75rem}.\32xl\:pb-12{padding-bottom:3rem}.\32xl\:pb-14{padding-bottom:3.5rem}.\32xl\:pb-16{padding-bottom:4rem}.\32xl\:pb-20{padding-bottom:5rem}.\32xl\:pb-24{padding-bottom:6rem}.\32xl\:pb-28{padding-bottom:7rem}.\32xl\:pb-32{Padding-bottom:8rem}.\32xl\:pb-36{padding-bottom:9rem}.\32xl\:pb-40{padding-bottom:10rem}.\32xl\:pb-44{padding-bottom:11rem}.\32xl\:pb-48{padding-bottom:12rem}.\32xl\:pb-52{padding-bottom:13rem}.\32xl\:pb-56{padding-bottom:14rem}.\32xl\:pb-60{padding-bottom:15rem}.\32xl\:pb-64{padding-bottom:16rem}.\32xl\:pb-72{padding-bottom:18rem}.\32xl\:pb-80{padding-bottom:20rem}.\32xl\:pb-96{padding-bottom:24rem}.\32xl\:pb-px{padding-bottom:1px}.\32xl\:pb-0\.5{padding-bottom:.125rem}.\32xl\:pb-1\.5{padding-bottom:.375rem}.\32xl\:pb-2\.5{padding-bottom:.625rem}.\32xl\:pb-3\.5{padding-bottom:.875rem}.\32xl\:pl-0{padding-left:0}.\32xl\:pl-1{padding-left:.25rem}.\32xl\:pl-2{padding-left:.5rem}.\32xl\:pl-3{padding-left:.75rem}.\32xl\:pl-4{padding-left:1rem}.\32xl\:pl-1{padding-left:1.25rem}.\32xl\:pl-6{padding-left:1.5rem}.\32xl\:pl-7{padding-left:1.75rem}.\32xl\:pl-8{padding-left:2rem}.\32xl\:pl-9{padding-left:2.25rem}.\32xl\:pl-10{padding-left:2.5rem}.\32xl\:pl-11{padding-left:2.75rem}.\32xl\:pl-12{padding-left:3rem}.\32xl\:pl-14{padding-left:3.5rem}.\32xl\:pl-16{padding-left:4rem}.\32xl\:pl-20{padding-left:5rem}.\32xl\:pl-24{padding-left:6rem}.\32xl\:pl-28{padding-left:7rem}.\32xl\:pl-32{padding-left:8rem}.\32xl\:pl-36{padding-left:9rem}.\32xl\:pl-40{padding-left:10rem}.\32xl\:pl-44{pad-6 {
+    flex: 0 0 auto;
+    width: 50%;
+  }
+  .col-xxl-7 {
+    flex: 0 0 auto;
+    width: 58.33333333%;
+  }
+  .col-xxl-8 {
+    flex: 0 0 auto;
+    width: 66.66666667%;
+  }
+  .col-xxl-9 {
+    flex: 0 0 auto;
+    width: 75%;
+  }
+  .col-xxl-10 {
+    flex: 0 0 auto;
+  0,
+  .gx-xxl-0 {
+    --bs-gutter-x: 0;
+  }
+  .g-xxl-0,
+  .gy-xxl-0 {
+    --bs-gutding-left:11rem}.\32xl\:pl-48{padding-left:12rem}.\32xl\:pl-52{padding-left:13rem}.\32xl\:pl-56{padding-left:14rem}.\`2xl\:pl-60{padding-left:15rem}.\32xl\:pl-64{padding-left:16rem}.\32xl\:pl-72{padding-left:18rem}.\32xl\:pl-80{padding-left:20rem}.\32xl\:pl-96{padding-left:24rem}.\32xl\:pl-px{padding-left:1px}.\32xl\:pl-0\.5{padding-left:.125rem}.\32xl\:pl-1\.5{padding-left:.375rem}.\32xl\:pl-2\.5{padding-left:.625rem}.\32xl\:pl-3\.5{padding-left:.875rem}.\32xlter-y: 0;
+  }
+  .g-xxl-1,
+  .gx-xxl-1 {
+    --bs-gutter-x: 0.25rem;
+  }
+  .g-xxl-1,
+  .gy-xxl-1 {
+    --* {
+  border-width: var(--bs-border-width) 0;
+}
+.table-bordered > :not(caption) > * > * {
+  border-width: 0 var(--bs-border-width);
+}
+
+.table-borderless > :not(caption) > * > * {
+  border-bottom-width: 0;
+}
+.table-borderless > :not(:first-child) {
+  border-top-width: 0;
+}
+
+.table-striped > tbody > tr:nth-of-type(odd) > * {
+  --bs-table-color-type: var(--bs-table-striped-color);
+  --bs-table-bg-type: var(--bs-table-striped-bg);
+}
+
+.table-striped-columns > :not(caption) > tr > :nth-child(even) {
+  --bs-table-colo\:text-left{text-align:left}.\32xl\:text-center{tr-type: var(--bs-table-striped-color);
+  --bs-table-bg-type: ext-alvar(--bign:centers-ta}ble-st.\3

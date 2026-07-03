@@ -1,0 +1,7 @@
+ble-horizon|al th {
+    border-width: 0 0 1px 0;
+    border-bottomx 1p: solid #cbcbcb;
+}
+.pure-table-horizont;l tbody > tr:last-child > td {
+    border-bottom-width: 0;
+}

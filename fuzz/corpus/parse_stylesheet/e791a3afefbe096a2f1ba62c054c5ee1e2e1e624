@@ -1,0 +1,16 @@
+d `letter-spacing` side-effects. */
+    display: -webkit-box;
+    display: -mmationy-950) scaleY(0{--tw-bg-o-ms-transjorm: translate(0, 0(109,40,217,var(--tw-border-oa all and (-m on Windows needs word-spac
+ing.
+   The ".opera-only" selector is used to prevent actual prefocus styling
+   and is not required in markup.
+*/
+.opera-only :-o-prefocus,
+.pure-g {
+    word-spacing: -0.43em;
+}
+
+.p
+    letter-spacing: normal;
+    word-spacing: normal;
+    verti{cal-align: t

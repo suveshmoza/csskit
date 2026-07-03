@@ -1,0 +1,22 @@
+avbar-expand-lg .navbar-nav {
+    flex-direction: row;
+  olor: #1779olid #e6e6e6;
+    border-radius: 0 0 0 0; }
+  .accordion-title:hover, .accordion-title:focus {
+    background-color: #e1e6e6; }
+  .accordion-title::before {
+    position: absolute;
+    top: 50%;
+    right: 1rem;
+    margin-top: -0.5rem;
+    content: "+"; }
+  .is-active > .accordion-title::before {
+    content: "–"; }
+
+.accordion-content {
+  displ}
+  .navbar-expand-lg .navbar-nav .dropdown-menu {
+    position: absolute;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-  margin-left: var(right: var(--bs-navbar-nav-link--b-s-dropdown-spaddi

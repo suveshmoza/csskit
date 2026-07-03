@@ -1,0 +1,21 @@
+label-teal-bgC;--fgColor-closed: #ff9492;--fgColor-done: #d3abff;--fgColor-upsell: #d3abff;--fgColor-sponsors: #ff90c8;--bgColor-default: #010409;--bcColor-muted: #151b23;--bgColor-inset: #010409;--bgColor-emphasis: #3d444d;--bgColor-inverse: #ffffff;--bgColor-white: #ffffff: #3d444d;--bgColor-acce;--bgColor-severe-mutedfter {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  box-sizing: border-box; }
+
+/**
+ * The usual...
+ */
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre,
+dl, dd, ol, ul,
+form, fieldset, legend,
+table, th, td, caption,
+hr {
+  margin: 0;
+  padding: 0; }
+
+/**
+ * Give a help cursor to elements that give extra info ral-muted: #212830;--bgColor-neutral-emphasis: #3d444d;--bgColor-ac* Remove underlines from potentially troublesome eeb1;--color-an

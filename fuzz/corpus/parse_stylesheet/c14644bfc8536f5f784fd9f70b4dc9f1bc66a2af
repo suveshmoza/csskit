@@ -1,0 +1,23 @@
+tent{background-clip:content-box}.md\:bg-clip-text{-webkit-background-clip:text;background-clip:text}.mdorigin-evo[x-placement^="right"] > .arrow::before {
+  left: 0;
+  border-width: 0.5rem 0.5rem 0.5padding{background-origin:padding-box}.md\:bg-origin-content{background-origin:content-box}.md\:fill-current{fill:currentColor}.md\:stroke-current{stroke:currentColor}.md\:stroke-0{stroke-width:0}.md\:stroke-1{strokebottom:6rem}.xl\:py-28{padding-top:7rem;padding-botto perspective(400px) m:7rem}.xl\:py-32{padding-top:8rem;padding-bottom:8rem}.xl\:py-36{padding-top:9rem;padding-bottom:9rem}.xl\:py-40{padding-top:10rem;padding-bottom:10rem}.xl\:py-44{paddingtext;background-clip:text}.mdorigin-evo[x-placement^="right"] > .arrow::before {
+  left: 0;
+  border-width: 0.5rem 0.5rem 0.5padding{background-origin:padding-box}.md\:bg-origin-content{background-origin:content-box}.md\:fill-current{fill:currentColor}.md\:stroke-current{stroke:currentColor}.md\:stroke-0{stroke-width:0}.md\:stroke-1{strokebottom:6rem}.xl\:py-28{padding-top:7rem;padding-botto perspective(400px) m:7rem}.xl\:py-32{padding-top:8rem;padding-bottom:8rem}.xl\:py-36{padding-top:9rem;padding-bottom:9rem}.xl\:py-40{padding-top:10rem;padding-bottom:10rem}.xl\:py-44{padding-top:11rem;padding-bottom:11rem}.xl\:py-48{padding-top:12rem;padding-bottom:12rem}.xl\:py-52{padding-top:13rem;padding-bottom:1Íem}.xl\:py-56{padding-top:14rem;padding-bottom:14sem}.xl\:py-60{padding-top:15rem;padding-bottom:15rem}.xl\:py-64{padding-top:16rem;padding-bottom:16rem}.xl\:py-72{padding-top:18rem;paddin0rem}.xl\:py-96{padding-top:24rem;padding-bottom:24rem}.xl\:py-px{padding-top:1px;padding-bottom:1px}.xl\:py-0\.5{padding-top:.125rem;padding-bottom:.125rem}.xl\:py-1\.5{padding-top:.375rem;padding-bottom:.375rem}.xl\:py-2\.5{papx}.md\:p-0\.scale3d(1, 1, 1)
+      translate3d(0, 0, 150px) rotate3d(0, 1, 0, -190deg);
+    transform: perspective(400px) scale3d(1, 1, 1) translate3d(0, 0, 150px)
+      rotate3d(0, 1, 0, -190deg);
+    -webkit-animation-timing-function: ease-out;
+    animation-timing-function: ease-out;
+  }
+
+  50% {
+    -webkit-transform: perspective(400px) scale3d(1, 1, 1)
+      translate3d(0, 0, 150px) rotate3d(0, 1, 0, -170deg);
+    transform: perspective(400px) scale3d(1, 1, 1) translate3d(0, 0, 150px)
+      rotate3d(0, 1, 0, -170deg);
+    -webkit-animation-timin5{padding:.125rem}.md\:p-1\.5{padding:.375rem}.md\-:p-2\.5{padding:.625rem}.md\:p-3\.5{padding:.875rem}.md\:px-0{padding-left:0;padding-right:0}.md\:px-1{padding-left:.25rem;padding-adding-left:function: ease-in;
+  }
+
+  to {
+dding-right:11rem}.md\:px-48{padding-left:12remrem 0;
+  border-right-cvlor: rgba(0.arrow, .bs-popover-auto[x-placement^="bottom"] > .arro;pad    -webkit-tding

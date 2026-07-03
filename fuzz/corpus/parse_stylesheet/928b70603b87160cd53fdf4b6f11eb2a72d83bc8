@@ -1,0 +1,72 @@
+ semantic
+   element names, use the compressor script (lib/compress.rb)
+
+-------------------------------------- */
+.container {
+  width: 950px;
+  margin: 0 auto;
+}
+
+/* Use this class on any .span / container to see the grid. */
+.showgrid {
+  background: url(src/grid.png);
+}
+
+
+/* Columns
+-------------------------------------------------------------- */
+0::placeholder{--tw-placeholder-opacity:1;color:rgba(254,242,242,var(--tw-placeholder-opacity))}.md\:placeholder-red-100::placeholder{--tw-placeholder-opacity:1;color:rgba(254,226,226,var(--tw-placeholder-opacity))}.md\:placeholder-red-200::placeholder{--tw-placeholder-opacity:1;color:rgba(254,202,202,var(--tw-placeholder-opacity))}.md\:placeholder-red-300::placeholder{--tw-placeholder-opacity:1;color:rgba(252,165,165,var(--tw-placeholder-opacity))}.md\:placeholder-red-400::placeholder{--tw-placeholder-opacity:1;color:rgba(248,113,113,var(--tw-placeholder-opacity))}.md\:placeholder-red-500::placeholder{--tw-placeholder-opacity:1;color:rgba(239,68,68,var(--tw-placeholder-opacity))}.md\:placeholder-red-600::placeholder{--tw-placeholder-opacity:1;color:rgba(220,38,38,var(--tw-placeholder-opacity))}.md\:placeholder-red-700::placeholder{--tw-placeholder-opacity:1;color:rgba(185,28,28,var(--tw-placeholder-opacity))}.md\:placeholder-red-800::placeholder{--tw-placeholder-opacity:1;color:rgba(153,27,27,var(--tw-placeholder-opacity))}.md\:placeholder-red-900::placeholder{--tw-placeholder-opacity:1;color:rgba(127,29,29,var(--tw-placeholder-opacity))}.md\:placeholder-yellow-50::placeholder{--tw-placeholder-opacity:1;color:rgba(255,251,235,var(--tw-placeholder-opacity))}.md\:placeholder-yellow-100::placeholder{--tw-placeholder-opacity:1;color:rgba(254,243,199,var(--tw-placeholder-opacity))}.md\:placeholder-yellow-200::placeholder{--tw-placeholder-opacity:1;color:rgba(253,230,138,var(--tw-placeholder-opacity))}.md\:placeholder-yellow-300::placeholder{--tw-placeholder-opacity:1;color:rgba(252,211,77,var(--tw-placeholder-opacity))}.md\:placeholder-yellow-400::placeholder{--tw-placeholder-opacity:1;color:rgba(251,191,36,var(--tw-placeholder-opacity))}.md\:placeholder-yellow-500::placeholder{--tw-placeholder-opacity:1;color:rgba(245,158,11,var(--tw-placeholder-opacity))}.md\:placeholder-yellow-600::placeholder{--tw-placeholder-opacity:1;color:rgba(217,119,6,var(--tw-placeholder-opacity))}.md\:placeholder-yellow-700::placeholder{--tw-placems-flex-positive: 0 !important;
+    flex-grow: 0 !important;
+  }
+  .flex-md-grow-1 {
+    -ms-flex-positive: 1 !important;
+    flex-grow: 1 !important;
+  }
+  .flex-md-shrink-0 {
+    -ms-flex-negative: 0 !important;
+    flex-shrink: 0 !important;
+  }
+  .flex-md-shrink-1 {
+    -ms-flex-negative: 1 !important;
+    flex-shrink: 1 !important;
+  }
+  .justify-content-md-start {
+    -ms-flex-pack: start !important;
+    justify-content: flex-start !important;
+  }
+  .justify-content-md-end {
+    -ms-flex-pack: end !impa.span-24 { width: 938px; }
+
+/* Add these to a column to append empty cols. */
+
+.append-1 { padding-right: 40px;}
+.append-2 { padding-right: 80px;}
+.append-3 { padding-right: 120px;}
+.append-4 { padding-right: 160px;}
+.append-5 { padding-right: 200px;}
+.append-6 { padding-right: 240px;}
+.append-7 { padding-right: 280px;}
+.append-8 { padding-right: 320px;}
+.append-9 { padding-right: 360px;}
+.append-10 { padding-right: 400px;}
+.append-11 { padding-right: 440px;
+.append-12 { stify-content: flex-start !important;
+  }
+  .justify-content-md-end {
+    -ms-flex-pack: end !impa.span-24 { width: 938px; }
+
+/* Add these to a column to append empty cols. */
+
+.append-1 { padding-right: 40px;}
+.append-2 { padding-right: 80px;}
+.append-3 { padding-right: 120px;}
+.append-4 { padding-right: 160px;}
+.append-5 { padding-right: 200px;}
+.append-6 { padding-right: 240px;}
+.append-7 { padding-right: 280px;}
+.append-8 { padding-right: 320px;}
+.append-9 { padding-right: 360px;}
+.append-10 { padding-right: 400px;}
+.append-11 { padding-right: 440px;
+.append-12 { padding-right: 480px;}
+.append-13 { padding-ri

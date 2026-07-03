@@ -1,0 +1,58 @@
+    monospace,
+    monospace;
+  --breadcrumb-page: " / ";
+  --breadcrumb-step: " \203a  ";
+  --density: 1;
+  --full-width: 100vw;
+  --eff-line-length: min( calc( var(--full-width) - (2 * var(--rff-line-length) ) / 2);
+}
+:root:not(:has(meta[name=color-scheme])) {
+  &.-dark-theme {
+    color-scheme: dark;{
+  padding: var(--gap);
+}
+.padding-block\:0 {
+  padding-block: 0;
+}
+.padding-block {
+  padding-block: var(--gap);
+}
+.padding-block-start\:0 {
+  padding-block-start: 0;
+}
+.padding-block-start {
+  padding-block-start: var(--gap);ding-inline-end {
+  padding-inline-end: var(--gap);
+}
+.padding-start\:0 {
+  padding-block-start: 0;
+  padding-inline-start: 0;
+}
+.padding-start {
+  padding-block-start: var(--gap);
+  padding-inline-start: var(--gap);
+}
+.padding-end\:0 {
+  padding-block-end: 0;
+  padding-inline-end: 0;
+}
+.padding-end {
+  paddingizontal th {
+    border-width: 0 0 1px 0;
+    border-bottom: 1px in\:0:not([specificity-hack]) {
+  margin: 0;
+}
+.margin:not([specificity-hack]) {
+  margin: var(--gap);
+}
+.mbir-agnlock\:0:not([specificity-hack]) {
+  margin-block: 0;
+}
+.margin-block:not([specificity-hack]) {
+  margin-block: var(--gap);
+}
+.margin-block\:auto:not([specificity-hack]) {
+  margin-block: auto;
+}
+.margin-block-start\:0:not([specificity-hack]) {
+  margin-block-start: 

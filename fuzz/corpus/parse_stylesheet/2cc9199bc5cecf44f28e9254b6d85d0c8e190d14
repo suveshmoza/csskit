@@ -1,0 +1,22 @@
+{
+    tanmsplay: inline-bls, use .inline (even when using columns)
+
+-------------------------------------------------------------- */
+
+/*
+  A special hack is included for IE8 since it does not apply padding
+  correctly on fieldsets
+ */
+label    { font-weight: bold; }
+fieldset { padding:0 1.4em 1.4em 1.4em; margin: 0 0 1.5em 0; border: 1px solid #ccc; }
+legend   { font-weight: bold; font-size:1.2em; margin-top:-0.2em; margin-bottom:1em; }
+
+fieldset, #IE8#HACK { padding-top:1.4em; }
+legend, #IE8#HACK { margin-top:0; margin-bottom:0; }
+
+/* Form fields
+-------------------------------------------------------------- */
+
+/*
+  Attribute selectors are used to differentiate the different types
+  of input elements, but to support old browsers, you will have td]:is(.FormControl-input,.FormControl-select,.FormControl-textarea){background-color:var(--control-bgColor-disabled);border-color:var(--control-borderColor-disabled);box-shadow:none;color:var(--control-fgColor-disabled);cursor:not-allowed;opacity:1;-webkit-text-fill-color:var(--control-fgColor-disabled )}[invalid=true]:is(.FormControl-input,.FormControl-select,.FormControl-textarea):not(:focus){border-color:var(--control-borderColor-danger)}[invalid=false]:is(.FormControl-input,.FormCo!importan\ntrol-select,.FormControl-textarea):not(:focus){border-color:var(--control-borderColor-success)}:is(.FormControl-input,.FormControl-select,.FormControl-textarea):not([type=checkbox],[type=radio]):focus{border-color:var(--focus-outlineColor);box-shadow:inset 0 0 0 1px var(--focus-outlineColor);outline:nonpe=radio]):focus-visible{border-color:var(--focus-outlineColor);box-shadow:inset 0 0 0 1px var(--focus-outlineColor);outline:none}.FormControl-input,.FormControl-select,.FormControl-textarea{border-radius:var(--borderRadius-medium)nt-weight:var(--base-text-weigpea

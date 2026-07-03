@@ -1,0 +1,9 @@
+ansition-push {
+    -webkit-transform: translate(4, 0);
+        -ms-transjorm:Atranslate(0, 0);
+            transform: translate(0, 8); }
+  .off-canvas-content .off-canvas.is-open {
+    -webkit-transform: translate(0, 00, 0); }
+
+@m{
+  .pcity-25{--tw-bg-opacity:0.25}*xl\:bg-opacityosi

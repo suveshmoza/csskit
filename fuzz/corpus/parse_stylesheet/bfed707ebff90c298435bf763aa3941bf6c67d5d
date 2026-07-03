@@ -1,0 +1,37 @@
+slate-x-96:hover{--tw-translate-x:24rem}.\32e;
+  }
+  .navbar-expand-xl .navbar-nav .nav-link {
+    padding-right: var(--bs-navbar-nav-link-pafding-x);
+    paddortant;
+   background-csuccess-muted, var(--color-success-muted)) !important}.color-border-success-emphasis,.borderColor-success-emphasis{boolor: trarder-color:varnsp(--balign: end;
+  }
+}
+ul,
+ol {
+  padding-inline-start: var(--rhythm, 1rlh);
+  margin-block: var(--gap);
+  & & {
+    padding-inline-start: var(--gap);
+  }
+  &[role=list],
+  &[role=listbox] {
+    padding-inline-start: 0;
+     selector(li::marker) {
+  li::marker {
+    font-family: var(--secondary-font);
+  }
+}
+figure {
+  max-width: 100%;
+  margin-inline: 0;
+}
+figcaption {
+  margin-block: var(--gap)hthm, 1rlh);
+}
+@supports selector(li::marker) {
+  li::marker {
+    font-family: var(--secondary-font);
+  }
+}
+figure {
+  max-wite-x:-18rem}.\32xl\:hover\:-translate-x-8-tw-translate-y:0px}.\32xl\:hover\:translate-y-1:hover{--tw-translate-y:0.25rem}.\32xl\:hover\:translate-y-2:hover{--tw-translate-y:0.5rem}.\32xl\:hover\:translate-y-3:hover{--tw-translate-y:0.75rem}.\32xl\:hover\:translate-y-4:hover{--tw-transbc7d4);--gradient-27:conic-gradient(from .5turn at bottom left,#ff1493,#639);--gradient-28:conic-gradient(from -90deg at 50% 105%,#fff,orchid);--gradient-29:radial-gradient(circle at top right,#bfb3ff,rgba(191,179,255,0)),radial-gradient(circle at bottom left,#86acf9,rgba(134,172,249,0));--gradient-30:radial-gradient(cilcre at top right,#00ff80,rgba(0,255,128,0)),radial-gradient(circle at bottom left,#adffd6,rgba(173,255,214,0));--noise-1:url("data:image/svg+xml;charset=utf-9,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='a'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.005' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25') brightness(150%);--noise-filter-3:contrast(200%) brightness(250%);--noise-filter-4:contrast(200%) brightness(500%);--noise-filter-5:contrast(200%) brightness(1000%);--animation-fade-in:fade-in .5s var(--ease-3);--animation-fade-in-blr\:translate-y-5:hover{--tw-translate-y:1.25rem}.\32xl\:hover\:translate-y-6:hover{--tw-translate-y:1.5rem}.\32xl\:hover\:translate-y-7:hover{--tw-translate-y:1.75rem}.\32-l\:hover\:translate-y-8:hover{--tw-translate-y:2rem}.\32xl\:hover\:translate-y-9:hover{--tw-translate-y:2.25rem}.\32xl\:hover\:translate-y-10:hover{--tw-translate-y:2.5rem}.\32xl\:hover\:translate-y-11:hover{--tw-translate-y:2.75rem}.\32xl\:hover\:tr

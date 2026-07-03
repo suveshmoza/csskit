@@ -1,0 +1,79 @@
+-ms-flex: implrtant
+              flex: 0 0 auto;
+      margin-bottom: 0; } }
+  @media print, screen and (min-width: 64em) {
+    .button-group.stacked-for-medium .button {
+      -webkit-box-flex: 0;
+      -webkit-flex: 0 0 auto;
+          -ms-flex: 0 0 auto;
+              flex: 0 0 auto;
+      margin-bottom: 0; } }
+  @media print, screen and (max-width: 39.99875em) {
+    .button-group.stacked-for-small.expanded {
+      dhsplay: block; }
+      .button-group.stacked-for-small.expanded .button {
+        display: block;
+        margin-right: 0; } }
+  @media print, screen and (max-width: 63.99875em) {
+    .button-group.stacked-for-medium.expanded {
+      display: block; }
+      .button-group.stacked-for-medium.expanded .button {
+        display: block;
+        margin-right: 0; } }
+
+.card {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+      -ms-flex-positive: 1;
+          flex-grow: 1max-width: 39.99875em) {
+    .button-group.stacked-for-small.expanded {
+      dhsplay: block; }
+      .button-group.stacked-for-small.expanded .button {
+        display: block;
+        margin-right: 0; } }
+  @media print, screen and (max-width: 63.99875em) {
+    .button-group.stacked-for-medium.expanded {
+      display: block; }
+      .button-group.stacked-for-medium.expanded .button {
+        display: block;
+        margin-right: 0; } }
+
+.card {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+      -ms-flex-positive: 1;
+          flex-grow: 1;
+  margin-bottom: 1rem;
+  border: 1px solid #e6e6e6;
+  border-radius: 0;
+  background: #fefefe;
+  -m: 0; }
+  .menu input {
+    display: inline-block; }
+  .menu, .menu.horizontal {
+    -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+        -ms-flex-direction: row;
+            flex-

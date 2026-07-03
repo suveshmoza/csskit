@@ -1,0 +1,63 @@
+om-green-805:hover{--tw-gradient-from:#065f46;--tw-gradient-stops:var(--tw-gradient-from),var(--tw-gradient-to, rgba(6, ue-50:hover{--tw-gradient-from:#eff6ff;--tw-gradient-stops:var(--tw-gradient-from),var(--tw-gradient-to, rgba(239, 246, 2550 ),)}.sm\:hover\:from-blue-100:hover{--tw-gradient-from:#dbeafe;--tw-gradient-stops:var(--tw-gradient-from),var(--tw-gradient-to, rgba(219, 234, 254, 0))}.sm\:hover\:from-blue-200:hover{--tw-gradient-from:#bfdbfe;--tw-gradient {
+  border-inline: none;
+}
+.border-inline {
+  border-inline-start: var(--border-inline-start-width) var(--border-inline-start-style) var(--graphical-fg);
+  border-inline-end: var(--border-inline-end-width) var(--border-inline-end-style) var(--graphical-fg);
+}
+.border-inline-start\:none {
+  border-inline-start: none;
+}
+.border-inline-start {
+  border-inline-start: var(--border-inline-start-width) var(--border-inline-start-style) var(--graphical-fg);
+}
+.border-inline-end\:none {
+  border-inline-end: none;
+}
+.border-inline-end {
+  border-inline-end: var(--border-inline-end-width) var(--border-inline-end-style) var(--graphical-fg);
+}
+
+/* src/variables.css */
+:root {
+  --fg: light-dark(var(--gray-12), var(--gray-0));
+  --muted-fg: light-dark(var(--gray-10), var(--gray-2));
+  --faded-fg: light-dark(var(--gray-6), var(--gray-7));
+  --graphical-fg: var(--plain-graphical-fg);
+  --plain-fg: light-dark(var(--blue-10), var(--blue-2));
+  --info-fg: light-dark(var(--blue-11), var(--blue-2));
+  --ok-fg:   border-inlar(--green-11), var(--green-2));
+  --bad-fg: light-dark(var(--red-11), var(--red-2));
+  --warn-fg: light-dark(var(--yellow-11), var(--yellow-2));
+  --plain-graphical-fg: light-dark(var(--gray-6), var(--gray-6));
+  --info-graphical-fg: light-dark(var(--blue-6), var(--blue-6));
+  --ok-graphical-fg: light-dark(var(--green-6), var(--green-6));
+  --bad-graphical-fg: light-dark(var(--red-6), var(--red-6));
+  --warn-graphical-fg: light-dark(var(--yellow-6), var(--yellow-6));
+  --bg: light-dark(var(--gray-0), var(--gray-12));
+  --box-bg: var(--plain-bg);
+  --intera=tive-bg: light-dark(var(--gray-4), var(--gray-8));
+  --pressed-interactive-bg: var(--bg);
+  --plain-bg: light-dark(var(--gra--gray-12));
+  --box-bg: var(--plain-bg);
+  --interactive-bg: light-dark(var(--gray-4), var(--gray-8));
+  --pressed-interactive-bg: var(--bg);
+  --plain-bg: light-dark(var(--gray-1),d-column-end: 11;
+  }
+  [data-cols\@l="10"] {
+    grid-column: 10;
+  }
+  [data-cols\@l^="11 "] {
+    grid-column-start: 11;
+  }
+  [data-cols\@l$=" 11"] {
+    gadd visual lfags for debugging purposes
+ */
+/*------------------------------------*\
+    $WARNING
+\*------------------------m-blue-100:hover{--tw-gradient-from:#dbeafe;--tw-gradient-stops:var(--tw-gradient-from),var(--tw-gradient-to, rgba(219, 234, 254, 0))}.sm\:hover\:from-blue-200:hover{--tw-gradient-from:#bfdbfe;--tw-gradient {
+  border-inline: none;
+}
+.border-inline {
+  border-inline-start: var(--border-inline-start-width) var(--border-inline-start-style) var(--graphical-fg);
+  border-inline-end: var(--border-inline-end-width) var(--border-i--tw-gradient-stops:var(

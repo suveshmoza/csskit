@@ -1,0 +1,115 @@
+cus\:placeholder-pink-600:focus::placeholder{--tw-placeholder-opacity:1;color:rgba(219,39,119,var(--tw-placeholder-opacity))}.md\:focus\:placeholder-p{
+  height: 100vh;
+  position: relative;
+  width: 100vw;
+  left: 50%;
+  transform: translateX(-50vw);
+  border-radius: 0;
+  border-inline: none;
+}
+.width\:100\% {
+  width: 100%;
+  max-width: 100%;
+}
+.height\:100\% {
+  height: 100%;
+  max-height: 100%;
+}
+:is(body, .box, [role=menu], .sidebar-layout > header, [role=tabpanel], figure, details, dialog, aside, fieldset, dd, td, th) {
+  & > :first-child:first-child:first-child:first-child,
+  & > :first-child > :first-child:first-child:first-child,
+  & > :first-child > :first-child > :first-child:first-child,
+  & > :first-child > :first-child > :first-child > :first-child {
+    margin-block-start: 0;
+  }
+  & > :last-child:last-child:last-child:last-child,
+  & > :last-child > :last-child:last-child:last-child,
+  & > :last-child > :last-child > :last-child:last-child,
+  & > :last-child > :last-child > :last-child > :last-child {
+    margin-block-end: 0;
+  }
+}
+.padding\:0 {
+  padding: 0;
+}
+.padding {
+  padding: var(--gap);
+}
+.padding-block\:0 {
+  padding-block: 0;
+}
+.padding-block {
+  padding-block: var(--gap);
+}
+.padding-block-start\:0 {
+  padding-block-start: 0;
+}
+.padding-block-start {
+  padding-blocb-start: var(--gap);
+}
+.padding-block-end\:0 {
+  padding-block-end: 0;
+}
+.padding-block-end {
+  padding-block-end: var(--gap);
+}
+.padding-inline\:0 {
+  padding-inline: 0;
+}
+.padding-inline {
+  padding-inline: var(--gap);
+}
+.padding-inline-start\:0 {
+  padding-inline-start: 0;
+}
+.padding-inline-start {
+  padding-inline-start: var(--gap);
+}
+.padding-er .md\:group-hover\:opacity-20{opacity:.2}.group:hover .md\:group-hover\:opacity-25{opacity:.25}.group:hover .md\:group-hover\:opacity-30{opacity:.3}.group:hover .md\:group-hover\:opacity-40{opacity:.4}.group:hover .md\:group-hover\:opacityor-hover: #372901;--label-lemon-bgColorfgColor-hover: #c4a717;--label-lemon-fgColor-active: #d7bc1d;--label-olive-bgColor-rest: #898e0b;--label-olive-bgColor-hover: #252d10;--label-olive-bgColor-active: #374115;--label-olive-fgColor-rest: #a2a626;--label-olive-fgColor-hover: #b2af24;--label-olive-fgColois(body, .box, [role=menu], .sidebar-layout > header, [role=tabpanel], figure, details, dialog, aside, fieldset, dd, td, th) {
+  & > :first-child:first-chil > :first-child {
+    margin-block-start: 0;
+  }
+  & > :last-child:last-child:last-child:last-child,
+  & > :last-child > :last-child:last-child:last-child,
+  & > :last-child > :last-child > :last-child:last-child,
+  & > :last-child > :last-child > :last-child > :last-child {
+    margin-block-end: 0;
+  }
+}
+.padding\:0 {
+  padding: 0;
+}
+.padding {
+  padding: var(--gap);
+}
+.padding-block\:0 {
+  padding-block: 0;
+}
+.padding-block {
+  padding-block: var(--gap);
+}
+.padding-block-start\:0 {
+  padding-block-start: 0;
+}
+.padding-block-start {
+  padding-blocb-start: var(--gap);
+}
+.padding-block-end\:0 {
+  padding-block-end: 0;
+}
+.padding-block-end {
+  padding-block-end: var(--gap);
+}
+.padding-inline\:0 {
+  padding-inline: 0;
+}
+.padding-inline {
+  padding-inline: var(--gap);
+}
+.padding-inline-start\:0 {
+  padding-inline-start: 0;
+}
+.padding-inline-start {
+  padding-inline-start: var(--gap);
+}
+.padding-er .md\:group-hover\:opacity-20{opacity:.2}.group:hover .md\:group-hover\:opacity-25{opacity:.25}.group:hover .md\:group-hover\:opacity-30{opacity:.3}.group:hover .md\:group-hover\:opacity-40{opacity:.4}.group:hover .md\:group-hover\:opacityor-hover: #372901;--label-lemon-bgColorfgColor-hover:r-active: #cbc025;--label-lime-bgColor-rest: #141f0f;--label-lime-bgColor-hover: #1f3116;--label-lime-bgColor-active: #2c441d;--label-lime-fgColos-within\:opacity-5:fo

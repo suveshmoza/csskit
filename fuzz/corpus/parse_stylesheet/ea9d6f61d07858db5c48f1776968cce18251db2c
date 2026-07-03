@@ -1,0 +1,6 @@
+calc(1.5 * var(--rhyth / 4) : none;
+  background: none;
+}
+input[type=file] {
+  padding: calc(var(--gap) / 4) 0;
+  font: inher/* s

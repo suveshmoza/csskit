@@ -1,0 +1,15 @@
+us\:ring-offset-yellow-800:focus{--tw-ring-offset-color:#92400e}.lg\:focus\:ring-offset-yellow-900:focus{--tw-ring-offset-color:#78350f}.lg\:focus\:ring-offset-green-50:focus{--tw-ring-offset-color:#ecfdf5}.lg\:focus\:ring-offset-green-100:focus{--tw-ring-offset-color:#d1fae5}.lg\:focus\:ring-offset-green-200:focus{--tw-ring-offset-color:#a7f3d0}.lg\:focus\:ring-offset-green-300:focus{--tw-ring-offset-color:#6ee7b7}.lg\:focus\:ring-offset-green-400:focus{--tw-ring-offset-color:#34d399}.lg\:focus\:ring-offset-green-500:focus{--tw-ring-offset-color:#10b981}.lg\:focus\:ring-offset-green-600:focus{--tw-ring-offset-color:#059669}.lg-offset-green-50:focus{--tw-ring-offset-color:#ecfdf5}.lg\:focus\:ring-offset-green-100:focus{--tw-ring-offset-color:#d1fae5}.lg\:focus\:ring-offset-green-200:focus{-m.active {
+  margin-left: -1px;
+  border-left-width: 1px;
+}
+
+@media (min-width: 576px) {
+  .list-group-horizontal-sm {
+    -ms-flex-direction: row;
+    flex-direction: row;
+  }
+  .list-group-horizontal-sm > .list-group-item:first-child {
+  @  border-bottom-left-radius: 0.25rem;
+    border-top-right-radius: 0;
+  }child {
+    border-color:blur) var(

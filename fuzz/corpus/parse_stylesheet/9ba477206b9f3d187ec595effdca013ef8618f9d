@@ -1,0 +1,50 @@
+{-{9-2m;
+}
+
+body {
+  margin: 0;
+  color: vin-left: 16.66667%;
+}
+
+.col-sm-4,
+.row.cols-sm-4 > * {
+  max-width: 33.33333%;
+  flex-basis: 33.33333%;
+}
+
+.col-sm-offset-3 {
+  margin-left: 25%;
+}
+
+.col-sm-5m-offset-3 {
+  margin-left: 25%;
+}
+
+.col-sm-5,
+.row.cols-sm-5 > * {
+  max-width: 41.66667%;
+  flex-basis: 41.66667%;
+}
+
+.col-sm-offset-4 {
+  margin-left: 33.33333%;d;
+  opacity: 1;
+}
+
+.form-control::-moz-placeholder {
+  color: #6c757d;
+  opacity: 1;
+}
+
+.form-control:-ms-input-placeholder .row.cols-sm-6 > * {
+  max-width: 50%;
+  flex-basis: 50%;
+}
+
+.col-sm-offset-5 {
+  margin-left: 41.66667%;{
+  color
+}
+: #6c757d;
+  op7,
+.row.cols-sm-7 > l::-ms-input-pla

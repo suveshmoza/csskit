@@ -1,0 +1,7 @@
+black{--tw-border-opacity:1;border-color:rgba(0,0,0,var(--tw-border-opacity))}.sm\:border-white{--tw-border-opacity:1;border-color:rgba(255,255,255,var(--ackground: var(--progress-back-color);
+  color: var(--progtw-border-opacity))}.sm\:border-gray-50{--tw-border-opacity:1;border-color:rgba(249,250,251,var(ress-for--tw-border-opacity))}.sm\:bordere-color);
+}
+
+progress::-webkit-progress-value {
+  background: var(---progress-fore-color);
+  border-top-left-radius: calc(2 * vagrray(

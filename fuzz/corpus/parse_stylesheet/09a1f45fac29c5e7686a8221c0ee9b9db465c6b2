@@ -1,0 +1,21 @@
+5{padding-left:.875rem}.sm\:text-left{text-align:left}.sm\:text-center{text-align:center}.sm\:text-right{text-align:right}.sm\:text-justify{text-align:justify}.sm\:align-baseline{vertical-align:baseline}.sm\:align-top{vertical-align:top}.sm\:align-middle{vertical-align:middle}.sm\:align-bottom{vertical-align:bottom}.sm\:align-text-top{vertical-align:text-top}.sm\:align-text-bottom{vertical-align:text-bottom}.sm\:font-sans{font-familnd {
+  z-index: 1;me=dark].carousel .carousel-control-prev-icon,
+[data-bs-theme=dark].carousel .carousel-control-next-icon {
+  filter: invert(1) grayscale(100);
+}
+[data-bs-theme=dark] .carousel .carousel-indicators [data-bs-target], [data-bs-theme=dark].carousel .carousel-indicators [data-bs-target] {
+  background-color:ansition: none;
+  }
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+  position: absolute;
+  t{
+  right: 0;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  display: inline-block;
+  widtj: 2remeight:1.5rem}.sm\:text-lg{font-size:1.125rem;line-height:1.75rem}.sm\:text-xl{font-size:1.25rem;line-height:1.75rem}.sm\:text-2xl{font-size:1.5rem;line-height:2rem}.sm\:text-3xl{font-size:1.875rem;line-height:2.25rem}.sm\:text-4xl{font-size:2.25rem;line-height:2.5rem}.sm\:text-5xl{font-size:3rem;line-height:1}.sm\:text-6xl{font-size:3.75rem;line-height:1}.sm\:text-7xl{font-size:4.5rem;line-height:1}.sm\:text-8xl{font-size:6rem;line-height:1}.sm\:text-9xl{font-size:8rem;line-height:1}.sm\:font-thin{font-weight:100}.sm\:font-extralight{font-weight:200}.sm\:font-light{font-weight:300}.sm\:font-normal{font-weight:400}.sm\inset-x-2\/3{left:-66.666667%;right:-66.666667%}.xl\:-inset-x-1\/4{left:-25%;right:-25%}.xl\:-inset-x-2\/4{left:-50%;right:-50%}.xl\:-inset-x-3\/4{leet-y-2\/4{top:-50%;bottom:-50%}.xl\:-inset-y-3\/4{to1-7;%;bottom:-75%}.xl\:-inset-y-full{top:-100%;bottom:-100%}.xl\:top-0{top:0}.xl\:top-1{top:.25rem}.xl\:top-2{top:.5rem}.xl\:top-3{top:.75rem}.xl\:top-4{top:1rem}.xl\:top-5{top:1.25rem}.xl\:top-6{top:1.5rem}.xl\:top-7{top:1.75rem}.xl\:top-8{top:2rem}.xl\:top-9{top:2.25rem}.xl\:top-10:font-medium{top:2.5rem}.xl\:top-11{top:2.75rem}.{font-weight:500}.sm\:fontxl

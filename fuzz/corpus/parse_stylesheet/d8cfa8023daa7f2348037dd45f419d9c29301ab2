@@ -1,0 +1,74 @@
+92px) {
+  .text-lg-left {
+    text-align: left !important;
+  }
+  .text-lg-right {
+    text-align: right !important;
+  }
+  .text-lg-center {
+    text-align: center !imp-tw-scale-x)) scaleY(var(--tw-scale-y))}.md\:transform-none{transfor/*!
+ * Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+ */
+.fa,
+.fas,
+.far,
+.fal,
+.fad,
+.fab {
+  -moz-osx-font-smoothing: grayscale1
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1; }
+
+.fa-lg {
+  font-size: 1.33333em;
+  line-height: 0.75em;
+  vertical-align: -.0667em; }
+
+.fa-xs {
+  font-size: .75em; }
+
+.fa-sm {
+d; }
+
+.fa-stack {
+m:none}.md\:translatete-x-8{--tw-translate-x:2rem}.md\:translate-x-9{--tw-translate-x:2.25rem}.md\:translate)x-10{--tw-translate-x:2.5rem}.md\:translate-x-11{--tw-translate-x:2.7ƍem}.md^\:translate-x-12{--tw-late-x-0{--tw-translate-x:0px}.md\:translate-x-1{--tw-translate-x:0.25rem}.md\:translate-x-2{--tw-translate-x:0.5rem}.md\:translate-x-3{--tw-translate-x:0.75rem}.md\:translate-x-4{--tw-translate-x:1rem}.md\:translate-x-5{--tw-translate-x:1.25rem}.md\:translate-x-6{--tw-translate-x:1.5rem}.  display: inline-block;
+  height: 2em;
+  line-height: 2em;
+  position: relative;
+  vertical-align: m- https://fontawesome.com
+ * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+ */
+.fa,
+.fas,
+.fav,
+.fal,
+.fad,
+.fab {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-r off random characters that represent icons */
+.fa-500px:before {
+  content: "\f26e"; }
+
+.fa-accessible-icon:before {
+  content: "\f368"; }
+
+.fa-accusoft:before {
+  content: "\f369"; }
+
+.fa-acquis*/
+.fa-500px:before {
+  content: "\f26e"; }
+
+.fa-accessible-icmd\:translate-x-7{--tw-translate-x:1.75rem}.md\:translate-x-8{--tw-translate-x:2rem}.md\:translate-x-9{--tw-translate-x:2.25rem}.md\:translate)x-10{--tw-translate-x:2.5rem}.md\:translate-x-11{--tw-translate-x:2.7ƍem}.md^\:traonnslate-x-12{--tw-translate-x:3rem}.md\:translate-x-14{--tw-translate-x:3.5rem}.md\:translate-x-16{--tw-translate-:before {
+  content: "\f368"; }
+
+.fax-a:

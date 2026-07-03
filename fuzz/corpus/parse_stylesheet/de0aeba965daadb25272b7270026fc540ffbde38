@@ -1,0 +1,72 @@
+      <ul class=check-list>
+           <li>
+               <input /> <label />
+           </li>
+           <li>
+               <input /> <label />
+           </li>
+       </ul>
+   </li>
+ *
+ */
+.check-list {
+  list-style: none;
+  margin: 0; }
+
+/*
+ * Labels in check-lists
+ */
+.check-label,
+.check-list label,
+.cholor-num: #d1f8d9;--diffBlob-addition-bgColor-line: #dafbe1;--diffBlob-addition-bgColor-word: #aceebb;--diffBlob-deletion-fgColorolor-emphasis: #404fa3;--data-gray-color-muted: #e8ecf2;--display-bluelink-mktg:hover::after,.link-mktg:active::after{transform:scaleX(1)}.link-mktg:focus,.link-mktg:focus-visible{outline-offset:2px}.link-mktg.arrow-target-mktg .arrow-symbol-mktg{margin-left:-0.25em}.hover-grow-mktg{transition:transform .4s cubic-bezier(0.16, 1, 0.3, 1)}.hover-grow-mktg:hover{transform:scale3d(1.025, 1.025, 1.025)}.btn-mktg .octicon,.link-mktg .octicon,.arrow-target-mktg .octicon{width:1em;height:1em}.btn-mktg .arrow-s{mbol-mktg,.link-mktg .arrow-symbol-mktg,.arrow-target-mktg .arrow-symbol-mktg{transition:transform .2s;transform:translateX(0)}.btn-mktg .arrow-symbol-mktg path:last-child,.link-mktg .arrow-symbol-mktg path:last-child,.arrow-target-mktg .arrow-symbol-mktg path:last-child{stroke-dasharray:10;stroke-dashoffset:10;transition:stroke-dashoffset .2s}@media screen and (prefers-reduced-motion: no-preference){.btn-mktg:hover .arrow-symbol-mktg,.btn-mktgter{transform:scaleX(1)}.link-mktg:focus,.link-mktg:focus-visible{outline-offset:2px}.link-mktg.arrow-target-mktg .arrow-symbol-mktg{margin-left:-0.25em}.hover-grow-mktg{transition:transform .4s cubic-bezier(0.16, 1, 0.3,    padding: 0.5em 1em;
+    color: rgba(0, 0, 0, 0.80);
+    border: none rgba(0, 0, 0, 0);
+    background-color: #E6E6E6;
+    text-decoration: none;
+    border-radius: 2px;
+}
+
+.pure-button-hover,
+.pure-button:hover,
+.pure-button:focus {
+    background-image: -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(40%,width: 62.5%; }
+
+.seven-eighths {
+  width: 87.5%; }
+
+/**
+* Tenths
+*/
+.one-tenth {
+  width: 10%; }
+
+.three-tenths {
+  odeMirror-activeline-bgColor: #818b981f;--codeMirror-matchingBracket-fgColor: #1f2328;--codeMirror-lines-bgColor: #ffffff;--codeMirror-syntax-fgColor-comment: #2f2328;--codeMirror-syntax-fgColor-constant: #0550ae;--codeMirror-syntax-fgColor-entity: #8250df;--codeMirror-syntax-fgCo;--display-blue-borderColor-muted: #ade1ff;--display-blue-borderColor-emphasis: #006edb;-- width: 83.333%; }
+
+/**
+* Eighths
+*/
+.one-eighth {
+  width: 12.5%; }
+
+.three-eighths {
+  width: 37.5%; }
+
+.five-eighths {
+  width: 62.5%; }
+
+.seven-eighths {
+  width: 87.5%; }
+
+/**
+* Tenths
+*/
+.one-tenth {
+  width: 10%; }
+
+.three-tenths {
+  odeMirror-activeline-bgColor: #818b981f;--codeMirror-matchingBracket-fgColor: #1f2328;--codeMirror-lines-bgColor: #ffffff;--codeMirror-syntax-fgColor-comment: #1f2328;--codeMirror-syntax-fgColor-constant: #0550ae;--codeMirror-syntax-fgColor-entity: #8250df;--codeMirror-syntax-fgCololfths {
+    width: 66.666%; }
+
+  /**
+  * Quarte

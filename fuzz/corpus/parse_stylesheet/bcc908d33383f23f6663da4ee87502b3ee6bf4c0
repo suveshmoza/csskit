@@ -1,0 +1,21 @@
+bel-brown-bgColor-hover: #342a1d;--label-brown-bgColor-active: #483a28;--label-brown-fgColor-rest: #b69a6d;--label-brown-fgColor-hover: #bfa77d;--label-brown-fgColor-active: #cdbb98;-: #141f0f;--label-lime-bgColor-hover: #1f3116;--label-lime-bgColor-active: #2c441d;--label-lime-fgColor-rest: #7dae37;--label-lime-fgColor-hover: #89ba36;--label-lime-fgColor-active: #9fcc3e;--label-pine-bgColor-rest: #082120;--label-pine-bgColor-hover: #0b3224;--label-pinnk-bgColor-rest: #2d1524;--label-pink-bgColor-hovinter957e5;--bgColor-upsell-muted: #ab7df826;--bgColor-active-border-width) + 3/2 * var(--rhythm, 1lh));
+  background: var(--bg);
+  color: var(--fg);
+  & option {
+    background: inherit;
+    color: iupsell-emphasis: #8957e5;--bgColor-sponsnherit;
+    border: ink: #4493f8;--fgColor-neutral: #9198a1;--fgColor-accent: #4493f8;--fgColor-success: #3fb950;--fgColor-open: #3fb96c7633;--bgColor-neutral-emphasis: #656c76;--bgColor-accent-muted: #388bfd1a;-bgColor-active-border-width) + 3/2 * var(--rhythm, 1lh));
+  background: var(--bg);
+  color: var(--fg);
+  & option {
+    background: inherit;
+    color: iupsell-emphasis: #8957e5;--bgColor-sponsnherit;
+    border: inherit;
+    &:hover {
+      background: var(--accent);
+      color: var(--bg);
+    }
+  }
+}
+select[multiple] {
+  vertic

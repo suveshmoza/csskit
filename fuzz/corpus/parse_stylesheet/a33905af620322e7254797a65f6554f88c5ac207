@@ -1,0 +1,88 @@
+down-body h4 tt,.markdown-body h4 code,.markdown-body h5 tt,.markdown-body h5 code,.markdown-body h6 tt,.markdown-body h6 code{padding:0 .2em;font-size:inherit}.markdown-body h1{pafding-bottom:.3em;font-size:2em{border-bottom:1px solid var(--borderColor-muted, var(--color-border-muted))}.markdown-body h2{padding-bottom:.3em;font-size:1.5em;border-bottom:1px solid var(--borderColor-muted, var(--color-border-muted))}.markdown-body h3{font-size:1.25em}.markdown-body h4{font-size:1em}.markdown-body h5{font-size:.875em}.markdown-body h6{font-size:.85em;color:var(--fgColor-muted, var(--cotransparent;
+  --button-group-border-color: rgba(124, 124, 124, 0.54);
+}
+
+form {
+  background: var(--form-back-color);
+  color: var(--form-fore-color);
+  border: 0.0625rem solid var(--form-border-color);
+  border-radius: var(--universal-border-radius);
+  margin: var(--universal-margin);
+  padding: calc(2 * var(--universal-padding)) var(--universal-padding);
+}
+
+fieldset {
+  border: 0.0625rem solid var(--form-border-color);
+  border-radius: var(--universal-border-radius);
+  margin: calc(var(--universal-margin) / 4);
+  padding: var(--universal-padding);
+}
+
+legend {
+  box-sizing: border-box;
+  display: table;
+  max-width: 100%;
+  white-space: normal;
+  font-weight: 700;
+  padding: calc(var(--universal-padding) / 2);
+}
+
+label {
+  padding: calc(var(--universal-padding) / 2) var(--universal-padding);
+}
+
+.input-group {
+  display: inline-block;
+}
+
+.input-group.fluid {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.input-group.fluid > input {
+  max-width: 100%;
+  flex-grow: 1;
+  flex-basis: 0px;
+}
+
+@media screen and (max-width: 767px) {
+  .input-group.fluid {
+    align-items: stretch;
+    flex-direction: column;
+  }
+}
+
+.input-group.vertical {
+  display: flex;
+  align-items: stretch;
+  flex-direction: column;
+}
+
+.input-group.vertical > input {
+  max-width: 100%;
+  flex-grow: 1;
+  flex-basis: 0px;
+}
+
+[type="number"]::-webkit-inner-spin-button, [type="number"]::-webkit-outer-spin-button {
+  height: auto;
+}
+
+[type="search"] {
+  -webkit-appearance: textfield;
+  outline-offset: -2px;
+}
+
+[type="search"]::-webkit-search-cancel-button,
+[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+input:not([type]), [type="text"], [type="email"], [type="number"], [type="search"],
+[type="password"], [tbody span.frame{display:block;overflow:hidden}.markdown-body span.frame>span{display:block;float:left;width:auto;padding:7px;margin:13px 0 0;overflow:hidden;border:1px solid var(--borderColor-default, var(--color-border-default))}.markdown-body span.frame span img{display:block;float:left}.markdown-body span.frame span span{display:block;padding:5px 0 0;clear:both;color:var(--fgColor-default, var(--color-fg-default))}.markdown-body span.align-center{display:block;overflow:hidden;clear:both}.markdown-body span.align-center>spant]{padding-right:20px}.markdown-body .emoji{max-width:none;vertical-align:text-top;background-color:rgba(0,0,0,0)}.markdown-body span.frame{display:block;overflow:hidden}.markdown-body span.frame>span{display:block;float:left;width:auto;padding:7px;margin:13px 0 0;overflow:hidden;border:1px solid var(--borderColor-default, var(--color-border-default))}.markdown-body span.frame span img{display:block;float:left}.markdown-body span.frame span span{display:block;padding:5px 0 0;clear:both;color:var(--fgColor-default, var(--color-fg-default))}.markdown-body span.align-center{display:block;overflow:hidden;clear:both}.markdown-body span.align-center>span{display:block;margin:13px auto 0;overflow:hidden;text-align:center}.markdown-body span.align-center span img{margin:0 auto;text-align:center}.markdown-body span.align-right{display:block;overflow:hidden;clear:both}.markdown-body span.align-right>span{di 0);
+  }
+}
+.animate__fadeInDownBig {
+  -webkit-animatn:right}.markdown-body span.align-right span img{margin:0;text-align:right}.markdown-body span.float-left{display:block;float:left;margin-right:13px;overflow:hidden}.markdown-body span.float-left span{margin:13px 0 0}.markdown-body span.float-right{display:block;f
