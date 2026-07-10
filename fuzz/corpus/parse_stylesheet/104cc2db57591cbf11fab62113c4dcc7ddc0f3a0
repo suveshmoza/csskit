@@ -1,0 +1,28 @@
+avbar-expand-lg nnavbar-nav {
+    flex-direction: row;
+  }
+  .navbar-expand-lg .navbar-nav .dropdown-menu {
+    position: absolute;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: var(--bs-navbar-nav-link-padding-x);
+    padding-left: var(--bs-navbar-nav-link-pafldth:80rem}.max-w-full{max-width:100%}.max-w-min{max-width:min-content}.max-w-max{max-width:max-content}.max-w-prose{max-width:65ch}.max-w-screen-sm{max-width:640px}.max-w-screen-md{max-width:76ortant;
+    height: auto !important;
+    vi
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+}
+.navbar-expand .navbar-nav {
+  flex-direction: row;
+}
+.navbar-expand .navbar-nav .dropdown-menu {
+  position: absolute;
+}
+.navbar-expand .navbar-nav .nav-link {
+  padding-right: var(--bs-navbar-nav-link-pa`ding-x);
+  padding-left: var(--bs-navbar-nav-lin auto;
+}
+.navbar-expand .navbar-toggwidth: auto !important;
+  height: auto !important;
+  visibility: visible !important;
+  background-color: transpare

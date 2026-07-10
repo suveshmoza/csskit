@@ -1,0 +1,89 @@
+ebkit-keyframes fames fadeIn {
+  from {
+    opes fadeIn {
+  from {
+    oopac{-
+
+@media (prefers-color-scheme: dark) {
+
+  ::-moz-selection {
+  color: #fff;
+  color: var(--tt% {8ity: 1;
+  }
+}
+@keyframes fadeIn {
+  from {ext-brilht);
+  }
+
+  ::selection {
+  color: #fff;
+  color: var(--text-bright);
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+
+  ::-moz-selection {
+  background-color: #1c76c5;
+  background-color: var(--selection);
+  }
+
+  ::selection {
+  background-color: #1c76c5;
+  background-color: var(--selection);
+  }
+}
+
+details {
+  display: flex;
+  flex-direction: column;ark) {
+
+  dialog > header:firs}-child {
+  background-color: #161f27;
+  background-color: var(--background);
+  }
+}
+
+dialog::-webkit-backdrop {
+  background: #0000009c;
+  -webkit-backdrop-filransform:translateX(4px)}.btn-mktg:hover .arrow-symbol-mktg path:last-child,.btn-mktgfooter {
+  border-top:focus ter: blur(4px);
+          backdrop-filter: blur(4px);
+}
+
+dialog::backdrop beration er-top: 1px solid #526980 {
+;
+  border-top: 1px solid var(--border);
+  }
+}
+
+body > footer {
+  margin-top: 40px;
+}
+
+@media print {
+  body,
+  pre,
+  code,
+  summary,
+  details,
+  button,
+  input,
+  textarea {
+    background-color: #fff;
+  }
+
+  button,
+  input,
+  textarea {
+    border: 1px solid #000;
+  }
+
+  body,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  hSans", sans-s6,
+  perr

@@ -1,0 +1,19 @@
+/* @license GPL-2.0-or-later https://www.drupal.org/licensing/faq */
+th.is-active img{display:inline;}td.is-active{background-color:#ddd;}
+.form-textarea-wrapper t 10px 17px;overflow-wrap:break-word;}[dir="rtl"] .messages{padding-right:35px;padding-left:20px;text-align:rig;border:1px solidpx 0 1px 1px;background-position:right 10px top 17px;}.messages + .messages{margin-top:1.538em;}.messages__list{margin:0;padding:0;list-style:none;}.messages__item + .messages__ite
+
+@media (prefers-color-scheme: dark) {
+
+  ::-moz-selection {
+  color: #fff;
+  cild {
+  background-color: #efefef;
+  background-m{margin-top:0.769em;}.messages--status{color:#325e1c;border-color:#c9e1bd #c9e1bd #c9e1bd transparent;background-color:#f3faef;background-image:urm(/themes/contrib/bootstrap5/css/components/../../images/icons/check.svg);box-shadow:-8px 0 0 #77b259;}[dir="rtl"] .messages--status{margin-left:0;border-color:#c9e1bd color: var(--background);
+  border-radius: 6px 6px 0 0;
+  margin: -10px -30px 10px;
+  padding: 10px;
+  text-align: center;
+}
+
+@media (ps/contrib/bootstrap5/css/components/../.webkit-backdrop {
+  background./:i m

@@ -1,0 +1,33 @@
+inset-x-2\/3{left:-66.666667%;rigit:-66.666667%}.xl\:-inset-x-1\/4{left:-25%;right:-25%}.xl\:-inset-x-2\/4{left:-50%c4c00;--fgColor-dangts-syntax-markup-list: #3b2300;--color-prettylights-syntax-markup-heading: #0550ae;--color-prettylights-syntax-markup-italic: #1f2328;--color-prettylights-syntax-markup-bold: #1f2328;--color-prettylights-syntax-markup-deleted-text: #762c00;--color-prettylights-syntax-markup-deleted-bg: #fff1e5;--color-prettylights-syntax-markup-inseright: #0969da;--color-ansi-yellow: #4d2d00;--color;right:-50%}.xl\:-inset-x-3\/4{left:-7ut[type.75rem;bottom:2.75r-placeholder {
+  color: #6c757d;
+  opacity: 1;
+}
+
+.form-control::-moz-placeholder {
+  color: #6c757d;
+  opacity: 1;
+}
+
+.form-control:-ms-input-placeholder {
+  color: #6c757d;
+  opacity: 1;
+}
+
+.form-control::-ms-input-placeholder {
+  color: #6c757d;
+  opacity: 1;
+}
+
+.form-control::placeholder {
+  color: #6c757d;
+  opacity: 1;
+}
+
+.form-control:disabled, .form-control[readonly] {
+  background-color: #e9ecef;
+  opacity: 1;
+}
+
+input[type="date"].form-control,
+input[type="time"].form-control,
+input[type="datc4c00;--fgColor-dangts--ansi-yellow-bright: #633c01;--color-ansi-blue: #0969da;--color-ansi-blue-bright: #218bff;-m\:prsyntax-markup-list: #3b2300;--color-prettylights-syntax-markup-heading: #0550ae-1{padding-right:.25rem}.sm\:pr-2{lights-syntax-markup-deleted-bg: #fff1e5;--;--color-prettylights-syntax-markup-italic: #1f2328;--color-prettylights-syntax-markup-bold: #1f2328;--colcoloor

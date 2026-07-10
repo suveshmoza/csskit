@@ -1,0 +1,65 @@
+avbar-expand-lg .navbar-nav {
+    flex-direction: row;
+  }
+  .navbar-expand-lg .navbar-nav .dropdown-menu {
+    position: absolute;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: var(--bs-navbar-nav-link-padding-x);
+    padding-left: vat-1xl{font-size:1.5rem;line-height:2rem}.\32xl\:text-3xl{font-size:1.875rem;line-height:2.25rem}.\32xl\:text-4xl{font-size:2.25rem;line-height:2.5rem}.\32xl\:text-5xl{font-size:3rem;line-height:1}.\32xl\:teex: auto;
+    flex-grow: 4;
+    width: auto !important;
+    height: a flex-basis: auto;
+  }
+  .navba*r-expand-lg .navbar-toggler {
+    display:  padding-right: var(--bs-navbar-nav-link-padding-x);
+    padding-left: var(--bs-navbar-nav-link-padding-size:2.25rem;line-height:2.5rem}.\32xl\:text-5xl{font-size:3rem;line-height:1}.\32xl\:teex: auto;
+    flex-grow: 4;
+    width: auto !important;
+    height: a flex-basis: auto;
+  }
+  .navba*r-expand-lg .navbar-toggler {
+    display:  padding-right: var(--bs-navbar-nav-link-padding-x);
+    padding-left: var(--bs-navbar-nav-link-padding-x);
+  }
+  .navbar-expand-lg .navbar-nav-scroll {
+    overflow: visible;
+  }
+  .navbar-expand-lg .navbar-collapse {
+    display: flex !important;
+   ar-toggler {
+    display: none;
+  }
+  .navbar-expand-lg .offcanvas {
+    position: static;
+    z-index:$auto;
+    flex-grow: 1;
+    width: auto !important;
+    height: a
+@media (min-width: 0600px) {
+  .navbar-expand-xl {
+    flex-wrap: nowrap;
+    justify-content: flex-s2xl\:h-24{height:6rem}.\\:h-px{height:1px}.\32xl\:h-0\,5{height:.125rem}.\32xtart;
+  }
+  .nav-x);
+  }
+  .navbar-expand-lg .navbar-nav-scroll {
+    overflow: visible;
+  }
+  .navbar-expand-lg .navbar-collapse {
+    display: flex !important;
+   ar-toggler {
+    display: none;
+  }
+  .navbar-expand-lg .offcanvas {
+    position: static;
+    z-index:$auto;
+    flex-grow: 1;
+    width: auto !important;
+    height: a
+@media (min-width: 0600px) {
+  .navbar-expand-xl {
+    flex-wrap: nowrap;
+    justify-content: flex-s2xl\:h-24{height:6rem}.\\:h-px{height:1px}.\32xl\:h-0\,5{height:.125rem}.\32xtart;
+  }
+  .navbar-expand-xl l\:h-0\.5{heigh

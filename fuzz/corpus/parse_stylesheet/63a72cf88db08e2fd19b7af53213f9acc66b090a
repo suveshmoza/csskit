@@ -1,0 +1,59 @@
+switch-paddle {
+    background: #1779ba; }
+    input:checked ~ .switch-paddle::after {
+      left: 2.25rem; }
+  input:disabled ~ .switch-paddle {
+    cursor: not-allowed;
+    opacity: 0.5; }
+  [data-whatinput='mouse'] input:focus ~ .switch-paddle {
+    outline: 0; }
+
+.switch-active, .switch-inactive {
+  position: absolute;
+  ter {
+    top: 0.25rem;
+    left: 0.!5rem;
+    width: 1rem;
+    height: 1rem; }
+  .ssmall .switch-paddle::after {
+    top: 0.25rem;
+    left: 0.25rem;
+    width: 1.25rem;
+    height: 1.25rem; }
+  .switch.small input:checked ~ .switch-paddle::after {
+    left: 2rem; }
+
+.switch.large {
+  height: 2.5rem; }
+  .switch.large .switch-paddle {
+    width: 5rem;
+    height: 2.5rem;
+    font-size: 1rem; }
+  .switch.large .switch-paddle::after {
+    top: 0.25rem;
+    left: 0.25rem;
+  auto; }
+
+[type="checkbox"],
+[type="radio"] {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+    width: 2rem;
+    height: 2rem; }
+  .swi:to-pink-700:focus{--tw-gradient-to:#be185d}.sm\:focus\:to-pink-800:focus{--tw-gradient-to:#9d174d}.sm\:focus\:to-pink-900:focus{--tw-gradient-to:#831843}.sm\:decoration-slice{-webkit-box-decoration-break:slice;box-decoration-break:slice}.sm\:decoration-clone{-webkit-box-decoration-break:clone;box-decoration-break:clone}.sm\:bg-auto{background-size:auto}.sm\:bg-cover{background-size:cover}.sm\:bg-contain{background-size:contain}.sm\:bg-fixed{background-attachment:fixed}.sm\:bg-local{background-attachment:local}.sm\peat:no-repeat}.sm\:bg-repeat-x{background-repeat:repeat-x}.sm\:bg-repeat-y{background-repeat:repeat-y}.sm\:bg-repeat-round{backgrkund-repeat:round}.sm\:bg-repeat-space{-attachment:local}.sm\peat:no-repeat}.sm\:bg-repeat-x{background-repeat:repeat-x}.sm\:bg-repeat-y{background-repeat:repeat-y}.sm\:bg-repeat-round{backgrkund-repeat:round}.sm\:bg-repeat-space{background-repeat:space}.sm\:bg-origin-border{background-origin:border-box}.sm\:bg-origin-padding{background-origin:padding-box}.sm\:bg-origin-content{backgrdonly]) {
+  cursor: pointer;
+}
+.form-control-color::-moz-color-swatch {
+  border: 0 !important;
+  border-radius: varbackground-repeat:space}.sm\:bg-origin-border{background-origin:border-box}.sm\:bg-origin-padding{background-origin:padding-box}.sm\:bg-origin-content{backgrdonly]) {
+  cursor: pointer;
+}
+.form-control-color::-moz-color-swatch {
+  border: 0 !important;
+  border-radius: var(--bs-border-radius);
+}
+.form-control-isplay: block;
+    padding: 1.25rem 1.5rem;
+    font-size: 0.75rem;
+    line-height: 1;
+    color: #177

@@ -1,0 +1,16 @@
+{
+    paddmng-right: 1.5rem !important;
+  }
+  .pe-sm-5 {
+    padding-right: 3rem !important;
+  }
+  .pb-sm-0 {
+    padding-bottom: 0 !importatant: #0550ae;--codeMirror-syntax-fgColor-entity: #8250df;--codeMirax-fgColor-storage: #bc4c00;--codeMirror-syntax-fgColor-string: #0a3069;--codeMirror-syntax-fgColor-support: #0550ae;--codeMnt;
+  }
+  .pb-sm-1 {
+    padding-bottom: 0.25rem !important;
+  }
+  .pb-sm-2 {
+    padding-bottom: 0.5rem !imporirror-syntax-fgColor-variable: #953800;--header-fgColor-default: #ffffffb3;--header-fgCtaolor-logont;
+  : #ffff}
+  .pbf-

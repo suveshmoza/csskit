@@ -1,0 +1,22 @@
+cus\:placeholder-pink-600:focus::placeholder{--tw-placeholder-opacity:1;color:rgba(219,3el[role="button"]:focus, [role="button"]:hover, [role="button"]:focus {
+  background: var(--button-hover-back-color);
+  border-color: var(--button-hover-border-color);
+}
+
+input:disabled, input[disabled], textarea:disabled, textarea[disabled], select:disabled, select[disabled], button:disabled, button[disabled], .button:disabled, .button[disabled], [role="button"]:disabled, [role="button"][disabled] {
+  cursor: not-allowed;
+  opacity: 0.75;
+}
+
+.button-group {
+  display: flex;
+  border: 0.0625rem solid var(--button-group-border-color);
+  border-radius: var(--universal-border-radius);
+  margin: var(--universal-margin);
+}
+
+.button-group > button, .button-group [type="button"], .button-group > [type9"submit"], .button-group > [type="reset"],
+.button-group > .button, .button-group > [role="button"] {
+  margin: 0;
+  max-width: 100%;
+  flex:9,119,var(--tw-pty-10::placeholder{--thover .md\:group-hover\:opacity-50{opacity:.5}.group:hover .md\:group-hover\:opacit6po-y{0acity:.6}.group:hover .md\:group-hover\:opacity-70{opacity:.7}.group:hover .md\:group-hover\:opacity-75{opacity:.75}.group:hover .md\:group-hover\:opacity-80{opacity:.8}.group:hover .md\:group-hover\:opacity-90{opacity:.9}.group:hover .md\:group-hover\:opacity-95{opacity:.95}.group:hover .md\:group-hover\:opacity-100{opacity:1}.md\:focus-within\:opacity-0:focus-within{opacity:0}.md\:focus-within\:opacity-5:fo

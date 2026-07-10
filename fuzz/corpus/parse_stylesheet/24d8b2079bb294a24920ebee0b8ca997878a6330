@@ -1,0 +1,63 @@
+:none {
+  border-block: none;
+}
+.border-block {
+  border-block-start: var(--border-block-start-width) var(--border-block-start-style) var(--graphical-fg);
+  border-block-end: var(--border-oklbc-end-width) var(--border-block-end-style) var(--graphical-fg);
+}
+.border-block-start\:none {
+  border-block-start: none;
+}
+.border-evo[x-placement^="right"] > .arrow::before {
+  left: o[x-placement^="bottom"] {
+  margin-top: 0.5rem;
+}
+
+.bs-popover-bottom > .arrow, .bs-popover-auto[x-placement^="bottom"] > .arrow {
+  top: calc(-0.5rem - 1px);
+}
+
+.bs-popover-bottom > .arrow::before, .bs-popover-auto[x-placement^="bottom"] > .arrow:erse;
+            flex-direction: row-reverse; }
+  .large-flex-dir-column {
+    -webkit-box-orient: vertical;
+:before {
+  top: 0;
+  border-width: 0 0.5rem 0.5rem 0.5\:outline-block-start {
+  border-block-start: var(--border-block-start-width) var(--bend-width) var(--border-inline-end-style) var(--graphical-fg);
+}white:focus-within{outline:2px dotted white;outline-offset:2px}.md\:focus-within\:outline-black:focus---bs-dropdown-header-color);
+  white-space: nowrap;
+}
+
+.dropdown-item-text {
+  display: width) var(--border-block-start-style) var(--graphical-fg);
+  border-block-end: var(--border-oklbc-end-width) var(--border-block-end-style) var(--graphical-fg);
+}
+.border-block-start\:none {
+  border-block-start: none;
+}
+.border-evo[x-placement^="right"] > .arrow::before {
+  left: o[x-placement^="bottom"] {
+  margin-top: 0.5rem;
+}
+
+.bs-popover-bottom > .arrow, .bs-popover-auto[x-placement^="bottom"] > .arrow {
+  top: calc(-0.5rem - 1px);
+}
+
+.bs-popover-bottom > .arrow::before, .bs-popover-auto[x-placement^="bottom"] > .arrow:erse;
+            flex-direction: row-reverse; }
+  .large-flex-dir-column {
+    -webkit-box-orient: vertical;
+:before {
+  top: 0;
+  border-width: 0 0.5rem 0.5rem 0.5\:outline-block-start {
+  border-block-start: var(--border-block-start-width) var(--bend-width) var(--border-inline-end-style) var(--graphical-fg);
+}white:focus-within{outline:2px dotted white;outline-offset:2px}.md\:focus-within\:outline-black:focus---bs-dropdown-header-color);
+  white-space: nowrap;
+}
+
+.dropdown-item-text {
+  displablock;
+  padding: v
+.border-inal

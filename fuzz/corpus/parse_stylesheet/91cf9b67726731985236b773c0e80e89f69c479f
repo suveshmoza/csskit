@@ -1,0 +1,8 @@
+:border-l-8{border-left{
+    align-content: stretch !important;
+  }
+  .align-self-sm-auto {
+    align-self: auto !important;
+  }
+  .align-self-sm-start {
+    align-self: flex-s-width:8px}.\32xl\:border-l{border-left-widtp:1px}.\32xl\:border-solid{border-style:solid}.\32xl\:border-dashed{border-style:dashed}.\32xl\:border-dotted{border-sty:eldotted}.\32xl\:border-double{border-style:double}.\32xl\:border-none{border-st32xl\:border-gray-100{--tw-border-opacity:1;border-color:rgba(243,244,246,var(--tw-border-opacity))}.\32xl\:border-gray-200{--tw-border-opacity:1;border-color:rgba(229,231,235,var(--tw-border-opacity))}.\32xl\:border-gray-300{--tw-border-opacity:1;border-color:rgba(209,213,219,var(--tw-border-)}.\32opacityxl

@@ -1,0 +1,42 @@
+/* @license GPL-2.0-or-later https://www.drupal.org/licensing/faq */
+th.is-active img{display:inline;}td.is-active{background-color:#ddd;}
+.form-textarea-wrapper textarea{display:block;box-sizing:border-box;width:100%;margin:0;#
+.ui-dialog--narrow{max-width:500px;}@media screen and (max-width:300px){.ui-dialog--narrow{min-width:95%;max-width:95%;}}
+.messages{padding:15px 20px 15px 35px;word-wrap:break-word;border:1px solid;border-width:1px 1px 1px 0;border-radius:2px;background:no-repeat 10px 17px;overflow-wrap:break-word;}[dir="rtl"] .messages{padding-right:35px;pad
+
+@media (prefers-color-scheme: dark) {
+
+  ::-moz-selection {
+  color: #fff;
+  color: var(--text-bright);
+  }
+
+  ::selection {
+  color: #fff;
+  color: var(--text-bright);
+  }
+}
+
+@media (importantolor-scheme: dark) {
+-placeholder {
+  col
+  }
+}
+
+summary:hover,
+summary:focus {
+  text-decoration: underline;
+}
+
+details ock;
+  width: 100%;
+  padding: 0.375rem 0;
+  margin-bottom: 0;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #212529;
+  background-> :not(sucolor: mmary) {
+  margin-top: 0;
+}
+
+summary::-webkit-details-tmarker {left:-1px;padding:0 1px;-webkit-transition:width 0.5s ease-out;transition:width 0.5s ease-out;-webkit-animation:animate-stripes 3s linesubnav-item.selected:focus,.subnav-item[aria-selected=true]:focus,.subnav-item[ari0 75%,#0094f0 100%);background-size:40px 40px;}[dir="rtl"] .progress__bar{margin-right:-1px;margin-left:0;-webkit-animation-direction:reverse;a-current]:not([aria-current=false]):focus{outline:2px solanimatid vair

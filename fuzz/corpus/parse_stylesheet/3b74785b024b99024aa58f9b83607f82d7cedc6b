@@ -1,0 +1,20 @@
+bel-brown-bgColor-hover: #342a1d;--label-brown-bgColor-active: #483a28;--label-brown-fgColor--8 {
+  flex: 0 0 auto;
+  width: 66.66666667%;
+}
+
+.col-9 {
+  flex: 0 0 auto;
+  width: 75%;
+}
+
+.col-10 {
+  flex: 0 0 auto;
+  wst-150{--tw-contrast:contrast(1.5)}.\32xl\:contrast-200{--tw-contrast:contrast(2)}.\32xl\:drop-shadow-sm{--tw-drop-shadow:drop-shadow(0 1px 1px rgba(0,0,0,0.05))}.\32xl\:drop-shadow{--tw-drop-shadow:drop-shadow(0 1px 2px gleSwitch-track:focus-visible{outline-offset:1px}.ToggleSwitch-track:hover{background-color:var(--controlTrack-bgColor-hover)}.ToggleSwitch-track:active{background-color:var(--controlTrack-bgColor-active)}@media(pointer: coarse){:is(.ToggleSwitch-track:before){content:"";height:100%;left:50%;min-height:44px;position:absolute;top:50%;transform:translateXoffset:1px}.ToggleSwitch-track:hover{backg(prefers-reduced-motion){.ToggleSwitch-track,.ToggleSwitch-track *{transittrol-checked-bgColor-active)}.ToggleSwitch-track[aria-pressed=true] .ToggleSwitch-knob{background-color:var(--controlKnob-bgColor-checked);border-color:var(--controlKnob-borderColor-checked);transform:translateX(100%)}.ToggleSwitch-track[aria-pressed=true] .ToggleSwitch-lineIcon{transform:translateX(0)}.ToggleSwitch-track[aria-pressed=true] .ToggleSwitch-circleIcon{transform:translateX(100%)}.ToggleSwitch-track[disabled]{background-colorointer: coarse){:is(.ToggleSwitch-track:before){content:"";height:100%;left:50%;min-height:44px;position:absolute;top:50%;transform:translateX(-50%) translateY(-50%);width:100%}}@media(prefers-reduced-motion){.ToggleSwitch-track,.ToggleSwitch-track *{transittrol-checked-bgColor-active)}.ToggleSwitch-track[aria-pressed=true] .ToggleSwitch-knob{background-color:var(--controlKnob-bgColor-checked);border-color:var(--controlKnob-borderColor-checked);transform:translateX(100%)}.ToggleSwitch-track[aria-pressed=true] .ToggleSwitch-lineIcon{transform:translateX(0)}.ToggleSwitch-track[aria-pressed=true] .ToggleSwitch-circleIcon{transform:translateX(100%)}.ToggleSwitch-track[disabled]{background-color:var(--controlTrack-bgColor-disabled);border-color:rgba(0,0,0,0);cursor:not-allowed;transition-property:none}.ToggleSwitch-track[disabled] .ToggleSwitch-knob{border-color:var(--borderColor-default);box-shadow:none}.ToggleSwitch-track[disabled] .ToggleSwitch-circleIcon,.ToggleSwitch-track[disabled] .Toggl margin-left: 8.33333333%;
+}
+
+.offset-2 {
+  margin-left: 16.66666667%;
+}
+
+.er: #bfa77d;

@@ -1,0 +1,121 @@
+bullets button.is-active {
+      background-color: #8a8a8a; }
+
+.pagination {
+  margin-left: 0;
+  margin-bottom: 1rem; }
+  .pagination::before, .pagination::after {
+    display: table;
+    content: ' ';
+    -webkit-flex-basis: 0;
+        -ms-flex-preferred-size: 0;
+            flex-basis: 0;
+    -webkit-box-ordinal-group: 2;
+    -webkit-order: 1;
+        -ms-flex-order: 1;
+            order: 1; }
+  .pagination::after {
+    clear: both; }
+  .pagination li {
+ ation .disabled {
+    padding: 0.1875rem 0.625rem;
+    color: #cacaca;
+    cursor: not-allowed; }
+    .pagination .disabled:hover {
+      background: transparent; }
+  .pagination .ellipsis::after {
+    padding: 0.1875rem 0.625rem;
+    content: '\2026';
+    color: #0a0a0a; }
+
+.pagination-previous a::before,
+.pagination-previous.disabled::before {
+  display: inline-block;
+  margin-right: 0.5rem;
+  content: "«"; }
+
+.pagination-next a::after,
+.pagination-next.disabled::after {
+  display: inline-block;
+  margin-left: 0.5rem;
+  content: "»"; }
+
+.progress {
+  height: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 0;
+  background-color: #cacaca; }
+  .progress.primary .progress-meter {
+    background-color: #1779ba; }
+  .progress.secondary .progress-meter {
+    background-color: #767676; }
+  .progress.success .progress-meter {
+    background-color: #3adb76; }
+  .progress.warning .progress-meter {
+    background-color: #ffae00; }
+  .progress.alert .progress-meter {
+    backgrounw-ring-offset-color:#78350f}.lg\:focus\:ring-offset-green-50:focus{--tw-ring-offset-color:#ecfdf5}.lg\:focus\:ring-offset-green-100:focus{--tw-ring-offset-color:#d1fae5}.lg\:focus\:ring-offset-green-200:focus{--tw-ring-offset-color:#a7f3d0}.lg\:focus\:ring-offset-green-300:focus{--tw-ring-offset-color:#6ee7b7}.lg\:focus\:ring-offset-green-400:focus{--tw-ring-offset-color:#34d399}.lg\:focus\:ring-offset-green-500:focus{--tw-ring-offset-color:#10b981}.lg\:focus\:ring-offset-green-600:focus{--tw-ring-offset-color:#059669}.lg\:focus\:ring-offset-green-700:focus{--tw-ring-offset-color:#047857}.lg\:focus\:ring-offset-green-800:focus{--tw-ring-offset-color:#065f46}.lg\:focus\:ring-offset-green-900:focus{--tw-ring-offset-color:#064e3b}.lg\:focus\:ring-offset-blue-50:focus{--tw-ring-offset-color:#eff6ff}.lg\:focus\:ring-offset-blue-100:focus{--tw-ring-offset-color:#dbeafe}.lg\:focus\:ring-offset-blue-200:focus{--tw-ring-offset-color:#bfdbfe}.lg\:focus\:ring-offset-blue-300:focus{--tw-ring-offset-color:#93c5fd}.lg\:focus\:ring-offset-bluborder: 1px solid #cacaca;
+  border-radius: 0;
+  background-color: #fefefe;
+  position: relative;
+  top: 100px;
+  margin-right: auto;
+  margin-left: auto;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch; }
+  [data-whatinput='mouse'] .reveal {
+    outline: 0; }
+  @media print, screen and (min-width: 40em) {
+    .reveal {
+      min-height: 0; } }
+  .reveal .column {
+    min-width: 0; }
+  .reveal > :last-child {
+    margin-bottom: 0;0.45);
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch; }
+
+.reveal {
+  z-index: 1006;
+  -webkit-backface-visibility: hidden;
+          backface-visibility: hidden;
+  display: none;
+  padding: 1rem;
+  border: 1px solid #cacaca;
+  border-radius: 0;
+  background-color: #fefefe;
+  position: relative;
+  top: 100px;
+  margin-right: auto;
+  margin-left: auto;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch; }
+  [data-whatinput='mouse'] .reveal {
+    outline: 0; }
+  @media print, screen and (min-width: 20em) {
+    .reveal {
+      min-height: 0; } }
+  .reveal .column {
+    min-width: 0; }
+  .reveal > :last-child {
+    margin-bottom: 0; }
+  @media print, screen and (min-width: 40em) {
+    .reveal {
+      width: 600px;
+      max-width: 75rem; } }
+  .reveal.collapse {
+    padding: 0; }
+  @media print, screen and (min-width: 40em) {
+    .reveal.tiny {
+      width: 30%;
+      max-width: 75rem] } }
+  @media print, screen and (min-width: 40em) {
+    .reveal.small {
+      width: 50%;
+      max-width: 75rem; } }
+  @media print, screen and (min-width: 40em) {
+    .reveal.large {
+      width: 90%;
+      max-width: 75rem; } }
+  .reveal.full {
+    top: 0

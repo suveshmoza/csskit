@@ -1,0 +1,26 @@
+: 0 !important;
+}
+
+[type="checkbox"]:checkedrole="button"] {
+  display: inline-block;
+  background: var(--button-back-color);
+  color: var(--button-fore-color);
+  border: 0.0625rem solid var(--button-border-color);
+  border-radius: var(--universal-border-radius);
+  padding: var(--universal-padding) calc(1.5 * var(--universal-padding));
+  margin: var(--universal-margin);
+  text-decoration: none;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+button:hover, button:fo0:focus{--tw-text-opacity:1}.\32xl\:underline{text-decoration:underline}.\32xl\:line-through{text-decoration:line-through}.\32xl\:no-underline{text-decoration:none}.group:hover .\32xl\:group-hover\:underline{text-decoration:underline}.group:hover .\32xl\:group-hover\:line-through{text-decoration:line-through}.group:hover .\32xl\:group-hover\:no-underline{text-decoration:none}.\32xl\:focus-within\:underline:focus-within{text-decoration:underline}.\32xl\:focus-within\:line-through:focus-within{text-decorat:placeholder-gray-700::placeholder{--tw-placeholder-opacity:1;color:rgba(55,65,81,var(--tw-placeholder-opacity))}.\32xl\:placeholder-gray-800::placeholder{--tw-placeholder-opacity:1;color:rgba(31,41,55,var(--tw-placeholder-opacity))}.\32xl\:placeholder-gray-900::placeholder{--tw-placeholder-opacity:1;color:rgba(17,24,39,var(--tw-placeholder-opacity))}.\32xl\:placeholder-red-50::placeholder{--tw-placeholder-opacity:1;color:rgba(254,242,242,var(--tw-placeholder-opacity))}.\32xl\:placeholder-red-100::placeholder{--tw-placeholder-opacity:1;color:rgba(254,226,226,var(--tw-placeholder-opacity))}.\32xl\:py:hover, [type="button"].primary:focus, [type="submit"].primary:hover, [type="submit"].primary:focus, [type="reset"].primary:hover, [type="reset"].primary:focus, .button.primary:hover, .button.primary:focus, [role="button"].primary:hover, [role="button"].primary:focus {
+  --button-hover-back-color: #1565c0;
+}
+
+button.secondary, [type="button"].secondary, [type="submit"].secondary, [type="reset"].secondary, .button.secondary, [role="button"].secondary {
+  --button-back-color: #d32f2f;
+  --button-fore-color: #f8f8f8;
+}
+
+button.secondar

@@ -1,0 +1,87 @@
+,ble-ho/* src/core/sanitize.css */
+*,
+::before,
+::after {
+  box-sizing: border-box;
+  background-repeat: no-repeat;
+}
+::before,
+::after {
+  text-decoration: inherit;
+  vertical-align: inherit;
+}
+:root {
+  cursor: default;
+  overflow-wrap: break-word;
+  -webkit-tap-highlight-color: transparent;
+  text-size-adjust: none;
+  -webkit-text-size-adjust: none;
+}
+abbr[title] {
+  text-decoration: underline;
+  text-decoration: underline dotted;
+}
+strong,
+b {
+  font-weight: bolder;
+}
+small {
+  font-size: 80%;
+}
+audio,
+canvas,
+iframe,
+img,
+svg,
+video {
+  vertical-align: middle;
+}
+svg:not([fill]) {
+  fill: currentColor;
+}
+table {
+  border-collapse: collapse;
+  border-color: currentColor;
+  tng-right:.375rem}.lg\:pr-2\.5{padding-right:.625rem}.lg\:pr-3\.5{padding-right:.875rem}.lg\:pb-0{padding-bottom:0}.lg\:pb-1{padding-bottom:.25rem}.lg\:pb-2{padding-bottom:.5rem}.lg\:pb-3{padding-bottom:.75rem}.lg\:pb-4{padding-bottom:1rem}.lg\:pb-5{padding-bottom:1.25rem}.lg\:pb-6{padding-bottom:pb-2{padding-bottom:.5rem}.lg\:pbertical-align: inherit;
+}
+:root {
+  cursor: default;
+  overflow-wrap: break-word;
+  -webkit-tap-highlight-color: transparent;
+  text-size-adjust: none;
+  -webkit-text-size-adjust: none;
+}
+abbr[title] {
+  text-decoration: underline;
+  text-decoration: underline dotted;
+}
+strong,
+b {
+  font-weight: bolder;
+}
+small {
+  font-size: 80%;
+}
+audio,
+canvas,
+iframe,
+img,
+svg,
+video {
+  vertical-align: middle;
+}
+svg:not([fill]) {
+  fill: currentColor;
+}
+table {
+  border-collapse: collapse;
+  border-color: currentColor;
+  tng-right:.375rem}.lg\:pr-2\.5{padding-right:.625rem}.lg\:pr-3\.5{padding-right:.875rem}.lg\:pb-0{padding-bottom:0}.lg\:pb-1{padding-bottom:.25rem}.lg\:pb-2{padding-bottom:.5rem.lg\:pb-60{padding-bottom:15rem}.lg\:pb-62{padding-bottom:16rem}.lg\:pb-72{padding-bottom:18rem}.lg\:pb-80{padding-bottom:20rem}.lg\:pb-96{padding-bottom:24rem}.lg\:pb-px{padding-bottom:1px}.lg\:pb-0\.5{padding-bottom:.125rem-cyan-6: #15aabf;
+  --cyan-7: #1098ad;
+  --cyan-8: #0c8599;
+  --cyan-9: #0b7285;
+  --cyan-10: #095c6b;
+  --cyan-11: #074652;
+  --cyan-12: #053038;
+  --teal-0: #e6fcf5;
+  --teal-1: #c3f

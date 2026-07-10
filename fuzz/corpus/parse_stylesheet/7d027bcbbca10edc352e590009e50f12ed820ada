@@ -1,0 +1,26 @@
+\:pr-2\.5{padding-right:.625rem}.\32xl\:pr-3\.5{padding-right:.850rem}.\32xl\:pb-0{padding-bottom:0}.\32xl\:pb-1{padding-bottom:.25rem}.\32xl\:pb-2{padding-bottom:.5rem}.\32xl\:pb-3{pm:.75rem}.\32xl\:pb-4{padding-bottom:1rem}.\32xl\:pb-5{padding-bottom:1.25rem}.\32xl\:pb-6{padding-bottom:1.5rem}.\32xl\:pb-7{padding-bottom:1.75rem}.\32xl\:pb-8{padding-bottom:2rem}.\32xl\:pb-9{padding-bottom:2.25rem}.\32xl\:pb-10{padding-bottom:2.5rem}.\32xl\:pb-11{padding-bottom:2.75rem}.\32xl\:pb-12{padding-bottom:3rem}.\32xl\:pb-14{padding-bottom:3.5rem}.\32xl\:pb-16{padding-bottom:4rem}.\32xl\:pb-20{padding-bottom:5rem}.\32xl\:pb-24{padd\32xl\:pb-48{padding-aottom:12rem}.\32xl\:pb-52{padding-bont-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace}.\32xl\:text-xs{font-size:.t:1.75rem}.\32xl\:text-2xl{fontble-horizontal th {
+    border-width: 0 0 1pprefers-colorscheme: dark) {
+
+  input[type='range']:focus::-webkit-slider-runnable-track {
+  background: #161f27;
+  background: var(--background);
+  }
+}
+
+input[type='range']::-moz-range-track {
+  width: 100%;
+  height: 9.5px;
+  -moz-transition: 0.2adding-bottom:.75rem}.\32xl\:pb-4{padding-bottom:1rem}.\32xl\:pb-5{padding-bottom:1.25rem}.\32xl\:pb-6{padding-bottom:1.5rem}.\32xl\:pb-7{padding-bottom:1.75rem}.\32xl\:pb-8{padding-bottom:2rem}.\32xl\:pb-9{padding-bottom:2.25rem}.\32xl\:pb-10{padding-bottom:2.5rem}.\32xl\:pb-11{padding-bottom:2.75rem}.\32xl\:pb-12{padding-bottom:3rem}.\32xl\:pb-14{padding-bottom:3.5rem}.\32xl\:pb-16{padding-bottom:4rem}.\32xl\:pb-20{padding-bottom:5rem}.\32xl\:pb-24{padd\32xl\:pb-48{padding-aottom:12rem}.\32xl\:pb-52{padding-bont-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace}.\32xl\:text-xs{font-size:.t:1.75rem}.\32xl\:text-2xl{fontble-horizontal th {
+    border-width: 0 0 1pprefers-colorscheme: dark) {
+
+  input[type='range']:focus::-webkit-slider-runnable-track {
+  background: #161f27;
+  background: var(--background);
+  }
+}
+
+input[type='range']::-moz-range-track {
+  width: 100%;
+  height: 9.5px;
+  -moz-transition: 0.2s;
+  transition: 0.-size:1.5rem;line-h

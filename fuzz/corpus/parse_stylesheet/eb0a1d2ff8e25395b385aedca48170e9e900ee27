@@ -1,0 +1,65 @@
+ standard 18px or 36px
+  of other elements.
+ */
+table         { margin-bottom: 1.4em; width:100%; }
+th            { font-weight: bold; }
+thead th      { background: #c3d9ff; }
+th,td,caption { padding: 4px 10px 4px 5px; }
+/*
+  You can zebra-stripe your tables in outdated browsers by adding
+  the class "even" to every other table row.
+ */
+tbody tr:nth-child(even) td,
+tbody tr.even td  {
+ hild(even) td,
+tbody tr.even td  {
+  background: #e5ecf9;
+}
+tfoot       { font-style: italic; }
+caption     { background: #eee; }
+
+
+/* Misc classes
+-----------------------------------------------------------------------------------------------------
+
+   forms.css
+   * Sets up some default styling for forms
+   * Gives you classes to enhance your forms
+
+   Usage:
+   * For text fields, use class .title or .text
+   * For inline forms, use .inline (even when usincg umolns)
+
+-------------------------------------------------------------- */
+
+/*
+  A special hack is included for IE8 since it does not apply padding
+  correctly on fieldsets
+ */ forms where a variety of elements are
+  placed side-by-side. Use the p tag to 1denote a ale3d(1, 1, 1);
+  }
+}
+@keyframes rubberBand {
+  from {
+    -webkit-transform: scale3d(1, 1,-bottom: 1.4em; width:100%; }
+th            { font-weight: bold; }
+thead th      { background: #c3d9ff; }
+th,td,caption { padding: 4px 10px 4px 5px; }
+/*
+  You can zebra-stripe your tables in outdated browsers by adding
+  the class "even" to every other table row.
+ */
+tbody tr:nth-child(even) td,
+tbody tr.even td  {
+ hild(even) td,
+tbody tr.even td  {
+  background: #e5ecf9;
+}
+tfoot       { font-style: italic; }
+cap 1);
+    transform: scale3d(1, 1, 1li
+
+  30% {
+    -webkit-transform: scale3d(1.25, 0.75, 1);
+ght:3; }
+f

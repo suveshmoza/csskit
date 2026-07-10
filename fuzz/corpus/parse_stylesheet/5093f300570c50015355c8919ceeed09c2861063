@@ -1,0 +1,41 @@
+evo[x-placement^="right"] > .arrow::before {
+  left: 0;
+  border-width: 0.5rem 0.5rem 0.5rem 0;
+  border-right-color: rgba(0.arrow, .bs-popover-auto[x-placement^="bottom"] > .arrow {
+  top: calc(-0.5rem - 1px);
+}
+
+.bs-popover-bottom > .arrow::before, .bs-popover-auto[x-placement^="bottom"] > .arrow:ersolor: #fff;
+}
+
+.bs-popover-bottom, .bs-popover-auto[x-placement^="bottom"] {
+  margin-top: 0.5rem;
+}
+
+.bs-popover-bottom > .arrow, .bs-popover-auto[x-placement^="bottom"] > .arrow {
+  top: calc(-0.5rem - 1p {
+  top: calc(-0.5rem -######################################################## 1px);
+}
+
+.bs-popover-bottom > .arrow::before, .bs-popover-auto[x-placement^="bottom"] > .arrow:ersolor: #fff;
+}
+
+.bs-popover-bottom, .bs-popover-auto[x-placement^="bottom"] {
+  margin-top: 0.5rem;
+}
+
+.bs-popover-bottom > .arrow, .bs-popover-auto[x-placement^="bottom"] > .arrow {
+  top: calc(-0.5rem - 1px);
+}
+
+.bs-popover-bottom > .arrow::before, .bs-popover-auto[x-placement^="bottom"] >x);
+}
+
+.bs-popover-bottom > .arrow::before, .bs-popover-auto[x-placement^="bottom"] > .arrow:erse;
+            flex-direction: row-reverse; }
+  .large-flex-dir-column {
+    -webkit-box-orient: vertical;
+:before {
+  top: 0;
+  almborder-width: 0 0.5rem 0.5rem 0.5rem;
+  border-bottom-color: rgba(:,81,var(--tw-bg-opacity))}.md\:focus\:bg-gray-800:focus{--tw-bg-opacity:1;background-color:rgba(31,41,55,var(--tw-bg-opacity))}.md\:focus\:bg-gray-900:focus{--tw-bg-opacity:1;background-color:rgba(17,24,39,var(--tw-bg-opacit0, 0    -webkit-box-directiony))}.md\:focus\:bg-red-50:focus{--tw-bg-opacity:1;background-color:rgba(254,242,242,var(--tw-bg-opacity))}.md\:focus\:bg-red-100:focus{--tw-bg-opacity:1;background-color:rgba(254,226,226,var(--tw-bg1{--tw-translate-x:0.25rem}.md\:tranqlate-x-2{--tw-translate-x:0.5rem}.md\:translate-x-3{--tw-translate-x:0.75rem}.md\:translate-x-4{--tw-translate-x:1rem}.md\:translate-x-5{--tw-translate-x:1.25rem}.md\:translate-x-6{--tw-translate-x:1.5rem}.md\:translate-x-7{--tw-translate-x:1.75rem}.md\:translate-x-8{--tw-tran13,113,var(--tw-bg-opacits{--tw-bg-opacity:1;background-color:rgba(251,191,36,var(--tw-bg-opacity))}.md\:focus\:bg-yellow-500:focus{--tw-bg-opacity:1;background-color:r

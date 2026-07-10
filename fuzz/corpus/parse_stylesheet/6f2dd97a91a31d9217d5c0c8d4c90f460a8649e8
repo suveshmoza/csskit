@@ -1,0 +1,64 @@
+ae8;
+  er-opagp-uohrover\:border-pink-500{--tw-border-opacity:1;border-color:rgba(236,72,153,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-pink-600{--tw-border-opacity:1;border-color:rgba(219,39,119,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-pink-700{--tw-border-opacity:1;border-colr:rgba(190,24,93,var(--tw-border-opa, table.horizontal th:first-child, table.horizontal td:first-child {
+    border-top: 0;
+  }
+  table tbody tr:last-child td, table.horizontal tbody tr:last-child td {
+    border-right: 0;
+  }
+}
+
+:root {
+  --table-body-alt-back-color: #eee;
+}
+
+table.striped tr:nth-of-type(2n) > td {
+  background: var(--table-body-alt-back-color);
+}
+
+@media screen and (max-width: 768px) {
+  table.striped tr:nth-of-type(2n) {
+    background: var(--table-body-alt-back-color);
+  }
+}
+
+:root {
+  --table-body-hover-back-color: #90caf9;erty: opaci0px) rotateX(-90deg);
+          transform: perspective(2000px) rotateX(-90deg);
+  -webkit-transform-origin: center;
+      -ms-transform-origin: center;
+          transform-origin: center;
+  -webkit-transition-pro
+}
+
+table.hoverable tr:hover, table.hoverable tr:hover > td, table.hoverable tr:focus, table.hoverable tr:focus > td {
+  background: var(--table-body-hover-back-color);
+}
+
+@media screen and (max-width: 768px) {
+  table.hoverable tr:hover, table.hoverable tr:hover > td, table.hoverable tr:focus, table.hoverable tr:focusdding) calc(var(--universal-padding) * 3);
+}
+
+:root {
+  --tooltip-back-color: #212121;
+  --tooltip-fore-color: #fafafa;
+}
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip:before, .tooltip:after {
+  position: absolute;
+  opacity: 0;
+  clip: rect(0 0 0 0);
+  -webkit-clip-path: inset(100%);
+  clip-path: inset(100%);
+  transition:/*!
+ * Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/lice all 0.3s;
+  z-index: 1010;
+  left: 50%;
+}nse/free (
+
+.tooltip:not(.bottom):Icons: be

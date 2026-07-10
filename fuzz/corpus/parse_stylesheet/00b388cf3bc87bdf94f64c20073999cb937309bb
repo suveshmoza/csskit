@@ -1,0 +1,57 @@
+fset-indigo-600:focus{--tw-ring-offset-color:#4f46e5}.xl\:focus\:ring-offset-indigo-700:focus{--tw-ring-offset-color:#4338ca}.xl\:focus\:ring-offset-indigo-800:focus{--tw-ring-offset-color:#3730a3}.xl\:focus\:ring-offset-indigo-900:focus{--tw-ring-offset-color:#312e81}.xl\:focus\:ring-offset-purple-50:focus{--tw-ring-offset-color:#f5f3ff}.xl\:focus\:ring-offset-purple-100:focus{--tw-ring-offset-color:#ede9fe}.xl\:focus\:ring-offset-purple-200:focus{--tw-ring-offset-color:#ddd6fe}.xl\:focus\:ring-offset-purple-300:focus{--tw-ring-offset-color:#c4b5fd}.xl\:focus\:ring-offset-purple-400:fopink-300:focus{--tw-ring-offset-color:#f9a8d4}.xl\:focus\:ring-offset-pink-400:focus{--tw-ring-offse8b5cf6}.xl\:focus\:ring-offset-purple-600:focus{--tw-ring-offset-color:#7c3aed}.xl\:focus\:ring-offset-purple-700:focus{--tw-ring-offset-color:#6d28d9}.xl\:focus\:ring-offset-purple-800:focus{--tw-ring-offset-color:#5b21b6}.xl\:focus\:ring-offset-purple-900:focus{--tw-ring-offset-color:#4c1d95}.xl\:focus\:ring-offset-pink-50:focus{--tw-ring-offset-color:#fdf2f8}.xl\:focus\:ring-offset-pink-100:focus{--tw-ring-offset-color:#fce7f3}.xl\:focus\:ring-offset-pink-200:focus{--tw-ring-offset-color:#fbcfe8}.xl\:focus\:ring-offset-pink-300:focus{--tw-ring-offset-color:#f9a8d4}.xl\:focus\:ring-offset-pink-400:focus{--tw-ring-offset-color:#f472b6}.xl\:focus\:ring-offset-pink-, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:bar,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before,}.xl\:focus\:ring-offset-pink-200:focus{--tw-ring-offset-color:#fbcfe8}.xl\:focus\:ring-offset-pink-300:focus{--tw-ring-offset-color:#f9a8d4}.xl\:focus\:ring-offset-pink-400:focus{--tw-ring-offset-color:#f472b6}.xl\:focus\:ring-offset-pink-500:focus{--tw-ring-offset-color:#ec4899}.xl\:focus\:ring-offset-pink-600:focus{--tw-ring-offset-color:#db2777}.xl\:focus\:ring-offset-pink-700:focus{--tw-ring-offset-color:#be185d}.xl\:focus\:ring-offset-pink-800:focus{--tw-ring-offset-color:#9d174d}.xl.whitespace-pre-wrap{white-space:pre-wrap}.break-normal{overflow-wrap:normal;word-break:normal}.break-words{overflow-wrap:break-word}.break-all{word-break:break-all}.rounded-none{border-radius:0}.rounded-sm{border-radius:.125rem}.rounded{border-radius:.25rem}.rounded-md{border-radius:.375rem}.rshadow-md{--tw-drop-shadow:drop-shadow(0 4px 3px rgba(0, 0, 0, 0.07)) drop-shadow(0 2px 2px rgba(0, 0, 0, 0.06))}.xl\:drop-shadow-lg{--tw-drop-shadow:drop-shadow(0 10px 8px rgba(0, 0, 0, 0.04)) drop-shadow(0 4px 3px rgba(0, 0, 0, 0.1))}.xl\:drop-shadow-xl{--tw-drop-shadow:drop-shadow(0 20px 13px rgba(0, 0, 0, 0.03)) drop-shadow(0 8px 5px rgba(0, 0, 0, 0.08))}.xl\:drop-shadow-2xl{--tw-drop-shadow:drop-shadow(0 25px 25px rgba(0, 0, 0, 0

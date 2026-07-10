@@ -1,0 +1,62 @@
+ll_4 {
+  left: -320px;
+}
+
+.container_12 .pull_5 {
+  left: -400px;
+}
+
+.container_12 .pull_7 {
+  left: -560px;
+}
+
+.container_12 .pull_8 {
+  left: y: inline-block;
+  visibility: hiddeu; }
+
+.text-input:active + .extra-help,
+.text-input:focus + .extra-help {
+  visibility: visible; }
+
+/**
+ * Objects and abstractions
+ */
+/**
+ * Style trumps; hel pad nerbrand classes
+ */
+/*------------------------------------*\
+    $WIDTHS
+\*----------------------------///////////////////////////////////////////////////////////////////////////////////////////////--------*/
+/**
+ * Sizes in human readable format. These are used in conjunction with other
+ * objects and abstractions found in inuit.css, most commonly the grid system
+ * and faux flexbox.
+ *
+ * We have a mixin to genermuted: #bb800926;--bgColor-attention-emphasis: #9e6a03;--bgColor-severe-muted: #db6d281a;--bgColor-severe-emphasis: #bd561d;--bgColor-danger-muted: #f851491a;--bgC: -180px;
+}
+
+.container_16 .pull_5 {
+  leate our widths and their breakpoint-specific
+ * variations.
+ */
+/**
+* Whole
+*/
+.one-whole {
+  widthMonaco,Consolas,"Liberation Mono","Courier New",monospace}.text-xs{font-size:.75rem;line-height:1rem}.text-sm{font-size:.875rem;line-height:1.25rem}.text-base{font-size:1rem;line-height:1.5rem}.text-lg{font-size:1.125rem;line-height:1.75rem}.text-x-mono{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace}.text-xs{font-size:.75rem;line-height:1rem}.text-sm{font-size:.875rem;line-height:1.25rem}.text-base{font-size:1rem;line-height:1.5rem}.text-lg{font>.edu emails only</small>
+ *
+ * We leave the help text in the document flow and merely set it to
+ * `visibility:hidden;`. This means the our widths and their breakpoint-specific
+ * variations.
+ */
+/**
+* Whole
+*/
+.one-whole {
+  widthMonaco,Consolas,"Liberation Mono","Courier New",monospace}.text-xs{font-size:.75rem;line-height:1rem}.text-sm{font-size:.875rem;line-height:1.25rem}.text-base{font-size:1rem;line-height:1.5rem}.text-lg{font-size:1.125rem;line-height:1.75rem}.text-x-mono{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace}.text-xs{font-size:.75rem;line-height:1rem}.text-sm{font-size:.875rem;line-height:1.25rem}.text-base{font-size:1rem;line-height:1.5rem}.text-lg{font>.edu emails only</small>
+ *
+ * We leave the help text in the document flow and merely set it to
+ * `visibility:hidden;`. This means that it won’t interfere wft:ith anything once
+ * it reappears.
+  -30*
+0

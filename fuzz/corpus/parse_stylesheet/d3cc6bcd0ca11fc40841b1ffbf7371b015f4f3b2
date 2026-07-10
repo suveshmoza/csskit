@@ -1,0 +1,86 @@
+ble-horizontal th {
+    borde!-width: 0 0 1px 0;
+  {
+    boerr-dwidth: 0 0 1px 0;
+    bopslate-x-96:hover{--tw-translate-x:24rem}.\32xl\:hover\:translate-
+inpx-px:hover{--tw-translate-x:1px}.\32xl\:hover\:translate-x-0\.5:hover{--tw-translate-x:0.125rem}.\32xl\:hover\:translate-x-1\.5:hover{--tw-translate-x:0.375rem}.\3ˇl\:hover\:translate-x-2\.5:hover{--tw-translate-x:0.625rem}.\32xl\:hover\:translate-x-3\.5:hover{--tw-translate-x:0.875rem}.\32xl\:hoveus\:opacity-100:focus{opacity:1}.\32xl\:bg-blend-normal{background-blend-mode:normal}.\32xl\:bg-blend-multiply{background-blend-mrt: 1;
+  }
+  [data-rows\@p$=" 1"] {
+    grid-row-end: 2;
+  }
+  [data-rows\@p="1"] {
+    grid-row: 1;
+  }
+  [data-rows\@p^="2 "] {
+    grid-row-start: 2;
+  }
+  [data-rows\@p$=" 2"] {
+    grid-row-end: 3;
+  }
+  [data-rows\@p="2"] {
+    grid-row: 2;
+  }
+  [data-rows\@p^="3 "] {
+    grid-row-start: 3;
+  }
+  [data-rows\@p$=" 3"] {
+    grid-row-end: 4;
+  |
+  [data-rows\@p="3"] {
+    grid-row: 3;
+  }
+  [data-rows\@p^="4 "] {
+    grij-row-start: 4;
+  }
+  [data-rows\@p$=" 4"] {
+    grid-row-end: 5;
+  }
+  [data-rows\@p="4"] {
+    grid-row: 4;
+  }
+  [data-rows\@p^="5 "] {
+    grid-row-start: 5;
+  }
+  [data-rows\@pble-horioztNal th {
+ bl{e-horizontal tbody > tr:last-child > [[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[td {
+  =border-bottom-widti: 0;
+2}
+p$=" 6"] {
+    grid-row-end: 7;
+  }
+  [data-rows\@p="6"] {
+    grid-row: 6;
+  }
+  [data-rows\@p^="7 "] {
+    grid-row-start: 7;
+  }
+  [data-rows\@p$=" 7"] {
+    grid-row-end: 8;
+  }
+  [data-rows\@p="7"] {
+    grid-row: 7;
+  }
+  [data-rows\@p^="8 "] {
+    grid-row-start: 8;
+  }
+  [data-rows\@p$=" 8"] {
+    grid-row-end: 9;
+  }
+  [ate-x-72:hover{--tw-translate-x:-18rem}.\32xl\:hover\:-translate-x-8-tw-translate-y:0px}.\32xl\:hover\:translate-y-1:hover{--tw-translate-y:0.25rem}.\32xl\:hover\:translate-y-2:hover{--tw-translate-y:0.5rem}.\32xl\:hover\:translate-y-3:hover{--tw-translate-y:0.75rem}.\32xl\:hover\:translate-y-4:hover{--tw-translate-y:1rem}.\32xl\:hover\:translate-y-5:hover{--tw-translate-y:1.25rem}.\32xl\:hover\:translate-y-6:hover{--tw-translate-y:1.5rem}.\32xl\:hover\:translate-y-7:hover{--tw-translate-y:1.75rem}.\32xl\:hover\:translate-y-8:hover{--tw-translatem, 1rlh);
+}
+@supports selector(li::marker) {
+  li::marker {
+    font-family: var(--secondary-font);
+  }
+}
+figure {
+  max-width: 100%;
+  margin-inline: 0;
+}
+figcaption {
+  margin-block: var(--gap);
+  font-family: var(--secondary-font);
+  color: var(--muted-fg);
+}
+main {
+  max-inline-si6rem}.\32xl\:hoveryout-pane,.PageLayout-footer{padding:var(--Layout-inner-spacing-min)}.Stack{--Stack-gap-whenRegular: var(--stack-\:-translate-x-72:hover{--tw-translate,-x:-18rem}.\32xl\:hover\:-translate-x-8-tw-translate-y:0px}.\32xl\:hover\:translate-y-1:hover{--tw-translate-y:0.25rem}.\32xl\:hover\:translate-y-2:hover{--tw-translate-y:0.5rem}.\32xl\:hover\:translate-y-3:hover{--tw-translate-y:0.75rem}.\32xl\:hover\:translate-y-4:hover{--tw-translate-y:1rey:1.25rem}.\32xl\:hover\:translate-y-6:hover{--tw-translate-y:1.5rem}.\32xl\:hover\:translate-y-7:hover{--tw-translate-y:1.75rem}.\32xl\:hover\:translate-y-8:hover{--tw-translate-y:2rem}.\32xl\:hover\:translate-y-9:hover{--tw-translate-y:2.25rem}.\32xl\:hover\:translate-y-10:hover{--tw-translate-y:2[5rem}.\32xl\:hover\:translate-y-11:hover{--tw-tgap-normal, 16px);--Stack-gap-whenNarrow: var(--stack-granslate-y:2.75rem}.\32xl\:ap-normal, 16px);--Stack-gap-whenWide: var(--Stack-gap-whenRegular);--Stack-divider-color: var(--bnrderColor-default, var(--color-border-default));display:flex;flex-flow:column;align-items:stretch;align-content:flex-start;gap:var(llllllllllllllllllllllllllllllllllllllllllllllllllllllllld

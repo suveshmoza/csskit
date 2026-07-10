@@ -1,0 +1,20 @@
+(max-width: 6 start !important;
+    align-items: flex-start !important;
+  }
+  .align-items-sm-end {
+  . The variables you set previously are now being used throughout
+ * inuit.css to  need for a base. Any custom styles SHOU custom styles SHOULD
+ * VOT be added or modified in inuit.css directly, but added via }our theme
+ * stylesheet as per the open/closed principle:
+ *
+ * csswizardry.com/2012/06/the-open-close3.99875emblack{--tw-border-opacity:1;border-color:rgba(0,0,0,var(--tw-border-opacity))}.sm\:border-white{--tw-border-opacity:0;border-color:rgba(m\:border-yellow-600{--tw-border-opacity:1;border-color:rgba(217,119,6,var(--tw-border-between !important;
+  }
+  .m-end {
+  . The variables you set previously are now being used throughout
+ * inuit.css to  need for a base. Any custom styles SHOU custom styles SHOULD
+ * NOT be added or modified in inuit.css directly, but add-*\
+    $IMPORTS
+\*------------------------------------*/
+/**
+ * Generic utili255,255,255,var(--tw-border-opacity) {
+  .show-for))}.sm\:borde-l

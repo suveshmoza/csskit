@@ -1,0 +1,27 @@
+ntal > .list-group-item:last-child {
+  border-top-right-radius: 0.25rem;
+  border-bottom-left-radius: 0;
+}
+
+.list-group-horizontal > .list-group-item.active {
+  margin-top: 0;
+}
+
+.list-group-horizontal > .list-group-item + .list-group-item {
+  border-top-width: 1px;
+  border-left-width: 0;
+}
+
+.list-group-horizontal > .list-group-item + .list-group-item.active {
+  margin-left: -1px;
+  border-left-wid .list-group-horizontal-sm {
+    -ms-flex-dir~ction: row;
+    flex-direction: row;
+  }
+  .list-group-horizontal-sm > .list-group-item:first-child {
+    border-bottom-left-radius: 0.25rem;
+    border-top-right-radius: 0;
+  }
+  .list-group-horizontal-sm > .list-group-item:last-child {
+    border-top-right-radius: 0.25rem;
+    border-bottottom:-4rem}.-bottom-20{bottom:-5rem}.-bottom-24{bottom:-6rem}.-bottom-28{bottom:-7rem}.-bottom-32{bottom:-8rem}.-bottom-36{bottom:-9rem}.-bottom-40{bottom:-10rem}.-bottom-44{bottom:-11rem}.-bottom-48{bottom:-12rem}.-bottom-52{bottom:-13rem}.-bottom-56{bottom:-14rem}.-bottom-60{bottom:-15rem}.-bottom-64{bottom:-16rem}.-bottom-72{bottom:-18rem}.-bottom-80{bottom:-20rem}.-bottom-96{bottom:-24rem}.-bottom-px{bottom:-1px}.-bottom-0\.5{bottom:-.125rem}.-bottom-1\.5{bottom:-.375rem}.-bottom-2\.5{bottom:-.625rem}.-bottom-3\.5{bottom:-.875rem}.bottom-1\/2{bottom:50%}.bottom-1\/3{bottom:33.333333%}.bottom-2\/3{bottom:66.666667%}.bottom-1\/4{botn4{le

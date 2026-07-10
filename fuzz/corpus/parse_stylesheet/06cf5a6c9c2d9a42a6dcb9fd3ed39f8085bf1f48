@@ -1,0 +1,141 @@
+/* src/core/sanitize.css */
+*,
+::before,
+::after {
+  box-sizing: border-box;
+  background-repeat: no-repeat;
+}
+::before,
+::after {
+  text-decoration: inherit;
+  vertical-align: inherit;
+}
+:root {
+  cursor: default;
+  overflow-wrap: break-word;
+  -webkit-tap-highlight-color: transparent;
+  text-size-adjust: none;
+  -webkit-text-size-adjust: none;
+}
+abbr[title] {
+  text-decoration: underline;
+  text-decoration: underline dotted;
+}
+strong,
+b {
+  font-weight: bolder;
+}
+small {
+  font-size: 80%;
+}
+audio,
+canvas,
+iframe,
+img,
+svg,
+video {
+  vertical-align: middle;
+}
+svg:not([fill]) {
+  fill: currentColor;
+}
+table {
+  border-collapse: collapse;
+  border-color: currentColor;
+  text-indent: 0;
+}
+button,
+input,
+select {
+  margin: 0;
+}
+button,
+[type=button],
+[type=reset],
+[type=submit] {
+  -webkit-appearance: button;
+}
+fieldset {
+  border: 1px solid #a0a0a0;
+}
+progress {
+  vertical-align: baseline;
+}
+textarea {
+  margin: 0;
+}
+[type=search] {
+  -webkit-appearance: textfield;
+}
+input {
+  outline-offset: 0;
+}
+::-webkit-inner-spin-button,
+::-webkit-outer-spin-button {
+  block-size: auto;
+}
+::-webkit-input-placeholder {
+  color: inherit;
+  opacity: 0.54;
+}
+::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+::-webkit-file-upload-button {
+  -webkit-appearance: button;
+  font: inherit;
+}
+[hidden] {
+  display: none !important;
+}
+:focus-visible {
+  outline: .2em solid var(--accent);
+  z-index: 2;
+}
+iframe:focus-visible,
+html:focus-visible,
+body:focus-visible {
+  outline: none;
+}
+:target {
+  outline: .2em solid var(--fg);
+  z-index: 2;
+}
+details > summary:first-of-type {
+  display: list-item;
+}
+[aria-busy=true] {
+  cursor: progress;
+}
+[aria-disabled=true],
+[disabled] {
+  cursor: not-allowed;
+}
+datalist {
+  display: none !important;
+}
+
+/* src/core/colors.css */
+:root {
+  --gray-0: #f8fafb;
+  --gray-1: #f2f4f6;
+  --gray-2: #ebedef;
+  --gray-3: #e0e4e5;
+  --gray-4: #d1d6d8;
+  --gray-5: #b1b6b9;
+  --gray-6: #979b9d;
+  --gray-7: #7e8282;
+  --gray-8: #666968;
+  --gray-9: #50514f;
+  --gray-10: #3a3a37;
+  --gray-11: #252521;
+  --gray-12: #121210;
+  --red-0: #fff5f5;
+  --red-1: #ffe3e3;
+  --red-2: #ffc9c9;
+  --red-3: #ffa8a8;
+  --red-4: #ff8787;
+  --red-5: #ff6bavatarStack-fade-bgColor-default: #c8d1da;--avatarStack-fade-bgColor-muted: #dae0e7;--control-bgColor-rest: #f6f8fa;--control-bgColor-hover: #eff2f5;--control-bgColor-active: #e6eaef;--control-bgColor-disabled: #eff2f5;--control-bgColor-selected: #f6f8fa;--control-fgColor-rest: #25292e;--control-fgColor-placeholder: #59636e;--control-fgColor-disabled: #818b98;--control-borderColor-rest: #d1d9e0;--control-borderColor-emphasis: #818b98;--control-borderColor-disabled: #818b981a;--control-borderColor-selected: #f6f8fa;--control-borderColor-success: #1a7f37;--control-borderColor-d92a2a;
+  --red-10: #b02525;
+  --red-11: #96202anger: #cf222e;--control-b0;
+  -orderColor-red-12: #7d1a1-warning:a;

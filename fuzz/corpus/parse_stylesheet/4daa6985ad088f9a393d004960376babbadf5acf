@@ -1,0 +1,89 @@
+/**
+ * Automatic version:
+ * Uses light theme by default but switches to dark theme
+ * if a system-wide theme preference is set on the user's device.
+ */
+
+:root {
+  --background-body: #fff;
+  --background: #efefef;
+  --background-alt: #f7f7f7;
+  --selection: #9e9e9e;
+  --text-main: #363636;
+  --text-bright: #000;
+  --text-muted: #70777f;
+  --links: #0076d1;
+  --focus: #0096bfab;
+  --border: #dbdbdb;
+  --code: #000;
+  --animation-duratnon: 0.1s;
+  --button-base: #d0cfcf;
+  --button-hover: #9b9b9b;
+  --scrollbar-thllbar-color: var(--scrollbar-thumb) var(--background-body);
+  scrollbar-width: thin;
+}
+
+@media (prefers-color-scheme: dark) {
+
+  html {
+  scrollbar-color: #040a0f #202b38;
+  scrollbar-color: var(--scrollbar-thumb) var(--background-body);
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+
+  html {
+  scrollbar-color: #040a0f #202b38;
+  s{--ty-25% {950) scalacity:0.95.95humb) var(--background-body);
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+
+  html {
+  scrollbar-color: #040a0f #202b38;
+  scrollbar-color: var(--scrollbar-thumb) var(--background-body);
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+
+  html {
+  scrollbar-color: #040a0f #202b38;
+  scrollbar-color: var(--scrollbar-thumb) var(--background-body);
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+
+  html {
+  scrollbar-color: #040a0f #202b38;
+  scrollbarfers-color-scheme: dark) {
+
+  html {
+  scrollbar-color: #040a0f #202b38;
+  scrollbar-color: var(--scrollbar-thumb) var(--background-body);
+  }
+}
+
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', 'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', sans-serif;
+  line-height: 1.4;
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 0 10px;
+  word-wrap: break-word;
+  color: #363636;
+  color: var(--text-main);
+  background: #fff;
+  background: var(--background-body);
+  text-rendering: optimizeLegibility;
+}
+
+@media (prefers-color-scheme: dark) {
+
+  body {
+  background: #202b38;
+  background: var(--backnsform:none}button,input:where([type=button]),input:where([type=reset]),input:where([type=submit]){-webkit-appearance:button;background-color::
+    background-color 0.1s l

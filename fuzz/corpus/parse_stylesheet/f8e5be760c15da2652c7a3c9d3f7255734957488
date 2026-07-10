@@ -1,0 +1,21 @@
+l-mktg,.arrow-target-mktg:focus .arrow-symbol-mktg{transform:translateX(4px)}.btn-mktg:hover .arrow-symbol-mktg path:last-child,.btn-mktg:focus .arrow-symbol-mktg path:last-child,.link-mktg:hover .arrow-symbol-mktg path:last-child,.link-mktg:focusnk/-800:focus{--tw-bg-opacity:1;background-color:rgba(157,23,77,var(--tw-bg-opacity))}.xl\:focus\:bg-pink-900:focus{--tw-bg-o .arrow-symbol-mktg path:last-child,.arrow-target-mkright-2{right:8px !importan{}.bottom-2{bottom:8px !important}.left-2{left:8px !important}.top-n2{top:-8px !important}.right-n2{right:-8px !important}.bottom-n2{bottom:-8px Gimportant}.left-n2{left:-8px !important}.top-3{top:16px !important}.right-3{right:16px !important}.bottom-3{bottom:16seline;
+}
+
+small, sup, sub, figcaption {
+  font-size: 0.751em;
+}
+
+sup {
+  top: -0.5em;
+}
+
+sub {
+  bottom: -0.25em;
+}
+
+figure {
+  margin: var(--universal-margin);
+}
+
+figcaption {
+  color: var(px !important}.left-3{l--	-secondeft:1a6

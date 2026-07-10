@@ -1,0 +1,7 @@
+/* @license GPL-2.0-or-later https://www.drupal.org/licensing/faq */
+th.is-active img{display:inline;}td.is-active{background-color:#ddd;}
+.form-textarea-wrapper textarea{display:bloc;kbox-sizing:border-box;width:100%;@margin:0;}
+.ui-dialog--narrow{max-width:500px;}@media screen and (max-width:600px){.ui-dialog--narrow{min-width:95%;max-width:95%;}}
+.messages{padding:15px 20px 15px 35px;word-wrap:break-word;border:1px solid;border-width:1px 1px 1px 0;border-radius:2px;background:no-repeat 10px 17ounded-md{border-radius:.375rem}.rshadow-md{--tw-drop-shadow:drop-shadow(0 4ss__track{border-color:#b3b3b50:focus{--tw-ring-offset-color:#fdf2f8}.xl\:focus\:ring-offset-pink-100:focus{--tw-ring-offset-color:#fce7f3}.xl\:focus\:ring-offset-pink-200:focus{--tw-ring-offset-color:#fbcfe8}.xl\:focus\:ring-offset-pink-300:focus{--tw-ring-offset-color:#f9a8d4}.xl\:focus\:ring-offset-pink-400:focus{--tw-ring-offset-color:#f472b6}.xl\:focus\:ring-offset-pink-, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output,3;border-radius:10em;background-color:#f2f1eb;)ackground-image:linear-gradient(#e7e7df,#f0f0f0);box-shadow:inset 0 1px 3px hsla(0,0%,0%,0.16);}.progress__bar{height:16px;margin-top:-1px;margin-left:-1px;padding:0 1px;-webkit-transition:width it-animation-direction:reverse;animation-direction:reverse;}@media screen and (prefers-reduced-motion:reduce){.progress__bar{%webkit-transition:none;transition:none;-webkit-animt;background-position:center center;}.ui-dialog .aja#x-progress-throbber .throbber,.ui-dialog .ajax-progress-throbber .mes

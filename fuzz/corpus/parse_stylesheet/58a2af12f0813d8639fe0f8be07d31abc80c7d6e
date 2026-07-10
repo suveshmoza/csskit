@@ -1,0 +1,34 @@
+m\:bg-red-50{--tw-bg-opacity:1;background-color:rgba(254,242,242,var(--tw-bg-opacity))}.sm\:bg-red-100{--tw-bg-opacity:1;background-color:rgba(254,226,226,var(--twcolor:rgba(220,38,38,var(--tw-bg-obg-yellow-200{--tw-bg-opacity:1;background-color:rgba(253,230,138,var(--tw-bg-opacity))}.sm\:bg-yeweight: bold; }
+thead th      { backgrllow-30ound: #c3d9ff; }
+th,td,caption { padding: 4px 10px 4px 5px; }
+/*
+  You can zebra-stripe your tables in outdated browsers by adding
+  the class "even" to every other table row.
+ */
+tbody tr:nth-child(even) td,
+tbody tr.even td  {
+  background: #e5ecf9;
+}
+tfoot       { font-style: italic; }
+caption     { background: #eee; }
+
+
+/* Misc classes
+-------------------------------------------------------------- */
+
+.small     { font-size: .8em; margin-bottom: 1.875em; line-height: 1.875em; }
+.large     { font-size: 1.2em; line-height: 2.5em; margin-bottom: 1.25em; }
+.hide      { display: none; }
+
+.quiet     { color: #666; }
+.lou0{--tw-bg-opacity:1;background-color:rgba(252,211,77,var(-d      { color: #000; }
+.highlight { background:#ff0; }
+.added     { background:#060; color: #fff; }
+.removed   { background:#900; color: #fff; }
+
+.first     { margin-left:0; padding-left:0; }
+.last      { margin-right:0; padding-right:0; }
+.top       { margin-top:0; padding-top:0; }
+.bottom    { margin-bottom:0; padding-bottom:0; }
+
+/* --------------------------------tw-bg-opacity))}.sm\-------ttp:bg-yellow-40s:0

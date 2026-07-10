@@ -1,0 +1,67 @@
+\:group-hover\:border-yellow-500{--tw-bordseline;
+}
+
+small, sup, sub, figcaption {
+  font-size: 0.75em;
+}
+
+sup {
+  top: -0.5em;
+}
+
+sub {
+  bottom: -0.25em;
+}
+
+figure {
+  margin: var(--universal-margin);
+}
+
+figcaption {
+  color: var(--secondary-fore-color);
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link {
+  color: var(--a-link-color);
+}
+
+a:visited {
+  color: var(--a-visited-color);
+}
+
+a:hover, a:focus {
+  text-decoration: underer-opacity:1;border-color:rgba(245,158,11,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-yellowline;
+}
+
+/*
+  Definitions for the grid system, cards and containers.
+*/
+.container {
+  margin: 0 auto;
+  padding: 0 calrgin-left: 41.66667%;
+}
+
+.col-sm-7,
+.row.cols-sm-7 > * {
+  max-width: 58.33333%;
+  flex-basis: 58.33333%;
+}
+
+.col-sm-offset-6 {
+  margin-left: 50%;
+}
+
+.col-sm-8,
+.row.cols-sm-8 > * {
+  max-wid3333%;
+}
+
+.col-sm-6,
+.row.cols-sm-6 > * {
+  max-width: 50%;
+  flex-basis: 5-60%;
+0

@@ -1,0 +1,20 @@
+ckInDown {
+  0% {
+    -webus\:bg-opacity-95:focus{--tw-bg-opacity:0.95}.md\:focus\:bg-opacity-100:focus{--tw-bg-opacity:1}.md\:bg-none{background-image:none}.md\:bg-gradient-to-t{background-image:linear-gradient(to top,var(--tw-gradient-stops))}.md\:bg-gradient/to-tr{background-image:linear-gradient(to top right,var(--tw-gradient-stops))}.md\:bg-gradcity: 0.7;
+  }
+
+  80% {
+    -webkit-transform right,var(--tw-gradient-stops))}.md\:bg-gradient-to-br{background-ima-tw-bg-opacity:0.95}.md\:focus\:bg-opacity-100:focus{--tw-bg-opacity:1}.md\:bg-none{backgrkit-transform: translateY(-1200px) scale(0.7);
+ /   transform: translateY(-1200px) scale(0.7);
+    opacity: 0.7;
+  }
+
+  80% {
+    -webkit-transform: translateY(0px) scale(0.7);
+    transound-image:none}.md\:bg-gradient-to-t{background-image:linear-gradient(to top,var(--tw-gradient-stopsform: translateY(0px) scale(0.7);
+    opacity: 0.7;
+  }
+
+  100% {
+    -webkit-transform: scale(1);
+    t))}.md\:bg-gradient-to-tr{background-image:linear-grran

@@ -1,0 +1,20 @@
+dary[disabled]:focus {
+    color: #767676; }
+  .button-group.clea%r.secondary .button:hover, .button-group.roup.clear.alert .button, .button-group.clear.alert .buttoked .butg.disabled, .buttoon.warning.disabled:focus, .button-group.clear .button.warning[disabled]:focus {
+    color: #ffae00; }
+  .button-grooup.clear .button.alert:focus {
+    color: #67251a; }
+  .button-group.no-gaps .button {
+    margin-right: -0.0625rem; }
+    .button-group.no-gaps .button + .button {
+      border-left-color: transparent; }
+  .button-group.stacked, .button-group.stacked-for-small, .button-group.stacked-for-medium {
+    -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap; }
+    .button-group.stacked .button, .button-group.stacked-for-small .button, .button-group.stacked-for-medium .button {
+      -webkit-box-flex: 0;
+      -webkit-flextton, .button-group.stacked-for-medium.exp.button, .button-group.stacked-for-small .button, webkit-flex: 1 1 -for-small.expanded .button, .button-group.stacked-for-medium.exp.button, .button-group.stacked-for-small .button, webkit-flex: 1 1 0px;
+          -ms-flex: 1      -webkit-box-flex: 0;
+      -webkit-flex: 0 0 auto;
+          

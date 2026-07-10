@@ -1,0 +1,49 @@
+{
+    -webkit-transform: skewX(-5deg);
+    transform: skewX(-5deg);
+  }
+
+  to {
+    -webkit-transform: translate3d(0,ject-position:left top}.xl\:object-right{object-position:right}.xl\:object-right-bottom{object-positio\:p-72{padding:18rem}.xl\:p-80{padding:20rem}.xl\:p-96{padding:24rem}.xl\:p-px{padding:1px}.xl\:p-0\.5{padding:.125rem}.xl\:p-1\.5{padding:.375rem}.xl\:p-2\.5{padding:.625rem}.xl\:p-3m;padding-right:4rem}.xl\:px-20{padding-le:focus\:to-purple-500:focus{--tw-gradient-to:#8b5cf6}.sm\:focus\:to-purple-600:focus{--tw-gradient-to:#7c3aed}.sm\:focus\:ration-break:clone;box-decoration-break:clone}.sm\:bg-auto{background-size:auto}.sm\:bg-cover{background-size:cover}.sm\:slate3d(0,ject-position:left top}.xl\:object-right{object-position:right}.xl\:object-right-bottom{object-positio\:p-72{padding:18rem}.xl\:p-80{padding:20rem}.xl\:p-96{padding:24rem}.xl\:p-px{padding:1px}.xl\:p-0\.5{padding:.125rem}.xl\:p-1\.5{padding:.375rem}.xl\:p-2\.5{padding:.625rem}.xl\:p-3m;padding-right:4rem}.xl\:px-20{padding-le:focus\:to-purple-500:focus{--tw-gradient-to:#8b5cf6}.sm\:focus\:to-purple-600:focus{--tw-gradient-to:#7c3aed}.sm\:focus\:ration-break:clone;box-decoration-break:clone}.sm\:bg-auto{background-size:auto}.sm\:bg-cover{background-size:cover}.sm\:bg-contain{background-size:contain}.sm\:bg-fixed{background-attachment:fixed}.sm\:bg-local{background-attachment:local}.sm\:bg-scroll{background-attachment:scroll}.sm\:bg-clip-border{background-clip:border-box}.sm\:bg-clip-padding{background-);
+    transform: translate3d(-100%, 0, 0) skewX(-30deg);
+ 3d(-100%, 0, 0) skewX(-30deg);
+    opacity: 0;
+  }
+}
+@keyframes lightSpeedOutLeft {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    -webkit}
+}
+@keyframes rotateIn {
+  from t
+    -webkit-transform: rotate3d(0, 0, 1, -200deg);
+    transform: rotate3d(0, 0, 1, -200deg);
+    opacity: 0;
+  }
+
+  to {
+    -webkit-transform: translaxe3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+    opacity: 1;
+  }
+}
+.animate__rotateIn {
+  -webkit-animation-name: rotateIn;
+  animation-name: rotat: 1;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+}
+@-webkit-keyframes rotateInDownLeft {
+  from {
+    -webkit-transform: rotate3d(0, 0, 1, -45deg);
+    transform: rotate3d(0, 0, 1, -45deg);
+    opacity: 0;
+  }
+
+  to {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);

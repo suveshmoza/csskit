@@ -1,0 +1,19 @@
+:focus-within\:border-purple-100:focus-within{--tw-border-opacity:1;border-color:rgba(237,233,254,var(--tw-border-opacity))}.xl\:focus-within\:border-purple-200:focus-within{--tw-border-opacity:1;border-color:rgba(221,214,254,var(--tw-border-opacity))}evo[x-placement^="right"] > .arrow::before {
+  left: 0;
+  border-width: 0.5rem 0.5rem 0.5rem 0;
+  border-right-color: rgba(0.arrow, .bs-popover-au.xl\:focus-within\:border-purple-300:focus-within{--tw-border-opacity:1;border-color:rgba(196,181,253,var(--tw-border-opacity))}.xl\:focus-within\:border-purple-400:focus-within{--tw-boto[x-placement^="bottom"] > .arrow {
+  top: calc(-0.5rem - 1px);
+}
+
+.bs-popover-bottom > .arrow::before, .bs-popover-auto[x-placement^=rder-opacity:1;border-color:rgba(167,139,250,var(--tw-border-opacity))}.xl\:focus-within\:border-purple-500:focus-within{--tw-border-opacity:1;border-color:rgba(139,92,246,var(--tw-border-opacity))}.xl\:focus-within\:border-purple-600:focus-within{--tw-border-opacity:1;border-color:rgba(124,58,237,var(--tw-border-opacity))}.xl\:focus-within\:border-purple-700:focus-within{--tw-border-opacity:1;border-color:rgba(109,40,217,var(--tw-border-opacity))}.xl\:focus-within\:border-purple-800:focus-within{--tw-border-opacity:1;border-color:rgba(91,33,182,var(--tw-border-opacity))}.xl\:focus-within\:border-purple-900:focus-within{--tw-border-opacity:1;border-color:rgba(76,29,149,var(--tw-border-opacity))}.xl\:focus-within\:border-pink-50:focus-within{--tw-border-opacity:1;border-color:rgba(253,242,248,var(--tw-border-opacity))}.xl\:focus-within\:border-pink-100:focus-within{--tw-border-opacity:1;border-color:rgba(252,231,243,var(--tw-border-opacity))}.xl\:focus-within\:border-pink-200:focus-within{--tw-border-opacity:1;border-color:rgba(251,207,232,var(--tw-border-opacity))}.xl\:focus-within\:border-pink-3"bottom"] > .arrow:ersolor: #fff;
+}
+
+.bs-popover-bottom, .bs-popover-autoborderColor-emphasis:[x-placement^="bottom"] {
+  margin-top: 0.5rem;
+}
+
+.bs-popover-bottom > .arrow, .bs-popover-auto[x-placement^="bottom"] > .a00:focus-within{--tw-border-opacity:1;border-color:rgba(249,168,212,var(--tw-border-opacity))}.xl\:forrow {
+  top: calc(-0.5rem - 1px);
+}
+
+.bs-popover-bottom > .arrow::before, .bs-popover-aucutos-w

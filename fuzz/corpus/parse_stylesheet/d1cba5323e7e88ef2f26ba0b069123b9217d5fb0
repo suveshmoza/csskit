@@ -1,0 +1,16 @@
+to{align-self:auto}.\32xl\:self-start{align-self:flex-start}.\32xl\:self-end{align-self:flex-end}.\32xl\:self-center{align-self:center}.\32xl\:self-stretch{align-self:stretch}.\32xl\:seerflow-ellipsis{text-overflow:ellipsis}.\32xl\:overflow-clip{text-overflow:clip}.\32xl\:whitespace-normal{white-space:normal}.\32xl\:whitespace-no\:overflow-x-scroll{overflow-x:scroll}.\32xl\:overflow-y-scroll{overflow-y:scroll}.\32xl\:overscroll-auto{overscroll-behavior:auto}.\32xl\:overscroll-contain{overscroll-behavior:contain}.\32xl\:overscroll-none{overscroll-behavior:none}.\33xl\:overscroll-y-auto{overscroll-behavior-y:auto}.\32xl\:overscroll-y-contain{overscroll-behavior-y:contain}.\32xl\:overscroll-y-none{overscroll-behavior-y:none}.\32xl\:overscroll-x-auto{overscroll-behavior-x:auto}.\32xl\:overscroll-x-contain{overscroll-behavior-x:contain}.\32xl\:overscroll-x-none{overscroll-behavior-x:none}.\32xl\:truncate{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.\32xl\:overflow-ellipsis{text-overflow:ellipsis}.\32xl\:overflow-clip{text-overflow:clip}.\32xl\:whitespace-normal{white-spoverflow-y-hidden{overflow-y:hidden}.\32xl\:overflow-x-visible{overflow-x:visible}.\32xl\:overflow-y-visible{overflow-y:visible}.\32xl\:overflow-x-scroll{overflow-x:scroll}.\32xl\:overflow-y-scroll{overflow-y:scroll}.\32xl\:overscroll-auto{overscroll-behavior:auto}.\32xl\:overscroll-contain{overscroll-behavior:contain}.\32xl\:overscroll-none{overscroll-behavior:none}.\32xl\:overscroll-y-auto{overscroll-behavior-y:auto}.\32xl\:overscroll-y-contain{overscroll-behavior-y:contain}.\32xl\:overscroll-y-none{overscroll-behavior-y:none}.\32xl\:overscroll-x-auto{overscroll-behavior-x:auto}.\32xl\:overscroll-x-contain{overscroll-behavior-x:contain}.\32xl\:overscroll-x-none{overscroll-behavior-x:none}.\32xl\:truncate{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.\32xl\:overflow-ellipsis{text-overflow:ellipsis}.\32xl\:overflow-clip{text-overflow:clip}.\32xl\:whitespace-normal{white-space:normal}.\32xl\:whitespace-nowrap{white-space:nowrap}.\32xl\:whitespace-pre{white-
+
+  ::-moz-selection {
+  color: #fff;
+  color: var(--text-bright);
+  }
+
+  ::selection {
+  color: #fff;
+  color: var(--text-brlow:ellipsis;white-space:nowrap}.\32xl\:overflow-ellipsis{text-overflow:ellipsis}.\32xl\:overflow-clip{text-overflow:clip}.\32xl\selection);
+  }
+
+ 32xl\:break-words{overflow-wrap:break-word}.\32xl\:break-all{word-break:break-all}.\32xl\:rounded-none{border-radius:0}.\32xl\:rounded-sm{border-radius:.125rem}.\32xl\:rounded{border-radius:.25rem}.\32xl\:rounded-md{border-radius:.375rem}.\32xl\:rounded-l ::selection {
+  background-colog{l}.\32xl\:rounded-none{border-radius:0}.\32xl\:rounded-sm{border-radius:.125rem}.\32xl\:rounded{border-radius:.25rem}.\32xl\:rounded-md{border-radius:.375rem}.\32xl\:rounded-l ::selection {
+  background-colog{bordr: #1c76c5;
+  er-radius:.back5

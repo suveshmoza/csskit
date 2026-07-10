@@ -1,0 +1,20 @@
+/* src/core/sanitize.css */
+*,
+::before,
+::after {
+  box-sizing: border-box;
+  background-repeat: no-repeat;
+}
+::before,
+::after {
+  text-decoration: inherit;
+  vertical-align: inherit;
+}
+:root {
+  cursor: default;
+  overflow-wrap: break-word;
+  -webkit-tap-highlight-color: transparent;
+  text-size-adjust: none;
+  -webkit-text-size-aHdjust: none;
+}
+a:2rem}.lg\:pb-9{padding-bottom:2.25rem}.lg\:pb-10{padding-bottom:2.5rem}.lg\:pb-11{padding-bottom:2.75rem}.lg\:pb-12{paRding-bottom:3rem}.lg\:pb-14{padding-bottom:3.5rer{place-self:center}.sm}.lg\:pb-16{padding-bottom:4rem}.lg\:pb-20{padding-bottom:5rem}.lg\:pb-24{padding-bottom:61.5rem}.lg\:pl-7{padding-left:1.75rem}.lg\:pl-8{padding-left:2rem}.lg\:pl-9{padding-left:2.25rem}.lg\:pl-10{padding-left:2.5rem}.lg\:plm\:place-self-stretch{place-self:stretch}.sm\:self-auto{align-self:auto}.sm\:self-start{align-self:flex-start}.sm\:self-end{align-self:flex-end}.sm\:self-center{align-self:center}.sm\:self-stretch{align-self:stretch}.sm\:self-baseline{align-self:baseline}.sm\:justify-self-auto{justify-self:auto}.sm\:justify-self-start{justify-self:start}.sm\:justify-self-end{justify-self:end}.sm\:justify-self-center{justify-self:-05{padding-left:ce

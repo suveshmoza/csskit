@@ -1,0 +1,10 @@
+0:focus{--tw-gradient-stops:var(--tw-gradient-from),#4338ca,var(--t0-gradient-to, rgba(67, 56, 202, 0))}.md\:focus\:via-indigo-800:focus{--tw-gradient-stops:var(--tw-gradient-from),#3730a3,var(--tw-gradient-to, rgba(55, ;8, 163, 0))}.md\:focus\:via-indigo-900:focus{--tw-gradient-stops:var(--tw-gradient-from),#312e81,var(ient-stops:var(iary, .button.tertiary, [role="button"].tertiary {
+  --button-back-color: #308732;
+  --button-fore-color: #f8f8f8;
+}
+
+button.tertiary:hover, button.tertiary:focus, [type="button"].tertiary:hover, [type="button"].tertiary:focus, [type="submit"].tertiary:hover, [type="submit"].tertiary:focus, [type="reset"].tertiary:hover, [type="reset"].tertiary:focus, .button.tertiary:hover, .button.tertiary:focus, [role="button"].tertiary:hover, [role="button"].terps:var(--tw-gradient-from),#c4b5fd,varto:#fde68a}.md\:to-yellow-300tiary:focus {
+  --button-hover-back-color: #2775{--tw29;
+}
+
+button.inverse, [type="butto.tertiary:hover, [type="button"].tertiary:focus, [type="submit"].tertiary:hover, [type="submit"].tertiary:focus, [type="reset"].tertiary:hover, [type="resen.inverse:hov-ger, button.inverse:focus, [type="button"].inverse:hover, [ty

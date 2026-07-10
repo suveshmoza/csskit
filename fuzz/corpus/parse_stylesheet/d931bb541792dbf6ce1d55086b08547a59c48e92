@@ -1,0 +1,49 @@
+.xl\:max-h-96{max-height:24rem}.xl\:max-h-px{max-height:1px}.xl\::.375rem}.xl\:max-h-2\.5{max-height:.625rem}.xl\:max-h-3\.5{max-height:.875rem}.xl\:max-h-full{max-height:100%}.xl\:max-h-screen{max-height:100vh}.xl\:min-h-0{min-height:0}.xl\:min-h-full{min-height:10 */
+
+[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+/**
+ * 1. Correct the inability to style clickable types in iOS and Safari.
+ * 2. Change font properties to `inherit` in Safari.
+ */
+
+::wk-beit-file-upload-button {
+  -webkit-appearance: button; /* 1 */
+  font: inherit; /* 2 */
+}
+
+/* Interactive
+   ========================================================================== */
+
+/*
+ * Add the correct display in Edge, IE 10+, and Firefox.
+ */
+
+details {
+  display: block;
+}
+
+/*
+ * Add the correct display in all browsers.
+ */
+
+summary {
+  display: list-item;
+}
+
+/* Misc
+   ========================================================================== */
+
+/**
+ * Add the all browsers.
+ */
+
+legend {
+  -webkit-box-sizing: b*/
+
+progress {
+  vertical-align: baseline;
+}
+r-emphasis: #29a147;--data-green-col  o<

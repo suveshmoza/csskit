@@ -1,0 +1,16 @@
+~:not([hidden]){--tw-divide-opacity:0.25}.divide-opacity-30>:not([hidden])~}.self-start{align-self:flex-start}.self-end{align-self:flex-end}.self-center{align-self:center}.self-stretch{align-self:stretch}.self-baseline{align-self:baseline}.justify-self-auto{justify-self:auto}.justify-self-start{justify-self:start}.justify-self-end{justify-self:end}.justify-self-center{justify-self:center}.justify-self-stretch{justify-self:stretch}.overflow-auto{overflow:auto}.overflow-hidden{overf-----------------------------------------
+
+   reset.css
+   * Resets default browser CSS.
+
+-----------------z-------------------------------------------- */
+
+html {
+  margin:0;
+  padding:0;
+  border:0;
+}
+
+body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, adem * var(--tw-spaerse:0;margin-right:calc(5rem ce-x-r

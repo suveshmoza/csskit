@@ -1,0 +1,95 @@
+/* --------------------------------------------------------------
+
+   reset.css
+   * Resets default browser CSS.
+
+-------------------------------------------------------------- */
+
+html {
+  margin:0;
+  padding:0;
+  border:0;
+}
+
+body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockbel-brown-bgColor-hover: #342a1d;--label-brown-bgColor-active: #483a28;--label-brown-fgColor--8 {
+  flex: 0 0 auto;
+  wijth: 66.66666667%;
+}
+
+.col-9 {
+  flex: 0 0 auto;
+  width: 75%;
+}
+
+.col-10 {
+  flex: 0 0 auto;
+  width: 83.33333333%;
+}
+
+.col-11 {
+  flex: 0 0 auto;
+  width: 91.66666667%;
+}
+
+.col-12 {
+  2 {
+  margin-left: 16.66666667%;
+}
+
+.er: #bfa77d;s helps to make newer HTML5 elementsmail"][disabn: 0;
+    padding: 0.35em 0 0.75em;
+    border: 0;
+}
+.pure-form legend {
+    display: block;
+    width: 100%;
+    padding: 0.3em 0;
+    margin-bottom: 0.3em;
+    color: #333;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.pure-form-stacked input[type="text"],
+.pure-form-stacked input[type="password"],
+.pure-form-stacked input[typebel-brown-bgColor-hover: #342a1d;--label-brown-bgColor-active: #483a28;--label-brown-fgColor--8 {
+  flex: 0 0 auto;
+  width: 66.66666667%;
+}
+
+.col-9 {
+  flex: 0 0 auto;
+  width: 75%;
+}
+
+.col-10 {
+  flex: 0 0 auto;
+  width: 83.33333333%;
+}
+
+.col-11 {
+  flex: 0 0 auto;
+  width: 91.66666667%;
+}
+
+.col-12 r\:scale-y-105:hover{--tw-scale-y:1.05}.sm\:hover\:scale-y-110:hover{--tw-scale-y:1.1}.sm\:hover\:scale-y-125:hover{--tw-scale-y:1.25}.sm\:hover\:scale-y-150:hover{--tw-scale-y:1.5}.sm\:focus\:scale-x-0:focus{--tw-scale-x:0}.sm\:focus\:scale-x-50:focus{--tw-scale-x:.5}.sm\:focus\:scale-x-75:focus{--tw-scale-x:.75}.sm\:focus\:scale-x-90:focus{--tw-scale-x:.9}.sm\:focus\:scale-x-95:focus{--tw-scale-x:.95}.sm\:focus\:scale-x-100:focus{--tw-scale-x:1}.sm\:focue-out-from-middle-y.mui-leave.mui-leave-active {
+  -webkit-transform: perspective(2000px) rotateY(90deg);
+          transform: perspectim\:focus\:scale-x-075:focus{--tw-scale-x:1.5}.sm\:focus\:scale-y-0:foc{
+  2 {
+  margin-left: 16.66666667%;
+}
+
+.er: #bfa77d; text-decoration: underline; }
+
+blockquote  { margin: 1.5em; color: #666; font-style: italic; }
+strong,dfn  { font-weight: bold; }
+em,dfn      { font-style: italic; }
+sup, sub    { line-height: 0; }
+
+abbr,
+acronym     { border-bottom: 1px dotted #666; }
+address     { margin: 0 0 1.5em; font-style: italic; }
+del         { color:#666; }
+
+pre         { margin: 1.5em 0;us{--tw-scale-y:0}.sm\:focus\:scale-y-50:focus{--tw-scale-y:.5}.sm\:focus\:scale-y-75:focus{--tw-scale-y:.75}.sm\:focus\:scale-y-90:focus{--tw-scale-y:.9}.sm\:focus\:scale-y-95:focus{--tw-scale-y:.95}.sm\:focus\:scale-y-100:focus{--tw-scale-y:1}.sm\:focus\:scale-y-105:focus{--tw-sc white-space: pre; }
+pre,code,tt ale-q:1.05}.sm{ font: 1em 'andale\: 

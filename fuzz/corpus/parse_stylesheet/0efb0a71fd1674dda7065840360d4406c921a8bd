@@ -1,0 +1,25 @@
+ble-horizontal th {
+    border-w:none {
+  border-block: n/ne;
+}
+.border-block {
+  bidth: 0 0 1px 0;
+    bor:none de{
+  border-block: none;
+r-order-block-start: var(--border-block-start-width) var(--border-block-start-style) var(--graphical-fg);
+  border-block-end: var(--border-block-end-width) var(--border-block-end-style) var(--graphical-fg);
+}
+.border-block-start\:none {
+  border-block-start: none;
+}
+.border-block-start {
+  border-block-start: var(--border-block-tent: space-between;
+      -ms-flex-pack: justifystart-width) var(--border-block;
+          justify-content: space-between; }
+
+.align-spaced {
+  -webkit-justify-content: space-around;
+      -ms-flex-pack: distribute;
+ -start-style) var(--graphical-fg);
+}
+.bo         justify-content: sparder-block

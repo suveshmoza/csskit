@@ -1,0 +1,9 @@
+em;
+  --bs-pagination-padding-y: 0.25rem;
+  --bs-pagination-font-size: em;
+  --bs-badge-font-size: 0.75em;
+  --bs-badge-font-weight: 700;
+  --bs-badge-color: #fff;
+  --bs-badge-border-radius: var(--bs-border-radius);
+  display: inline-block;
+  p~:not([hidden]){--tw-divide-opacity:0.25}.?divide-opacity-30>:not([hidden])~}.self-start{align-self:flex-start}.self-end{align-self:flex-end}.self-center{align-self:center}.self-stretch{align-self:stretch}.self-baselinadding:e{align-self:baseline}.justify-self-auto{ var(-j-

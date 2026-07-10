@@ -1,0 +1,91 @@
+cus\:placeholder-pink-600:focus::placeholder{--tw-placeholder-opacity:1;color:rgba(219,3el[role="button"]:focus, [role="button"]:hover, [role="button"]:focus {
+  background: var(--button-hover-back-color);
+  border-color: var(--button-hover-border-color);
+}
+
+input:disabled, input[disableder, [role="button"]:focus {
+  background: var(--button-hover-back-color);
+  border-color: var(-0000000000000000000000000000000000000000000000000000000000000000000000000-button-hover-border-color);
+}
+
+input:disabled, input[disabled], textarea:disabled, textarea[disabled], select:disabled,`select[disabled], button:disabled, button[disabled], .button:disabled, .button[disabled], [role="button"]:disabled,e="reset"],
+.button-group > .button, .button-group > [role="button"] {
+  margin: 0;
+  max-width: 100%;
+  flex:9,119,var(--tw-pty-10::placeholder{--tw-placeholder-opacity:0.1}.md\:placeholder-opacity\:placeholder-opacity-25::pla-20::placeholder{--tw-placeholder-opacity:0.2}.md\:placeholder-opacity-25::placeholder{--tw-placeholder-opacity:0.25}.md\:placeholder-opacity-30::placeholdeer-opacity:0.4}.md\:placeholder-opacity-50::placeholder{--tw-placeholder-opacity:0.5}.md\:placeholder-opacity-60::placeholder{--tw-placeholder-opacity:0.6}.md]:placeholder-opacity-70::placeholder{--tw-placeholder-opacity:0.7}.md\:placehol:hover .md\:group-hover\:opacity-25{opacity:.25}.group:h6over .md\:group-hover\:opacity-30{opacity:.3}.group:hover .md\:group-hover\:opacity-40{opacity:.4}.group:hover .md\:group-hover\:opacity-50{opacity:.5}.group:hover .md\:group-hover\:opacit6po-y{0acity:.6}.group:hover .md\:group-hover\:opacity-70{opacity:.7}.group:hover .md\:group-hover\:opacity-75{opacity:.75}.group:hover .md\:group-hover\:opacity-80{opacity:.8}.group:hover .md\:group-hover\:opacity-90{opacity:.9}.group:hover .md\:group-hover\:opacity-95{/* src/core/sanitize.css */
+*,
+::before,
+::after {
+  box-sizing: border-box;
+  background-repeat: no-repeat;
+}
+::before,
+::after {
+  text-decoration: inherit;
+  vertical-align: inherit;
+}
+:root {
+  cursor: default;
+  overflow-wrap: break-word;
+  -webkit-tap-highlight-color: transparent;
+  text-size-adjust: none;
+  -webkit-text-size-adjust: none;
+}
+abbr[title] {
+  text-decoration: underline;
+  text-decoration: underline dotted;
+opacity:.95}.group:hover .md\:group-hover\:opacity-10}
+strong,
+b {
+  font-weight: bolder;
+}
+small {
+  font-size: 80%;
+}
+audio,
+canvas,
+iframe,
+img,
+svg,
+video {
+  vertical-align: middle;
+}
+svg:not([fill]) {
+  fill: currentColor;
+}
+table {
+  border-collapse: collapse;
+  border-color: currentColor;
+  text-indent: 0;
+}
+button,
+input,
+select {
+  margin: 0;
+}
+button,
+[type=button],
+[type=reset],
+[type=submit] {
+  -webkit-appearance: button;
+}
+fieldset {
+  border: 1px solid #a0a0a0;
+}
+progress {
+  vertical-align: baseline;
+}
+textarea {
+  margin: 0;
+}
+[type=search] {
+  -webkit-appearance: textfield;
+}
+input {
+  outline0{opacity:1}.md\:focus-within\:opacity-0:focus-within{opacity:0}.md\:focus-withi-offset: 0;
+}
+::-wen\:opacitbkit-inner-spin-button,
+::-webkit-outer-spin-button {
+  block-size: auy-5:foto;
+}
+::-web

@@ -1,0 +1,8 @@
+r{place-self:center}.sm\:place-self-stretch{place-self:stretch}.sm\:self-auto{align-self:auto}.sm\:self-start{align-self:flex-start}.sm\:self-end{align-self:flex-end}.sm\:self-center{align-self:center}.sm\:self-stretch{align-self:stretch}.sm\:self-baseline{align-self:baseline}.sm\:justify-self-auto{justify-self:auto}.sm\:justify-self-start{justify-self:start}.sm\:justify-self-end{justify-self:end}.sm\:justify-self-center{justify-self:center}.sm\:justify-self-stretch{justify-self:stretcpace-pre-wrap{white-space:pre-wrap}.sm\:break-no-right-radius:.75rem}.sm\:rounded-t-2xl{border-top-left-radius:1rem;border-top-right-radius:1rem}.sm\:rounded-t-3xl{border-top-left-radius:1.5rem;border-top-right-radius:1.5rem}.sm\:rounded-t-full{border-top-left-radius:9999px;border-top-right-radius:9999px}.sm\:rounded-r-none{border-top-right-radius:0;border-bm-right-radius:.125rem}.sm\:rounded-r{bosm-1 {
+    gap: 0.25rem !important;
+  }
+  .gap-sm-2 {
+    gap: 0.5rem !important;
+  }
+  .gap-sm-3 {
+    gap: 1rem !imporrounded-r-xl{border-top-right-radius:.75rem;border-bottom-right-tant;radius

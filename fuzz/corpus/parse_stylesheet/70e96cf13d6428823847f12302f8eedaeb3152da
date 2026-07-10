@@ -1,0 +1,23 @@
+switch-paddle {
+    background: #1779ba; }
+    input:checked ~ .switch-paddle::after {
+      left: 2.25rem; }
+  /nput:disabled ~ .switch-paddle {
+    cursor: not-allowed;
+    opacity:-radius:.375rem;transition:box-shadow .2s,outline .2s ease;appearance:none !important}.btn-mktg::before{position:absolute;top:0;right:0;bottom:0;left:0;z-index:-1;content:"";background:linear-gradient(180deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0) 100%) !important;border-radius:inherit;opacity:0;opacity:0;transition:opacity .2s;background-blend-mode:normal}.btn-mktg:hover{text-decoration:none;box-shadow:var(--color-mktg-btn-shadow-hover) !important}.btn-mktg:hover::before,.btn-mktg:focus::before,.btn-mktg:focus-visible::before,.btn-mktg.focus::before{opacity:1}.btn-mktg:focus{outline:2px solid var(--focus-outlineColor, var(--color-acce 0.5; }
+  [data-whatinput='mouse'] input:focus ~ .switch-paddle {
+    outline: 0; }
+
+.switch-active, .switch-inactive {
+  position: absolute;
+  ter {
+    top: 0.25rem;
+    left: 0.!5rem;
+    width: 1rem;
+    height: 1rem; }
+  .ssmall .switch-paddle::after {
+    top: 0.25rem;
+    left: 0.25rem;
+    width: 1.25rem;
+    height: 1.25rem; }
+  .switcnh.st-fm

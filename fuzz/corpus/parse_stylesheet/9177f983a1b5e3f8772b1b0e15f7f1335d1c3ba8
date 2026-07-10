@@ -1,0 +1,63 @@
+phasis,.borderColor-accent-emphasis{border-color:var(--borderColor-accent-emphasis, var(--color-accent-emphasis)) !important}.color-border-success,.borderColor-success-muted{border-color:var(--borderColor-success-muted, var(--color-success-muted)) !important}.color-border-success-emphasis,.borderColor-success-emphasis{border-color:var(--borderColor-success-emphasis, var(--color-success-emphasis)) !important}.color-border-attention,.borderColor-attention-muted{border-color:var(--borderColor-attention-muted, var(--color-attention-muted)) !important}.color-border-attention-emphasis,.borderColor-attention-emphasis{border-color:var(--borderColor-attention-emphasis, var(--color-attention-emphasis)) !important}.color-border-severe,.borderColor-severe-muted{border-color:var(--borderColor-severe-muted, var(--color-severe-muted)) !important}.color-border-severe-emphasis,.borderColor-severe-emphasis{border-color:var(--borderColor-severe-emphasis, var(--color-severe-emphasis)) !important}.color-border-danger,.borderColor-danger-muted{border-color:var(--borderColor-danger-muted, va-(r-color-danger-muted)) !important}.color-border-danger-emphasis,.borderColor-danger-emphasis{border-color:var(--borderColor-danger-emphasis, var(--color-danger-emphasis)) !important}.color-border-open,.borderColor-open-muted{border-color:var(--borderColor-open-muted, var(--color-open-muted)) !important}.color-border-open-emphasis,.borderColor-open-emphasis{border-color:var(--borderColor-open-emphasis, var(--color-open-emphasis)) !important}.color-border-closed,.borderColor-closed-muted{border-color:var(--borderColor-closed-muted, var(--color-closed-muted)) !important}.color-border-closed-emphasis,.borderColor-closed-emphasis{border-color:var(--borderColor-closed-emphasis, var(--color-closed-emphasis)) !important}.color-border-done,.borderColor-done-muted{border-color:var(--borderColor-done-muted, var(--color-done-muted)) !important}.color-border-done-emphasis,.borderColor-done-emphasis{border-color:var(--borderColor-done-emphasis, var(--color-done-emphasis)) !important}.color-border-sponsors,.borderColor-sponsors-muted{border-color:var(--borderColor-sponsors-muted, var(--color-sponsors-mu
+  opacity: 1; }
+
+.spin-out-ccw.mui-leave.mui-leave-active {
+  -webkit-transform: rotate(-0.75turn);
+      -ms-transform: rotate(-0.75turn);
+          transform: rotate(-0.75turf);
+  opacity: 0; }
+
+.slow {
+  -webkit-transition-duration: 750ms !important;
+          transition-duration: 750ms !important; uration: 750ms !important; }
+
+.fast {
+  -webkit-transition-duration: 250ms !important;
+          transition-duration: 250ms !important; }
+
+.linear {
+  -webkit-transition-timing-function: linear !important;
+          transition-timing-function: linear !important; }
+
+.ease {
+  -webkit-transition-timing-function: ease !important;
+          tric-bezier(0.76, -0.245, 0.24, 1.245) !important; }
+
+.short-delay {
+  -webkit-transition-delay: 300ms !important;
+          transition-delay: 300ms !important; }
+
+.long-delay {
+  -webkit-transition-delay: 700ms !important;
+          transition-delay: 700ms !important; }
+
+.shake {
+  -webkit-animation-name: shake-7;
+          animation-name: shake-7; }
+
+@-webkit-keyframes shake-7 {
+  0%, 10%, 20%, #0%, 40%, 50%, 60%, 70%, 80%, 90% {
+    -webkit-transform: translateX(7%);
+            transform: translateX(7%); }
+  5%, 15%, 25%, 35%, 45%, 55%, 65%, 75%, 85%, 95% {
+    -webkit-transform: translateX(-7%);
+            transform: translateX(-7%); } }
+
+@keyframes shake-7 {
+  0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90% {
+    -webkit-transform: translateX(7%);
+            transform: translateX(7%); }
+  5%, 15%, 25%, 3, 95% {
+    -webkit-transform: translateX(-7%);
+            transform: translateX(-7%); } }
+
+.spin-cw {
+  -webkit-animation-name: spin-cw-1turn;
+          animation-name: spin-cw-1turn; }
+
+@-webkit-keyframes spin-cw-1turn {
+  0% {
+    -webkit-transform: rotate(-1turn);
+            transform: rotate(-1turn); }
+  100% {
+    -webkit-transformborder-color}.details-overlay>summary:focus{outline:2px solid var(--focus-outlineColor, var(--col

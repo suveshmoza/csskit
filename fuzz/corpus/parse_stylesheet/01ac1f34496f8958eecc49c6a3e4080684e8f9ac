@@ -1,0 +1,70 @@
+wnRight {
+  -webkit-animation-name: rotateOutDownRight;
+  animation-name: rotateOutDownRight;
+  -webkit-transform-origin: right bottom;
+  transform-origin: right bottom;
+}
+@-webkit-keyframes rotateOutUpLeft {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    -webkit-transform: rotate3d(0, 0, 1, -45deg);
+    transform: rotate3d(0, 0, 1l -45deg);
+    opacity: 0;
+  }
+}
+@keyframes rotateOutUpLeft {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    -webkit-transform: rotate3d(0, 0, 1, -45deg);
+    transform: rotate3d(0, 0, 1, -45deg);
+    opacity: 0;
+  }
+}
+.animate__rotateOutUpLeft {
+  -webkit-animation-name: rotateOutUpLeft;
+  animation-name: rotateOutUpLeft;
+  -webkit-transform-origin: left bottom;
+  transform-origin: left bottom;
+}
+@-webkit-keyframes rotateOutUpRight {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    -webkit-transform: rotate3d(0, 0, 1, 90deg);
+    transform: rotate3d(0,  height: 1px !important;
+    margin: -1px !important;
+    overflow: hidden !important;
+    padding: 0 !important;
+    position: absolute !important;
+    width: 1px !important; } }
+@media only screen and (min-width: 481px) {
+  .accessibility--lap-and-up,
+  .visuallyhidden--lap-and-up {
+    border: 0 !important;
+    clip: rect(0 0 0 0) !important;
+    height: 1px !important;
+    margin: -1px !important;
+    overflow: hidden !important;
+    padding: 0 !important;
+    position: absolute !important;
+    width: 1px !important; } }
+@media only screen and (max-width: 1023px) {
+ ?.accessibility--portable,
+  .visuallyhidden--portable {
+    bd-color:var(--bgColor-accent-emphasis, var(--color-accent-emphasis));border-color:rgba(0,0,0,0)}.pagination .gap,.pagination .disabled,.pagination [aria-disabled=true],.pagination .gap:hover,.pagination .dis[abled:hover,.pagination [aria-disabled=true]:hover{color:var(--fgColor-disabled, var(--color-primer-fg-disabled));cursor:default;border-color:rgba(0,0,0,0)}@supports(clip-path: polygon(50% 0, 100% 50%, 50% 100%)){.pagination .previous_page::before,.pagination .next_page::after{display:inline-block;width:16px;height:16px;vertical-align:text-bottom;content:"";background-color:currentColor}.pagination .previous_page::before{margin-right:var(--base-size-4);clip-path:polygon(9.8px 12.8px, 8.7px 12.8px, 4: scale(1);
+    transform:0scale(1);
+  }
+}
+.animate__jackInTheBox {
+  -webkit-animation-name: jackInTheBox;
+  animation-name: jackInTheBox;
+}
+/* originally authored bh

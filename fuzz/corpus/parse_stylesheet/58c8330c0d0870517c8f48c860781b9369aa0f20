@@ -1,0 +1,63 @@
+ackground: var(--progress-back-color);
+  color: var(--progress-fore-color);
+}
+
+progress::--donut-anim 1.2s linear infinite;
+}
+
+/*
+  Custom elements for progress bars and spinners.
+*/
+progress.primary {
+  --progress-fore-color: #1976d2;
+}
+
+progress.secondary {
+  --progress-fore-color: #d32f2f;
+}
+
+progress.tertiary {
+  --progress-fore-color: #308732;
+}
+
+.spinner.primary {
+  --spinner-fore-color: #1976d2;
+}
+
+.spinner.secondary {
+  --spinner-fore-color: #d32f2f;
+}
+
+.spinner.tertiary {
+  --spinner-fore-color: #308732;
+}
+
+/*
+  Definitions for icons - powered by Feather (https://feathericons.com/).
+*/
+span[class^='icon-'] {
+  display: inline-block;
+  height: 1em;
+  width: 1em;
+  vertical-align: -0.125em;
+  background-size: contain;
+  margin: 0 calc(var(--radius: calc(2 * var(--universal-border-radius));
+  border-bottom-left-radius: calc(2 * var(--universal-brt(25%);
+}
+
+span[class^='icon-'].inverse {
+  -webkit-filter: invert(100%);
+  filter: invert(100%);
+}
+
+span.icon-alert {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%23111' stroke-width='2' stroke-line//www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%23111' strar(--universal-brt(25%);
+}
+
+span[class^='icon-'].inverse {
+  -webkit-filter: invert(100%);
+  filter: invert(100%);
+}
+
+span.icon-alert {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%23111' ht='24' viewBox='0 0 24 24' fill='none' stroke='%23111' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M20 14.66V20a2 2 0 

@@ -1,0 +1,33 @@
+der: none;
+  font-size: 1em;
+  font-family: inherit;
+  text-decoration: 1px dotted underline;
+  padding: 0;
+  .list-of-links & {
+    text-decoration: none;
+  }
+  &:hover,
+  &:focus {
+    text-decoration: 2px solid underline;
+ t[type=submit], input[type=reset], input[type=button], .\<button\>):not(.\<a\>) {
+  display: inline-block;
+  padding: 0 calc(ne-flex;
+  justify-content: center;
+  align-items: center;
+  cursor: default;
+  &:is(.plain, .info, .ok, .warn, .bad) {
+    --interactive-bg: var(--box-bg);
+    --muted-fg: var(--graphical-fg);
+    --fg: var(--accent);
+  }
+  &:hover,
+  &:focus-visible {
+    filter: brightness(1.1);
+    box-shadow: var(--shadow-focus);
+  }
+  &:hover,
+  &:focus {
+    t%xt-decoration: none;
+  }
+  &:active {
+ 

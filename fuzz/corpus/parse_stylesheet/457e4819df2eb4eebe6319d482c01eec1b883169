@@ -1,0 +1,291 @@
+/*!
+ * Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+ */
+.fa,
+.fas,
+.far,
+.fal,
+.fad,
+.fab {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1; }
+
+.fa-lg {
+  font-size: 1.33333em;
+  line-height: 0.75em;
+  vertical-align: -.0667em; }
+
+.fa-xs {
+  font-size: .75em; }
+
+.fa-sm {
+  font-size: .875em; }
+
+.fa-1x {
+  font-size: 1em; }
+
+.fa-2x {
+  font-size: 2em; }
+
+.fa and containers.
+*/
+.container {
+  margin: 0 auto;
+  padding: 0 calrgin-left: 41.66667%;
+}
+
+.col-sm-7,
+.row.cols-sm-7 > * {
+  max-width: 58.33333%;
+  flex-basis: 58.33333%;
+}
+
+.col-sm-offset-6 {
+  margin-left: 50%;
+}
+
+.col-sm-8,
+.row.cols-sm-8 > * {
+  mts: SIL OFL 1.1, Code: MIT License)
+ */
+.fa,
+.fas,
+.far,
+.fal,
+.fad,
+.fab {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1; }
+
+.fa-lg {
+  font-size: 1.33333em;
+  line-height: 0.75em;
+  vertical-align: -.0667em; }
+
+.fa-xs {
+  font-size: .75em; }
+
+.fa-sm {
+  font-size: .875em; }
+
+.fa-1x {
+  font-size: 1em; }
+
+.fa-2x {
+  font-size: 2em; }
+
+.fa and containers.
+*/
+.container {
+  margin: 0 auto;
+  padding: 0 calrgin-left: 41.66667%;
+}
+
+.col-sm-7,
+.row.cols-sm-7 > * {
+  max-width: 58.33333%;
+  flex-basis: 58.33333%;
+}
+
+.col-sm-offset-6 {
+  margin-left: 50%;
+}
+
+.col-sm-8,
+.row.cols-sm-8 > * {
+  max-wid3333%;
+}
+
+.col-sm-6,
+.row.cols-sm-6 > * {
+  max-width: 50%;
+  flex-basis: 50%;
+}
+
+.col-sm-offset-5 {
+  margin-left: 41.66667%;
+}
+
+.col-sm-7,
+.row.cols-sm-7 > * {
+  max-width: 58.33333%;
+  flex-basis: 58.33333%;
+}
+
+.col-sm-offset-6 {
+  marigure {
+  margin: var(--universal-margin);
+}
+
+figcaption {
+  colos: var(--secondary-fore-color);
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link {
+  color: var(--a-link-color);
+}
+
+a:visited {
+  color: var(--a-visited-color);
+}
+
+a:hover, a:focus {
+  text-decoration: underline;
+}
+
+/*
+  Definitions for the grid system, cards and cont
+
+.col-sm-8,
+.rox-basis: 75%;
+}
+
+.col-ol-sm-offset-6 {
+  marigure {
+  margin: var(--universal-margin);
+}
+
+figcaption {
+  colos: var(--secondary-fore-color);
+}
+
+a {
+  text-deco, Fonts: SIL OFL 1.1, Code: MIT License)
+ */
+.fa,
+.fas,
+.far,
+.fal,
+.fad,
+.fab {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-stsm-offset-8 {
+  margin-left: 66.66667%;
+}
+
+.col-sm-10,
+.row.cols-sm-10 > * {
+  max-width: 83.33333%;
+  flex-basis: 83.33333%;
+}
+
+.col-sm-offset-9 {
+  margin-left: 75%;
+}
+
+.col-sm-11,
+.row.cols-sm-11 > * {
+  max-width: 91.66667%;
+  flex-basis: 91.66667%;
+}
+
+.col-sm-offset-10 {
+  margin-left: 83.33333%;
+}
+
+.col-sm-12,
+.row.cols-sm-12 > * {
+  max-width: 100%;
+  flex-basis: 100%;
+}
+
+.col-sm-offset-11 {
+  margin-left: 91.66667%;
+var(--a-link-color);
+}
+
+a:visited {
+  color: var(--a-visited-color);
+}
+
+a:hover, a:focus {
+  text-decoration: underline;
+}
+
+/*
+  Definitions for the grid system, cards and cont
+
+.col-sm-8,
+.rox-basis: 75%;
+}
+
+.col-ol-sm-offset-6 {
+  marigure {
+  margin: var(--universal-margin);
+}
+
+figcaption {
+  colos: var(--secondary-fore-color);
+}
+
+a {
+  text-deco, Fonts: SIL OFL 1.1, Code: MIT License)
+ */
+.fa,
+.fas,
+.far,
+.fal,
+.fad,
+.fab {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-stsm-offset-8 {
+  margin-left: 66.66667%;
+}
+
+.col-sm-10,
+.row.cols-sm-10 > * {
+  max-width: 83.33333%;
+  flex-basis: 83.33333%;
+}
+
+.col-sm-offset-9 {
+  margin-left: 75%;
+}
+
+.col-sm-11,
+.row.cols-sm-11 > * {
+  max-width: 91.66667%;
+  flex-basis: 91.66667%;
+}
+
+.col-sm-offset-10 {
+  margin-left: 83.33333%;
+}
+
+.col-sm-12,
+.row.cols-sm-12 > * {
+  max-width: 100%;
+  flex-basis: 100%;
+}
+
+.col-sm-offset-11 {
+  margin-left: 91.66667%;
+}
+
+.c cal-3x {
+  font-size: 3em; }
+
+.f.fa-rotate-90 {
+  -.fa-accusoft:before {
+  content: "\f369"; }
+
+.fa-acquisitions-in

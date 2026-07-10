@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/*!
+ * animate.css - https://animate.style/
+ * Version - 4.1.1
+ * Licensed under the Hippocratic License 2.1 - http://firstdonoharm.dev
+ *
+ * Copyright (c) 2022 Animate.css
+ */
+:root {
+  --animate-duration: 1s;
+  --animate-delay: 1s;
+  --animate-repeat: 1;
+}
+.animate__animated {
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webke-100>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;border-color:rgba(219,234,254,var(--tw-divide-opacity))}.xl\:divide-blue-200>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;border-color:rgba(191,219,254,var(--tw-divide-opacity))}.xl\:divide-blit-animation-duration: var(--animate-duration);
+  animation-duration: var(--animate-duration);
+  -webkit-animatioate-delay);
+}
+.animate__animated.animate__delay-2s {
+  -webkit-animation-delay:calc(1s * 2);
+  animation-delay: calc(1s * 2);
+  -webkit-animation-delay: ue-300>:not([hidden])~:not([hidden]){--tw-divide-opacalc(var

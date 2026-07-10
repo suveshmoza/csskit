@@ -1,0 +1,24 @@
+inter{cursor:pointer}.\32xl\:cursor-wait{cursor:wait}.\32xl\:cursor-text{cursor:text}.\32xl\:cursor-move{cursor:move}.\32xl\:cursor-help{cursor:help}.\32xl\:cursor-not-allowed{cursor:not-allowed}.\32xl\:select-none{ack: stretch !important;
+    align-content: stretch !important;
+  }
+  .align-self-md-auto {
+    -ms-flex-item-align: auto !important;
+    align-self: auto !important;
+  }
+  .align-self-md-start {
+    -ms-flex-item-align: start !important;
+    align-self: flex-start !important;
+  }
+umn}.\32xl\:flex-col-reverse{flex-direction:column-reverse}.\32xl\:flex-wrap{flex-wrap:wrap}.\32xl\:flex-wrap-reverse{flex-wrap:wrap-reverse}.\32xl\:flex-nowrap{flex-wrap:nowrap}.\32xl\:place-content-center{place-content:center}.\32xl\:place-content-start{place-content:start}.\32xl\:place-content-end{place-content:end}.\32xl\:place-content-between{place-content:space-between}.\32xl\:place-content-around{place md-start {
+    -ms-flex-item-align: start !important;
+    align-self: flex-p}.\32xl\:place-content-center{place-content:center}.\32xl\:place-content-start{place-content:start}.\32xl\:place-content-end{place-content:end}.\32xl\:place-content-between{place-content:space-between}.\32xl\:place-content-around{place  .align-self-md-end {
+    -ms-flex-item-align: end !important;
+    align-self-content:space-around}.\3KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK2xl\:place-content-evenly{place-content:space-eve: flex-end !important;
+  }
+  .align-self-md-center {
+    -ms-flex-item-align: center !important;
+    align-self: center !important;
+  .
+  la}ign-self-md-baseline {
+    -ms-flex-item-align: baseline !important;
+    align-selfnly}.\32xl\:place-content-stretch{place: 

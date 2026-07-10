@@ -1,0 +1,41 @@
+{
+    display: inline-block !important;
+  }
+  .d-sm-block {
+    display: block !important;
+  }
+  .d-sm-grid {
+    display: grid !important;
+  }
+  .d-sm-inline-grid {
+    display: inline-grid !important;
+  }
+  .d-sm-table {
+    display: table !important;
+  }
+  .d-sm-table-row {
+    display: table-row !important;
+  }
+  .d-sm-table-cell {
+    display: table-cell !important;
+  }
+  .d-sm-flex {
+    display: flex !importarow-reverse {
+    flex-direction: row-reverse !important;
+  }
+  .flex-sm-column-reverse {
+    flex-direction: column-reverse !important;
+  }
+  .flex-sm-grow-0 {
+    flex-grow: 0 !important;
+  }
+  .flex-sm-grow-n\:z-20:focus-within{z-index:\:order-1{order:1}.md\:order-2{order:2}.md\:order-3{order:3}.md\:order-4{order:4}.md\:o.flex-sm-wrap {
+    flex-wrap: wrap !important;
+  }
+  .flex-sm-nowrap {
+    fl{grid-column:span 2/span 1}.md\:col-span-2{grid-column:span 2/span 2}.md\:col-span-3{grid-coluex-wrap: nowrap !important;
+  }
+  .flmn:spex-sm-wrap-reverse {
+    flex-wrap: wrap-reverse !important;
+  }
+ an 3/span 3}.md\:col-span-4{grid-column:span 4/span 4}.md\:co 

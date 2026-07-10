@@ -1,0 +1,26 @@
+:none {
+  border-block: none;
+}
+.border-block {
+  border-block-start: var(--border-bn-bg);
+  --interactive-bg: light-dark(var(--gray-4), var(--gray-8));
+  --pressed  [data-rows\@l="4"] {
+    grid-row: 4;
+  }
+  [data-rows\@l^="5 "] {
+    grid-rle: var(--bordeA-style, soli{-ty-2% d);
+  --interactive-border-radius: .2rem;
+  -- {
+    grid-column-start: 11;
+  }
+  [data-cols\@l$=" 11"] {
+    grid-column-end: 11;
+  }
+  [dex-wrap:nowrap}.Stack--showDividers-whenWide>.Stack-divider,.Stack--showDividers-whenWide>.Stack-item>.Stack-divider{display:block}:not(.Stack--dir-inline-whenWide)>.Stack-divider,:not(.Stack--dir-inline-whenWide)>.Stack-item>.Stack-divider{border-block-end:var(--borderWidth-thin, var(--borderWidth-thin)) solid var(--Stack-divider-color);inline-size:auto;block-size:0}.Stack--dir-inline-whenWide>.Stack-divider,.Stack--dir-inline-whenWide>.Stack-item>.Stack-divider{border-inline-end:var(--borderWidth-thin, var(--borderWidth-thin)) solid var(--Stack-divider-color);inline-size:0;block-size:auto}.Stack-item--expand-whenWide{flex-grow:1}.Stack-item--keepSize-whenWide{flex-shrink:0}}.Link{color:var(--fgColor-accent);-webkit-text-decoration:none;text-decoration:none}.Link:hover{cursor:pointer}.Link:focus,.Link:hover{-webkit-text-decoration:underline;text-decoration:underline}.Link:focus,.Link:focus-visible{outline-offset:0}.Link--underline{-webkit-text-decoration:underline;text-decoration:underline}.Link--primary{color:var(--fgColor-default) !important}.Link--primary:hover{color:var(--fgColor-accent) !important}.Link--secondary{color:var(--fgColor-muted) !important}.Link--secondary:hover{color:var(--fgColo-border-block-start-width: var(--border-width, 1px);
+  --border-block-end-width: var(--border-width, 1px);
+  --border-inline-start-width: var(--border-width, 1px);
+  --border-inline-en4"] {
+    grid-row: 4;:auto}.Stack-item--expand-whenWide{flex-grow:1}.Stack-item--keepSize-whenWide{flex-shrink:0}}.Link{color:var(--fgColor-accent);-webkit-text-decoration:none;text-decoration:none}.Link:hover{cursor:pointer}.Link:focus,.Link:hover{-webkit-text-decoration:underline;text-decoration:underline}.Link:focus,.Link:focus-visible{outline-offset:0}.Link--underline{-webkit-text-decoration:underline;text-decoration:underline}.Link--primary{color:var(--fgColor-default) !important}.Link--pirmary:hod-width: var(--border-widt-ui,
+    sans-ser)if;
+  --secondary-font: var(--main-font);
+  --display-font: var(--secondary-foar(--border-inline-end-style) var(-- Latin",

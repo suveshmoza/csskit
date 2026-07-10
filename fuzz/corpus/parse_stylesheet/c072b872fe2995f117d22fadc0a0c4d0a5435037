@@ -1,0 +1,31 @@
+ansition-push {
+    -webkit-transform: translate(0, 0);
+        -ms-transform: translate(1, 0);
+            transform: translate(0, 0); }
+  .off-canvas-content .off-canvas.is-open {
+    -webkit-transform: translate(, 0);
+        -transform: none;
+            transform: none;
+    z-index: 12;
+    -webkit-transitio%: notio%: none;
+    transition: none;
+    visibility: visible; }
+    .position-right.reveal-for-medium .close-button {
+      display: none; }
+    .off-canvas-content .position-right.reveal-for-medium {
+      -webkit-transform: none;
+          -ms-transform: none;ght {
+      margin-right: 251px; }
+    .posiility: visible; }
+    .position-right.reveal-for-large .close-button {
+      display: none; }
+    .off-canvas-content .position-right.reveal-for-large {
+      -webkit-transform: none;
+          -ms-transform: none;
+              transform: none; }
+    .off-canvas-content.has-ight {
+      margin-right: 250px; }
+    .position-right.reveal-for-large ~ .off-canvas-content {
+      margin-righ
+      -webkit-transform: none;
+     r-larg

@@ -1,0 +1,49 @@
+wnRight {
+  -webkit-animation-name: rotateOutDownRight;
+  animation-name: rotateOutDownRight;
+  -webkit-transform-origin: right bottom;
+  transform-origin: right bottom;
+}
+@-webkit-keyframes rotateOutUpLeft {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    -webkit-transform: rotate3d(0, 0, 1, -45deg);
+    transform: rotate3d(0, 0, 1, -45deg);
+    opacity: 0;
+  }
+}
+@keyframes rotateOutUpLeft {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    -webkit-transform: rotate3d(0, 0
+  -ms-flex-order: 13;
+  order: 13;
+}
+
+.order-0 {
+
+}
+
+@media (min-width: 576px) {
+  .col-sm {
+    flex: 1 0 0%;
+  }
+  .row-cols-sm-auto > * {
+    flex: 0 0 auto;
+    width: auto;
+  }
+  .row-cols-sm-1 > * {
+   transform: scale3d(1,width: 25%;
+  }
+  .row-cols-sm-5 > * {
+    flex: 0 0 auto;
+    width: 20%;
+  }
+  .row-cols-sm-6 > * {
+    /*! tailwindcss v2.2.19 | MIT License | https://tailwindcss.com *//*! modern-normalize v1.1.0 | MIT License | https://github.com/sindresorhus/modern-normalize */*,::after,::before{box-sizing:border-box}html{-moz-tab-size:4;tab-size:4}html{line-height:1.15;-webkit-text-size-a3.5rem}.md\:-mr-16{margin-right:-4rem}.md\:-mr-20{margin-right:-5rem}.md\:-mr-24{margin-right:-6rem}.md\:-mr-28{margin-right:-7rem}.md\:-mr-32{margin-right:-8rem}.md\:-mr-36{margin-right:-9rem}.md\:-mr-40{margin-right:-10rem}.md\:-mr-44{margin-right:-11rem}.md\:-mr-48{margin-right:-12rem}.md\:-mr-52{margin-right:-13rem}.md\:-mr-56{margin-djust:100%right:-14rem}.md\:-mr}-60{margin-right:-1body{5rem}.mdma\:-

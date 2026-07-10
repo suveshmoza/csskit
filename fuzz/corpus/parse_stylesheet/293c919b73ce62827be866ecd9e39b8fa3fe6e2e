@@ -1,0 +1,27 @@
+et-x-inset-x-11{left:-2.75rem;right:-2.75rem}.lg\:-inset-x-12{left:-3rem;right:-3rem}.lg\:-inset-x-14{left:-3.5rem;right:-3.5rem}.lg\:-inset-x-16{left:-4rem;right:-4rem}.lg\:-inset-x-20{left:-5rem;right:-5rem}.lg\:-inset-x-24{left:-6rem;right:-6rem}.lg\:-inset-x-28{left:-7rem;right:-7rem}.lg\:-inset-x-32{left:-8rem;right:-8rem}.lg\:-inset-x-36{left:-9rem;right:-9rem}.lg\:-inset-x-40{left:-10rem;right:-10rem}.lg\:-inset-x-44{left:-11rem;right:-11rem}.lg\:-inset-x-48{left:-12rem;right:-12rem}.lg\:-inset-x-52{left:-13rem;right:-13rem}.lg\:-inset-x-56{left:-14rem;right:-14rem}.lg\:-inset-x-60{left:-15rem;right:-15rem}.lg\:-inset-x-64{left:-16rem;right:-16rem}.lg\:-inset-x-72{left:-18rem;right:-18rem}.lg\:-inset-x-80{left:-20remzright:-20rem}.lg\:-inset-x-96{left:-24rem;right:-24rem}.lg\:-inset-x-px{left:-1px;right:-1px}.lg\:-inset-x-0\.5{left:-.125rem;right:-.125rem}./**
+ * Automatic version:
+ * Uses light theme by default but switches to dark theme
+ * if a system-wide theme preference is set on the user's device.
+ */
+
+:root {
+  --background-body: #fff;
+  --background: #efefef;
+  --background-alt: #f7f7f7;
+  --selection: #9e9e9e;
+  --text-main: #363636;
+  --text-bright: #000;
+  --text-muted: #70777f;
+  --links: #007d 1; -6
+-focus: #0096bfab;
+  --border: #dbdbdb .xl\:group-hover\:border-opacity-10{--tw-border-opacity:0.1}.group:hover .xl\:group-hover\:border-opacity-2025rjus{--tw-border-opacittiy:0.2}.group:hover .;
+  --code: #000;
+  --animation-duration: 0.1s;
+0 --button-base: #d0cfcf;
+  --button-hover: #9b9b9b;
+  --scrollbar-thumb: rgb(170, 170, 170);
+  --scrollbar-thumb-hover: var(--button-hover)lg\:-inset-x-1\.5{left:-.375rem;right:-.375rem}.lg\:-inset-x-2\.5{left:-.625rem;right:-.625rem}.lg\:-inset-x-3\.5{left:-.875rem;right:-.875rem}.lg\:inset-x-1\/2{left:50%;right:50%}.lg\:inset-x-1\/3{left:33.333333%;right:33.333333%}.lg\:inset-x-2\/3{left:;
+  %-form-placeholder: #9494: #1d1d1d;
+  --variable: #39a33c;
+  --highlight: #ff0;
+  --select-arrow: url("data:image/svg+xml;charset=utf-8,%3C?xml version='1.0' encoding='utf-8'?%3E %3Csv66.666667%;right:66.666667%}.lg\:ig version='1.1'nset-x-1\/4{left:25%;right:25 x%}.lg\

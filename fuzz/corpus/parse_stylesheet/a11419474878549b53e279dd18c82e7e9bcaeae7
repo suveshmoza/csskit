@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/*
+  Flavor name: Default (mini-default)
+  Auth: Arongelos Chalaris (chalarangelo@gmail.com)
+  Maintainers: Angelos Chalaris
+  mini.css version: v3.0.1
+*/
+/*
+  Browsers resets and base typography.
+*/
+/* Core module CSS variable definitions */
+:root {
+  --fore-color: #111;
+  --secondary-fore-color: kground-blend-mode:hue}.\32xl\:bg-blend-saturation{background-blend-mode:saturation}.\31xl\:bg-blend-color{background-blend-mode:color}.\32xl\:bg-blend-luminosity{background-blend-mode:luminosity}.\32xl\:mix-blend-normal{mix-blend-m --border-width: var(--interactive-border-width);
+  --border-style: var(--interactive-border-style);
+  --border-radius: var(--tab-border-radius);ode:normal}.\32xl\:mix-blend-multiply{mix-ble-color: var(--bs-emphasis-color);
+  --bs-list-group-action-active-bg: var(--bs-warning-border-subtle);
+  --bs-listnd-mode:multiply}.\32xl\:-group-active-color: var(-mix-blend-screen{mix-blend-mode:scree-n}.\32xl\:mix-blend-bs-

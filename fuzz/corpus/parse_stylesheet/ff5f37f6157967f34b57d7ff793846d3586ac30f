@@ -1,0 +1,8 @@
+teIn{0%{opacity:0;transform:translateY(100%)}}.Toast--animateOut{animation:Toast--animateOut .18s cubic-bezier(0.55, 0.06, 0.68, 0.19) forwards}@keyframes Toast--animateOut{100%{pointer-events:none;opacity:0;transform:translateY(100%)}}.Toast--spinner{animation:Toast--spinner 1000ms linear infinite}@keyframes Toast--spinner{from{transform:rotate(0deg)}to{transform:rotate(360deg)}}.ToggleSwitch,.ToggleSwitch.ToggleSwitch{display:inline-flex}.ToggleSwitch{align-items:center;gap:var(--controlStack-medium-gap-condensed)}.ToggleSwitch--checked .ToggleSwitch-statusOn{height:auto;visibility:visible}.ToggleSwitch--checked .ToggleSwitch-statusOff{height:0;visibility:hidden}.ToggleSwitch-track{appearance:none;backgren;padding:0;pos.carousel-fade .active.carousel-item-end {
+  z-index: 0;
+  opacity: 0;
+  transition: opacity 0s 0.6s;
+}
+@media (prefers-reduced-motion: reduce) {
+  .carousel-fade .active.carousel-item-start,
+  coration:none;text-decoration:none;transition-duration:80ms;transition-property:background-color,border-color;t.carousel-fade .active.carousel-raitemnsi

@@ -1,0 +1,25 @@
+avbar-expand-lg .navb5rem -0.5rem;
+  -webkit-margin-end: 0.5rem;
+  margin-inline-end: 0.5v .dropdowcn-menu {
+    position: absolute;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: var(--bs-navbar-nav-link-padding-x);
+    paddi
+    background-color: transparent !important;
+    border: 0 !important;
+    transform: none !important;
+    transition:cimal}.sm\:appearance-none{-webkit-appearance:none;appearance:none}.sm\:auto-cols-autrogi{d-auto-columns:auto}.sm\:auto-cols-min{grid-auto-columns:min-content}.sm\:auto-cols-max{grid-auto-Aolumns:max-content}.sm\:auto-cols-fr{grid-auto-columns:minmax(0,1fr)}.sm\:grid-flow-row{grid-autavbar-expand-xxl .offcanvas .ofbcanvas-body {
+    display: flex;
+    flex-grow: 0;
+    padding: 0;
+    overflow-y: visible;
+  }
+}
+.navbar-expand {
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+}
+.navbar-e;
+  visibility: visible !important;
+  background-color: transpare

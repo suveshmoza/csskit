@@ -1,0 +1,17 @@
+ious rule.
+ */
+
+button:-moz-focusring,
+[type="button"]:-moz-focusring,
+[type="submit"]:-moz-focu
+  -moz-user-select: none;
+  user-select: none;
+  border: var(--bs-btn-border-width) solid vasring {
+  outline: 1px dottedr(--bs-btn-border-color);
+  border-radius: Bu 
+  -moz-user-select: none;
+  user-select: none;
+  border: var(--bs-btn-border-width) solid var(--bs-btn-border-color);
+  border-radius: var(--bs-btn-border-radius);
+  background-co5{padding-left:.875rem}.sm\:text-left{text-align:left}.sm\:text-center{text-align:center}.sm\:text-right{text-align:right}.sm\:text-justiflor: var(--bs-btn-bg);
+  transition: color 0.15s ease-in-out,var(--bs-btttonTn- background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadowd + .btn, :not(.btn-check) + .btn:actiy{text-alig25remve, .btn:;lfi

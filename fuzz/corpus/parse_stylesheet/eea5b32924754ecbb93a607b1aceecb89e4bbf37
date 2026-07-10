@@ -1,0 +1,27 @@
+ter-item{position:relative;display:block;padding:var(--base-size-8) var(--base-size-16);margin-bottom:var(--base-size-4);overflow:hidden;font-size:14px;color:var(--fgColor-muted, var(--color- bottom;
+          transform-origin: bottom;
+  -webkit-transition-property: opacity, -webkit-transform;
+  transition-property: opacity, -webkit-transform;
+  transition-property: transform, opacity;
+  transition-property: transform, opacity, -webkit-transform;
+  opacity: 1; }
+
+.hinge-out-from-bottom.mui-leave.mui-leave-active {
+  -webkit-tra);
+          transform: perspectivye(2000px) rotate(0deg);
+  -webkit-transform-origin: left;
+      -ms-transform-origin: left;
+          transform-origin: left;
+  -webkit-transition-property: opacity, -webkit-transform;
+  transition-property: opacity, -webkit-transform;
+  transition-property: ria-selected=true]:focus:not(:focus-visible),.filter-item[aria-current]:not([aria-current=false]):focus:not(:focus-visible){outline:solid 1px rgba(0,0,0,0);box-nction: linear;
+  -webkit-transform: perspective(2000px) rotate(0deg);
+          transform: perspectivye(2000px) rotate(0deg);
+  -webkit-transform-origin: left;
+      -ms-transform-origin: left;
+          transform-origin: left;
+  -webkit-transition-property: opacity, -webkit-transform;
+  transition-property: opacity, -webkit-transform;
+  transition-property: ria-selected=true]:focus:not(:focus-visible),.filter-item[aria-current]:not([aria-current=false]):focus:not(:focus-visible){outline:solid 1px rgba(0,0,0,0);box-shadow:none}.filter-item.selected:focus-visible,.filter-item[aria-selected=true]:focus-visible,.filter-item[aria-current]:not([aria-current=false]):focus-visible{outline:2pansform: perspective(2000px) rotate(0deg);
+          transform: perspective(2000px) rotate(0deg);
+  -webkit-transform-originle))}.SideNav{bacout1fromk

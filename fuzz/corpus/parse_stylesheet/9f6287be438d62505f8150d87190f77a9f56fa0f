@@ -1,0 +1,21 @@
+2xl\:inset-y-96{top:24rem;bottom:24rem}.\32xl\:inset-y-auto{top:auto;bottom:auto}.\32xl\:inset-y-px{top:1px;bottom:1px}.\32xl\:inset-y-0\.5{top:.125rem;bottom:.125rem}.\32xl\:inset-y-1\.5{top:.375rem;bottom:.375rem}.\32xl\:inset-y-2\.5{top:.625rem;bottom:.625rem}.\32xl\:inset-y-3\.5{top:.875rem;bottom:.875rem}.\32xl\:-inset-y-0{top:0;bottom:0}.\32xl\:-inset-y-1{top:-.25rem;bottom:-.25rem}.\32xl\:-inset-y-2{top:-.5rem;bottom:-.5rem}.\32red-700{--tw-border-opacity:1;border-color:rgba(185,28,28,var(--tw-border-opacity))}.border-red-800{--tw-border-opacity:1;border-color:rgba(153,27,27,var(--tw-border-opacity))}.border-red-900{--tw-border-opacity:1;border-color:rgba(127,29,29,var(--tw-border-opacity))}.border-yellow-50{--tw-border-opacity:1;border-color:rgba(255,251,235,var(--tw-));background-color:var(--control-bgColor-disabled, var(--color-input-disabled-bg));border-color:var(--control-borderColor-disabled, var(--color-border-default));-webkit-text-fill-color:var(--control-fgColor-disabled, var(--coloror:var(--fgColor-accent, var(--color-accent-fg));cursor:pointer}.TableObject{display:table}.TableObject-item{display:table-cell;width:1%;white-space:nowrap;verticaly:1;border-color:rgba(239,68,68,var(--tw-border-opacity))}.border-red-600{--tw-border-opacity:1;border-color:rgba(220,38,38,var(--tw-border-opacity))}.border-red-700{--tw-border-opacity:1;border-color:rgba(185,28,28,var(--tw-border-opacity))}.border-red-ports(-webkit-touch-callout: none){.form-control,.form-select{font-size:16px}@media(min-width: 768px){.form-control,.form-select{font-size:14px}}}textarea.form-control{padding-top:var(--base-size-8);padding-bottom:var(--base-size-8);line-height:1.order-radius:6px}.form-checkbox input[type=checkbox],.form-checkbox input[type=radio]{float:left;margin:5px 0 0 -20px;vertical-align:nt; if you find you need to do so
+ * it is a failing of the framework s * inuit.css’ default variables. Redefine these in your `_vars.scss` file (found
+ * in the inuit.css-web-template) to override them.
+ */
+/*------------------------------------*\
+    $DEBUG
+\*------------------------------------*/
+/**
+ * Debug mode will visually highlight any potential markup/accessibility quirks
+ * in the browser. Set to `true` or `false`.
+ */
+/*------------------------------------*\
+    $BORDER-BOX
+\*------------------------------*\
+    $FONT-SIZES
+\*------------------------------------*/
+/**
+ * Font-sizes (in pixels). Refer to relevant sections for their implementations.
+ */
+/*------------------------------------*\
+    $QUOTGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGtop:-10rem}.\32xl\:-top-44{top:-11rem}.\32xl\:-top-48{top:-12rem}.\32xl\:-top-52{top:-13rem}.\32xl\:-top-56{top

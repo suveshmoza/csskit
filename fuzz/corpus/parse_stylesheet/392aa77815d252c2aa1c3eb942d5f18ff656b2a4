@@ -1,0 +1,97 @@
+ae8;
+  --teal-2: #96f2d7;
+  --teal-3: #63e6be;
+  --teal-4: #38d9a9;
+  --teal-5: #20c997;
+  --teal-6: #12b886;
+  --teal-7: #0ca678;
+  --teal-8: #099268;
+  --teal-9: #087f5b;
+  --teal-10: #066649;
+  --teal-11: #054d37;
+  --teal-12: #033325;
+  --green-0: #ebfbee;
+  --green-1: #d3f9d8;
+  --green-2: #b2f2bb;
+  --green-3: #8ce99a;
+  --green-4: #69db7c;
+  --green-5: #51cf66;
+  --green-6: #40c057;
+  --green-7: #37b24d;
+  --green-8: #2f9e44;
+  --green-9: #2b8a3e;
+  --green-10: #237032;
+  --green-11: #1b5727;
+  --green-12: #133d1b;
+  --lime-0: #f4fce3;
+  --lime-1: #e9fac8;
+  --lime-2: #d8f5a2;
+  --lime-3: #c0eb75;
+  --lime-4: #a9e34b;
+  --lime-5: #94d82d;
+  {
+  font-family: var(--main-font);
+  line-height: var(--rhythm, 1.4rem);
+  background: var(--bg);
+  color: var(--fg);
+  scroll-padding-block-start: calc(4 * var(--gap));
+  @supports selector(::-webkit-scrollbar-thumb) {
+    ::-webkit-scrollbar-thumb {
+      background-color: var(--accent);
+    }
+    ::-webkit-scrollbar-track {
+      background-color: transparent;
+    }
+  }
+  @supports (scrollbar-color: gray transparent( {
+    scrollbar-color: var(--accent) transparent;
+  }
+}
+html,
+body {
+  scrollbar-width: auto;
+  & * {
+    scrollbar-width: thin;
+  }
+}
+body {
+  margin: 0;
+}
+header,
+footer,
+section + section {
+  margin-block: calc(2 * var(--gap));
+}
+nav {
+  & :is(a:not(.\<button\>), .\<a\>) {
+    text-decoration: 1\/4{top:-25%;right:-25%;bottom:-25%;left:-25%}.lg\:-inset-2\/4{top:-50%;right:-50%;bottom:-50%;left:-50%}.lg\:-inset-3\/4{top:-75%;right:-75%;bottom:-75%;left:-75%}.lg\:-inset-full{top:-100%;right:-100%;bottom:-100%;left:-100%}.lg\:inset-x-0{left:0;right:0}.lg\:inset-x-1{left:.25rem;right:.25rem}.lg\:inset-x-2r the BSD License.
+https://github.com/pure-css/pure/blob/masxer/LICENSE.md
+*/
+/*!
+normalize.css v | MIT License | git.io/normalize
+Copyrigh32{width:8rem}.xl\:w-36{width:9rem}.xl\:w-40{width:10rem}.xl\:w-44{width:11rem}.xl\:w-48{width:12rem}.xl\:w-52{width:13rem}.xl\:wt (c) Nicolas Gallagher and Jonathan Neal
+*/
+/*! normalize.css v8.-56{width:14rem}.xl\:w-60{width:15rem}.xl\:w-64{width:16rem}.xl\:w-72{width:10.1 | MIT License | github.com/necolas/normalize.css */
+
+/* Document
+   =z======================================================================== */
+
+/**
+ * 1. Correct the li8rem}.xl\:w-80{widtne height in alh:20rem}.xl\:w-96{width:24rem}.xl\:w-auto{width:auto}.xl\:w-px{widthl browsers.
+ * 2. Pre:1px}.xl\:vent adw-0\.none;
+    color: var(--accent);
+  }
+}
+aside {
+  font-size: .8em;
+  line-height: calc(var(--rhythm, 1rlh) * 2 / 3);
+  --gap: calc(var(--rhythm, 1rlh) * var(--density) * 2 / 3);
+  border-block-start: var(--border-block-start-width) var(--border-block-start-style) var(--graphical-fg);
+  border-block-end: var(--border-block-end-width) var(--border-block-end-style) var(--graphical-fg);
+  padding-block: var(--gap);
+  margin-block: calc(var(--gap) * 3 / 2);
+  &.bg {
+    padding-inline: var(--gap);
+  }
+  & h1,
+  &

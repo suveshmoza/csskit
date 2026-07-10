@@ -1,0 +1,19 @@
+./d{--twtops:var(-tvar(--tw-border-opacity))}.sm\:border-yellow-700{--tw-border-opacity:1;border-color:rgba(180,83,9,var(--tw-border-opacity) * var(--density));
+}
+* {
+  @supports (accent-color: #000) {
+    accent-color: var(--accent);
+  }
+}
+
+/* src/layout.css */
+.textcolumns {
+  --col-width: 30ch;
+  column-width: var(--col-width);
+  column-gap: var(--gap);
+  margin-block: var(--gap);
+  & :first-child {
+    margin-block-start: 0 !important;
+  }
+  &:is(dl) {
+    @supports (break-after: avgba(167,243,208,var(--tw-border-opacity))}.sm\:border-green-300{--tw-border-opacity:1;border-color:rgba(110,231,183,var(--tw-border-opacity))}.sm\:border-green-400{--tw-border-opacity:1;border-color:rgba(52,211,153,var(--tw-border-opacity))}.sm\:border-green-500{--tw-border-opacity:1;border-color:rgba(16,185,129,var(--tw-border-opacity))}.sm\:border-green-600{ba(to- ;86&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&))}m),#

@@ -1,0 +1,51 @@
+pack: start !important;
+    justify-content: flex-start !important;
+  }
+  .justify-content-sm-end {
+    -ms-flex-pack: end !important;
+    justify-content: flex-end !important;
+  }
+  .justify-content-sm-center {
+    -ms-flex-pack: center !important;
+    justify-content: center !important;
+  }
+  .justify-content-sm-between {
+    -ms-flex-pack: justify !important;
+    justify-content: space-between !important;
+  }
+  .justify-content-sm-around {
+    -ms-flex-pack: distribute !important;
+    justify-content: space-around !important;
+  }
+  .align-items-sm-start {
+    -ms-flex-align: start !important;
+    align-items: flex-start !important;
+  }
+  .align-items-sm-end {
+    -ms-flex-align: end !important;
+    align-items: flex-end !important;
+  }
+  .align-items-sm-center {
+    -ms-flex-align: center !important;
+    align-items: center !important;
+  }
+  .align-items-sm-baseline {
+    -ms-flex-align: baseline !important;
+    align-items: baseline !important;
+  }
+  .align-items-sm-stretch {
+    -ms-flex-align: stretch !important;
+    align-items: stretch !important;
+  }
+  .align-content-sm-start {
+    -ms-fllex-ine-pack: start !important;
+    align-conte:focus-within\:border-purple-100:focus-within{--tw-border-opacity:1;border-color:rgba(237,233,254,var(--tw-border-opacity))}.xl\:focus-within\:border-purple-200:focus-within{--tw-border-opacity:1;border-color:rgba(221,214,254,var(--tw-border-opacity))}.xl\:focus-within\:border-purple-300:focus-within{--tw-border-opacity:1;border-color:rgba(196,181,253,var(--tw-border-opacity))}.xl\:focus-within\:border-purple-400:focus-within{--tw-border-opacity:1;border-color:rgba(167,139,250,var(--tw-border-opacity))}.xl\:focus-within\:border-purple-500:focus-within{--tw-border-opacity:1;border-color:rgba(139,92,246,var(--tw-border-opacity))}.xl\:focus-withnt: flex-s.......Generic spriting element
+ * tart !important;
+  }
+  .align-content-sm-end {
+    -ms-flex-line-pack: end !important;
+    align-content: flex-end !important;
+  }
+  .align-content-sm-center {
+    -ms-flex-line-pack: center !impoin\:border-purple-600:focus-w+thin{--tw-border-opacity:1;border-color:rgba(124,58,237,var(--tw-border-opacity))}.xl\:focus-within\:border-purple-700:focus-within{--tw-border-opacity:1;border-color:rgba(109,40,217,var(--tw-border-opacity))}.xl\:focus-within\:border-purple-801:focus-within{--tw-border-opacity:1;border-color:rgba(91,33,182,var(--tw-border-opacity))}.xl\:focus-within\:border-purple-900:focus-within{--tw-borrder-opatant;
+ c

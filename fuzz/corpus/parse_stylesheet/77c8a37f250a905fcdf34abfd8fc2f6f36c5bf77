@@ -1,0 +1,36 @@
+/*!
+ * Primer CSS
+ * https://primer.style
+ *
+ * Released under MIT license.
+ */[data-color-mode=light][data-light-theme=light],[data-color-mode=light][data-light-theme=light] ::backdrop,[data-color-mode=auto][data-light-theme=light],[data-coloridated .custom-file-input:valid:focus ~ .custom-file-label, .custom-file-input.is-valid:focus ~ .custom-file-label {
+  border-color: #28a745;
+  box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.25);
+}
+
+.invalid-feedback {
+  display: none;
+  width: 100%;
+  margin-top: 0.25rem;
+  font-size: 0.875em;
+  color: #dc3545;
+}
+
+.invalid-tooltip {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 5;
+  display: none;
+  max-width: 100%;
+  padding: 0.25rem 0.5rem;
+  margin-top: .1rem;
+  font-size: 0.875rem;
+  line-height: 1.5;
+  color: #fff;
+  background-color: rgba(220, 53, 69, 0.9);
+  border-radius: 0.25rem;
+}
+
+.form-row > .col > .invalid-tooltip,
+.form-row > [class*="col-"] > .invalid-toobgColor: #ffffff;--codeMirror-gutters-bgColor: #ffffff;--codeMirror-gutterMarker-fgColor-default: #ffffff;--codeMirror-gutterMarker-fgColor-muted: #59636e;--codeMirror-lineNumber-fgColor: #59636e;--codeMirror-cursor-fgColor: #1f2328;--codeMirror-selection-bgColor: #54aeff66;--codeMirror-activeline-bgColor: #818b981f;--codeMirror-matchingBracketsplay-plum-borderColor-emphasis: #a830e8;--display-red-bgColor-muted: #ffe2e0;--display-red-bgColor-emphasis: #df0c24;--display-red-fgColor: #c50d28;--display-red-borderColor-muted: #fecdcd;--display-red-borderColor-emphasis: #df0c24;--display-coral-bgColor-muted: #ffe5db;--display-coral-bgColor-emphasis: #d43511;--display-coral-fgColor: #ba2e12;--display-coral-borderColor-muted: #fecebe;--display-coral-borderColor-emphasis: #d43511;--display-yellow-bgColor-muted: #ffec9e;--display-yellow-bgColor-emphasis: #946a00;--dis

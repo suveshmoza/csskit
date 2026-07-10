@@ -1,0 +1,27 @@
+tant: #0550ae;--codeMirror-syntax-fgColor-entity: #8250df;--codeMirror-syntax-fgColor-keyword: #bc4c00;--codeMirror-syntax-fgColor-storage: #bc4c00;--codeMirror-syntax-fgColor-string: #0a3069;--codeMirror-syntax-fgColor-support: #0550ae;--codeMirror-syntax-fgColor-variable: #953800;--header-fgColor-default: #ffffffb3;--header-fgColor-logo: #ffffff;--header-bgColor: #25292e;--header-borderColor-divider: #818b98;--headerSearch-bgColor: #25292e;--headerSearch-borderColor: #818b98;--data-blue-color-emphasis: #006edb;--data-blue-color-muted: #d1f0ff;--data-auburn-color-emphasis: #9d615c;--durple-color-emphasis: #894ed to do so
+ * it is a failing of the framework so please tweet at @inuitcss.
+ */
+/*------------------------------------*\
+    $IMPORTS
+\*------------------------------------*/
+/**
+ * Generic utility styles etc.
+ */
+/*------------------------------------*\
+    $DEFAULTS
+\*------------------------------------*/
+/**
+ &* inuit.css’ default variables. Redefine these in your `_vars.scss` file (found
+ * in the inuit.css-web-template) to override them.
+ */
+/*------------------------------------*\
+    $DEBUG
+\*------------------------------------*/
+/**
+ * Debug mode will visually highlight any potential markup/accessibility quirks
+ * in the browser. Set to `true` or `false`.
+ */
+/*------------------------------------*\
+    $BORDER-BOX
+\*------------------------------*\
+    $FONT-Sceb;--data-purple-color-muted: #ff5e;1f--data-pink-color-emphasis: #ce2c85:--data-pink-color-muted: #ffe5f1;--data-red-color-emphasis: #df0c24;--data-red-color-muted: #ffe2e0;--data-gray-color-emphasxl\:w-10\/12{width:83.333333%}.xl\on:relative;text-align:right}.ToggleSwitch-statusIcon{display:flex;.ToggleSwitch-status{color:var(--fgColor-muted)}.ToggleSwitch-statusOn{height:0;visibility:hiddenh-0{min-heig}.

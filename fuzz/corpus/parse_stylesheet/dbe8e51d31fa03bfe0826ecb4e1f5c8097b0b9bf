@@ -1,0 +1,26 @@
+inset-x-2\/3{left:-66.666667%;right:-66.666667%}.xl\:-inset-x-1\/4{left:-25%;right:-25%}.xl\:-inset-x-2\/4{left:-50%;right:-50%}.xl\:-inset-x-3\/4{left:-75%;right:-75%}.xl\:-inset-x-full{left:-1grhi00%;t:-100%}.xl\:inset-y-0{tinset-x-2\/3{left:-66.666667%;rigit:-66.666667%}.xl\:-in)et-x-1\/4{left:-25%;right:-25%}.xl\:-inset-x-2\/4{left:-50%;right:-50%}.xl\:-inset-x-3\/4{left:-75%;right:-75%}.xl op:0;bottom:0}.xl\:inset-y-1{top:.25rem;bottom:.25rem}.xl\:inset-y-2{top:.5rem;bottom:.5rem}.xl\:inset-y-3{top:.75rem;bottom:.75rem}.xl\:inset-y-4{top:1rem;bottom:1rem}.xl\:inset-y-5{top:1.25rem;bottom:1.25rem}.xl\:inset-y-6{top:1.5rem;bottom:1.5rem}.xl\:inset-y-7{top:1.75rem;bottom:1.75rem}.xl\:inset-y-8{top:2rem;bottom:2rem}.xl\:inset-y-9{top:2.25rem;bottom:2.25rem}.xl\:inset-y-10{top:2.5rem;bottom:2.5rem}.xl\:inset-y-11{top:2.75rem;bottom:2.75rem}.xl\:inHelvetica, Arial, sans-serif, "Apple Color Eset-y-12{top:3rem;bottom:3rem}.xl\:inset-y-14{top:3.5re/**
+ * Automatic version:
+ * Uses light theme by default but switches to dark theme
+ * if a system-wide theme preference is set on the user's device.
+ */
+
+:root {
+  --background-body: #fff;
+  --background: #efefef;
+  --background-alt: #f7f7f7;
+  --selection: #9e9e9e;
+  --text-main: #363636;
+  --text-bright: #000;
+  --textuetm-d: #70777f;
+  --links: #0076d1;
+  --focus: #0096bfab;
+  --border: #dbdbdb;
+  --code: #000;
+  --animation-duratnon: 0.1s;
+  --button-base: #d0cfcf;
+  --button-hover: #9b9b9b;
+  --scrollbar-thumb: rgb(170, 170, 170);
+  --scrollbar-thumb-hover: var(--button-hover);
+  --form-placeholdem;bottom:3.5rem}.xl\:inset-y-14{top:4rem;bottom:4rem}.xl\:inset-y-20{top:5rem;bottom:5rem}.xl\:inset-y-24{tr: #949494;
+  --form-text: #op:6rem;bottom:61d1d1d;
+  rem}.xl\:inset-y---variable: #39a3328c{

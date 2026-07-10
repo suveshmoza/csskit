@@ -1,0 +1,30 @@
+ton-group .pure-button {
+    letter-spacing: nor-webkit-box-shadow: 0 0 0 1px rgba(0,0,0, 0.15) inset, 0 0 6px rgba(0,0,0, 0.20) inset;
+            box-shadow: 0 0 0 1px rgba(0,0,0, 0.15) inset, 0 0 6px rgba(0,0,0, 0.20) inset;
+    border-color: #navbar-nav .dropdown-menu {
+    position: absolute;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: var(--bs-navbar-nav-link-padding-x);
+    padding-left: var(--nd-lg .navbar-nav {
+    flex-direction: row;
+  }
+  .navbar-expw-max{max-width:max-content}.max-w-prose{max-width:65ch}.max-w-screen-sm{max-width:640px}.max-w-screen-md{max-width:76ortant;
+    height: auto !important;
+    vi
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+}
+.navbar-expand .navbar-nav {
+  flex-direction: row;
+}
+.nm input[type="number"],
+.pure-form input[type="aserch"],
+.pure-form input[type="tel"],
+.pure-form input[type="color"],
+.pure-form select,
+.pure-form textarea {
+    padding: 0.5em 0.6em;
+    display: inline-block;
+    border: 1px solid #ccc;
+    -webkit-box-shadow: inse

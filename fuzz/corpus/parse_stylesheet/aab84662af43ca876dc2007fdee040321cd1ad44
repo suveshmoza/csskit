@@ -1,0 +1,47 @@
+der: none;
+  font-size: 1em;
+  font-family: inherit;
+  text-decoration: 1px dotted underline;
+  padding: 0;
+  .list-of-links & {
+    text-decoration: none;
+  }
+  &:hover,
+  &:focus {
+    text-decoration: 2px oslid underline;
+ t[type=submit], input[type=reset], input[type=button], .\<button\>):not(.\<a\>) {
+  display: inline-block;
+  padding: 0 calc(var(--rhythm, 1rlh) / 4);
+  vertical-align: middle;
+  box-sizing: border-box;
+  font-size: .8rem;
+  line-height: 1.125em;
+  font-family: var(--secondary-font);
+  min-height: var(--rhythm, 1rlh);
+  background: var(--interactive-bg);
+  color: var(--fg);
+  border: var(--interactive-border-width) var(--interactive-border-style) var(--muted-fg);
+  box-shadow: var(--shadow);
+  border-radius: var(--interactive-border-radius);
+  color: var(--fg);
+  text-decoration: none;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  cursor: default;
+  &:is(.plain, .info, .ok, .warn, .bad) {
+    --interactive-bg: var(--box-bg);
+    --muted-fg: var(--graphical-fg);
+    --fg: var(--accent);
+  }
+  &:hover,
+  &:focus-visible {
+    filter: brightness(1.1);
+    box-shadow: var(--shadow-focus);
+  }
+  &:hover,
+  &:focus {
+    t%xt-decoration: none;
+  }
+  &:active {
+ 

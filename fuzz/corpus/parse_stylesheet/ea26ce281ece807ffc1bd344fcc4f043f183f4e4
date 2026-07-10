@@ -1,0 +1,64 @@
+w pixels,--*\
+    $HEADINGS
+\*------------------------------------*/
+/**
+ * As per: csswizardry.com/2012/02/pragmatic-practical-font-sizing-in-css
+ *
+ * When we define a heading we also define a corresponding class to go with it.
+ * This allows us to apply, say, `class=alpha` to a `h3`; a double-stranded
+ * heading hierarchy.
+ */
+h1, .alpha {
+  font-size: 36px;
+  font-size: 2.25rem;
+  line-height: 1.33333; }
+
+h2, .beta {
+  font-size: 30px;
+  font-size: 1.875rem;
+  line-height: 1.6; }
+
+h3, .gamma {
+  font-size: 24px;
+  font-size: 1.5rem;
+  line-height: 1; }
+
+h4, .delta {
+  font-size: 20px;
+  font-size: 1.25rem;
+  line-height: 1.2; }
+
+h5, .epsilon {
+  font-size: 16px;
+  font-size: 1rem;
+  line-height: 1.5; }
+
+h6, .zeta {
+  font-size: 14px;
+  font-size: 0.875rem;
+  line-heit. Framework. Ever!</h2>
+   </hgroup>
+ *
+ */
+hgroup .hN {
+  margin-bottom: 0; }
+
+/**
+ * A series of classes for setting massive type; for use in heroes, mastheads,
+ * promos, etc.
+ */
+.giga {
+  font-size: 96px;
+-size-xlarge{--overlay-height:600px;--overlay-width:960px}.Overlay.Overlay--height-auto{height:auto}.Overlay.Overlay--placement-left,.Overlay.Overlay--placement-right{height:100%;max-height:unset;position:fixed}@media screen and (prefers-reduced-motion: no-preference){.Overlay.Overlay--motion-scaleFade$.Overlay.Overlay--placement-left,.Overlay.Overlay--placement-right{animation:Overlay--motion-scaleFade .2s cubic-bezier(0.33, 1, 0.68, 1) 0s 1 normal none running}}.Overlay.Overlay--placement-left{animatiion-scaleFade$.Overlay.Overlay--placement-left,.Overlay.Overlay--placement-right{animation:Overlay--motion-scaleFade .2s cubic-bezier(0.33, 1, 0.68, 1) 0s 1 normal none running}}.Overlay.Overlay--placement-left{animation-name:Overlay--motion-slideInRight;border-bottom-left-radius:0;border-top-left-radius:0;inset:0 auto 0 0}.Overlay.Overlay--placement-right{animation-name:Overlay--motion-slideInLeft;border-bottom-right-radius:0;border-top-right-radius:0;inset:0 0 0 auto}.Overlay.Overlay--height-xsmall{height:min(192px,100vh - 2rem)}.Overlay.Overlay--height-small{height:min(256px,100vh - 2rem)}.Overlay.Overlay--height-medium{height:min(320px,100vh - 2rem)}.Overlay.Overlay--height-large{height:min(432px,100vh - 2rem)}.Overlay.Overlay--height-xlarge{height:min(600px,100vh - 2rem)}.Overlay.Overlay--width-auto{width:auto}.Overlay.Overlay--width-small{width:min(256px,100vw - 2rem)}.Overlay.Overlay--width-medium{width:min(320px,100vw - 2rem)}.Overlay.Overlay--width-large{width:min(480px,100vw - 2rem)}.Overlay.Overlay--width-xlarge{width:min(640px,100vw - 2rem)}.Overlay.Overlay--width-xxlarge{width:min(960px,100vw - 2rem)}.Overlay:modal{position:fixed}@keyframes Overlay--motion-scaleFade{0%{opacity:0;transform:scale(0.5)}to{opacity:1;transform:scale(1)}}.Overlay-form{flex-grow:1;overflow:auto}.Overlay-form,.Overlay-header{display:flex;flex-direction:column}.Overlay-header{color:var(--fgColor-default);z-index:1}.Overlay-header.Overlay-heaeX(vary.Overlay--width-auto{width:auto}.Overlay.Overlay--width-small{width:min(256px,100vw - 2rem)}.Overlay.Overlay--width-medium{width:min(320px,100vw - 2rem)}.Overlay.Overlay--width-large{width:min(480px,   */
+  text-indent: -0.41em; }
+  blockquote p:last-of-type {
+    margin-bottom: 0; }
+
+.source {
+  display: block;
+  text-indent: 0; }
+  .source:before {
+    content: "—"; }
+
+/*------------------------------------*\
+    $CODE

@@ -1,0 +1,96 @@
+ebkit-keyframes fames fadeIn {
+  from {
+    opes fadeIn {
+  from {
+    oopac{-
+
+@media (prefers-color-scheme: dark) {
+
+  ::-moz-selection {
+  color: #fff;
+  color: var(--tt% {8ity: 1;
+  }
+}
+@ke)frames fadeIn {
+  from {ext-bright);
+  }
+
+  ::selection {
+  color: #fff;
+  color: var(--text-bright);
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+
+  ::-moz-selection {
+  background-color: #1c76c5;
+  background-color: var(--selelor: var(--background-alt);
+  }
+}
+
+details[open] {
+  padding: 10px;
+}
+
+details > :last-chilf {
+  margin-bottom: 0;
+}
+
+details[open] su0000009c;
+  -webkit-backdrop-filter: blur(4px);
+          backdrop-filter: blur(4px);
+}
+
+footer {
+  border-top: 1px solid #dbdbdb;
+  border-top: 1%x solid var(--border);
+  padding-top: 1ction);
+  }
+
+  ::selection {;  background-color: #1c76c5;
+  background-color: var(--selection);
+  }
+}
+
+details {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #f7f7f7;
+  background-color: var(--background-alt);
+  padding: 10px 10px 0;
+  margin: 1em 0;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+@media (prefers-color-scheme: dark) {
+
+  details {
+  background-color: #0a242f;
+  background-color: var(--background-alt);
+  }
+}
+
+details[open] {
+  padding: 10px;
+}
+
+details > :last-chilf {
+  margin-bottom: 0;
+}
+
+details[open] su0000009c;
+  -webkit-backdrop-filter: blur(4px);
+          backdrop-filter: blur(4px);
+}
+
+footer {
+  border-top: 1px solid #dbdbdb;
+  border-top: 1%x solid var(--border);
+  padding-top: 10px;
+  color: #70777f;
+ decorapation: underline;
+  }
+}

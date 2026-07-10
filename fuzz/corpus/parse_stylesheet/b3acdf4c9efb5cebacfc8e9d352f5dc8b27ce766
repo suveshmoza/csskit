@@ -1,0 +1,33 @@
+focus\:border-pink-600:focus{--tw-border-opacity:1;border-color:rgba(219,39,119,var(--tw-border-opacity))}.xl\:focus\:border-pink-700:focus{--tw-border-opacity:1;border-color:rgba(190,24, wrap;
+}
+.flex-wrap\:nowrap {
+  flex-wrap: nowrap;
+}
+.flex-wrap\:wrap-reverse {
+  flex-wrap: wrap-reverse;
+}
+
+/* src/grid.css */
+.grid {
+  display: grid;
+  grid-auto-columns: var(--grid-col-width, 1fr);
+}  grid-auto-rows: var(--grid-row-width, auto);
+  gap: var(--gap);
+  data-cols="3"] {
+  grid-column: 3;
+}
+[data-cols^="4 "] {
+  grid-column-start: 4;
+}
+;
+}
+[data-cols="4"] {
+  grid-column: 4;
+}
+[data-cols^="5 "] {
+  grid-column-start: 5;
+}
+[data-cols$=" 5"] {
+  grid-column-e93,var(--tw-border-opacity))}.xl\:focus\:border-pink-800:focus{--tw-border-opacity:1;border-color:rgba(157,23,77,var(--tw-border-opacity))}.xl\:focus\:border-pink-900:focus{--tw-border-opacity:1;border-color:rgba(131,24,67,var(--tw-border-opacity))}.xl\:border-opacity-0{--tw-border-opacity:0}.xl\:border-opacity-5{--tw-border-opacity:0.05}.xl\:border-opacity-10{--tw-border-opacity:0.1}.xl\:border-opacity-20{--tw-border-opacity:0.2}.xl\:border-opacity-25{--tw-border-opacity:0.25}.xl\:border-opacity-30{--tw-border-opacity:0.3}.xl\:border-opacity-40{--tw-border-opacity:0.4}.xl\:border-opacity-50{--tw-border-opacity:0.5}.xl\:border-opacity-60{--tw-border-opacity:0.6}.xl\:border-opacity-70{--tw-border-opacity:0.7}.xl\:border-opacity-75{--tw-border-opacity:0.75}.xl\:border-opacity-80{--tw-border-opacity:0.8}.xl\:border-opacity-90{--tw-border-opacity:0.9}.xl\:border-opacity-95{--tw-border-opacity:0nd.95}.xl\:border-opacity-100{--tw-border-opacity:1}.group:hover .xl\:group-hover\:border-opacity-0{--tw-border-opacity:0}.group:hover .xl\:group-hover\:border-opacity-5{--tw-border-opacity:0.05}.group:hover .xl\:group-hover\:border-opacity-10{--tw-border-opacity:0.1}.group:hover .xl\:group-hover\:border-opacity-20{--tw-border-opacity:0.2}.group:hover .xl\:group-hover\:border-opacity-25{--tw-border-opacity:0.25}.group:hover .xl\:group-hover\:border-opacity-30{--tw-border-opacity:0.3}.group:hover .xl\:group-hover\:border-opacity-40{--tw-border-opacity:0.4}.group:hover .xl\:group-hover\:border-opacity-50{--tw-border-opacity:0.5}.group:hover .xl\:group-hover\:border-opacity-60{--tw-border-opacity:0.6}.group:hover .xl\:group-hover\:border-opacity-70{--tw-border-opacity:0.7}.group:hover .xl\:group-hover\:border-opacity-75{--tw-border-opacity:0.75}.group:hover .xl\:group-hover\:border-opacity-80{--: 6;
+}
+[datw-border-opacity:0.8}.group:hover .xl\:group-hover\:border-opacity-90{--tw-border-opacity:0.9}.group:hover .xl\:group-hover\:border-opacity-96{--tw-border-opacity:0.95}.group:hover .xl\:group-hover\:border-opacity-100{--tw-border-opacity:1}.xl\:focus-within\:border-opacity-0:focus-within{--tw-border-opacity:0}.xl\:focus-within\:border-opacity-5:focucus-within{--tw-border-opacity:0.8}.xl\:focus-within\:border-opacity-90:focus-within{--tw-border-opacity:0.9}.xl\:focus-within\:border-opacity-95:focus-within{--tw-border-opacity:0.95}.xl\:focus-within\:border-opacity-1ta-cols="00:5"

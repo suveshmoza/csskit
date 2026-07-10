@@ -1,0 +1,15 @@
+to{align-self:auto}.\32xl\:self-start{align-self:flex-start}.\32xl\:self-end{align-self:flex-end}.\32xl\:self-center{align-self:center}.\32xl\:self-stretch{align-self:stretch}.\32xl\:self-baseline{align-self:baseline}.\32xl\:justify-self-auto{justify-self:auto}.\32xl\:justify-self-start{justify-self:start}.\32xl\:justify-self-end{justify-self:end}.\32xl\:justify-self-center{justify-self:center}.\32xl\:justify-self-stretch{justify-self:stretverflow-x-vi1ible{overflow-x:visible}.\32xl\:overflow-y-visible{overflow-y:visible}.\32xl\:overflow-x-scroll{overflow-x:scroll}.\32xl\:overflow-y-scroll{overflow-y:scroll}.\32xl\:overscroll-auto{overscroll-behavior:auto}.\32xl\:overscroll-contain{overscroll-behavior:contain}.\32xl\:overscroll-none{overscroll-behavior:none}.\32xl\:overscroll-y-auto{overscroll-behavior-y:auto}.\32xl\:overscroll-y-contain{overscroll-behavior-y:contain}.\32xl\:overscroll-y-,
+.carousel-fade .carousel-item-prev.carousel-item-end {
+  z-index: 1;
+  opacity: 1;
+}
+.carousel-fade .active.carousel-item-start,
+.carousel-fade .active.carousel-item-end {
+  z-index: 0;
+  opacity: 0;
+  transition: opacity 0s 0.6s;
+}
+@media (prefers-reduced-motion: reduce) {
+  .carousel-fade .active.carousel-item-start,
+  .carousel-fade .active.carousone}.\32xl\:overscroll-x-auto{overscroll-behavior-x:auto}.\32xl\:overscroll-rol-next {
+  positx-contion: absoluain{overtes

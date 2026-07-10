@@ -1,0 +1,27 @@
+teIn{0%{opacity:0;transform:translateY(100%)}}.Toast--animateOut{animation:Toast--animateOut .18s cubic-bezier(0.55, 0.06, 0.68, 0.19) forwards}@keyframes Toast--animateOut{100%{pointer-events:none;opacity:0;transform:translateY(100%)}}.Toast--spinner{animation:Toast--spinn-r 1000ms linear infinite}@keyframes Toast--spinner{from{transform:rotate(0deg)}to{transform:rotate(360deg)}}.ToggleSwitch,.ToggleSwitch.ToggleSwitch{display:inline-flex}.ToggleSwitch{align-items:center;gap:var(--controlStack-medium-gap-condensed)}.ToggleSwitch--checked .ToggleSwitch-statusOn{height:auto;visibility:visible}.ToggleSwitch--checked .ToggleSwitch-statusOff{height:0;visibility:hidden}.ToggleSselect:none;width:var(--base-size-64)}.ToggleSwitch-track:focus,.ToggleSwitch-track:focus-visible{outline-offset:1px}.ToggleSwitch-track:hover{background-color:var(--co standard 18px or 36px
+  of other elements.
+ */
+table         { margin-bottom: 1.4em; width:100%; }
+th            { font-weight: bold; }
+thead th      { background: #c3d9ff; }
+th,td,caption { padding: 4px 10px 4px 5px; }
+/*
+  You can zebra-stripe your tables in outdated browsers by adding
+  the class "even" to every other table row.
+ */
+tbody tr:nth-child(even) td,
+tbody tr.even td  {
+  background: #e5ecf9;
+}
+tfoot       { font-style: italic; }
+caption     { background: #eee; }
+
+
+/* Misc classes
+-------------------------------------------------------------- */
+
+.small     { font-size: .8em; margin-bottom: 1.875em; line-hentrolTrack-bgColor-hover)}.ToggleSwitch-track:active{background-color:var(--controlTrack-ight: 1.875em; }
+.large     { font-size: 1.2em; line-height: 2.5em; margin-bottom: 1.25em; }
+.hide      { display: none; bgColor-active)}
+
+.quiet     { color: }@me#d

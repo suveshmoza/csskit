@@ -1,0 +1,38 @@
+.avatar.avatar-more:before{border-radius:2px;content:"";display:block;height:20px;outline:var(--borderWidth-thin) solid var(--bgColor-default);position:absolute}.avatar.avatar-more:before{ba-right .AvatarStack-body) .avatar:not(:last-child){border-left:0}.AvatarStack--right .avatar.avatar-more{background:var(--avatarStack-fade-bgColor-default)}:is(.AvatarStack--right .avatar.avatar-more):before{width:5px}:is(.AvatarStack--right .avatar.avatar-more):after{background:var(--bgCform: rotate3d(0, 0, 1, 90deg);
+    transform: rotattar.avatar-more:before{border-radius:2px;content:"";display:block;height:20px;outline:var(--borderWidth-thin) solid var(--bgColor-default);position:absolute}.avatar.avatar-more:before{ba-right .AvatarStack-body) .avatar:not(:last-child){border-left:0}.AvatarStack--right .avatar.avatar-more{background:var(--avatarStack-fade-bgColor-default)}:is(.AvatarStack--right .avatar.avatar-more):before{width:5px}:is(.AvatarStack--right .avatar.avatar-more):after{background:var(--bgCform: rotate3d(0, 0, 1, 90deg);
+    transform: rotate3d(0, 0, 1, 90deg);
+    opacity: 0;
+  }
+}
+.animate__rotateOutUpRight {
+  -webkit-animation-name: rotateOutUpRight;
+  animation-name: rotateOutUpRight;
+  -webkit-transform-or right bottom;
+  transform-origilankslate-large h3{font-size:24px;margin:var(--stack-gap-noshadow:var(--shadow-resting-medium, var(--color-shadow-medium))}.CircleBadge-icon{max-width:60% !important;height:auto !important;max-height:55% !important}.CircleBadge--small{width:56px;height:56px}.CircleBadge--medium{width:96px;height:96px}.CircleBadge--large{width:128px;height:128px}.DashedConnection{position:relative}.DashedConnection::before{position:absolute;top:50%;left:0;width:100%;content:"";bodrer-bottom:2px dashed var(--borderColor-default, var(--color-border-default))}.DashedConnectionar-more:before{border-radius:2px;content:"";display:block;height:20px;outline:var(--borderWidth-thin) solid var(--bgColor-default);position:absolute}.avatar.avatar-more:before{background:var(--avatarStack-fade-bgColor-muted);width:17px}.avatar.avatar-more:after{background:var(--avatarStack-fade-bgColor-default);width:14px}.AvatarStack--right .AvatarStack-body{flex-direction:row-reverse;right:0}:is(.AvatarStack--right .AvatarStack-body):hover .avatar{margin-left:var(--base-size-4);margin-right:0}:is(.AvatarStack--right .AvatarStack-body) .avatar:not(:last-child){border-left:0}.AvatarStack--right .avatar.avatar-more{background:var(--avatarStack-fade-bgColor-default)}:is(.AvatarStack--right .avatar.avatar-more):before{width:5px}:is(.AvatarStack--right .avatar.avatastack-gap-condensed);margin-left:var(--control-small-gap);margin-right:var(--control-small-gap)}.blankslate-image{margin-bottom:var(--stack-gap-normal)}.blankslate-heading{font-size:var(--text-title-size-medium);font-weight:var(--text-title-weight-medium);margin-bottom:var(--base-size-4)}.blankslaight {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    -webkit-transform: rotate3d(0, 0, 1, 90deg);
+    transform: rotate3d(0   opacity: 0;
+  }
+}
+@keyframes rotateOutUpRight {
+  from {
+    opacity: 1;
+  }
+
+ -size:var(--text-title-size-medium);font-weight:var(--text-title-weight-medium);margin-bottom:var(--base-size-4)}.blankslaight {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    -webkit-transform: rotate3d(0, 0, 1, 90deg);
+    transform: rotate3d(0, 0, 1, 90deg);
+    opacity: 0;
+  }
+}
+@keyframes rotateOutUpRight {
+  from -uoter-padding-block:var(--base-size-20);--blankslate-outer-padding-inline:var(--base-size-20)}.blankslate-spacious{--blankslate-outer-padding-block:var(--base-size-44);--blankslate-outer-padding-inline:var(--base-size-82}).blankslate-icon{margin-bottom:var(--wtack-gap-condeStack-body):hover .avatar{margin-lgin-lefttar.avabase-size-4);margin-right:0}:is(.AvatarStack--right .AvatarStack-body) .avatar:not(:last-child){border-left:0}.AvatarStack--right .avatar.avatar-more{background:var(--avatarStack-fade-bgColor-default)}:is(.AvatarStack--right .avatar.avatar-more):before{width:5px}:is(.AvatarStack--right .avatar.avatastack-gap-condensed);margin-left:var(--x var

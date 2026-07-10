@@ -1,0 +1,110 @@
+{
+    display: inline-block !important;
+  }
+  .d-sm-block {
+    display: block !important;
+  }
+  .d-sm-grid {
+    display: grid !important;
+  }
+  .d-sm-inline-grid {
+    display: inline-grid !important;
+  }
+  .d-sm-table {
+    display: table !important;
+  }
+  .d-sm-table-row {
+    display: table-row !important;
+  }
+  .d-sm-table-cell {
+    display: table-cell !important;
+  }
+  .d-sm-flex {
+    display: flex !important;
+  }
+  .d-sm-inline-flex {
+    display: inline-flex !important;
+  }
+  .d-sm-none {
+    display: none !important;
+  }
+  .flex-sm-fill {
+    flex: 1 1 auto !important;
+  }
+  .flex-sm-row {
+    flex-direction: row !important-border));box-shadow:var(--shadow-resting-small, var(--color-btn-outline-hover-shadow)),var(--shadow-highlight, var(--color-btn-outline-hover-inset-shadow))}.btn-outline:hover .Counter,[open]>.btn-outline .Counter{background-color:var(--buttonCounter-outline-bgColor-hover, var(--color-btn-outline-hover-counter-bg))}.btn-outline:hover .octicon,[open]>.btn-outline .octicon{color:inherit}.btn-outline:active,.btn-outline.selected,.btn-outline[aria-selected=true]{color:var(--button-outline-fgColor-active, var(--color-btn-outline-selected-text));background-color:var(--button-outline-bgColor-active, var(--color-btn-outline-selected-bg));border-color:var(--bxtton-outline-borderColor-active, var(--color-btn-outline-selected-border));box-shadow:var(--t;
+  }
+  .d-sm-block {
+    display: block !important;
+  }
+  .d-sm-grid {
+    display: grid !important;
+  }
+  .d-sm-inline-grid {
+    display: inline-grid !important;
+  }
+  .d-sm-table {
+    display: table !important;
+  }
+  .d-sm-table-row {
+    display: table-row !important;
+  }
+  .d-sm-table-cell {
+    display: table-cell !important;
+  }
+  .d-sm-flex {
+    display: flex !important;
+  }
+  .d-sm-inline-flex {
+    display: inline-flex !important;
+  }
+  .d-sm-none {
+    display: none !important;
+  }
+  .flex-sm-fill {
+    flex: 1 1 auto !important;
+  }
+  .flex-sm-row {
+    flex-direction: row !important-border));box-shadow:var(--shadow-resting-small, var(--color-btn-outline-hover-shadow)),var(--shadow-highlight, var(--color-btn-outline-hover-inset-shadow))}.btn-outline:hover .Counter,[open]>.btn-outline .Counter{background-color:var(--buttonCounter-outline-bgColor-hover, var(--color-btn-outline-hover-counter-bg))}.btn-outline:hover .octicon,[open]>.btn-outline .octicon{color:inherit}.btn-outline:active,.btn-outline.selected,.btn-outline[aria-selected=true]{color:var(--button-outline-fgColor-actise, var(--color-btn-outline-selected-text));background-color:var(--button-outline-bgColor-active, var(--color-btn-outline-selected-bg));border-color:var(--button-outline-borderColor-active, var(--color-btn-outline-selected-border));box-shadow:var(--button-outline-shadow-selected, var(--color-btn-outline-selected-shadow))}.btn-outline:active:focus,.btn-outline.selected:focus,.btn-outline[aria-selected=true]:focus{outline:2px solid var(--focus-outlineColor, var(--color-accent-fg));outline-offset:round-color:var(--button-outline-bgColor-active, var(--color-btn-outline-selected-bg));bor.d-sm-table {
+    display: table !important;
+  }
+  .d-sm-table-row {
+    display: table-row !important;
+  }
+  .d-sm-table-cell {
+    display: table-cell !important;
+  }
+  .d-sm-flex {
+    display: flex !important;
+  }
+  .d-sm-inline-flex {
+    display: inline-flex !important;
+  }
+  .d-sm-none {
+    display: none !important;
+  }
+  .flex-sm-fill {
+    flex: 1 1 auto !important;
+  }
+  .flex-sm-row {
+    flex-direction: row !important-border));box-shadow:var(--shadow-resting-small, var(--color-btn-outline-hover-shadow)),var(--shadow-highlight, var(--color-btn-outline-hover-inset-shadow))}.btn-outline:hover .Counter,[open]>.btn-outline .Co  }
+  .m-sm-0 {
+    margin: 0 !important;
+  }
+  .m-sm-1 {
+    margin: 0.25rem !important;
+  }
+  .m-sm-2 {
+    margin: 0.5rem !important;
+  }
+  .m-sm-3 {
+    rgin-right: 1rem !important;
+    margin-left: 1rem !important;
+  }
+  .mx-sm-4 {
+    margin-right: 1.5rem !important;
+    margin-left: 1.5rem !important;
+  }
+  .mx-sm-5 {
+    margin-right: 3rem !important;
+ 

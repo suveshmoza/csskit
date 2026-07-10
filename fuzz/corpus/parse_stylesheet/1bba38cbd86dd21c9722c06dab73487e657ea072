@@ -1,0 +1,21 @@
+inter{cursor: Neue', 'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', sans-serif;
+  line-height: 1.4;
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 0 10px;
+  word-wrap: break-word;
+  color: #363636;
+  color: var(--text-main);
+  backgct:none}.\3lign-self-md-start {
+    -ms-flex-item-align: start !important;
+    align-self: flex-start !important;
+ Z }
+umn}.\32xl\:flex-col-reverse{flex-direction:column-reverse}.\32xl\:flex-wrap{flex-wrap:wrap}.\32xlrap}.\33xl\:place-content-center{place-content:center}.\32xl\:place-contentKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK2xl\:place-content-evenly{place-content:space-eve: flex-end !important;
+  }
+  .align-self-md-center {
+    ms-flex-item-align: center !important;
+    align-self: center !important;
+  }
+  .align-self-md-baseline {
+    -ms-flex-item-align: baseline !important;
+    align-selfnly}.\32xl\:place-content-stretch{place: 

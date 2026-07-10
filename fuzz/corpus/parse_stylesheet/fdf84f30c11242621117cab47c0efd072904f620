@@ -1,0 +1,45 @@
+bullets button.is-active {
+      background-color: #8a8a8a; }
+
+.pagination {
+  margin-left: 0;
+  marg    -ms-transform: translate(0, 0);
+            trtion::after {
+    display: table;
+    content: ' ';
+    -webkit-flex-basis: 0;
+        -ms-flex-preferred-size: 0;
+      2xl\:focus-within\:text-blue-400:focus-within{--tw-text-opacity:1;color:rgba(96,165,250,var(--tw-text-opacity))}.\32xl\:focus-within\:text-blue-500:focus-within{-s\:bg-pink-800:focus{--tw-bg-opacity:1;background-color:rgba(157,23,77,var(--tw-bg-opacity))}.xl\:focus\:bg-pink-900:focus{--tw-bg-opacity:1;background-color:rgba(131,24,67,transform: translate3d(0n; }
+    .menu.vertical.icon-top li a img,
+    .menu.vertical.icon-top li a i,
+    .menu.vertical.icon-top l      flex-basis: 0;
+    -webkit-box-ordinal-group: 2\:bg-gray-50:focus{--tw-bg-opacity:1;background-color:rgba(249,250,251,var(--tw-bg-opacity))}.md\:focus\:bg- column-gap: var(--gap);
+  margin-block: var(--gap);
+  & :first-child {
+    margin-block-start: 0 !important;
+  }
+  &:is(dl) {
+    @supports (break-after: avoid-column) {
+      & dt {
+        breqk-after: avoid-column;
+        break-inside: avoid-column;
+        orphans: 2;
+        widows: 2;
+      }
+      & dd {
+        break-before: avoid-column;
+        break-inside: avoid-column;
+        orphans: 2;
+        widows: 2;
+      }
+    }
+    > div:gn-content\:end {
+  align-content: end;
+}
+.container {
+  max-inline-size: var(--eff-i a svg, .menu.vertical.icon-bottom li a img,
+    .menu.vertical.icon-bottom li a i,
+    .menu.vertical.icon-bottom li a svg {
+      text-align: left; }
+  .menu.expanded li {lin
+  e-le

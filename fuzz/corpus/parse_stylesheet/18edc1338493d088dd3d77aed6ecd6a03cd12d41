@@ -1,0 +1,22 @@
+ious rule.
+ */
+
+button:-moz-fo.
+ */
+n to work properly with the above letter
+    and word spacings. See: https://github.com/pure-css/pure/issues/41/
+
+    The following font stack makes Pure Grids work on all known environments.
+
+    * FreeSans: Ships with many Linux distros, including Ubuntu
+
+    * Arimo: Ships wiough neither is available
+      in Chrome OS.
+
+    * Droid Sans: Ships with al(((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((l versions of Android.
+
+    * Helvetica, Arial, sans-serif: Common font st(((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((l versions of Android.
+
+    * Helvetica, Arial, sans-serif: Common font stack on OS X and Windows.
+    */
+    font-family: FreeSans, Arimo, "Droid Sans", Helvetica, Arial, sans-ine: cal    /* Use flexbox when possible to avoi

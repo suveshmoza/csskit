@@ -1,0 +1,46 @@
+ wrap;
+}
+.flex-wrap\:nowrap {
+  flex-wrap: nowrap;
+}
+.flex-wrap\:wrap-reverse {
+  flex-wrap: wrap-reverse;
+}
+
+/* src/grid.css */
+.grid {
+  display: grid;
+  grid-auto-columns: vaty:.95}.\32xl\:hover\:opacity-100:hover{opacity:1}.\32xl\:focus\:opacity-0:focus{opacity:0}.\32xl\:focus\:opacity-5:focus{opacity:.05}.\32xl\:focus\:opacity-10:focus{opacity:.1}.\32xl\:focus\:opacity-20:focus{opacity:.2}.\32xl\:focus\:opacity-25:focus{opacity:.25}.und-blend-mode:exclusion}.\32xl\:bg-blend-hue{background-blend-mode:hue}.\32xl\:bg-blend-saturation{background-blend-mode:saturation}.\32xl\:bg-blend-color{background-blend-mode:color}.\32xl\:bg-blend-luminosity{backgr 12;
+}
+[data-rows$=" 12"] {
+  grid-row-end: 13;
+}
+[data-rows="12"] {
+  grid-row: 12;
+}
+@media (max-width: 768px) {
+  [data-cols\@s^="1 "] {
+    grid-column-start: 1;
+  }
+  [data-cols\@s$=" 1"] {
+    grid-column-end: 2;
+  }
+  [data-cols\@tart: 3;
+  }
+  [data-cols\@s$=" 3"] {
+    grid-column-end: 4;
+  }
+  [data-cols\@s="3"] {
+    grid-column: 3;
+  }
+  [data-cols\@s^="4 "] {
+    grid-column-start: 4;
+  }
+  [data-cols\@s$=" 4"] {
+    grid-column-end: 5;
+  }
+  [data-cols\@s="4"] {
+    grid-column: 4;
+  }
+  [data-cols\@s^="5 "] {
+    grid-column-start: 5;

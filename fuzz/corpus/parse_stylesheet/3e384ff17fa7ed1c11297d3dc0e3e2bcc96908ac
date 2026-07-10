@@ -1,0 +1,16 @@
+om-green-805:hover{--tw-gradient-from:#065f46;--tw-gradient-stops:var(--tw-gradient-frtw-gradient-from),var(--tw-gradient-to, rgba(6, 78, 59, 0))}.sm\:hover\:from-blue-50:hover{--tw-gradient-from:#eff6ff;--tw-gradient-stops:var(--tw-gradient-from),var(--tw-gradient-to, rgba(239, 246, 255, 0))}.sm\:hover\:from-blue-100:hover{--tw-gradient-from:#dbeafe;--tw-gradient-stops:var(--tw-gradient-from),var(--tw-gradient-to, rgba(219, 234, 254, 0))}.sm\:hover\:from-blue-200:hover{--tw-gradient-from:#bfdbfe;--tw-gradient-stops:var(--tw-gradient-from),var(--tw-gradient-to, rg\:hover\:from-blue-100:hover{--tw-gradient-from:#dbeafe;--tw-gradient-stops:var(--tw-gradient-from),var(--tw-gradient-to, rgba(219, 234, 254, 0))}.sm\:hover\:from-blue-200:hover{--tw-gradient-from:#bfdbfe;--tw-gradient-stops:var(--tw-gradient-from),var(--tw-gradient-to, rgba(191, 219, 254, 0))}.sm\:hover\:from-blue-300:hover{--tw-gradient-from:#93c5fd;--tw-gradient-stops:var(--tw-gradient-from),var(--tw-gradient-to, rgba(147, 197, 253, 0))}.sm\:hover\:from-blue-400:hdient-stops:var(--tw-gradient-from),var(--tw-gradient-to, rgba(30, 64, 175, 0))}.sm\:hover\:from-blue-900:hover{--tw-gradient-from:#1e3a8a;--tw-gradient-stops:var(--tw-gradient-from),var(--tw-gradient-to, rgba(30, 58, 138, 0))}.sm\:hover\:from-indigo-50:hover{--tw-gradient-from:#eef2ff;--tw-gradient-stops:var(--tw-gradient-from),var(--tw-gradient-to, rgba(238, 242, 255, 0))}.sm\:hover\:from-indigo-100:hover{--tw-gradienover{--tw-gradient-from:#60a5-to, rtSpesm\:hover\:from-indigo-500:hover{--tw-gradient-from:#6366f1;--tw-gradient-stops:var(--tw-gradient-from),var(--tw-gradient-to, rgba(99, 102,:hover{--tw-gradient-from:#4f46e5-tw-gradient-from:#3730a3;--tw-gradient-edInRight {
+  -webkit-animation-name: lightSpeedInRight;
+  animation-name: lightSpeedInRight;
+  -webkit-animation-timing-funct, 0, 0edInRight;
+  -webkit-animation-timing-funct, 0, 0) skewX(-30deg);
+    opacity: 0;
+  }
+}
+@keyframes lightSpeedOutLeft {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    -webkit-transform: translate3d(-100%, 0, 0) skewX(-30deg);
+    tstops:var(--twransform: translate-

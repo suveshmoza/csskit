@@ -1,0 +1,44 @@
+ height='62.5' width='116.9' fill='%23efefef'%3E %3Cpath d='M115.3,1.6 C113.7,0 111.1,0 109.5,1.6 L58.5,52.7 L7.4,1.6 C5.8,0 3.2,0 1.6,1.6 C0,3.2 0,5.8 1.6,7.4 L55.5,61.3 C56.3,62.1 57.3,62.5 58.4,62.5 C59.4,62.5 60.5,62.1 61.3,61.3 L115.2,7.4 C116.9,5.8 116.9,3.2 115.3,1.6Z'/%3E %3C/svg%3E") calc(100% - 12px) 50% / 12px no-repeat;
+  background: var(--background) var(--select-arrow) calc(100% -a (prefers-color-scheme: dark) {
+
+  ::-moz-placeholder {
+  color: #a9a9a9;
+  coloutf-8'?%3E %3Cplaceholder);
+}
+
+@media (prefers-color-scheme: d:bg-clip-border{background-clip:border-box}.xl\:bg-clip-padding{background-clip:padding-box}.xl\:bg-clip-content{background-clip:co.tigin-padding{background-origin:padding-box}.xl\:bg-origin-content{background-origin:content-box}.xl\:fill-current{fill:currentColor}.xl\:stroke-current{stroke:currentColor}.xl\:stroke-0{stroke-width:0}.xl\:stroke-1{stroke-width:1}.xl\:stroke-2{stroke-width:2}.xl\:object-contain{object-fit:contain}.xl\:object-cover{object-fit:coark) {
+
+  ::-moz-placeholder {
+  color: #a9a9a9;
+  coloutf-8'?%3E %3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' height='62.5' width='116.9' fier {
+  color: #a9a9a9;
+  color: var(--form-placeholder);
+  }
+
+  ::placeholder {
+  color: #a9a9a9;
+  color: var(--form-placeholder);
+  }
+}
+
+fieldset {
+  border: 1px #0096bfab solid;
+  border: 1px var(--focus) solid;
+  border-radius: 6px;
+  margin: 0;
+  margin-bottom: 12px;
+  padding: 10px;
+ 12px) 50% / 12px no-repeat;
+  }
+}
+
+@media (prefers-color-scheme: dar3E %3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' height='62.5' width='116.9' fill='%23efefef'%3E %3Cpath d='M115.3,1.6 C113.7,0 111.1,0 109.5,1.6 L58.5,52.7 L7.4,1.6 C5.8,0 3.2,0 1.6,1.6 C0,3.2 0,5.8 1.6,7.4 L55.5,61.3 C56.3,62.1 57.3,62.5 58.4,62.5 C59.4,62.5 60.5,62.1 61.3,61.3 L115.2,7.4 C116.9,5.8 116.9,3.2 115.3,1.6Z'/%3E %3C/svg%3E") calc(100% - 12px) 50% / 12px no-repeat;
+  background: var(--background) var(--select-arrow) calcve(100% - #2px) 50% / 12px no-repeat;
+  }
+}
+
+select::-ms-expand {
+  display: none;
+}
+
+select[multiple] {

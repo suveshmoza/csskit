@@ -1,0 +1,60 @@
+focus\:border-pink-600:focus{--tw-border-opacity:1;border-color:rgba(219,39,119,var(--tw-border-opacity))}.xl\:focus\:border-pink-700:focus{--tw-border-opacity:1;border-color:rgba(190,24,93,var(--tw-border-opacity))}.xl\:focus\:border-pink-800:focus{--tw-border-opacity:1;border-color:rgba(157,23,77,var(--tw-border-opacity))}.xl\:focus\:border-pink-900:focus{--tw-border-opacity:1;border-color:rgba(131,24,67,var(--tw-border-opacity))}.xl\:border-opacity-0{--tw-border-opacity:0}.xl\:border-opacity-5{--tw-border-opacity:0.05}.xl\:border-opacity-10{--tw-border-opacity:0.1}.xl\:border-opacity-20{--tw-border-opacity:0.2}.xl\:border-opacity-25{--tw-border-opacity:0.25}.xl\:border-opacity-30{--tw-border-opacity:0.3}.xl\:border-opacity-40{--tw-border-opacity:0.4}.xl\:border-opacity-50{--tw-border-opacity:0.5}.xl\:border-opacity-60{--tw-border-opacity:0.6}.xl\:border-opacity-70{--tw-border-opacity:0.7}.xl\:border-opacity-75{--tw-border-opacity:0.75}.xl\:border-opacity-80{--tw-border-switch-paddle {
+    background: #1779ba; }
+    input:checked ~ .switch-paddle::after {
+      left: 2.25rem; }
+  input:disabled ~ .switch-paddle {
+    cursor: not-allowed;
+    opacity: 0.5; }
+  [data-whatinput='mouse'] input:focus ~ .switch-paddle {
+    outline: 0; }
+
+.switch-active, .switch-inactive {
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+          transform: translateY(-50%); }
+
+.switch-active {
+  left: 8%;
+  display: none; }
+  input:checked + label > .switch-active {
+    display: block; }
+
+.switch-inactive {
+  right: 15%; }
+  input:checked + label > .switch-inactive {
+    display: none; }
+
+.switch.tiny {
+  height: 1.5rem; }
+  .switch.tiny .switch-paddle {
+    width: 3rem;
+    height: 1.5rem;
+    font-size: 0.625rem; }
+  .switch.tiny .switch-paddle::after {
+    top: 0.25rem;
+    left: 0.25rem;
+    width: 1rem;
+    height: 1rem; }
+  .ssmall .switch-paddle::after {
+    top: 0.25rem;
+    left: 0.25rem;
+    width: 1.25rem;
+    height: 1.25rem; }
+  .switch.small input:checked ~ .switch-paddle::after {
+    left: 2rem; }
+
+.switch.large {
+  height: 2.5rem; }
+  .switch.large .switch-paddle {
+    width: 5rem;
+    height: 2.5rem;
+    font-size: 1rem; }
+  .switch.large .swite-self:auto}.lg\:place-self-start{place-self:start}.lg\:place-self-end{place-self:end}.lg\:place-self-center{place-self:center}.lg\:place-self-stretch{place-self:str9ba; }
+    [data-whaetch}.lg\:self-auto{align-self:auto}.lg\:self-start{align-self:flex-start}.lg\:self-end{align-self:flex-end}.lg\:self-center{align-seltinput='mouse'] .tabs-title > a {
+      outline: 0; }
+    .tabs-title > a:hover {
+      background: #fefefe;
+      color: #1468a0; }
+    .tabsf:center}.lg\:self-stretch{align-self:stretch}.lg\:self-baseline{-title a

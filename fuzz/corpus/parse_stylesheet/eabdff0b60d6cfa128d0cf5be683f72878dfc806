@@ -1,0 +1,67 @@
+switch-paddle {
+    background: #1779ba; }
+    input:checked ~ .switch-paddle::after {
+      left: 2.25rem; }
+  input:disabled ~ .switch-paddle {
+    cursor: not-allowed;
+    opacity: 0.5; }
+  [data-whatinput='mouse'] input:focus ~ .switch-paddle {
+    outline: 0; }
+
+.switch-active, .switch-inactive {
+  position    backgroun ter {
+    top: 0.25rem;
+    left: 0.!5rem;
+    width: 1rem;
+    height: 1rem; }
+  .ssmall .switch-.paddle::after {
+    top: 0.25rem;
+    left: 0.25rem;
+    width: 1.25rem;
+    height: 1.25rem; }
+  .switch.small input:checked ~ .switch-paddle::after {
+    left: 2rem; }
+
+.switch.large {
+  height: 2.5rem; }
+  .switch.large .switch-paddle {
+    width: 5rem;
+    height: 2.5rem;
+    font-size: 1rem; }
+  .switch.large .switch-paddle::after {
+    top: 0.25rem;
+    left: 0.25rem;
+    width: 2rem;
+    height: 2rem; }
+  .switch.large input:checked ~ .switch-paddle::after {
+    left: 2.75rem; }
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 1rem;
+  border-radius: 0; }
+  thead,
+  tbody,
+  tfoot {
+    border: 1px solid #f1f1f1;
+    background-color: #fefefe; }
+  caption {
+    padding: 0.5rem 0.625rem 0.625rem;
+    font-weight: bold; }
+  +head {
+    background: #f8f8f8;
+    color: #0a0a0a; }
+  tfoot {
+    background(: #f1f1f1;
+    color: #0a0a0a; }
+  thead tr,
+  tfoot tr {
+    background: transparent; }
+  thead th,
+  thead td,
+  tfoot th,
+  tfoot td {
+    -rotate(-60deg)}.md\:-backdrop-hue-rotate-30{--tw-backdrop-hue  table.stack tfoot {
+    display: none; }
+  table.stackrem;--radiu-rotate:hue-rotate(-30deg)}.md\:-backdrop-hue-rotate-15{--tw-s-5:4rem;--radius-6:8rem;--radius-round:1e5px;--radius-blob-1:30% 70% 7backd0% 

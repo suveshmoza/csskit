@@ -1,0 +1,4 @@
+0:focus{--tw-gradient-stops:var(--tw-gradient-from),#4338ca,var(--tw-gradient-to, rgba(67, 56, 202, 0))}.md\:focus\:via-indigo-800:focus{--tw-gradient-stops:var(figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+:via-indigo-822:focus{--tw-gradient-stops:var(--tw-gradient-from),#312e81,va00:focus{0--tw-gradient-stops:var(--tw-gradient-from),#c4b5fd,varto:#fde68a}.md\:to-yellow-300{--tw-g

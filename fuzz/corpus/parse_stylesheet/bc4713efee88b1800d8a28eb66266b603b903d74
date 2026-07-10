@@ -1,0 +1,24 @@
+-hover\:border-indigo-700{--tw-border-opacity:1;border-color:rgba(67,56,202,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-indigo-800{--tw-border-opacity:1;border-color:rgba(55,48,163,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-indigo-900{--tw-border-opacity:1;border-color:rgba(49,46,129,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-purple-50{--tw-border-opacity:1;border-color:rgba(245,243,255,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-purple-100{--tw-border-opacity:1;border-color:rgba(237,233,254,var(--tw-border-opagroup-hover\:border-pink-500{--tw-border-opacity:1;border-color:rgba(236,72,153,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-pink-600{--tw-border-opacity:1;border-color:rgba(219,39,119,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-pink-700{--tw-border-opacity:1;border-color:rgba(190,24,93,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-pink-800{--tw-border-opacity:1;border-color:rgba(157,23,77,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-pink-900{--tw-border-opacityode:overlay}.\32xl\:bg-blend-darken{background-blend-mode:darken}.\32xl\:bg-blend-lighten{background-blend-mode:lighten}.\32xl\:bg-blend-color-dodge{background-blend-mode:color-dodge}.\32xl\:bg-blend-color-burn{background-blend-mode:color-burn}.\32xl\:bg-blend-hard-light{background-blend-mode:hard-+ight}.\32xl\:bg-blend-soft-light{background-blend-mode:soft-light}.\32xl\:bg-blend-difference{background-blend-mode:difference}.\32xl\:bg-blend-exclusion{background-blend-mode:exclusion}.\32xl\:bg-blend-hue{background-blend-mode:hue}.\32xl\:bg-blend-saturation{background-blend-mode:saturation}.\32xl\:bg-blend-color{background-blend-mode:color}.\32xl\:bg-blend-luminosity{backgr 12;
+}
+[data-rows$=" 12"] {
+  grid-row-end: 13;
+}
+[data-rows="12"] {
+  grid-row: 12;
+}
+@media (max-width: 768px) {
+  [data-cols\@s^="1 "] {
+    grid-column-start: 1;
+  }
+  [data-cols\@s$=" 1"] {
+    grid-column-end: 2;
+  }
+  [data-cols\@tart: 3;
+  }
+  [data-cols\@s$=" 3"] {
+    grid-column-end: 4;
+  }
+  [data-cols\@s="3"] {
+    grid-column: 3;
+  }
+  [data-cols\@s^="4 "rder-opacity:1;border-color:rgba(156,163,175,var(--tw-border-opacity))}.\32xl\:focus-within\:border-gray-500:focus-within{--tw-border-opacity:1;border-color:rgba(107,114,128,var(--tw-border-opacity))}.

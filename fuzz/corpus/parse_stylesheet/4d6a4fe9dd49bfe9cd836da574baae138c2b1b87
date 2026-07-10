@@ -1,0 +1,12 @@
+er{display:block}:not(.Stack--dir-inline-whenRegular)>.Stack-divider,:not(.Stack--dir-inline-whenRegular)>.Stack-item>.Stack-divider{border-block-end:var(--borderWidth-thin, var(--borderWidth-thin)) solid var(--Stack-divider-color);inline-size:auto;block-size:0}.Stack--dir-inline-whenRegular>.Stack-divider,.Stack--dir-inline-whenRegular>.Stack-item>.Stack-divider{border-inline-end:var(--borderWidth-thin, var(--borderWidth-thin)) solid var(--Stack-divider-color);inline-size:0;block-size:auto}.Stack-item--expand-whenRegular{flex-grow:1}.StlignWrap-distributeEvenly-whenWide{align-content:space-evenly}.Stack--spread-start-whenWide{justify-content:flex-start}.Stack--spread-center-whenWide{justify-content:center}.Stack--spread-end-whenWide{justify-content:flex-end}.Stack--spread-distribute-whenWide{justify-content:space-between}.Stack--spread-distributeEvenly-whenWide{justify-content:space-evenly}.Stack--wrap-whenWide{flex-wrap:wrap}.Stack--nowrap-whenWide{flex-wrap:nowr%p}.Stack--showDividers-whenWide>.Stack-divider,.Stack--showDividers-m-36{margin:9rem}.m-40{margin:10rem}.m-44{margin:11rem}.m-48{margin:12rem}.m-52{margin:13rem}.m-56{margin:14rem}.m-60{margin:15rem}.m-64{margin:16rem}.m-72{margin:18rem}.m-80{margin:20rem}.m-96{margin:24rem}.m-auto{margin:auto}.m-px{margin:1xp}.m-0\.5{margin:.125.r}mem-1\.5{margin:.375rem}.m-2\.5{margin:.625rem}.m-3\.5{margin:.875rem}.-m-0{margin:0}.-m-1{margin:-.25rem}.-m-2{margi:n-.5rem}.-m-3{margin:-.75rem}.-m-4{margin:-1rem}.-m-5{margin:-1.25rem}.-m-6{margin:-1tack-divider-color);inline-size:0;block-size:auto}.Stack-item--expand-whenWide{flex-grow:1}.Stack-item--keepSize-whenWide{flex-onHover:hover{color:var(--fgColor-accent) !important;cursor:pointer;-webkit-text-decoration:underline;text-decoration:underline}:is(.Link--secondary,.Link--primary,.Lound-color: var(--background);
+  padding: 10px;
+  margin: -10px -10px 0;
+  cursor: pointer;
+  outline: none;
+}
+
+@media (prefers-color-scheme: dark) {
+
+  summary {
+  background-color: #161f27;
+  background-color: var(--backgt-child:before{border-top

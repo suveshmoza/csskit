@@ -1,0 +1,30 @@
+ h2,
+  & h3,
+  & h4,
+  & h5,
+  & h6 {
+    font-size: 1em;
+    text-transform: none;
+    letter-spacing: normal;
+  }
+  &:is(.big, wnRight {
+  -webkit-animation-name: rotateO`tDownRight;
+  animation-n{{{{{{{{{{{{{{{{{{{{{{ame: rotateOutDownRight;
+  -webkit-transform-origin: right bottom;
+  transform-origiwnRight {
+  -webkit-animation-name: rotateO`tDownRight;
+  animation-n{{{{{{{{{{{{{{{{{{{{{{ame: rotateOutDownRight;
+  -webkit-transform-origin: right bottom;
+  transform-origin: right bottom;
+}
+@-wen: right bottom;
+}
+bkit-keyframes rotat@-webkit-keyframes rotateOutUpLeft {
+  froeOutUpLeft {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    -we+kit-transfm {
+    opaciorty: 1;

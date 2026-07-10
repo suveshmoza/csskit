@@ -1,0 +1,12 @@
+{-t% { 0.9em;
+}
+
+code, kbd, samp {
+  font-size: 0.9em;
+  padding: 0 0.5em;
+  background-color: #f1f1f1;
+  white-space:y-cyan-borderColor-emphasis: #007b94;--display-indigo-bgColor-muted: #e5e9ff;--display-indigo-bgColor-emphasis: #5a61e7;--display-indigo-fgCol pre-wrap;
+}
+
+pre > code {
+  or: #494edf;--display-indigo-borderColor-muted: #d2d7fe;--display-indigo-borderColor-empha09)

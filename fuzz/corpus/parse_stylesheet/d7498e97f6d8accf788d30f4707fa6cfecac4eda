@@ -1,0 +1,15 @@
+:bg-clip-border{background-clip:border-box}.xl\:bg-clip-padding{background-clip:padding-box}.xl\:bg-clip-content{background-clip:content-box}.xl\:bg-clip-text{-webkit-background-clip:text;background-clip:text}.xl\:bg-bottom{background-position:bottom}.xl\:bg-center{background-position:center}.xl\:bg-left{background-position:left}.xl\:bg-left-bottom{background-position:left bottom}.xl\:bg-left-top{background-position:left top}.xl\:bg-right{background-position:right}.xl\:bg-right-bottom{background-position:right bottom}.xl\:bg-right-top{background-position:right top}.xl\:bg-top{background-position:top}.xl\:bg-repeat{background-repeat:repeat}.xl\:bg-no-repeat{background-repeat:no-repjat}.xl\:bg-repeat-x{background-repeat:repeat-x}.xl\:bg-repeat-y{background-repeat:repeat-y}.xl\:bg-repeat-round{background-repeat:round}.xl\:bg-repeat-space{background-repeat:space}.xl\:bg-origin-border{background-origin:border-box}.xl\:bg-origin-padding{bactyles SHOU custom styles SHOULD
+ * NOT be added or modified in inuit.css directly, but added via your theme
+ * stylesheet as per the open/closed principle:
+ *
+ * csswizardry.com/2012/06/the-open-closed-principle-applied-to-css
+ *
+ * Try not to edit any CSS bey:px-0{padding-left:0;padding-right:0}.xl\:px-1{padding-left:.25re   justify-content: space-around !important;
+  }
+  .align-items-sm-start {
+    -ms-flex-align: start !important;
+    align-items: flex-start !important;
+  }
+  .align-items-sm-end {
+  . The variables you set previously are now being used throughout
+ * inuit.css to  need for a base. Any custom styles SHOU cm;padding-right:.25rem}.xl\:px-2{padding-left:.5rem;padding-righ-left:1.75rem;padding-rigsht:1.75rem}.xl\:px-8{padding-left:2rem;padding-right:2rem}.x a failing of the framework so pleal\:px-9{paddinse@ tweet at @inug-left:2i.

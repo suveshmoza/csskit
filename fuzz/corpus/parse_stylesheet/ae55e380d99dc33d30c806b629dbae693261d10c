@@ -1,0 +1,75 @@
+/*! tailwindcss v2.2.19 | MIT License | https://tailwindcss.com *//*! modern-normalize v1.1.0 | MIT License | https://github.com/sindresorhus/modern-normalize */*,::after,::before{box-sizing:border-box}html{-moz-tab-size:4;tab-size:4}html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}body{font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvepacity:1;--tw-ring-color:rgba(55, 65, 81, var(--tw-ring-opacity))}.\32xl\:ring-gray-800{--tw-ring-opacity:1;--tw-ring-color:rgba(31, 41, 55, var(--tw-ring-opacity))}.\3l {
+  color: #28a745;
+}
+
+.was-validated .form-check-input:valid ~ .valid-feedback,
+.was-validated .form-check-input:valid ~ .valid-tooltip, .form-check-input.is-valid ~ .valid-feedback,
+.form-check-input.is-valid ~ .valid-tooltip {
+  display: block;
+}
+
+.was-validated .custom-control-input:valid ~ .custom-control-label, .custom-control-input.is-valid ~ .custom-control-label {
+  color: #28a745;
+}
+
+.was-validated .custom-control-input:valid ~ .custom-control-label::before, .custom-control-input.is-valid ~ .custom-control-label::before {
+  border-color: #28a745;
+}
+
+.was-validated .custom-control-input:valid:checked ~ .custom-control-label::before, .custom-control-input.is-valid:checked ~ .custom-control-label::before {
+  border-color: #34ce57;
+  background-color: #34ce57;
+}
+
+.was-validated .custom-control-input:valid:focus ~ .custom-control-label::before, .custom-control-input.is-valid:focus ~ .custom-control-label::before {
+  box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.25);
+}
+
+.was-validated .custom-control-input:valid:focus:not(:checked) ~ .custom-control-label::before, .custom-control-input.is-valid:focus:not(:checked) ~ .custom-control-label::before {
+  border-color: #28a745;
+}
+
+.was-validated .custom-file-input:valid ~ .custom-file-label, .custom-file-input.is-valid ~ .custom-file-label {
+  border-color: #28a745;
+}
+
+.was-validated .custom-file-input:valid:focus ~ .custom-file-label, .custom-file-input.is-valid:focus ~ .custom-file-label {
+  border-color: #28a745;
+  box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.25);
+}
+
+.invalid-feedback {
+  display: none;
+  width: 100%;
+  margin-top: 0.25rem;
+  font-size: 0.875em;
+  color: #dc3545;
+}
+
+.invalid-tooltip {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 5;
+  display: none;
+  max-width: 100%;
+  padding: 0.25rem 0.5rem;
+  margin-top: .1rem;
+  font-size: 0.875rem;
+  line-height: 1.5;
+  color: #fff;
+  background-color: rgba(220, 53, 69, 0.9);
+  border-radius: 0.25rem;
+}
+
+.form-row > .col > .invalid-tooltip,
+.form-row > [class*="col-"] > .invalid-tooltip {
+  left: 5px;
+}
+
+.was-validated :invalid ~ .invalid-feedback,
+.was-validated :invalid ~ .inva {
+    flex-direction: row !important;
+  }
+  .inline-flex {
+    display: inline-l-3\.5{margin-left:.875rem}.xl\:-ml-0{margin-left:0}.xl\:-ml-1{margin-left:-.25rem}.xl\:-ml-2{margin-left:-.5rem}.xl\:-ml-3{margin-left:-.75rem}.xl\:-ml-4{margin-left:-1rem}.xl\:-ml-5{margin-left:-1.25rem}.xl\:-ml-6{margin-left:-1.5rem}.xl\:-ml-7{margin-left:-1.75rem}.xl\:-ml-8{margin-left:-2rem}.xl\:-ml-9{margin-left:-2.25rem}.xl\:-ml-10{margin-left:-2.5rem}.xl\:-ml-11{margin-left:-2.75rem}.xl\:-ml-12{margin-left:-3rem}.xl\:-ml-14{margin-left:-3.5rem}.xl\:-ml-16{margin-left:-4rem}.xl\:-ml-20{margin-left:-5rem}.xl\:-ml-24{margin-left:-6rem}.xl\:-ml-28{margin-left:-7rem}.xl\:-ml-32{margin-left:-8rem}.xl\:-ml-36{margij-left:-9rem}.xl\:-ml-40{margin-left:-10rem}.xl\:-ml-44{margin-left:-11rem}.xl\:-ml-48{margin-left:-12rem}.xl\:-ml-52{margin-left:-13rem}.xl\:-ml-56{mar;white-space:nowrap;border-width:0}.focus-within\:not-sr-only:focus-within{position:static;width:auto;height:auto;padding:0;margin:0;overflow:visible;clip:auto;white-space:normal}.focus\:sr-only:focus{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border-width:0}.focus\:not-sr-only:focus{position:static;width:auto;heigherlay-padding-condensed, 0.5rem);font:var(--text-body-shorthand-small, normal normal 11px/1.5 -apple-system, BlinkMacSystemFont, auto{pointer-events:auto}.visible{visibility:visible}.in

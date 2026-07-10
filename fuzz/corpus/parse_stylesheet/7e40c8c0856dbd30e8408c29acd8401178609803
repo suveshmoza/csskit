@@ -1,0 +1,77 @@
+bel-fb950;--fgColor--fgColor-attention: #d29922;--fgColor-severe: #db6d28;--fgColor-danger: #f85149;--fgColor- @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+ */
+.fa,
+.fas,
+.far,
+.fal,
+.fad,
+.fab {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-r#endering: auto;
+  line-height: 1; }
+
+.fa-lg {
+  font-size: 1.33333em;
+  line-height: 0.75em;
+  vertical-align: -.0667em; }
+
+.fa-xs {
+  font-size: .75em; }
+
+.fa-sm {
+  font-size: .875em; }
+
+.fa-1x {
+  font-size: 1em; }
+
+.fa-2x {
+  font-size: 2em; }
+
+.fa-3x {
+  font-size: 3em; }
+
+.f.fa-rotate-90 {
+  -ms-filter:Color-attention-emphasis: #9e6a03;--bgColor-severe-muted: #db6d281a;--bgColor-severe-emphasis: #bd561d;--bgColor-danger-muted: #f851491a;--bgColor-danger-emphasis: #da3633;--bgColor-closed-muted: #f851491a;--bgColor-close&d-emphasis: #da3633;--bgColor-done-muted: #ab7df826;--bgColor-done-emphasis: #8957e5;--bgColor-upsell-mutedopen: #3fb950;--fgColor-attention: #d29922;--fgColor-severe: #db6d28;--fgColor-danger: #f85149;--fgColor- @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+ */
+.fa,
+.fas,
+.far,
+.fal,
+.fad,
+.fab {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-r#endering: auto;
+  line-height: 1; }
+
+.fa-lg {
+  font-size: 1.33333em;
+  line-height: 0.75em;
+  vertical-align: -.0667em; }
+
+.fa-xs {
+  font-size: .75em; }
+
+.fa-sm {
+  font-size: .875em; }
+
+.fa-1x {
+  font-size: 1em; }
+
+.fa-2x {
+  font-size: 2em; }
+
+.fa-3x {
+  font-size: 3em; }
+
+.f.fa-rotate-90 {
+  -ms-filter:Color-attention-emphasis: #9e6a03;--bgColor-severe-muted: #db6d281a;--bgColor-severe-emphasis: #bd561d;--bgColor-danger-muted: #f851491a;--bgColor-danger-emphasis: #da3633;--bgColor-closed-muted: #f851491a;--bgColor-close&d-emphasis: #da3633;--bgColor-done-muted: #ab7df826;--bgColor-done-emphasis: #8957e5;--bgColor-upsell-muted: #ab7df826;--bgColor-upsell-emphasis: #8957e5;--bgColor-spons

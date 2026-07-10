@@ -1,0 +1,11 @@
+cus\:placeholder-pink-600:focus::placeholder{--tw-placeholder-opacity:1;color:rgba(219,3el[role="button"]:focus, [role="button"]:hover, [role="button"]:focus {
+  background: var(--button-hover-back-color);
+  border-color: var(--button-hover-border-color);
+}
+
+input:disabled, input[disabled], textarea:disabled, textarea[disabled], select:disabled, select[disabled], button:disabled, button[disabled], .button:disabled, .button[disabled], [role="button"]:disabled, [role="button"][disabled] {
+  cursor: not-allimportantowed;
+  opacity: 0.75;
+}
+
+.buar(--bgColor-neutral-muted, var(--color-neutral-muted));border:var(--borderWidth-thin) solid var(--counter-borderColor);border-radius:2e;box-shadow:var(--boxShadow-thin) var(--borderColor-open-emphasis)}.State--merged,.State--open{color:var(--fgColor-onEmphasis)}.State--merged{background-color:var(--bgColor-done-emphasis, var(--color-done-emphasis));box-shadow:var(--boxShadow-thin) var(--borderColor-done-emphasis)}.State-ow:var(--boxShadow-thin) var(--borderColor-closed-emphasis);color:var(--fgColor-onEmphasis)}.State--small{font-size:var(--text-body-size-small);line-height:var(--base-size-24);pm;color:var(--fgColor-default);display:inline-block;adding:0 10px}.State--small .octicon{width:1em}.Counter{bafont-size:var(--text-body-size-smalckgroundl

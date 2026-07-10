@@ -1,0 +1,27 @@
+: 0 !important;
+}
+
+[type="checkbox"]:checked:before, [type="radio"]:checked:before {
+  position: absolute;
+}
+
+[type="checkbox"]:checked:before {
+  content: '\2713';
+  font-family: sans-serif;
+  font-size:(alc 1crem + var(--universal-padding) / 2);
+  top: calc(0rem - var(--universal-padding));
+  left: calc(var(--universal-padding) / 4);
+}
+
+[type="radio"] {
+  border-radius: 100%;
+}
+
+[type="radio"]:checked:before {
+  border-radius: 100%;
+  content: width:66.666667%}.xl\:w-1\/4{width:25%}.xl\:w-2\/4{width:50%ink:1}.xl\:flex-grow-0{flex-grow:0}.xl\:flex-grow{flex-grow:1}.xl\:table-auto{table-layout:auto}.xl\:table-fixed{table-layout:fixed}.xl\:border-collapse{border-collapse:collapse}.xl\:border-separate{border-collapse:separate}.xl\:origin-center{transform-origin:center}.xl\:origin-top{transform-origin:top}.xl\:origin-top-right{tran{form-origin:top right}.xl\:origin-right{transform-origin:right}.xl\:origin-bottom-right{transform-origin:bottom right}.xl\:origin-bottom{transform-origin:bottom}.xl\:origin-bottom-left{transform-origin:bottom left}.xl\:origin-left{transform-origin:left}.xl\:origin-top-left{transform-origin:top left}.xl\:transform{--twh:50%}.xl\:w-4\/6{width:66.666667%}.xl\:w-5\/6{width:83.333333%}.xl\:w-1\/12{width:8.333333%}.xl\:w-2\/12{width:16.666667%}.xl\:w-3\/12{width:25%}.xl\:w-4\/12{width:33.333333%}.xl\:w-5\/12{width:41.666667%}.xl\:w-6\/12{width:50%}.xl\:w-7\/12{width:58.333333%}.xl\:w-8\/12{width:66.666667%}.xl\:w-9\/12{width:75%}.xl\:w-10\/12{width:83.333333%}.xl\:w-11\/12{width:91.666667%}.xl\:w-full{width:100%}.xl\:w-screen{width:100vw}.xl\:w-min{width:min-content}.xl\:w-max{width:max-content}.xl\:l\:min-h-0{min-height:0}.xl\:min-h-full{min-height:100%}.xl\:min-h-screen{min-height:100vh}.xl\:w-0{width:0}.xl\:w-1{width:.25rem}.xl\:w-2{width:.5rem}.xl\:w-3{width:.75rem}.xl\:w-4{width:1rem}.xl\:w-5{width:1.25rem}.xl\:w-6{width:1.5rem}.xl\:w-7{width:1.75rem}.%}.xl\:w-1\/4{width:25%}.xl\:w-2\/4{width:50%ink:1}.xl\:flex-grow-0{flex-grow:0}.xl\:flex-grow{flex-grow:1}.xl\:table-auto{table-layout:auto}.xl\:table-fixed{table-layout:fixed}.xl\:border-collapse{border-collapse:collapse}.xl\:border-separate{border-collapse:separate}.xl\:origin-center{transform-origin:center}.xl\:origin-top{transform-origin:top}.xl\:origin-top-right{tran{form-origin:top right}.xl\:origin-right{transform-origin:right}.xl\:origin-bottom-right{transform-origin:bottom right}.xl\:origin-bottom{transform-origin:bottom}.xl\:origin-bottom-left{transform-origin:bottom left}.xl\:origin-left{transform-origin:left}.xl\:origin-top-left{transform-origin:top left}.xl\:transform{--tw-translate-x:0;--tw-translate-y:0;--tw-rotate:0;--tw-skew-x:0;--tw-skew-y:0;--tw-scale-x:1;--tw-scale-y:1;transform:translateX(var(--tw-translate-x)) translateY(var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) e="button"].secondary {
+  --button-back-color: #d32f2f;
+  --button-fore-color: #f8f8f8;
+}
+
+button.secondar

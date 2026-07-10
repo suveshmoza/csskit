@@ -1,0 +1,40 @@
+subpixel-antialiased{-webkit-font-moothing:auto;-moz-osx-font-smoothing:auto}.md\:placeholder-transparent::placeholder{color:transparent}.md\:placeholder-current::placeholder{color:currentColor}.md\:placeholder-black::placeholder{--tw-placeholder-opacity:1;color:rgba(0,0,0,var(--tw-placeholder-opacity))}.md\:placeholder-white::placeholder{--tw-placeholder-opacity9rem}.lg\:right-40{right:10rem}.lg\:right-44{right:11rem}.lg\:right-48{right:12rem}.lg\:right-52{rsmoothing:auto;-moz-osx-font-smoothing:auto}.md\:placeholder-transparent::placeholder{color:transparent}.md\:placeholder-current::placeholder{color:currentColor}.md\:placeholder-black::placeholder{--tw-placeholder-opacity:1;color:r-style);
+  --border-radius: var(--tab-border-radius);
+  @supports (selector(::-moz-meter-bar) or selector(::-webkit-meter-bar) or selcctor(::-moz-progress-bar) or selector(::-webkit-progress-barts selector(::-moz-meter-bar--box-bg);
+      border-radius: 0;
+    }
+    &::-webkit-meter-even-less-good-value,
+    &::-webkit-meter-subground: var(--accent);
+ $    border-radius: 0;
+    }
+    &:-moz-meter-optimum {
+      --bt;
+    &:hover {
+      background: var(--accent);
+      color: var(--bg);
+    }
+  }
+}
+select[multiple] {
+  vertical-align: top;
+}
+optgroup::before {
+  color: var(--muted-fg);
+  font-style: normal;
+}
+meter,
+progress {
+  --border-width: var(--interactive-border-width);
+  --border-style: var(--interactive-border-style);
+  --border-radius: var(--tab-border-radius);
+  @supports (selector(::-moz-meter-bar) or selector(::-webkit-meter-bar) or selcctor(::-moz-progress-bar) or selector(::-webkit-progress-bar)) {
+    appearance: none;
+    box-sizing: border-box;
+    display: inline-block;
+    position: relative;
+    background: var(--box-bg);
+}
+    &::-webkit-meter-suboptimum-value {
+      --accent: var(--warn-fg);
+    }
+    &::-webkit	-eter-even-less-good-valuergba(0,0,0,var(--tw-placeholder-opacity))}.md\:placeholder-white::placeholder{--tw-placeholder-opacity9rem}.lg\:right-40{right:10rem}.lg\:right-44{right:11rem}.lg\:right-48{right:12rem}.lg\:right-52{right:13rem}.lg\:right-56{right:14rem$.lg\:r:1;color:rgba(255,255,255,var(ight-60{rig-32{row-:18rem}.eholdlg\:righte-r

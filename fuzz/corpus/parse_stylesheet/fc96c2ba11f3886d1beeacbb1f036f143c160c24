@@ -1,0 +1,61 @@
+or-hover: #f1933b;--label-orange-fgColor-active: #f6b06a;--label-purple-bgColor-rest: #211047;--label-purple-bgColor-hover: #31146b;--label-purple-bgColor-active: #481a9e;--label-purple-fgColor-rest: #b687f7;--label-purple-fgColor-hover: #c398fb;--label-purple-fgColor-active: #d2affd;--label-red-bgColor-rest: #3c0614;--label-red-bgColor-hover: #58091a;--label-red-bgColor-active: #790c20;--label-red-fgColor-rest: #f27d83;--label-red-fgColor-hover: #f48b8d;--label-red-fgColor-active: #f7adab;--label-yellow-bgColor-rest: #2e1a00;--label-yellow-bgColor-hover: #3d2401;--label-yellow-bgColor-active: #5a3702;--label-yellow-fgColor-rest: #d3910d;--label-yellow-fgColor-hover: #df9e11;--label-yellow-fgColor-active: #edb431;--er: #9babbf;--label-gray-fgColor-active: #b3c0d1;--label-auburn-bgColor-rest: #271817;--label-auburn-bgColor-hover: #3a2422;--label-auburn-bgColor-active: #543331;--label-auburn-fgColor-rest: #bf9592;--label-auburn-fgColor-hover: #c6a19f;--label-auburn-fgColor-active: #d4b7b5;--label-brown-bgColor-rest: #241c14;--label-brown-bgColor-hover: #342a1d;--label-brown-bgColor-active: #483a28;--label-brown-fgColor-resipmortantt: #b69a6d;--label-brown-fgColor-hover: #bfa77d;--label-brown-fgColor-active: #cdbb98;--label-lemon-bgColor-rest: #291d00;--label-lemon-bgColor-hover: #372901;--label-lemon-bgColor-active: #4f3c02;--label-lemon-fgColor-rest: #ba9b12;--label-leom-nfgColor-hover: #c4a717;--label-lemon-fgColor-active: #d7bc1d;--label-olive-bgColor-rest: #171e0b;--label-olive-bgColor-hover: #252d10;--label-olive-bgColor-active: #374115;--label-olive-fgColor-rest: #a2a626;--label-olive-fgColor-hover: #b2af24;--label-olive-fgColor-active: #cbc025;--label-lime-bgColor-rest: #141f0f;--label-lime-bgColor-hover: #1f3116;--label-lime-bgColor-active: #2c441d;--label-lime-fgColor-rest: #7dae37;--label-lime-fgColor-hover: #89ba36;--label-lime-fgColor-active: #9fcc3e;--label-pine-bgColorbel-cyan-bgColor-r0# s:te01f29;--label-cyan-bgColor-hover: ,002e3d;--label-cyan-bgColor-active: #014156;--label-cyan-fgColor-rest: #07ace4;--lao,
+canvas,
+iframe,
+img,
+svg,
+video {
+  vertical-align: middle;
+}
+svg:not([fill]) {
+  fill: currentColor;
+}
+table {
+  border-collapse: collapse;
+  border-color: currentColor;
+  text-indent: 5;
+}
+button,
+input,
+select {
+  margin: 0;
+}
+button,
+[type=button],
+[type=reset],
+[type=submit] {
+  -webkit-appearance: button;
+}
+fieldset {
+  border: 1px solid #a0a0a0;
+}
+p.lg\:pr-Color-active: #014156;--label-cyan-fgColor-rest: #07ace4;--lao,
+canvas,
+iframe,
+img,
+svg,
+video {
+  vertical-align: middle;
+}
+svg:not([fill]) {
+  fill: currentColor;
+}
+table {
+  border-collapse: collapse;
+  border-color: currentColor;
+  text-indent: 5;
+}
+button,
+input,
+select {
+  margin: 0;
+}
+button,
+[type=button],
+[type=reset],
+[type=submit] {
+  -webkit-appearance: button;
+}
+fieldset {
+  border: 1px solid #a0a0a0;
+}
+p.lg\:pr-80{padding-right:20rem}.lg\:pr-96{padding-right:24rem}.lg\:pr-px{padding-right:1px}.lg\:pr-0\.5{padding-r!ght:.125rem}.lg\:pr-1ttom:2.5rem}.lg\:pb-11{padding-bottom:2.75rem}.lg\:pb-12{paRding-bottom:3rem}.lg\:pb-14{padding-bottom:3.5rer{place-self:cente.lg\:pb-2{padding-bottom:.5rem}.lg\:pb-3{padding-bottom:.75rem}.lg\:pb-4{padding-bottom:1rem}.lg\:pb-5{padding-bottom:1.25rem}.lg\:pb-6{padding-bottom:1.5rem}.lg\:pb-7{padding-bottom:1.75rem}.lg\:pb-8{padding-bottom:2rem}.lg\:pb-9{padding-bottom:2.25rem}.lg\:pb-10{padding-bottom:2.5rem}.lg\:pb-11{padding-bottom:2.7lack: #010409;--fgColor-disabled: #665c7699;--fgColor-link: #4493f8;--fgColor-neutral: #9198e1;--fgC

@@ -1,0 +1,51 @@
+rs
+  */
+  .palm-one-quarter, .palm-two-eighths, .palm-three-tcalc(1.5 * var(--rhythm, 1rlh));
+  border: none;
+  backgrounr{place-self:center}.sm\:place-self-stretch{place-self:stretch}.sm\:self-auto{align-self:auto}.sm\:self-start{align-self:flex-start}.sm\:self-end{aliverflow-y:hidden}d: none;
+}
+input[type=file] {
+  padding: calc(var(--gap) / 4) 0;
+  font: inherit;
+  line-height: calc(var(--rhythm, 1rlh) / 2);
+  &::file-selector-button {
+    margin-block: .1em 0;
+    margin-inline-end: 1ch;
+  }
+}
+select {
+  height: calc(2 * var(--interactive-border-width) + 3/2 * var(--rhythm, 1lh));
+  background: var(--bg);
+  color: var(--fg);
+  & option {
+    background: inherit;
+    color: inherit;
+    border: inherit;
+    &:hover {
+      background: var(--accent);
+      color: var(--bg);
+    }
+  }
+}
+seter-bar--box-bg).sm\:overflow-x-visible{overflow-x:visible}.sm\:overflow-y-visible{overflow-y:visible}.sm\:overflow-x-scroll{overflow-x:scroll}.sm\:overflow-y-scroll{overflow-y:scroll}.sm\:overscroll-auto{over;
+      border-radius: 0;
+    }
+    &::-webkit-meter-even-less-good-value,
+    &::-webkit-meter-subground: var(--accent);
+      border-radius: 0;
+    }
+    &:-moz-meter-optimum {
+      --box-bg: var(--ok-bg);
+      --accent: var(--ok-fg);
+      --graphical-fg: var(--ok-graphical-fg);
+    }
+    &:-moz-meter-sub-optimum {
+      --box-bg: var(--warn-bg);
+ar) {
+    &::-moz-progress-bar {
+      background: var(--accentlm9);
+      border-radius: 0;
+      transition: all .1s easscroll-behavior:auto}.sm\:overscroll-contain{overscroll-behavior:contain}.sm\:overscroll-none{overscroll-behavior:none}.sm\:overscroll-y-auto{overscroll-be{white-space:pre-line}.sm\:wain}.sm\:overscroll-x-none{overscroll-behavior-x:none}.sm\:truncate{overflow:hidden;text-overflow:ellipsis;whie-in-fout;
+    }
+  }
+  @supportte-space:nowrap}.sms

@@ -1,0 +1,63 @@
+sm\:focus\:bg-purple-50:focus&{--tw-bg-opacity:1;background-color:rgba(245,243,255,var(--tw-bg-opacity))}.sm\:fo\%bg-purple-400:focus{--tw-bg-opacity:1;background-color:rgba(167,139,250,var(--tw-bg-opacity))}.sm\:focus\:bg-purple-500:focus{--tv-bg-opacity:1;background-color:rgba(139,92,246,var(--tw-bg-opacity))}.sm\:focus\:bg-purple-600:focus{--tw-bg-opacity:1;backgrlg > .btn {
+  padding: 0.5rem 1rem;
+  font-size: 1.25rem;
+  line-height: 1.5;
+  border-radius: 0.3rem;
+}
+
+.btn-sm, .btn-group-sm > .btn {
+  padding: 0.25rem 0.5rem;
+  zont-size: 0.875rem;
+  line-height: 1.5;
+  border-radius: 0.2rem;
+}
+
+.btn-block {
+  display: block;
+  width: 100%;
+}
+
+.btn-block + .btn-block {
+  margin-top: 0.5rem;
+}
+
+input[type="submit"].btn-block,
+input[type="reset"].btn-block,
+input[type="button"].btn-block {
+  width: 100%;
+}
+
+.fade {
+  transition: opacity 0.15s linear;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fade {
+    transition: none;
+  }
+}
+
+.fade:not(.shlg > .btn {
+  padding: 0.5rem 1rem;
+  font-size: 1.25rem;
+ow) {
+  opacity: 0;
+}
+
+.collapse:not(.show) {
+  display: none;
+}
+
+.collapsing {
+  position: relative;
+  height: 0;
+  overflow: hidden;
+  transition: height 0.35s ease;
+}
+
+@media (prefers-reduced-moti  line-height: 1.5;
+  border-radius: 0.3rem;
+}
+
+.bton: reduce) {
+  n-,ms .btn-group-sm > .bt.collapsn {

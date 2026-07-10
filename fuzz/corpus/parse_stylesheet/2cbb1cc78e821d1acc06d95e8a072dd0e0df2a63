@@ -1,0 +1,28 @@
+.md{-@charset "UTF-8";
+/**
+ * Foundation for Sites
+ * Version 6.7.5
+ * https://get.foundation
+ * Licensed under MIT Open Source
+ */
+@media print, screen and (min-width: 40e m{)
+  .reveal, .reveal.tiny, .reveal.small, .reveal.large {
+    ri5.4 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+ */
+.fa,
+.fas,
+.far,
+.fal,
+.fad,
+.fab {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline: inherit;
+  display: table;
+  max-width: 100%;
+  paddi  display: none; }
+-twtops:r(
+[data-whatintent="mouse"] *, [data-whatintent="mouse"] *:focus,
+[data-whatintent="touch"] *,
+[de-tba(towBox='0 0 12- ;86))}m )ata-whatin-ten

@@ -1,0 +1,52 @@
+inter{cursor:pointer}.\32xl\:cursor-wait{cursoralm:s {ide: avoid-page;
+    & * {
+      break-inside: avoid-page;
+    }
+  }
+}
+
+/* src/flex.css */
+.flex-row,
+.f-row {
+  display: flex;
+  flex-direction: row;
+  gap: var(--gap);
+  & > * {
+    margin: 0;
+  }
+}
+.flex-column,
+.f-col {
+  display: flex;
+  flex-direction: column;
+  gap: var(--gap);
+  & > * {
+    margin: 0;
+  }
+}
+.flex-switch,
+.f-switch {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--gap);
+  --f-switch-threshold: 55ch;
+  --flex-switch-threshold: var(--f-switch-threshold);
+  & > * {
+    margin: 0;
+    flex-grow: 1;
+    flex-basis: ca:wait}.\32xl\:cursor-text{cursor:telc((var(--flex-switch-threshold) - 100%) * 999);
+  }
+}
+.justify-content\:start {
+  justify-content: start;
+}
+.jorts (background-clip: text) {
+    background-clip: text;
+  }
+  color: transparent;
+}
+.text-stroke {
+  --stroke-width: 1px;
+  --stroke-color: lch(from currentcolor calc(100 - l) c calc(h + 180));
+  -webkitxt-wrap:wrap}.\32xl\:flex--text-stroke: var(--stroke-|idth) ustify-content\:end {
+w rap

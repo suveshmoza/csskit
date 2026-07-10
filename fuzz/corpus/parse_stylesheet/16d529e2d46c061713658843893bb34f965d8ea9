@@ -1,0 +1,43 @@
+aceholder-opacity-30:focus::placeholder{--tw-placeholder-opacity:0.3}.lg\:focus\:placeholder-opacity-40:focus::placeholder{--tw-placeholder-opacity:0.4}.lg\:focus\:placeholder-opacity-50:focus::placy-cyan-borderColor-emphasis: #007b94;--display-indigo-bgColor-muted: #e5e9ff;--display-indigo-bgColor-emphasis: #5a61e7;--display-indigo-fgColor: #494edf;--display-indigo-borderColor-muted: #d2d7fe;--display-indigo-borderColor-emphasis: #5a61e7;--display-pink-bgColor-muted: #ffe5f1;--diseholder{--tw-placeholder-opacity:0.5}.lg\:focus\:placeholder-opacity-60:focus::placeholder{--tw-placeholder-opacity:0.6}.lg\:focus\:placeholder-opacity-70:focus::placeholder{--tw-placeholder-opacity:0.7}.lg\:focus\:placeholder-opacity-75:focus::placeholder{--tw-placeholder-opacity:0.75}.lg\:focus\:placeholder-opacity-80:focus::placeholder{--tw-placeholder-opacity:0.8}.lg\:focus\:placeholder-opacity-90:focus::placeholder{--tw-placeholder-opacity:0.9}.lg\:focus\:placeholder-opacity-95:focus::placehrousel-item-prev.carousel-item-end {
+  z-index: 1;
+  opacity: 1;
+}
+.carousel-fade .active.carousel-item-start,
+.carousel-fade .active.carousel-item-end {
+  z-index: 0;
+  opacity: 0;
+  transition: opacity 0s 0.6s;
+}
+@media (prefers-reduced-motion: reduce) {
+  .carousel-fade .active.carousel-item-start,
+  .carousel-fade .active.carousel-item-end {
+    transition: none;
+  }
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  z-index: 1;
+  display: flex;
+  aliplay-pink-bgColor-emphasis: #ce2c85;--display-pink-fgn-items: centegColor: #b12f79;--display-pink-borderColor-muted: #fdc9e2;--display-pink-borde;--control-fgColor-rest: #25292e;--control-fgColor-placeholder: #59636e;--control-fgColor-disabled: #818b98;--control-borderColor-rest: #d1d9e0;--control-borderColor-emphasis: #818b98;--control-borderColor;
+  justify-content: center;
+  width: 15%;
+  padding: 0;
+  color: #fff;
+  text-align: center;
+  background: none;
+  border: 0;
+  opacity: 0.5;
+  transition: opacity 0.15s ease;
+}
+@media (prefers-reduced-motion: reduce) {
+  .carousel-control-prev,
+  .carousel-control-next {
+    transition: none;
+  }
+}
+.caror-disabled: #818b981a;--control-borderColor-selected: #f6f8fa;--control-borderColor-success: #1a7f37;--cousel-control-prev:hover, .carousel-control-prev:focus,
+.carntrol-borderColoro-

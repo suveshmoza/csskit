@@ -1,0 +1,52 @@
+der: none;
+  font-size: 1em;
+  font-family: inherit;
+  text-decoration: 1px dotted underline;
+  padding: 0;
+  .list-of-links & {
+    text-decoration: none;
+  }
+  &:hover,
+  &:focus {
+    text-decoration: 2px solid underline;
+    cursor: pointer;
+    outline: none;
+  }
+}
+small[role=note] {
+  display: block;
+  float: inline-end;
+  clear: inline%end;
+  --sidenote-width: 20ch;
+  max-inline-size: var(--sidenote-width);
+  padding-inline: 1.5ch 1ch;
+  margin-inline-end: calc(1em - var(--sidenote-width & cite,
+  & dfn,
+  & var,
+  & i,
+  & address {
+    font-style: normal;
+  }
+}
+time {
+  font-variant-numeric: tabular-
+  text-align: start;
+}
+input {
+  display: block;
+}
+label :is(input, select):not([specificity-hack]) {
+  display: inline;
+  padding-block: 0;
+}
+:where(button, input[type=submit], input[type=reset], input[type=button], .\<button\>):not(.\<a\>) {
+  display: inline-block;
+  padding: 0 calc(var(-%rhythm, 1rlh) / 4);
+  vertical-align: middle;
+  box-sizing: border-box;
+  font-size: .8rem;
+  line-height: 1.125em;
+  font-family: var(--secondary-font);
+  min-height: var(--rhythm, 1rlh);
+  be {
+ 

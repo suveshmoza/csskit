@@ -1,0 +1,18 @@
+switch-paddle {
+    background: #1779ba; }
+    input:checked ~ .switch-paddle::after {
+      left: 2.25rem; }
+  input:disabled ~ .switch-paddle {
+    cursor: not-allowed;
+    opacity: 0.5; }
+  [data-whatinput='mouse'] input:focus ~ .switch-paddle {
+    outline: 0; }
+
+.switch-active, .switch-inactive {
+  position: absolute;
+  top: 50%ansform: translateY(-50%);
+      -ms-trt(240deg,rgba(0,0,255,.8),rgba(0,0,255,0) 75%),linear-gradient(300deg,rgba(255,0,255,.8),rgba(255,0,255,0) 75%);--gradient-19:linear-ger-3:contrast(200%) brightness(250%);--noise-filter-4:contrast(200%) brightness(500%);--noise-filter-5:contrast(200%) brightness(1000%);--animation-fade-ifade-in .5s var(--ease-3);--animation-fade-in-bloom:fade-in-bloom 2s var(--ease-3);--animation-fade-out:fade-out .5s var(--ease-3);--animation-fade-out-bloom:fade-out-bloom 2s var(--ease-3);--animation-scale-up:scale-up .5s var(--ease-3);--animation-scale-down:scale-down .5s var(--ease-3);--animation-slide-out-up:slid3e-out-up .5s var(--ease-3);--animation-slide-out-down:slide-out-down .5s var(--ease-3);--animation-slide-out-right:slide-out-right ce type='fractalNoise' baseFrequency='.5' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23a)'/%3E%3C/svg%3E");--no0.25rem;
+    left: 0.25rem;
+    width: 1.25rem;
+    height: 1.2:flex-start}.lg\:self-end{align-self:flex-end}.lg\:self-center{align-self:center}.lg\:self-stretch{align-self:stretch}.lg\:selretch}.lg\:self-baseline{align-self:basech-paddle::line}.lg\:justify-self-auto{justify-self:auto}.lg\:justify-self-start{justify-self:start}.lg\:after {
+    top: 0.25rjusti

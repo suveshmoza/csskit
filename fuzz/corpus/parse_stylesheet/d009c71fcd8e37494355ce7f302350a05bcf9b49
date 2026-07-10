@@ -1,0 +1,79 @@
+slate-x-96:hover{--tw-translate-x:24rem}.\32xl\:hover\:translate-x-px:hover{--tw-translate-x:1px}.\32xl\:hover\:translate-x-0\.5:hover{--tw-translate-x:0.125rem}.\32xl\:hover\:translate-x-1\.5:hover{--tw-translate-x:0.375rem}.\32xl\:hover\:translate-x-2\.5:hover{--tw-translate-x:0.625rem}.\32xl\:hover\:translate-x-3\.5:hover{--tw-translate-x:0.875rem}.\32st-style: none;
+  }
+}
+ul {
+}
+ol {
+}
+dl {
+ 11111111111111111111111111111111111111111111111111111111111111 margin-block: var(--gap);
+}
+dt {
+  font-weight: bold;
+  font-family: var(--secondary-font);
+}
+dd {
+  margin-inline-start: var(--rhythm, 1rlh);
+}
+@supports selector(li::marker) {
+  li::marker {
+    font-family: var(--secondary-font);
+  }
+}
+figure {
+  max-width: 100%;
+  margin-inline: 0;
+}
+figcaption {
+  margin-block: var(--gap);
+  font-family: val-align: baseline; }
+
+sub {
+  bottom: -0.25em; }
+
+sup {
+  top: -0.5em; }
+
+img {
+  border-style: none; }
+
+button,
+input,
+optgroup,
+selecebkit-inner-spin-button,
+[type="number"]::-webkit-outer-spiace;
+  font-size: 1em; }
+
+a {
+  background-color: transparent; }
+
+abbanslate-y-2:hover{--tw-translate-y:0.5rem}ight: 100%;
+    background: var(--accent);
+  }
+}
+header {
+  font-family: var(--display-font);
+  border-block-end: var(--border-block-end-width) var(--border-block-end-style) var(--graphicily: var(--secondary-font);
+  }
+}
+figure {
+  max-width: 100%;
+  margin-inline: 0;
+}
+figcaption {
+  margin-block: var(--gap);
+  font-family: var(--secondary-font);
+  color: var(--muted-fg);
+}
+main {
+  max-inline-si6rem}.\32xl\:hover\:-translate-x-72:hover{--tw-translate-x:-17rem}.\32xl\:hover\:-translate-x-8-tw-translate-y:0px}.\32xl\:hover\:translate-y-1:hover{--tw-translate-y:0.25rem}.\32xl\:hover\:translate-y-2:hover{--tw-translate-y:0.5rem}.\32xl\:hover\:translate-y-3:hover{--tw-translate-y:0.75rem}.\32xl\:hover\:translate-y-4:hover{--tw-translate-y:1rem}.\32xl\:hover\:translate-y-5:hover{--tw-translate-y:1.25rem}.\32xl\:hover\:translate-y-6:hover{--tw-translate-y:1.5rem}.\32xl\:hover\:translate-y-7:hover{--tw-translate-y:1.75rem}.\32xl\:hover\:translate-y-8:hover{--tw-translate-y:2rem}.\32xl\:hover\:translate-y-9:hover{-0.5em; }
+
+img {
+  border-style: none; }
+
+button,
+input,
+optgroup,
+selecebkit-inner-spin-button,
+[type="number"]::-webkit-outer-spiace;
+ :2.75rem}.\32xl\:hover\:tr

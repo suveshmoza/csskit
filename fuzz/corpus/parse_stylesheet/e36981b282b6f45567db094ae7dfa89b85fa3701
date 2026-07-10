@@ -1,0 +1,122 @@
+fore {
+  content: "\f360"; }
+
+.fa-eye:before {
+  content: "\f06e"; }
+
+.fa-eye-dropper:before {
+  content: "\f1fb"; }
+
+.fa-eye-slash:before {
+  content: "\f070"; }
+
+.fa-facebook:before {
+  content: "\f09a"; }
+
+.fa-facebook-f:before {
+  content: "\f39e"; }
+
+.fa-facebook-messenger:before {
+  content: "\f39f"; }
+
+.fa-facebook-square:before {
+  content: "\f082"; }
+
+.fa-fan:before {
+  content: "\f863"; }
+
+.fa-fantasy-flight-games:before {
+  content: "\f6dc"; }
+
+.fa-fast-backward:before {
+  content: "\f049"; }
+
+.fa-fast-forward:before {
+  content: "\f050"; }
+
+.fa-faucet:before {
+  content: "\e005"; }
+
+.fa-fax:before {
+  content: "\f1ac"; }
+
+.fa-feather:before {
+  content: "\f52d"; }
+
+.fa-feather-alt:before {
+  content: "\f56b"; }
+
+.fa-fedex:before {
+  content: "\f797"; }
+
+.fa-fedora:before {
+  content: "\f798"; }
+
+.fa-female:before {
+  content: "\f182"; }
+
+.fa-fighter-jet:before {
+  content: "\f0fb"; }
+
+.fa-figma:before {
+  content: "\f799"; }
+
+.fa-file:before {
+  content: "\f15b"; }
+
+.fa-file-alt:before {
+  content: "\f15c"; }
+
+.fa-file-archive:before {
+  content: "\f1c6"; }
+
+.bel-brown-bgColor-hover: #342a1d;--label-brown-bgCfa-file-audio:olor-active: #483a28;--label-brown-fgColor--8 {
+  flex: 0 0 auto;
+  width: 66.66666667%;
+}
+
+.col-9 {
+  flex: 0 0 auto;
+  width: 75%;
+}
+
+.col-10 {
+  flex: 0 0 auto;
+  width: 83.33333333%;
+}
+
+.col-11 {
+  flex: 0before {
+  content: "\f1c7"; }
+
+.fa-file-code:before {
+  content: "\f1c9"; }
+
+.fa-file-contract:before {
+  content: "\f56c"; }
+
+.fa-file-csv:before {
+  content: "\f6dd"; }
+
+.fa-file-download:before {
+  content: "\f56d"; }
+
+.fa-file-excel:before {
+  content: "\f1c3"; }
+
+.fa-file-export:before {
+  content: "\f56e"; }
+
+.fa-file-image:before {
+  content: "\f1c5"; }
+
+.fa-file-import:before { 0 auto;
+  width: 91.66666667%;
+}
+
+.col-12 {
+  flex: 0 0 a
+  content: "\f56f"; }
+
+.fa-fiuto;
+ rest: #b69a6d;--label-brown-le-in

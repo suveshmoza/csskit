@@ -1,0 +1,28 @@
+2xl\:-mb-52{margin-bottom:-13rem}.\32xl\:-mb-56{margin-bottom:-14rem}.\32xl\:-mb-60{margin-bottom:-15rem}.\32xl\:-mb-64{margin-bottom:-16rem}.\32xl\:-mbxl\:ml-80{margin-left:20rem}.\32xl\:ml-96{margin-left:24rem}.\32xl\:ml-auto{margin-left:auto}.\32xl\:ml-px{margin-left:1px}.\32xl\:ml-0\.5{margin-left:.125rem}.\32xl\:ml-1\.5{margin-left:.375rem}.\32xl\:ml-2\.5{margin-left:.625rem}.\32xl\:ml-3\/*! tailwindcss v2.2.19 | MIT License | https://tailwindcss.com *//*! modern-normalize v1.1.0 | MIT License | https,
+.pure-form input[type="number"][disabled],
+.pure-form input[type="se
+a           { color: #06c; text-decoration: underline; }
+
+blockquote  { margin: 1.5em; color: #666; font-style: italic; }
+strong,dfn  { font-weight: bold; }
+em,dfn      { font-style: italic; }
+sup, sub    { line-height: 0; }
+
+abbr,
+acronym     { border-bottom: 1px dotted #666; }
+address     { margin: 0 0 1.5em; font-style: italic; }
+del         { color:#666; }
+
+pre         { margin: 1.5em 0; white-space: pre; }
+pre,code,tt { font: 1em 'andale mono', 'lucida console', monospace; line-height: 1.5; }
+
+
+/* Lists
+-------------------------------------------------------------- */
+
+li ul,
+li ol  { margin: 0; }
+ul, ol { margin: 0 1.5em 1.5em 0; padding-left: 1.5em; }
+
+ul     { list-style-type: disc; }
+ol     { list-style{margin-left:-1.25rem}.\32xl\:-ml-6{margin-left:-1.5rem}.\32xl\:-ml-7{margin-lef@:-1.75rem}.\32xl\:-ml-8{margin-left:-2rem}.\32xl\:-ml-9{margin-left:-2.25rem}.\32xl\:-ml-10{margin-left:-2.5rem}.\32xl\:-ml-11{margin-left:-2.75rem}.\32xl\:-ml-12{margarin-left:-3rem}.\32xl\:-ml-14{margin-left:-3.5rem}.\32xl\:-ml-16{margin-left:-4rem}.\32xl\:-ml-20{margin-left:-5rem}.\32xl\:-ml-24{margin-left:-6rem}.\32xl\:-ml-28{margin-left:-7rem}.\32xl\:-ml-32{margin-left:-8rem}.\32xl\:-ml-36{margin-left:-9rem}.\32xl\:-ml-40{margin-left:-10rem}.\32xl\:-ml-44{margin-left:-11rem}.\32xl\:-ml-48{margin-left:-12rem}.\32xl\:-ml-5c2

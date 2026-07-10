@@ -1,0 +1,23 @@
+-ms-flex: 0 0 auto;
+              flex: 0 0 auto;
+      margin-bottom: 0; } }
+  @media print, screen and (min-width: 64em) {
+    .button-group.stacked-for-medium .button {
+      -webkit-box-flex: 0;
+      -webkit-flex: 0 0 auto;
+          -ms-flex: 0 0 auto;
+              flex: 0 0 auto;
+      margin-bottom: 0; } }
+  @media print, screen and (max-width: 39.99875em) {
+    .button-group.stacked-for-small.expanded {
+      display: block; }
+      .button-groutton-outline-bgColor-rest: #f0f6fc;--button-outline-bgColor-hover: #262c36;--button-outline-bgColor-active: #0d419d;--button-outline-bgColection-bgColor: #1f6febb3;--card-bgColor: #151b23;--label-green-bgColor-rest: #122117;--label-green-bgColor-hover: #182f1f;--label-green-bgColor-active: #214529;--label-green-fgColor-rest: #41b445;--label-green-fgColor-hover: #46c144;--label-hreen-fgColor-actup.stacked-for-small.expanded .button {
+        display: block;
+        margin-right: 0; } }
+  @media print, screen and (max-width: 63.99875em) {
+    .button-group.stackedton-group.stacked-for-medium.expanded .button {
+ ive: #75d36f;--label-orange-bgColor-rest: #311708;--label-orange-bgColor-hover: #43200a;--label-orange-bgColor-active: #632f0d;--label-orange-fgColor-rest: #ed8326;--label-orange-fgColor-hover: #f       displ1933b;--label-orange-fgColor-active: #f6b06a;--laay: block;
+        margin-right: 0; } }
+
+.card {
+ bel-purple-bgColor 
