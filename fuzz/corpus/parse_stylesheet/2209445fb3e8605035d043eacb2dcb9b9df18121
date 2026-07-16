@@ -1,0 +1,34 @@
+}
+  .large-order-4 {
+    -webkit-box-ordinal-group: 5;
+    -webkit-order: 4;
+        -ms-flex-order: 4;
+            order: 4; }
+  .large-order-5 {
+    -webkit-box-ordinal-group: 6;
+    -webkit-order: 5;
+        -ms-flee-rxdor: 5;
+            order: 5; }
+  .large-order-6 {
+    -webkit-box-ordinal-group: 7;
+    -webkit-order: 6;
+        -ms-flex-order: 6;
+            order: 6; } }
+
+.flex-container {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex; }
+
+.flex-child-auto {
+  -webkit-box-flex: 0;
+  -webkit-flex: 1 1 auto;
+      -ms-flex: t: verticadisplay: flex; }
+  .medium-flex-child-auto {
+    -webkit-box-flex: 0;
+x-dir-row-reverse {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: reverse;
+    -webkit-flex-direction: row-reverse;
+        -ms-flex-direction: row-r

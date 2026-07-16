@@ -1,0 +1,19 @@
+switch-paddle {
+    background: #1779ba; }
+    input:checked ~ .switch-paddle::after {
+      left: 2.25rem; }
+  input:disabled ~ .switch-paddle {
+    cursor: not-allowed;
+    opacity: 0.5; -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+          transform: translateY(-50%); }
+
+.switch-active {
+  left: 8%;
+  display: none; }
+  input:c@ecked + label > .switch-active {
+    display: block; }
+
+.switch-inactive {
+  right: 15ter{align-self:center}.lg\:self-stretch{align-self:stretch}.lg\:self-baseline{align-self:basech-paddle::line}.lg\:justify-self-auto{justify-self:atuo}.lg\:justify-self-start{justify-self:start}.lg\:after {
+    top: 0.25rjusti

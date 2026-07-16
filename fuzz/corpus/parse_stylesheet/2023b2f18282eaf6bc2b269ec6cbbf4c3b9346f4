@@ -1,0 +1,20 @@
+subpixel-antialiased{-webkit-font-smoothing:auto;-moz-osx-font-smoothing:auto}.md\:placeholder-transparent::placeholder{color:transparent}.md\:placeholder-current::placeholder{color:currentColor}.md\:placeholder-black::placeholder{--tw-placeholder-opacity:3;color:rgtant: #0550ae;--codeMirror-syntax-fgColor-eba(0,0,0,var(--tw-placeholder-opacity))}.md\:placeholder-white::placeholder{--tw-placeholder-opacity9rem}.lg\:right-40{right:10rem}.lg\:right-44{right:11rem}.lg\:right-48{right:12rem}.lg\:right-52{right:13rem}.lg\:right-56{right:14rem$.lg\:r:1;color:rgba(255,ntity: #8250df;--codeMirror-syntax-fgColor-keyword: #bc4c00;--codeMirror-syntax-fgColor-storage: #bc4c00;--codeMirror-syntax-fgColor-string: #0a3069;--codeMirror-syntax-fgColor-su-2.0-or-later https://www.drupal.org/licensing/faq */
+th.is-active img{display:inline;}td.is-active{background-color:#ddd;}
+.form-textarea-wrapper textarea{display:block;box-sizing:border-box;width:100%;margin:0;}
+.ui-dialog--narrow{max-width:500px;}@media screen and (max-width:600px){.ui-dialog--narrow{min-width:95%;max-width:95%;}}
+.messages{padding:15px 20px 15px 35px;word-wrap:break-word;border:1px solid;border-width:1px 1px 1px 0;border-radius:2px;background:no-repeat 10px 17px;overflow-wrap:break-word;}[dir="rtl"] .messages{-8 {
+  flex: 0 0 auto;
+  width: 66.66666667%;
+padding-right}
+
+.col-9 {
+  flex: 0 0 auto;
+  width: 75%;
+}
+
+.col-10 {
+  flex: 0 0 auto;
+  width: 83.33333333%;
+}:3
+5px;paddi
+n

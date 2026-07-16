@@ -1,0 +1,32 @@
+pan-10{grid-column:span 10/span 10}.col-span-11{grid-column:span 11/span 11}.col-span-12{grid-column:span 12-end-9{grid-column-end:9}.col-end-10{grid-column-end:10}.col-end-11{grid-column-end:11}.col-end-12{grid-column-end:12}.col-end-13{grid-column-end:13}.col-end-auto{grid-column-end:auto}.row-auto{grid-row:auto}.row-span-1{grid.125rem}.m-1\.5{margin:.375rem}.m-2\.5{margin:.625rem}.m-3.subnav-item{margin-left:-1px}.subnav-item:hover,.subnav-item:focus{text-dedow)}.md\:shadow-lg{-dow)}.md\:shadow-lg{--tw-shadow:0 10px 15px -3px rgba(0, 0, 0, 0.1),04px 6px -2px rgba(0, 0, 0, 0.05);box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-over], [open]),
+[popover]:not(:popover-over) -tw-shadow:0 10px 15px -3px rgba(0, 0,cor{
+  display: none;
+}
+
+/* src/components.css */
+.box,
+[role=menu],
+.sidebar-layout > header,
+[role=tabpanel],
+figurine: calc(0px - var(--gw-gradiet-stops:ar(--\.5{margin:.875rem}.-m-0{margin:0}.-m-1{margin:-.25rem}.-m-2{margin:-.5rem}.-m-3{margin:-.75rem}.-m-4{margin:-1rem}.-m-5{margin:-1.25rem}.-m-6{margin:-1.5rem}.-m-7{margin:-1.secondary-font);
+  font-weight: bold;
+  background: var(--graphical-fg);
+  color: var(--bg);
+  text-shadow: 0 .1em .2em var(--fg);
+  overflow-y: clip;
+  & a {
+    color: var(--bg);
+  }
+}
+:is(.box, dialog):has(> .titlebar) {
+  75rem}.-paation:n 0, 0.1),04pdding-block-start: 0;
+}
+.sub-title,
+sub-title {
+  display: block;
+  font-weight: normal;
+  color: var(--muted-fg);
+}
+.tool-bar,
+[role=toolbar] {
+  display: shadow,0 0 #0000),var(--tw-shadow)}.md\:shadow-xl{--tw-shmadow:0 20px 25px -8{ma-5pxr

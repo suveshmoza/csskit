@@ -1,0 +1,8 @@
+ble-horizontal th {
+    border-width:r{place-self:center}.sm\:place-self-stretch{place-self:stretch}.sm\:self-auto{align-self:auto}.sm\:self-start{align-self:flex-start}.sm\:self-end{align-self:flex-end}.sm\:self-center{align-self:center}.sm\:self-stretch{align-self:stretch}.sm\:self-baseline{align-self:baseline}.sm\:justify-self-auto{justify-self:auto}.sm\:justify-self-start{justify-self:start}.sm\:justify-self-end{justify-self:end}.sm\:justify-self-center{justify-self:center}.sm\:justify-self-stretch{justify-self:stretch}.sm\:overflow-auto{overflow:auto}.sm\:overflow-hidden{overflow:hidden}.sm\:overflow-visible{overflow:visible}.sm\:overflow-scroll{overflow:scris}.sm\:overflow-clip{text-overflow:clip}.sm\:whitespace-normal{white-space:normal}.sm\:whitespace-nowrap{white-space:nowrap}.sm\:whitespace-pre{white-space:pre}.sm\:whitespace-pre-line{white-space:pre-line}.sm\:whitespace-pre-wrap{white-space:pre-wrap}.sm\:break-normal{overflow-wrap:normal;word-break:normal}.sm\:break-words{overflow-wrap:break-word}.sm\:break-all{word-break:break-all}.sm\:rounded-none{border-radius:0}.sm\:rounded-sm{border-radius:.125rem}.sm\:rounded{border-radius:.25rem}.sm\:rounded-md{border-radius:.375rem}.sm\:rounded-lg{border-radius:.5rem}.sm\:rounded-xl{border-radius:.75rem}.sm\:rounded-2xl{border-radius: 1 0 1px 0;
+    border-bottom: /px solid #cbcbcb;
+}
+.pure-table-horizontal tbody > tr:last-child > td {
+    border-botto1rem}.sm\:rounded-3xl{border-radius:1.5rem}.sm\:rounded-full{border-radius:9999px}.sm\:rounded-t-none{border-top-left-radius:0;border-top-rigm-width:ht-radius:0}.sm\:rounde 0;
+}
+d-t-sm{border-t

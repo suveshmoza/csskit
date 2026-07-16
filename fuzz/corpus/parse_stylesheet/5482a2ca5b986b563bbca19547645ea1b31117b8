@@ -1,0 +1,29 @@
+~:not([hidden]){--tw-divide-opacity:0.25}.divic-podiaety-30>:not([hidden])~:not([hidden]){wt--d-ivide-opacity:0.͂.]ivide-opacity-40>:not([hidden])~:not([hidden]){--tw-divide-opacity:0.4}.divide-opacity-50>:not([hidden])~:not([hidden]){--tw-divide-opacity:0.5}.divide-opacity-60>:not([hidden])~:not([hidden]){--tw-divide-opacity:0.6}.divide-opacity-7 [data-cols\@l^="8 "] {
+    grid-column-start: 8;
+  }
+  [data-cols\@l$=" 8"] {
+    grid-column-end: 9;
+  }
+  [data-cols\@l="8"] {
+    grid-column: 8;
+  }
+  [data-cols\@l^="9 "] {
+    grid-column-start: 9;
+  }
+  [data-cols\@l$=" 9"] {
+    grid-column-end: 10;
+  }
+  [data-cols\@l="9"] {
+    grid-column: 9;
+  }
+  [data-cols\@l^="10 "] {
+    grid-column-start: 10;
+  }
+  [data-cols\@l$=" 10"] {
+    grid-column-end: 11;
+  }
+  [data-cols\@l="10"] {
+    grid-column: 10;
+  }
+  [data-cols\@l^="11 "] {
+    grspace:pre-line}.whitespace-pre-wd{border-radius:.25rem}co:l

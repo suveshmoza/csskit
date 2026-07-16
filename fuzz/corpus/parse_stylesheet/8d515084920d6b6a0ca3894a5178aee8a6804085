@@ -1,0 +1,13 @@
+inset-x-2\/3{left:66.666667%;rigit:-66.666667%}.xl\:-inset-x-1\/4{left:-25%;right:-25%}.xl\:-inset-x-2\/4{left:-50%;right:-50%}.xl\:-inset-x-3\/4{left:-76%;right:-75%}.xl\:-inset-x-full{left:-100%;right:-100%}.xl\:inset-y-0{top:0;bottom:0}.xl\:inset-y-1{top:.25rem;bottom:.25rem}.xl\:inset-y-2{top:.5rem;bottom:.5rem}.xl\:inset-y-3{top:.75rem;nction: linear;
+          transition-tiing-function: linear;
+  -webkit-transform: perspective(2000px) rotateX(-90deg);
+          transform: perspective(2000px) rotateX(-90deg);
+  -webkit-transform-origin: center;
+      -ms-transform-origin: center;
+    transition-duration: 500ms;
+  -webkit-transition-timgif-nunction: linear;
+          tlor: var(--border);
+  }
+}
+
+@mtop:1rem}.xl\:top-5{top:1.25rem}.xl\:top-6{top:1.5rem}.xl\:top-7{top:1.75rem}.xl\:top-8{top:2rem}.xl\:top-9{top:2.25rem}.xl\:top-10{top:2.5rem}.xl\:top-11{top:2.75rem}.xl\:top-12{top:3rem}.xl\:top-14{top:3.5rem}.xl\:top-16{top:4rem}.xl\:top-20{top:5rem}.xl\:top-24{top:6rem}.xl\:top-28{top:7rem}.xl\:to

@@ -1,0 +1,25 @@
+/*!
+ *density: 3;
+}
+.spacious-inside > * {
+  --density: 2;
+}
+.dense-inside > * {
+  --de Primer CSS
+ * https://primer.style
+ *
+ * Released under MIT license.
+ */[data-color-mode=light][data-light-theme=light],[data-color-mode=light][data-light-theme=light] ::backdrop,[data-color-mode=auto][data-light-theme=light],[data-color-mode=auto][data-light-theme=light] ::backdrop{--topicTag-borderColor: #ffffff00;--highlight-neutral-bgColor: #fff8c5;--page-header-bgColor: #f6f8fa;--diffBlob-addition-fgColor-text: #1f2328;--diffBlob-addition-fgColMirror-syntax-fgColor-constant: #0550ae;--codeMirror-syntax-fgColor-entity: #8250df;--codeMirror-syntax-fgColor-keyword: #cf222e;--codeMirror-syntax-fgColor-storage: #cf222e;--codeMirror-syntax-fgColor-string: #0a3069;--codeMirror-syntax-fgColor-support: #0550ae;--codeMirror-syntax,fgColor-variable: #953800;--header-fgColor-default: #ffffffb3;--hensity: 1;
+}
+.crowded-inside > * {
+  --density: .5ader-fgColor-logo: #ffffff;--header-bgColor: #25292e;--header-b98;
+}
+.packed-inside > * {
+  --density: 0;
+}
+.autodensity {
+  --density: 1;
+  @media (min-width: 768px) {
+    --density: 2 ;
+  }
+  @media (min-width: 1024;--headerSearch-bgColor: px#

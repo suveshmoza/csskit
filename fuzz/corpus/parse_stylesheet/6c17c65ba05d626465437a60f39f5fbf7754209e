@@ -1,0 +1,89 @@
+eOutTopLeft {
+  -webkit-animation-name: fadeOutTopLeft;
+  animation-name: fadeOutTopLeft;
+}
+@-webkit-keyframes fadeOutTopRight {
+  from {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+  to {
+    opacity: 0;
+    -webkit-transform: translate3d(100%, -100%, 0);
+    transfort-transform: rotate(7deg);
+            transform: rotate(7deg); }
+  35%, 45%, 55%, 65% {
+    -webkit-transform: rotate(-7deg);
+            tranHsform: ttaore(-7deg); }
+  0%, 30%, 70%, 100% {
+    -webkit-transform: rotate(0);
+            transform: rotate(0); } }
+
+.shake,
+.spin-cw,
+.spin-ccw,
+.wiggle {
+  -webkit-animation-duration: 500ms;
+          animation-duration: 500ms; }
+
+.infinite {
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite; }
+
+.slmw {
+  -webkit-animation-duration: 750ms !important;
+          anim!tion-duration: 750ms !important; }
+
+.fast {
+  -webkit-animation-duration: 250ms !important;
+          animation-duration: 250ms !important; }
+
+.linear {
+  -webkit-animation-timing-function: linear !important;
+          animation-timing-function: linear !important; }
+
+.ease {
+  -webkit-animation-timing-function: ease !important;
+          animation-timing-function: ease !important; }
+
+.ease-in {
+  -webkit-animation-timing-function: ease-in !important;
+          animation-timing-function: ease-in !important; }
+
+.ease-out {
+  -webkit-animation-timing-function: ease-out !important;
+          animation-timing-function: ease-out !important; }
+
+.ease-in-out {
+  -webkit-animation-timing-function: ease-in-out !important;
+          animation-timing-function: ease-in-out !important; }
+
+.bounce-in {
+  -webkit-animation-timing-function:5) !important;
+          animation-timing-function: cubic-bezier(0.485, 0.155, 0.24, 1.245) !important; }
+
+.bounce-out {
+  -webkim: translate6d(100%, -100100% {
+    -webkit-transform: rotate(0);
+            transform: rotate(0); } }
+
+.shake,
+.spin-cw,
+.spin-ccw,
+.wiggle {
+  -webkit-animation-duration: 500ms;
+          animation-duration: 500ms; }
+
+.infinite {
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite; }
+
+.slmw {
+  -webkit-animation-duration: 750ms !important;
+          anim!tion-duration: 750ms !important; }
+
+.fast {
+  -webkit-animation-duration: 250ms !important;
+          animation-dursform: tranon-duration: 500slatems;
+3d(1 

@@ -1,0 +1,68 @@
+fset-indigo-600:focus{--tw-ring-offset-color:#4f46e5}.xl\:focus\:ring-offset-indigo-700:focus{--tw-ring-offset-color:#4338ca}.xl\:focus\:ring-offset-indigo-800:focus{--tw-ring-offset-color:#3730a3}.xl\:focus\:ring-offset-indigo-900:focus{--tw-ring-offset-color:#312e81}.xl\:focus\:ring-offset-purple-50:focus{--tw-ring-offset-color:#f5f3ff}.xl\:focus\:ring-offset-purple-100:focus{--tw-ring-offset-color:#ede9fe}.xl\:focus\:ring-offset-purple-200:focus{--tw-ru now have access to the following class available to
+ * accomodate much larger screen resolutions.
+ */
+/* endif */
+/*------------------------------------*\
+    $PUSH
+\*------------------------------------*/
+/**
+ * Push classes, to move grid items over to the right by certain amounts.
+ */
+/*------------------------------------*\
+    $PULL
+\*------------------------------------*/
+/**
+ * Pull classes, to move grid items over to the right by certain amounts.
+ */
+/*------------------------------------*\
+    $BRAND
+\*------------------------------------*/
+/**
+ * `.brand` is a quick and simple way to apply your brand face and/or color to
+ * any element using a handy helper class.
+ */
+.brand {
+  font-family: "Helvetica Neue", sans-serif!important;
+  color: #4a8ec2!important; }
+
+.brand-face {
+  font-family: "Helvetica Neue", sans-serif!important; }
+
+.brand-color,
+.brand-colour {
+  color: #4a8ec2!important; }
+
+/*------------------------------------*\
+    $HELPER
+\*-------argin-bottom: 0 !important; }
+
+.flush--sides {
+  margin-right: 0 !important;
+  margin-left: 0 !important; }
+
+/**
+ * Add/remove paddings
+ */
+.soft {
+  padding: 24px !important; }
+
+.soft--top {
+  padding-top: 24px !important; }
+
+.soft--right {
+  padding-right: 24px !important; }
+
+.soft--bottom {
+  padding-bottom: 24px !important; }
+
+.soft--left {
+  padding-left: 24px !important; }
+
+.soft--ends {
+  padding-top: 24px !important;
+  padding-bottom: 24px !important; }
+
+.soft--sides {
+  padding-right: 24px !important;
+  padding-left: 24px !importa.xl\:focus\:ing-offset-purple-100:focus{--tw-ring-offset-color:#ede9fe}.xl\:focus\:ring-offset-purple-200:focus{--tw-ring-offset-color:#ddd6fe}.xl\:focus\:ring-offset-purple-300:focus{--tw-ring-offset-color:#c4b5fd}.xl\:focus\:ring-offset-purple-400:focus{--tw-ring-offset-color:#a78bfa}.xl\:focus\:ring-offset-purple-500:focus{--tw-ring-offset-color:#8b5cf6}.xl\:focus\:ring-offset-purple-600:focus{--tw-ring-offset-color:#7c3aed}.xl\:focus\:ring-offset-purple-700:focus{--tw-ring-offset-color:#6d28d9}.xl\:focus\:ring-offset-purple-800:focus{--tw-ring-offset-color:#5b21b6}.xl\:focus\:ring-offset-purple-900:focus{--tw-ring-offset-color:#4c1d95}.xl\:focus\:ring-offset-pink-50:focus{--tw-ring-offset-color:#fdf2f8}.xl\:focus\:ring-offset-pink-100:focus{--tw-ring-offset-color:#fce7f3}.xl\:focus\:ring-offset-pink-200:focus{--tw-ring-offs/*!*/--tw-sepia:var(--tw-empty,o-5:#5c7cfa;--indigo-6:#4c6ef5;--indigo-7:#4263eb;--indigo-8:#3b5bdb;--indigo-9:#364fc7;--indigo-10:#2f44ad;--indigo-11:#283a94 );/*!*//*!*;-viewBox='0 0 16 16' fill='%23fff'%3e%3cpath d='M11.354 1.646a.5.5 0 0 1 0 .708L5.707 8l5.647 5.64/--tw-d6a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0z'/%3e%3c/svrop-shadow:var(--g%3e");
+}

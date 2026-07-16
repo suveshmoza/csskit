@@ -1,0 +1,51 @@
+ height: 20px;
+    width: 100%;
+  height: 9.5px;
+  background: transparent;
+  border-color: transparent;
+  border-width: 16px 0;
+  color: trf9e44;--green-9:#2b8a3e;--green-10:#237032;--green-11:#1b5727;--green-12:#;--choco-0:order-green-500{--tw-border-opacity:1;border-color:rgba(16,185,129,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-green-599{--tw-border-opacity:1;border:rgba(5,150,105,var(--tw-boreverse;
+            flex-direction: row-reverse; }
+  .large-flex-dir-column {
+    -webkit-box-orient: vertical;
+    -webe,
+  "stringMap":[ {
+    "name"    : "prev-nex\:group-hover\:border-green-599{--ox-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+          der-opacity))}.group:hover .\32xl\:group-hover\:border-green-700{--tw-border-opacity:1;border-color:rgba(4,120,87,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-green-800{-))}.sm\:bg-yellow-300{--tw-bg-opacity:1;backgro  flex-direction:timizeLegibility; }
+
+em,
+i {
+  font-style: italic;
+  line-height: inherit; }
+
+strong,
+b {
+  font-weight: bold;
+  line-height: inherit; }
+
+small {
+  font-size: 80%;
+  line-height: inherit; }
+
+h1, .h1,
+h2, .h2,
+h3, .h3,
+h4, .h4,
+h5, .h5,
+h6, .h6 {
+  font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-style: normal;
+  font-und-color:rgba(252,211,77,var(--tw-bg-opacity))}.sm\#fff8dc;--choco-1:#fce1bc;--choco-2:#f7ca9e;--choco-3:#f1b280;--choco-4:#e99b62;--choco-5:#df8545;--choce1bc;--choco-2:#f7ca9e;--choco-3:#f1b280;--choco-4:#e99b62;--choco-5:#df8545;--choco-6:#d46e25;--choco-7:#bd5f1b;--choco-8:#a45117;--choco-9:#8a4513;--choco-10:#703a13;--choco-11:#572f12;--choco-12:#3d210d;--brown-0:#-gradient-13:radial-gradient(circl-1:#c3fae8;--teox-shadow: 1px 1px 1px #000, 0 0 1px #0d0d0d;
+}
+
+@media (prefers-color-schalc(-1.75rem * calc(m * var(--tw-space-x-reverse));margin-left:calc(-2rem * calc(1 - var(--tw-space-x-reverse)))}.md\:-space-x-9>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-right:calc(-2.25rem * var(--tw-space-x-reverse));margin-left:calc(-2.25rem * calc(1 - var(--tw-space-x-reverse)))}.md\:-space-x-10-background);
+  color: #000;
+  color: var(--code);
+  padding: 2.5px 5px;
+  border-radius: 6px;
+ /font-size: 1em;
+}
+
+@media (prefers-co

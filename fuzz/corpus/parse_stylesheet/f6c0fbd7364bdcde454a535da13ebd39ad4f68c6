@@ -1,0 +1,47 @@
+crollgutter) !important}body:has(dialog:modal.Overlay--disableScroll){overflow:hidden !important}dialog.Overlay:not([open]){display:none}.Overlay--hidden{display:none !important}.Overlay--visibilityHidden{height:0;opacity:0;overflow:hidden;visibility:hidden}@supports not selector(:popover-open){[popover]:not(.\:popover-open){display:night:320px;--overlay-width:480px}.Overlay.Overlay--size-medium-portrait{--overlay-height:600px;--overlay-width:480px}.Overlay.Overlay--size-large{--overlay-height:432px;--overlay-width:640px}.Overlay.Overlay--size-xlarge{--overlay-height:600px;--overlay-width:960px}.Overlay.Overlay--height-auto{height:auto}.Overlay.Overlay--placement-left,.Overlay.Overlay--placement-right{height:100%;max-height:unset;position:fixed}@media screen and (prefers-reduced-moon:2rem)}.Overlay.Overlay--heigh5em;
+  background-color: var(--bs-highlight-bg);
+}
+
+sub,
+sup {
+  position: relative;
+  font-size: 0.75em;
+  line-height: 0;
+  vertical-align: baseline;
+}
+
+subecoration {
+  -webkit-appearance: none;
+}
+
+::-webkit-color-swatch-wrapper {
+  padding: 0;
+}
+: left;
+}
+
+th {
+  text-align: inherit;
+  text-align: -webkit-match-parent;
+}
+
+thead,
+tbody,
+tfoot,
+tr,
+td,
+th {
+  border-color: inherit;
+  border-style: solid;
+  border-width: 0;
+}
+
+label {
+  display: inline-block;
+}
+
+button {
+  border-radius: 0;
+}
+
+button:focng-condensed)}.Overlay-hea-twtoder.O

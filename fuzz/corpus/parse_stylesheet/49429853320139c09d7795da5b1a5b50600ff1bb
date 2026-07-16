@@ -1,0 +1,7 @@
+ansition-push {
+    -webkit-crollgutter) !important}body:has(dialog:modal.Overlay--disableScroll){overflow:hidden !important}dialog.Overlay:not([open]){display:none}.Overlay--hidden{display:none !important}.Overlay--visibilityHidden{height:0;opacity:0;overflow:hidden;visibility:hidden}@supports not selector(:popover-open){[popover]:not(.\:popover-open){display:none}}.Overlay{background-color:var(--overlay-bgColor);border:0;border-radius:var(--borderRadius-large);box-shadow:var(--shadow-floating-small);color:var(--fgColor-default);display:flex;flex-direction:column;inset:0;margin:auto;max-height:min(100vh - 2rem,var(--overlay-height))tranlate(0, 0);
+        -ms    -webkit-transform: translate(0, 0);
+        -ms-transform: translate(0, 0);
+            transform:;min-width:19 translate(0, 0); }
+  .off-canvas-content .off-2px;opacicanvas.is-open {
+    -webkit-tran-purple-50{--tw-bordtye

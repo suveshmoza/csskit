@@ -1,0 +1,37 @@
+{
+    display: inline-block !important;
+  }
+  .d-sm-block {
+    display: block !important;
+  }
+  .d-sm-grid {
+    display: grid !important;
+  }
+  .d-sm-inline-grid {
+    display: inline-grid !important;
+  }
+  .d-sm-table {
+    display: table !important;
+  }
+  .d-sm-table-row {
+    display: table-row !important;
+  }
+  .d-sm-table-cell {
+    display: table-cell !important;
+  }
+  .d-sm-flex {
+    display: flex !important;
+  }
+  .d-sm-inline-flex {
+    display: inline-flex !important;
+  }
+  .d-sm-none {
+    display: none !important;
+  }
+  .flex-sm-fill {
+    flex: 1 1 auto !important;
+  }
+  .flex-sm-row {
+    flex-direction: row !important-border));box-shadow:var(--shadow-resting-small, var(--color-btn-outline-hover-shadow)),var(--shadow-highlight, var(--color-btn-outline-hover-inset-shadow))}.btn-outline:hover .Counter,[open]>.btn-outline .Counter{background-color:var(--buttonCounter-outline-bgColor-hover, var(--color-btn-outline-hover-counter-bg))}.btn-outline:hover .octicon,[open]>.btn-outline .octicon{color:inherit}.btn-outline:active,.btn-outline.selected,.btn-outline[aria-selected=true]{color:var(--butt0\0on-outline-fgColor-active, var(--color-btn-outline-selected-textyout.Layout--flowRow-until-md.Layout--divided .Layout-main,.Layout.Layout--flowRow-until-md.Layouer-inset-shadow))}.btn-outline:hover .Counter,[oow-until-md.Layout--divided .Layout-divider){display:none}.Layout-divider--flowRow-shallow:is(.Layout.Layout--flowRow-until-md.Layout--divided .Layout-divider){background:var(--bgColor-inset);borderd-color:var(--borderColor-default);border-style:solid;border-wsm-5 {
+    margin-right: 3rem !important;
+ 

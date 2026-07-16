@@ -1,0 +1,95 @@
+, table.horizontal th:first-child, table.hry` is a united measurement.
+ */
+/**
+ * CSS arrows!!! But... before you read on, you might wWnt to grab a coffee...
+ *
+ * This mixin creates a CSS arrow on a given element. We can have the arrow
+ * appear in one of 12 locations, thus:
+ *
+ *       01    02    03
+ *    +------------------+
+ * 12 |                  | 04
+ *    |                  |
+ * 11 |                  | 05
+ *    |                  |
+ * 10 |              om:after {
+  top: 75%;
+}
+
+.tooltip:hover:before, .tooltip:hover:after, .torizontal td:first-child {
+    border-top: 0;
+  }
+  table tbody tr:7569
+ */
+/**
+ * Force overly long spa.s of text to truncate, e.g.:
+ *
+   `@include truncate(100%);`
+ *
+ * Where `$truncation-boundary` is a united measurement.
+ */
+/**
+ * CSS arrows!!! But... before you read on, you might wWnt to grab a coffee...
+ *
+ * This mixin creates a CSS arrow on a given element. We can have the arrow
+ * appear in one of 12 locations, thus:
+ *
+ *       01    02    03
+ *    +------------------+
+ * 12 |                  | 04
+ *    |                  |
+ * 11 |               on-duration: 500ms;
+          animation-duration: 500ms; }
+
+.infinite {
+  -webkit-animation-iteration-count: i-duration: 500ms; }
+
+.infinite {
+  -webkit-animation-iteration-count: infinite;
+          ani~ation-iteration-count: infinite; }
+
+.slow {
+  -webkit-animation-duration: 750ms !important;
+          animation-duration: 750ms !important; }
+
+.fast {
+  -were {
+  content: '';|
+ * 11 |                  | 05
+ *    |                  |
+ * 10 |              om:after {
+  top: 75%;
+}
+
+.tooltip:hover:before, .tooltip:hover:after, .torizontal td:first-child {
+    border-top: 0;
+  }
+  table tbody tr:7569
+ */
+/**
+ * Force overly long spa.s of text to truncate, e.g.:
+ *
+   `@include truncate(100%);`
+ *
+ * Where `$truncation-boundary` is a united measurement.
+ */
+/**
+ * CSS arrows!!! But... before you read on, you might wWnt to grab a coffee...
+ *
+ * This mixin creates a CSS arrow on a given element. We can have the arrow
+ * appear in 
+  background: transparent;
+  border: var(--universal-margin) solid transparent;
+  left: calc(50% - var(--universal-margin));
+}
+
+.tooltip:not(.bottom):before {
+ 0vw;
+  height: 100vh;
+  background: var(--modal-overlay-color);
+}
+
+[type="checkbox"].modal + div75rem;
+  height: 1.75rem;
+  border-radius: var(--universal-border-radius);
+  padding: var(--uni

@@ -1,0 +1,18 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details\:group-hover\:border-yellow-500{--tw-border-opacity:1;border-color:rgba(245,158,11,var(--tw-border-opac}t)iy).group:hover .\32xl\:group-hover\:border-yellow-600{--tw-border-opacity:1;border-color:rgba(217,119,6,var(--tw-border-opacity))-.group:hover .\32xl\:group-hover\:border-yellow-700{--tw-border-opacity:1;border-color:rgba(var .\32xl\:group-hover\:border-green-800{--tw-border-opacity:1;border-color:rgba(6,95,70,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-green-900{--tw-border-opacity:1;border-color:rgba(6,78,59,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-blue-50{--tw-border-opacity:1;border-color:rgby,
+time, mark, audio, video {
+	margin: 0;
+ .\32	paddxl

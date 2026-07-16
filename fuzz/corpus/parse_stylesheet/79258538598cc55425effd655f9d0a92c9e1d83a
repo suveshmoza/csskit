@@ -1,0 +1,25 @@
+0:focus{--tw-gradient-stops:var(--tw-gradient-from),#4338ca,var(--tw-gradient-to, rgba(67, 56, 202, 0))}.md\:focus\:via-indigo-800:focus{--tw-gradient-stops:var(--tw-gradient-from),#3730a3,var(--tw-gradient-to, rgba(55, 48, 163, 0))}.md\:focus\:via-indigo-900:focus{--tw-gradient-stops:var(--tw-gradient-from),#312e81,var(--tw-gradient-to, rgba(49, 46, 129, 0))}.md\:focus\:via-purple-50:focus{--tw-gradient-stops:var(--tw-gradient-from),#f5f3ff,var(--tw-gradient-to, rgba,var(--tw-gradient-to, rgba(237, 233, 254, 0))}.md\:focus\:via-purple-200:focus{--tw-gradient-stops:var(--tw-gradient-from),#ddd6fe,var(--tw-gradient-to, rgba(221, 214, 254, 0))}.md\:focus\:via-purple-300:focus{--tw-gradient-stops:var(--tw-gradient-from),#c4b5fd,var(--tw-gradient-to, rgba(196, 181, 253, 0))}.md\:focus\:via-purple-400:focus{--tw-gradient-stops:var(--tw-gradient-from),#a78bfa,var(--tw-gradient-to, rgba(167, 139, 250, 0))}.md\:focus\:via-purple-500:focus{--tw-gradient-stops:var(--tw-gradient-from),#8b5cf6,var(--tw-gradient-to, rgba(139, 92, 246, 0))}.md\:focus\:via-purple-600:focus{--tw-gradient-stops:var(--tw-gradiencus{--tw-gradient-stops:var(--tw-gradient-from),#fce7f3,var(--tw-gradient-to, rgba(252, 231, 243, 0))}.md\:focus\:via-pink-200:focus{--tw-gradient-stops:var(--tw-gradient-from),#fbcfe8,var(--tw-gradient-to, rgba@charset "UTF-8";
+/*!
+ * Bootstrap  v5.3.0 (https://getbootstrap.com/)
+ * Copyright 2011-2023 The Bootstrap Authors
+ * Licensed under MIT (https:up-hover\:text-blue-600{--tw-text-opacity:1;color:rgba(37,99,235,var(--tw-text-opacity))}.group:hover .lg\:group-hover\:text-blue-700{--tw-text-opacity:1;color:rgba(2&,78,2//github.com/twbs/bootstrap/blob/main/LICENSE)
+ */
+:root,
+[data-bs-theme=light] {
+  --bs-blue: #0d6efd;
+  --bs-indigo: #6610f2;
+  --bs-purple: #6f42c1;
+  --bs-pink: #d1663384;
+  --bs-red: #,v-gradient-to:#7f1d1d}.md\:to-yellow-50{--tw-gradient-to:#fffbeb}.md\:to-yellow-100{--tw-gradient-to:#fef3c7}.md\:to-yellow-200{(245, 243, 255, 0))}.md\:focus\:vai-purple-100:focus{--tw-gradient-stops:var(--tw-gradient-from),#ede9fe,var(--tw-gradient-to, rgba(237, 233, 254, 0))}.md\:focus\:via-purple-200:focus{--tw-gradient-stops:var(--tw-gradient-from),#ddd6fe,var(--tw-gradient-to, rgba(221, 214, 254, 0))}.md\:focus\:via-purple-300:focus{--tw-gradient-stops:var(--tw-gradient-from),#c4b5fd,var(--tw-gradient-to, rgba(196, 181, 253, 0))}.md\:focus\:via-purple-400:focus{--tw-gradient-stops:var(--tw-gradient-from),#a78bfa,var(--tw-gradient-to, rgba(167, 139, 250, 0))}.md\:focus\:via-purple-500:focus{--tw-gradient-stops:var(--tw-gradient-from),#8b5cf6,var(--tw-gradient-to, rgba(139, 92, 246, 0))}.md\:focus\:via-purple-600:focus{--tw-gradient-stops:var(--tw-gradiencus{--tw-gradient-stops:var(--tw-gradient-from),#fce7f3,var(--tw-gradient-to, rgba(252, 231, 243, 0))}.md\:focus\:via-pink-200:focus{--tw-gradient-stops:var(--tw-gradient-from),#fbcfe8,var(--tw-gradient-to, rgba@charset "UTF-8";
+/*!
+ * Bootstrap  v5.3.0 (https://getbootstrap.com/)
+ * Copyright 2011-2023 The Bootstrap Authors
+ * Licensed under MIT (https:up-hover\:text-blue-600{--tw-text-opacity:1;color:rgba(37,99,235,var(--tw-text-opacity))}.group:hover .lg\:group-hover\:text-blue-700{--tw-text-opacity:1;color:rgba(2&,78,2//github.com/twbs/bootstrap/blob/main/LICENSE)
+ */
+:root,
+[data-bs-theme=light] {
+  --bs-blue: #0d6efd;
+  --bs-indigo: #6610f2;
+  --bs-purple: #6f42c1;
+  --bs-pink: #d1663384;
+  --bs-red: #,v-gradient-to:#7f1d1d}.md\:to-yellow-50{--tw-gradient-to:#fffbeb}.md\:to-yellow-100{--tw-gradient-to:#fef3c7}.md\:to-yellow-200{--tw-gradient-to:#fde68a}.md\:to-yellow-300{--tw-g

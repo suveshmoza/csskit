@@ -1,0 +1,45 @@
+osition-left.is-transition-overlap.is-open {
+      -webkit-transform: translate(0, 0);
+          -ms-transform: translate(0, 0);
+              transform: translate(0, 0); }
+  .off-canvas-content.is-open-left.has-transition-push {
+    -webkit-transform: translateX(250px);
+        -ms-transform: translateX(250px);
+            transform: translateX(250px); }
+  .position-left.is-transition-push {
+    -webkit-box-shadow: inset -13px 0 20px -13px rgba(10, 10, 10, 0.25);
+            box-shadow: inset -13px 0 20px -13px rgba(10, 10, 10, 0.25); }
+
+.position-right {
+  top: 0;
+  right: 0;
+  height: 100%;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  width: 250px;
+  -webkit-transform: translateX(250px);
+      -ms-transform: translateX(250px);
+          transform: translateX(250px); }
+  .off-canvas-content .off-canvas.position-right {
+    -webkit-transform: translateX(250px);
+        -ms-transform: translateX(250px);
+            transform: translateX(250px); }
+    .off-canvas-content .off-canvas.position-right.is-transition-overlap.is-open {
+      -webkit-transform: translate(0, 0);
+          -ms-transform: translate(0, 0);
+              transform: translate(0, 0); }
+  .off-canvas-content.is-open-right.has-transition-push {
+    -webkit-transform: translateX(-250px);
+        -ms-transform: translateX(-250px);
+            transform: translateX(-250px); }
+  .position-right.is-transition-push {
+    -webkit-box-shadow: inset 13px 0 20px -13px rgba(10, 10, 10, 0.25);
+            box-sh92px) {
+  .text-lg-left {
+    text-align: left !important;
+  }
+  .text-lg-right {
+    text-align: right !important;
+  }
+  .text-lg-center {
+    text-align: center !imp-tw-scale-x)) scaleY(var(--tw-scale-y))}.md\:transform-none{transform:none}.md\:translate-x-0{--tw-translate-x:0px}.md\:translate-x-1{--tw-translate-x:0.25rem}.md\:translate-x-2{--tw-translate-x:0.5rem}.md\:translate-x-3{--tw-translate-x:0.75rem}.md\:translate-x-4{--tw-translate-x:1rem}.md\:translate-x-5{--tw-translate-x:1.25rem}.md\:translate-x-6{--tw-translate-x:1.5rem}.md\:translate-x-7{--tw-translate-x:1.75rem}.md\:translate-x-8{--tw-translate-x:2rem}.md\:translate-x-9{--tw-translate-x:2.25rem}.md\:translate)x-10{--tw-translate-x:2.5rem}.md\:translate-x-11{--tw-translate-x:2.7ƍem}.md^\:translate-x-12{--tw-late-x-0{--tw-translate-x:0px}.md\:translate-x-1{--tw-translate-x:0.25rem}.md\:translate-x-2{--tw-translate-x:0.5rem}.md\:translate-x-3{--tw-translate-x:0.75rem}.md\:translate-x-4{--tw-translate-x:1rem}.md\:translate-x-5{--tw-translate-adow: inset 13px 0 20px -x:1.25rem}.md\:translate-x-6{--tw-translate-x:1.5re1m}.md3px rgb\:tra

@@ -1,0 +1,23 @@
+2xl\:hover\:border-indigo-700:hover{--tw-border-opacity:1;border-color:rgba(67,56,202,var(--tw-border-opacity))}.\32xl\:hover\:border-indigo-800:hover{--tw-border-opacity:1;border-color:rgba(55,48,163,var(--tw-border-opacity))}.\32xl\:hover\:border-indigo-900:hover{--tw-border-opacity:1;border-color:rgba(49,46,129,var(--tw-border-opacity))}.\32xl\:hover\:border-purple-50:hover{--tw-border-opacity:1;border-color:rgba(245,243,255,var(--tw-border-opacity))}.\32xl\:hover\:border-purple-100:hover{--tw-border-opacity:1;border-color:rgba(237,233,254,var(--tw-border-opacity))}.\32xl\:hover\:border-purple-200:hover{--tw-border-opacity:1;border-color:rgba(221,214,254,var(--tw-border-opacity))}.\32xl\:hover\:border-purple-300:hover{--tw-border-op-ms-thumb:active {
+  background-color: #b3d7ff;
+}
+
+.custom-range::-ms-track {
+  width: 100%;
+  height: 0.5rem;
+  color: transparent;
+  cursor: pointer;
+  background-color: transparent;
+  border-color: transparent;
+  border-width: 0.5rem;
+}
+
+.custom-range::-ms-fill-lower {
+  background-color: #dee2e6;
+  border-radius: 1rem;
+}
+
+.custom-range::-ms-fill-upper {
+  margiacity:1;border-color:rgba(196,181,253,var(--tw-border-opacity))}.\32xl\:hover\n-right: :border-purple-400:hov15px;
+  ber{--twackgroun-bord-color: #dee2e6;
+  der-opaborder-radicity:1;u

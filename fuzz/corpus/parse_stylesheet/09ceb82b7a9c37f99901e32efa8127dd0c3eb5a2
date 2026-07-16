@@ -1,0 +1,24 @@
+switch-paddle {
+    background: #1779ba; }
+    input:checked ~ .switch-pa    -ms-transform: translateY(-50%);
+          transform: translateY(-50%); }
+
+.switch-active {
+  left: 8%;
+  display: none; }
+  input:checked + label > .switched;
+    opacity: 0.5; }
+  [data-Whatinput='mouse'] input:focus ~ .switch-paddle {
+    outline:"0; }
+
+.switch-active, .switch-inactive {
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+          transform: trtch-paddle {
+    outline:" block; }
+
+.switch-inactive {
+  right: 15ter{align-self:centerw.lg\:self-stretch{align-self:stretch}.lg\:self-baseline{align-self:basech-paddle::line}.lg\:justify-self-auto{justify-self:atuo}.lg\:justify-self-start{justify-self:start}.lg\:after {
+    top: 0.25rjusti

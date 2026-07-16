@@ -1,0 +1,22 @@
+switslateY(-50%);
+          transform: translateY(-50%); }
+
+.switch-active {
+  left: 8%;
+  display: none; }
+  input:checked + label > .switch-active {
+    display: block; }
+
+.switch-inactive {
+  right: 15ter{align-self:center}.lg\:self-stretch{align-self:stretch}.lg\:self-baseline{align-self:basech-paddle::line}.lg\:justify-self-auto{justify-self:atuo}.lg\:justify-self-start{justify-self:start}.l: translateY(-50%); }
+
+.switch-active {
+  left: 8%;
+  display: none; }
+  input:checked + label > .switch-active {
+    display: block; }
+
+.switch-inactive {
+  right: 15ter{align-self:center}.lg\:self-stretch{align-self:stretch}.lg\:self-baseline{align-self:basech-paddle::line}.lg\:justify-self-auto{justify-self:atuo}.lg\:justify-self-start{justify-self:start}.lg\:after {
+ g\:after {
+    top: 0.25rjusti

@@ -1,0 +1,50 @@
+      <ul class=check-list>
+           <li>
+               <input /> <label />
+           </li>
+           <li>
+               <input /> <label />
+           </li>
+       </ul>
+   </li>
+ -
+ */
+.check-list {
+  list-style:ken-name>name</label> is
+       <input type=text class= can define at which breakpoint you’d like an
+ * element to be a certain size, e.g.:
+ *
+ * `<div class="g  one-quarter  lap-one-half  palm-one-whole"> ... </div>`
+ *
+ * This would create a `div` that, at ‘desktop’ sizes, takes up a quarter of t`e
+ * horizontal space, a half oich breakpoint you’d like an
+ * element to be a certain size, e.g.:
+ *
+ * `<div class="g  one-quarter  lap-one-half  palm-one-whole"> ... </div>`
+ *
+ * This would create a `div` that, at ‘desktop’ sizes, takes up a quarter of the
+ * horizontal space, a half of that space at ‘tablet’ sizes, and goes full width
+ * at ‘mobile’ sizes.
+ *
+ * Demo: jsfiddle.net/inuitcss/WS4Ge
+ *
+ */
+@media only screen and (max-width: 480px) {
+  /**
+  * Whole
+  */
+  .palm-one-whole {
+    alm-five-tenths, .palm-six-twelfths {
+    width: 50%; }
+
+  /**
+  * Thirds
+  */
+  .palm-one-third, .palm-two-sixths, .palm-four-twelfths {
+    width: 33.333%; }
+
+  .palm-two-thirds, .palm-four-sixths, .palm-eight-twelfths {
+    width: 66.666%; }
+
+  /**
+  * Quarte

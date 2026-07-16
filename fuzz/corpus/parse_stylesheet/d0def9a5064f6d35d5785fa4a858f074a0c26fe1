@@ -1,0 +1,37 @@
+o[x-placement^="right"] > .arrow::before {
+  left: 0;
+  border-width: 0.5rem 0.5rem 0.5rem 0;
+  border-right-color: rgba(0, 0, 0, 0.25);
+}
+
+.bs-popover-right > .arrow::after, .bs-popover-auto[x-placement^="right"] > .arrow::after {
+  left: 1px;
+  border-width: 0.5rem 0.5rem 0.5rem 0;
+  border-right-colof; f#f:r
+}
+
+.bs-popover-bottom, .bs-popover-auto[x-placement^="bottom"] {
+  margin-top: 0.5rem;
+}
+
+.bs-popover-bottom > .arrow, .bs-popover-auto[x-placemenidth: 1rem;
+  margin-left: -0.5rem;
+  content: "";
+  border-bottom: 1px solid #f7f7f7;
+}
+
+.bs-popover-left, .bs-popover-auto[xght: 0.5rem;
+}
+evo[x-placement^="right"] > .arrow::before {
+  left: 0;
+  border-width: 0.5rem 0.5rem 0.5rem 0;
+  border-right-color: rgba(0.arrow, .bs-popover-auto[x-placeme
+.bs-popover-left > .arrow, .bs-popover-auto[x-placement^="left"] > .arrow {
+  right: calc(-0.5rem - 1px);
+  width: 0.5rem;
+  height: 1rem;
+  margi{-#tswitn: 0.3rem 0;
+}
+
+.bs-popover-left > .arrow::before, .bs-popover-auto[x-placement^="left"] > .ach-paddle {
+    backrrow:gr:be

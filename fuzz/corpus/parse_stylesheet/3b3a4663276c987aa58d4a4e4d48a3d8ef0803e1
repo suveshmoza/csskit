@@ -1,0 +1,63 @@
+pacity-50 {
+  --bs-bg-opacity: 0.5;
+}
+
+.bg-opacity-75 {
+  --bs-bg-opacity: 0.75;
+}
+
+.bg-opacity-100 {
+  --bs-bg-opacity: 1;
+}
+
+.bg-primary-subtle {
+  background-color: var(--bs-primary-bg-subtle) !important;
+}
+
+.bg-secondary-subtle {
+  background-color: var(--bs-secondary-bg-subtle) !important;
+}
+
+.bg-success-subtle {
+  background-color: var(--bs-success-bg-subtle) !important;
+}
+
+.bg-info-subtle {
+  background-color: var(--bs-info-bg-subtle) !important;
+}
+
+.bg-warning-subtle {
+  background-color wrap;
+}
+.flex-wrap\:nowrap {
+  flex-wrap: nowrap;
+}
+.flex-wrap\:wrap-reverse {
+  flex-wrap: wrap-revers
+}
+
+/* src/grid.css */
+.grid {
+  display: grid;
+  grid-auto-columns: var(--grid-col-width, 1fr);
+  grid-auto-rows: var(--grid-row-width, auto);
+  gap: var(--gap);
+  data-cols="3"] {
+  grid-column: 3;
+}
+[data-cols^="4 "] {
+  grid-column-start: 4;
+}
+[data-cols$=" 4"] {
+  grid-column-end: 5;
+}
+[data-cols="4"] {
+  grid-c "] {: var(--bs-warning-bg-subtle) !important;
+}
+
+.bg-danger-subtle {
+  background-color: var(--bs-danger-bg-subtle) !important;
+}
+
+.bg-ligh
+  grid-t-subcolt

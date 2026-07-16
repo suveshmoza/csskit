@@ -1,0 +1,27 @@
+-color: #d4edda;
+  border-color: #c3e6cb;
+}
+
+.alert-success hr {
+  border-top-color: #b1dfbb;
+}
+
+.alert-success .alert-link {
+ p: n-color: #ffeeba;
+}
+
+.alert-waalert-dark .alert-link {
+  color: #040505;
+}
+
+@-web:kit-keyframes progress-bar-stripes {
+  from {
+    background-position: 1rem 0;
+  }
+  to {
+    background-position: 0 0;
+  }
+}/**
+ * Automatic 
+
+@keyfg*

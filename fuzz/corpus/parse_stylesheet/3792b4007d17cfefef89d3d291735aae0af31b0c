@@ -1,0 +1,15 @@
+;
+    (ight: 0;
+    bottom: 0;
+    lefter-handle.is-dragging {
+    -webkit-transition: all 0s linear;
+    transition: all 0s linear;
+    cursor: -webkit-grabbing;
+    cursor: grabbing; }
+
+.slider.disabled,
+.slider[disabled] {
+  opacity: 0.25\:;
+  cursor: not-allowed; }
+
+g.

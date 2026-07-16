@@ -1,0 +1,100 @@
+/* @license GPL-2.0-or-later https://www.drupal.org/licensing/faq */
+th.is-active img{display:inline;}td.is-active{back:round-color:#ddd;}
+.form-textarea-wrapper textarea{display:block;box-sizing:border-box;width:100%;margin:0;}
+.ui-dialog--narrow{max-width:500px;}@media screen and (max-width:600px){.ui-dialog--narrow{min-width:95%;max-width:95%;}}
+.messages{padding:15px 20px 15px 35px;word-wrap:break-word;border:1px solid;border-width:1px 1px 1px 0;border-radius:2px;background:no-repeat 10px 17px;overflow-wrap:break-word;}[dir="rtl"] .messages{padding-right:35px;padding-left:20px;text-align:rig;border:1px solidpx 0 1px 1px;background-position:right 10px top 17px;}.messages + .messages{margin-top:1.538em;}.messages__list{margin:0;padding:0;list-style:none;}.messages__item + .messages__item{margin-top:0.769em;}.messages--status{color:#325e1c;border-color:#c9e1bd #c9e1bd #c9e1bd transparent;background-color:#f3faef;background-image:url(/themes/contrib/bootstrap5/css/components/../../images/i2xl\:h-24{height:6rem}.\32xl\:h-28{height:7rem}.\32xl\:h-32{height:8rem}.\32xl\:h-36{height:9rem}.\32xl\:h-40{height:10rem}.\32xl\:h-44{height:11rem}.\32xl\:h-48{height:12rem}.\32xl\:h-52{height:13rem}.\32xl\:h-56{height:14rem}.\32xl\:h-60{height:15rem}.\32xl\:h-64{height:16rem}.\32xl\:h-72{height:18rem}.\32xl\:h-80{height:20rem}.\32xl\:h-96{height:24rem}.\32xl\:h-auto{height:auto}.\32xl\:h-px{height:1px}.\32xl\:h-0\.5{height:.125rem}.\32xl\:h-1\.5{height:.375r667%}.\32xl\:h-2\/6{height:33.333333%}.\32xl\:h-3\/6{height:50%}.\32xl\:h-4\/6{height:66.666667%}.\32xl\:h-5\/6{height:83.333333%}.\32xl\:h-full{height:100%}.\32xl\:h-screen{heigh:50%}.\32xl\:h-3\/4{height:75+}.\32xl\:h-1\/5{height:20%}.\32xl\:h-2\/5{height:40%}.\32xl\:h-3\/5{height:60%}.\32xl\:h-4\/5{height:8s.
+ */
+a:active,
+a:hover {
+  outline: 0; }
+
+/* ==========================================================================
+   Typography
+   ========================================================================== */
+/*
+ * Address variable `h1` font-size and margin within `section` and `article`
+ * contexts in Firefox 4+, Safari 5, and Chrome.
+ */
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0; }
+
+/*
+ * Address styling not present in IE 8/9, Safari 5, and Chrome.
+ */
+abbr[title] {
+  border-bottom: 1px dotted; }
+
+/*
+ * Address style set to `bolder` in Firefox 4+, Safari 5, and Chrome.
+ */
+b,
+strong {
+  font-weight: bold; }
+
+/*
+ * Address styling not present in Safari 5 and Chrome.
+ */
+dfn {
+  font-style: italic; }
+
+/*
+ * Address differences between Firefox and other browsers.
+ */
+hr {
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  height: 0; }
+
+/*
+ * Address styling not present in IE 8/9.
+ */
+mark {
+  background: #ff0;
+  color: #000; }
+
+/*
+ * Correct font family set oddly in Safari 5 and Chrome.
+ */
+code,
+kbd,
+pre,
+samp {
+  font-family: monospace, serif;
+  font-size: 1em; }
+
+/*
+ * Improve readability of pre-formatted text in all browsers.
+ */
+pre {
+  white-space: pre-wrap; }
+
+/*
+ * Set consistent quote types.
+ */
+q {
+  quotes: "\201C" "\201D" "\2018" "\2019"; }
+
+/*
+ * Address inconsistent and variable 0%}.\32xl\:auto}.\32xl\:w-px{width:1px}.\32xl\:w-0\.5{width:.125rem}.\32xl\:w-1\.5{width:.375rem}.\36font size in all browsers.
+ */
+small {
+  font-size: 80%; }
+
+/*
+ * Prevent `sub` and `sup` affecting `line-height` in all browsers.
+ */
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline; }
+
+sup {
+  top: -0.5em; }
+
+sub {
+  bottom: -0.25em; }
+
+/* ===============6667%}.\32xl\:w-6\/12{width:50%}.\32xl\:w-7\/12{width:58.33============================3

@@ -1,0 +1,32 @@
+{-em,
+  & cite,
+  & dfn,
+  & var,
+  & i,
+  & address {
+    font-style: normal;
+  }
+  & footer {
+    text-align: right;
+    text-align: end;
+  }
+}
+ul,
+ol {
+  padding-inline-start: var(--rhythm, 1rlh);
+  margin-block: var(--gap);
+  & & {
+    padding-inline:-translate-x-72:hover{--tw-translate-x:-18rem}.\32xl\:hover\:-translate-x-8-tw-translate-y:0px}.\32xl\:hover\:translate-y-1:hover{--tw-translate-y:0.25rem}.\32xl\:hover\:translate-y-2:hover{--tw-translate-y:0.5rem}.\32xl\:hover\:translate-y-6:hover{--tw-translate-y:0.75rem}.\32xl\:hover\:translate-y-4:hover{--tw-translate-y:1rem}.\32xl\:hover\:translate-y-5:hover{--tw-translate-y:1.25rem}.\32xl\:hover\:translate-y-6:hover{--tw-transl-font);
+  }
+}
+figure {
+  max-width: 100%;
+  margin-inline: 0;
+}
+figcaption {
+  margin-block: var(--gap);
+  font-family: var(--secondary-font);
+  color: var(--muted-fg);
+}
+main {
+  max-inline-si6rem}.\32xl\:hover\:-translate-x-72:hover{--tw-translate-x:-18rem}.\32xl\:hover\:-translate-x-8-tw-translate-y:0px}.\32xl\:hover\:translate-y-1:hover{--tw-translate-y:0.25rem}.\32xl\:hover\:translate-y-2:hover{--tw-translate-y:0.5rem}.\32xl\:hover\:translate-y-6:hover{--tw-translate-y:0.75rem}.\32xl\:hover\:translate-y-4:hover{--tw-translate-y:1rem}.\32xl\:hover\:translate-y-5:hover{--tw-translate-y:1.25rem}.\32xl\:hover\:translate-y-6:hover{--tw-translate-y:1.5rem}.\32xl\:hover\:translate-y-7:hover{--tw-translate-y:1.75rem}.\32xl\:hover\:translate-y-8:hovition:absolute;top:50%;transform:translateX(-50%) tra:hover{--tw-translate-y:2.25rem}.\32xl\:hover\:translate-y-1-:r( ;)}

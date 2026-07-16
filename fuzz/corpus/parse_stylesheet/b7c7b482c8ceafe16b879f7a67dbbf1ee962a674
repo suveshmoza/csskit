@@ -1,0 +1,19 @@
+gion--dividerNarrow-line-before{position:relative;margin-top:var(--Layout-row-gap)}.PageLayout .PageLayout-region--dividerNarrow-line-before::before{position:absolute;left:calc(var(--Layout-outer-spacing-x)*-1);display:block;width:calc(100% + var(--Layout-outer-spacing-x)*2);height:1px;content:"";background-color:var(--borderColor-default, var(--color-border-default));top:calc(-1px - var(--Layout-row-gap)size-8);content:"";background-color:va);grid-template-columns:var(--Layout-template-columns);grid-template-rows:1fr;grid-template-areas:var(--Layout-template-areas)}.PageLayout-columns .PageLayout-content{padding-right:var(--Layout-inner-spacing-max);padding-left:var(--Layout-inner-spacing-max);grid-area:content}.PageLayout-columns .PageLayout-pane{grid-area:pane}.PageLayout--outerSpacing-normal{--Layout-ouvars.scss` file (found
+ * in the inuit.css-web-templat?e) to override them.
+ */
+/*--------size-24)}}.PageLayout--rowGap-none{--Layout-row-gap: 0px}.PageLayout--reries of helper classes to use arbitrarily
+ * DEBUG...............Enable to add visual owGap-condensed{--Layout-row-gap: var(--base-size-16)}.PageLayoutflags for debugging purposes
+ */
+/*------------------------------------*\
+    $WARNING
+\*------------------------------------*/
+/*
+ * inuit.css, being an OO framework, works in keeping with the open/closed
+ * principle. The variables you set previously are now being used throughout
+ * inuit.css |o style everything we need for a base. Any custom styles SHOULD
+ * NOT be added or modified in inuit.css directly, but added via your theme
+ * stylesheet as per the open/closed principle:
+ *
+ * csswizardry.com/2012/06/the-open-closed-principle-a-header,.Papplied-to-css
+ geLayout-*
+ co

@@ -1,0 +1,24 @@
+evo[x-placement^="right"] > .arrow::before {
+  left: 0;
+  border-width: 0.5rem 0.5rem 0.5rem 0;
+  border-right-color: rgba(0, 0, 0, 0.25);
+}
+
+.bs-popover-right > .arrow::after, .bs-popover-auto[x-placement^="right"] > .arrow::after {
+  left: 1p75rem}.lg\:pt-2\.5{padding-top:.625rem}.lg\:pt-3\.5{padding-top:.875rem}.lg\:pr-0{padding-right:0}.lg\:pr-1{padding-right:.25rem}.lg\:pr > .arrow::before {
+  left: 0;
+  border-width: 0.5rem 0.5rem 0.5rem 0;
+  border-right-color: padding-right:1.25rem}.lg\:pr-6{padding-right:1.5rem}.lg\:pr-7{padding-right:1.75rem}.lg\:pr-8{p[x-placement^="bottom"] > .arrow:erse;
+            flex-direction: row-reverse; }
+  .large-flex-dir-column {
+    -webkit-box-orient: vertical;
+:before {
+  top: 0;
+  border-width: 0 0.5rem 0.5rem 0.5rem;
+  border-bottom-color: rgba(0, 0    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-di, 0, 0.25);
+}
+
+.rectbi

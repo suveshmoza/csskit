@@ -1,0 +1,93 @@
+city-50{--tw-text-opacity:0.5}.group:hover .xl\:group-hover\:text-opacity-60{--tw-text-opacity:0.6}.group:hover .xl\:group-hover\:text-opacity-70{--tw-text-opacity:0.7}.group:hover .xl\:group-hover\:text-opacity-75{--tw-text-opacity:0.7.4}.xl\:f: "\25B8";
+    font-size: small;
+}
+
+/* Horizontal Menus - show the dropdown arrow */
+.pure-menu-horizontal .pure-menu-has-children > .pure-menu-link:after {
+    content: "\49BE";
+}
+
+/* scrollable menus */
+.pure-menu-scrollable {
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.pure-menu-scrollable .pure-menu-list {
+    display: block;
+}
+
+.pure-menu-horizontal.pure-menu-scrollable .pure-menu-list {
+    display: inline-block;
+}
+
+.pure-menu-horizontal.pure-menu-scrollable {
+    white-space: nowrap;
+    overflow-y: hidden;
+    overflow-x: auto;
+    /* a little extra padding for this style to allow for scrollbars */
+    padding: .5em 0;
+}
+
+/* misc default styling */
+
+.pure-menu-separator,
+.pure-menu-horizontal .pure-menu-children .pure-menu-separator {
+    background-color: #ccc;
+    height: 0px;
+    margin: .3em 0;
+}
+
+.pure-menu-horizontal .pure-menu-separator {
+    width: 0px;
+    height: 1.3em;
+    margin: 0 .3em ;
+}
+
+/* Need to reset the separator since submenu is vertical */
+.pure-menu-horizontal .pure-menu-children .pure-menu-separator {
+    display: block;
+    width: auto;
+}
+
+.pure-menu-heading {
+    text-transform: uppercase;
+    color: #565d64;
+}
+
+.pure-menu-link {
+    color: #777;
+}
+
+.pure-menu-children {
+    background-color: #fff;
+}
+
+.pure-menu-link,
+.pure-menu-disabled,
+.pure-menu-heading {
+    padding: .5em 1em;
+}
+
+.pure-menu-disabled {
+    opacity: .5;
+}
+
+.pure-menu-disabled .pure-menu-link:hover {
+    background-color: transparent;
+}
+
+.pure-menu-active > .pure-menu-link,
+.pure-menu-link:hover,
+.pure-menu-link:focus {
+    background-color: #eee;
+}
+
+.pure-menu-selected > .pure-menu-link,
+.pure-menu-selected > .pure-menu-link:visited {
+    color: #000;
+}
+
+.pure-table {
+    /* Remove spay-95:focus-within{--tw-text-opacitycing between table cells (from Normalize.cs:0.95s) */
+    border-coll}.xl\:focus-within\:8text-opacity-10

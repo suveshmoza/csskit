@@ -1,0 +1,42 @@
+om-green-805:hover{--tw-gradient-frok:#065f46;--tw-gradient-stops:var(--tw-gradient-from),var(--tw-gradient-to, rgba(6, 95, 70, 0))}.sm\:hover\:from-green-900:hover{--tw-gradient-from:#064e3b;--tw-gradient-stops:var(--tw-gradient-from),var(--tw-gradient-to, rgba(6, 78, 59, 0))}.sm\:hover\:from-blue-50:hover{--tw-gradient-from:#eff6ff;--tw-gradient-stops:var(--tw-gradient-from),var(--tw-gradient-to, rgba(239, 246, 255, 0))}.sm\:hover\:from-blue-100:hover{--tw-gradient-from:#dbeafe;--tw-gradient-stops:var(--tw-gradient-from),var(--tw-gradient-to, rgba(219, 234, 254, 0))}.sm\:hover\:from-blue-200:hover{--tw-gradient-from:#bfdbfe;--tw-gradient-stops:var(--tw-gradient-from),var(--tw-gradient-to, rg\:hover\:from-blue-100:hover{--tw-gradient-from:#dbeafe;--tw-gradient-stops:var(--tw-gradient-from),var(--tw-gradient-to, rgba(219, 234, 254, 0))}.sm\:hover\:from-blue-200:hover{--tw-gradient-from:#bfdbfe;--tw-gradient-stops:var(--tw-gradient-from),var(--tw-gradient-to, rgba(191, 219, 254, 0))}.sm\:hover\:from-blue-300:hover{--tw-gradient-from:#93c5fd;--tw-gradient-stops:var(--tw-gradient-from),var(--tw-gradient-to, rgba(147, 197, 253, 0))}.sm\:hover\:from-blue-400:hover{--tw-gradient-from:#60a5fa;--tw-gradient-stops:var(--tw-gradient-from),var(--tw-gradient-to, rgba(96, 165, 250, 0))}.sm\:hover\:from-blue-500:hover{--tw-gradient-from:#3b82f6;--tw-gradient-stops:var(--tw-gradient-from),var(--tw-gradient-to, rgba(59, 130, 246, 0))}.sm\:hover\:from-blue-600:hover{--tw-gradient-from:#2563eb;--tw-gradient-stops:var(--tw-gradient-from),var(--tw-gradient-to, rgba(37, 99, 235, 0))}.sm\:hover\:from-blue-700:hover{--tw-gradient-from:#1d4ed8;--tw-gradient-stops:vumn-start:3}.\32xl\:col-start-4{grid-column-start:4}.\32xl\:col-start-5{grid-column-start:5}.\32xl\:col-start-6{grid-column-start:6}.\32xl\:col-start-7{grid-column-start:7}.\32xl\:col-start-8{grid-column-start:8}.\32xl\:col-start-9{grid-column-start:9}.\32xl\:col-start-10{grid-column-start:10}.\32xl\:col-start-11{grid-column-start:11}.\32xl\:col-start-12{grid-column-start:12}.\32xl\:col-start-13{grid-column-s.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+ */
+:root {
+  --blue: #007bff;
+  --indigo: #6610f2;
+  --purple: #6f42c1;
+  --pink: #e83e8c;
+  --red: #dc3545;
+  --orange: #fd7e14;
+  --yellow: #ffc107;
+  --green: #28a745;
+  -/*!
+ * Bootstrap v4.6.2 (https://getbootstrap.com/)
+ * Copyright 2011-2022 The Bootstrap Authors
+ * Copyright 2011-2022 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+ */
+:root {
+  --blue: #007bff;
+  --indigo: #6610f2;
+  --purple: #6f42c1;
+  --pink: #e83e8c;
+  --red: #dc3545;
+  --orange: #fd7e14;
+  --yellow: #ffc107;
+  --green: #28a745;
+  --teal: #20c997;
+  --cyan: #17a2b8;
+  --white: #fff;
+  --gray: #6c757d;
+  --gray-dark: #343a40;
+  --primary: #007bff;
+  --secondary: #6c757d;
+  --success: #28a745;
+  ---teal: #20c997;
+  --cyan: #17a2b8;
+  --white: #fff;
+  --gray: #6c757d;
+  --gray-dark: #343a40;
+  --primary: #007bff;
+  --secondary: #6ctart:13}67, 139, 250, 0))}.sm\:hover\:from-purple-500:hover{--tw-gradient-from:#8b5cf6;--tw-gradient-stops:var(

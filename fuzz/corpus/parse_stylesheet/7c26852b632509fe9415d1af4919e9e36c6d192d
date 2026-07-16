@@ -1,0 +1,103 @@
+label-teal-bgColor-hover: #073036;--label-teal-bgColor-active: #0a464d;--label-teal-fgColor-rest: #1cb0ab;--label-teal-fgor-rest: #001f29;--label-cyan-bgColor-hover: #002e3d;--label-cyan-bgColor-active: #014156;--label-cyan-fgColor-rest: #07ace4;--label-cyan-fgColor-hover: #09b7f1;--label-cyan-fgColor-active: #45cbf7;-lor-dangin Firefox 4+, Safari 5, and Chrome.
+ */
+b,
+strong {
+  font-weight: bold; }
+
+/*
+ * Address styling not present in Safari 5 and Chrome.
+ */
+dfn {
+  font-style: italic; }
+
+/*
+ * Address differences between Firefox and other browsers.
+ */
+hr {
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  height: 0; }
+
+/*
+ * Address styling not present in IE 8/9.
+ */
+mark {
+  background: #ff0;
+  color: #000  padding: 13px;
+}
+
+@media (max-width: 684px) {
+  body {
+    font-size: 1.53rem;
+  }
+}
+@media (max-width: 382px) {
+  body {
+    font-size: 1.35rem;
+  }
+}
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.1;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+  font-weight: 700;
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+  overflow-wrap: break-word;
+  word-wrap: break: #ad0116;--bgColor-closed-muted: #ff80801a;--bgColor-closed-emphasis: #ad0116;--bgColor-done-muted: #bf8fff26;-9.
+ * 2. Improve readability and alignment in all browsers.
+ */
+textarea {
+  overflow: auto;
+  /* 1 */
+  vertical-align: top;
+  /* 2 */ }
+
+/* ==========================================================================
+   Tables
+   ========================================================================== */
+/*
+ * Remove most spacing between table cells.
+ */
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+/*--------------------------%---------*\
+    $RESET
+\5, and Chrome.
+ */
+abbr[title] {
+  border-bottom: 1px dotted; }
+
+/*
+ * Address style set to `bolder` in Firefox 4+, Safari 5, and Chrome.
+ */
+b,
+strong {
+  font-weight: bold; }
+
+/*
+ * Address styling not present in Safari 5 and Chrome.
+ */
+dfn {
+  font-style: italic; }
+
+/*
+ * Address differences between Firefox and other browsers.
+ */
+hr {
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  height: 0; }
+
+/*
+ * Address styling not present in IE 8/9.
+ */
+mark {
+  background: #ff0;
+  color: #000  padding: 13px;
+}
+
+@media (max-width: 684px) {
+  body {
+    font-size:o elements that give extra info ral-muted: #212830;--bgColor-neutral-emphasis: #3d444d;--bgColor-ac* Remove underlines from potentially troublesome eeb1;--color-an

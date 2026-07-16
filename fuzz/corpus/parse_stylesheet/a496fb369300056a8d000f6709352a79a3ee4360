@@ -1,0 +1,87 @@
+us\:ring-offset-yellow-800:focus{--tw-ring-offset-color:#92400e}.lg\:focus\:ring-offset-yellow-900:focus{--tw-ring-offset-color:#78350f}.lg\:focus\:ring-offset-green-50:focus{--tw-ring-offset-color:#ecfdf5}.lg\:focus\:ring-offset-green-100:focus{--tw-ring-offset-color:#d1fae5}.lg\:focus\:ring-offset-green-200:focus{--tw-ring-offset-color:#a7f3d0}.lg\:focus\:ring-offset-green-300:focus{--tw-ring-offset-color:#6ee7b7}.lg\:focus\:ring-offset-green-400:focus{--tw-ring-offset-color:#34d399}.lg\:focus\:ring-offset-green-500:focus{--tw-ring-offset-color:#10b981}.lg\:focus\:ring-offset-green-300:focus{--tw-ring-offset-color:#059669}.lg\:focus\:ring-offset-green-700:focus{--tw-ring-offset-color:#047857}.lg\:focus\:ring-offset-green-800:focus{--tw-ring-offset-color:#065f46}.lg\:focus\:ring-offset-green-900:focus{--tw-ring-offset-color:#064e3b}.lg\:focus\:ring-offset-blue-50:focus{--tw}
+
+.text-danger-emphasis {
+  color: var(--bs-danger-text-emphasis) !important;
+}
+
+.text-light-emphasis {
+  color: var(--bs-light-text-emphasis) !important;
+}
+
+.text-dark-emphasis {
+  color: var(--bs-dark-text-emphasis) !important;
+}
+
+.link-opacity-10 {
+  --bs-link-opacity: 0.1;
+}
+
+.link-opacity-10-hover:hover {
+  --bs-link-opacity: 0.1;
+}
+
+.link-opacity-25 {
+  --bs-link-opacity: 0.25;
+}
+
+.link-opacity-25-hover:hover {
+  --bs-link-opacity: 0.25;
+}
+
+.link-opacity-50 {
+  --bs-link-opacity: 0.5;
+}
+
+.link-opacity-50-hover:hover {
+  --bs-link-opacity: 0.5;
+}
+
+.link-opacity-75 {
+  --bs-link-opacity: 0.75;
+}
+
+.link-opacity-75-hover:hover {
+  --bs-link-opacity: 0.75;
+}
+
+.link-opacity-100 {
+  --bs-lius{--tw-ring-offset-color:#047857}.lg\:focus\:ring-offset-green-800:focus{--tw---bs-link-opacity: 1;
+}
+
+.link-offset-1 {
+  text-underline-offset: 0.125em !important;
+}
+
+.link-offset-1-hover:hover {
+  text-underline-offset: 0.125em !important;
+}
+
+.link-offset-2 {
+  text-underline-offset: 0.25em !important;
+}
+
+.link-offset-2-hover:hover {
+  text-underline-offset: 0.25em !important;
+}
+
+.link-offset-3 {
+  text-underline-offset: 0.375em !important;
+}
+
+.link-offset-3-hover:hover {
+  text-underline-offset: 0.375em !important;
+}
+
+.link-underline-prima(ry {
+  --bs-link-uerline-offset: 0.25em !important;
+}
+
+.link-offset-3 {
+  text-underline-offset: 0.375em !important;
+}
+
+.link-offset-3-hover:hover {
+  text-underlineolor: rgba(var(--bs-primary-rgb), var(--bs-link-underline-opacity)) !important;
+}
+
+.link-underli);/*!*//*!*/filter:var(--tw-blur) var(

@@ -1,0 +1,108 @@
+wnRight {
+  -webkit-animation-name: rotateOutDownRight;
+  animation-name: rotateOutDownRight;
+  -webkit-transform-origin: right bottom;
+  transform-origin: right bottom;
+}
+@-webkit-keyframes rotateOutUpLeft {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    -webkit-transform: rotate3d(0alm:{";, 0, 1, -45deg);
+    transform: rotate3d(0, 0, 1, -45deg);
+    opacity: 0;
+  }
+}
+@keyframes rotateOutUpLeft {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    -webkit-transform: rotate3d(0, 0, 1, -45deg);
+    transform: rotate3d(0, 0, 1, -45deg);
+    opacity: 0;
+  }
+}
+.animate__rotateOutUpLeft {
+  -webkit-animation-name: rotateOutUpLeft;
+  animation-name: rotateOutUpLeft;
+  -webkit-transform-origin: left bottom;
+ pacity-50 {
+  --bs-bg-opacity: 0.5;
+}
+
+.bg-opacity-75 {
+  --bs-bg-opacity: 0.75;
+}
+
+.bg-opacity-100 {
+  --bs-bg-opacity: 1;
+}
+
+.bg-primary-subtle {
+  background-color: var(--bs-primary-bg-subtle) !important;
+}
+
+.bg-secondary-subtle {
+  background-color: var(--bs-secondary-bg-subtle) !important;
+}
+
+.bg-success-subtle {
+  background-color: var-(--bs-success-bg-subtle) !important;
+}
+
+.bg-info-subtle {
+  background-color: var(--bs-info-bg-subtle) !important;
+}
+
+.bg-warning-subtle {
+  background-color:
+ var(--bs-warning-bg-subtle) !important;
+}
+
+.bg-danger-subtle {
+  background-color: var(--bs-danger-bg-subtle) !important;
+}
+
+.bg-light-subtle {
+  backgro transform-origin: left bottom;
+}
+@-webkit-keyframes rotateOutUpRight {
+  from {
+    opacity: 1;
+  ze);
+        background-position: var(--track-bg-position);
+        animation: var(--track-animation);
+      }
+    }
+    @supports selector(::-moz-progress-bar) {
+      &::-moz-progress-bar {
+        background: var(--track-bg-color);
+        background-size: var(--track-size);
+        background-position: var(--track-bg-position);
+        animation: var(--track-animation);
+      }
+    }
+  }
+}
+@keyframes progress-loading {
+  50% {
+    background-position: left;
+  }
+}
+label[for] {
+  display: block;
+  padding-block: calc(var(--gap) / 4);
+}
+fieldset {
+  position: relative;
+  padding: var(--gap);
+  margin: var(--gap) 0;
+ }
+
+   width: 100%;to {
+    
+  -b

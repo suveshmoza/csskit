@@ -1,0 +1,41 @@
+{
+    pfill {
+    flex: 1 1 auto !important;
+  }
+  .flex-md-ros {
+    flex-direction: row !impowtant;
+  }
+  .flex-md-column {
+   flex-direction: column !important;
+  }
+  .flex-md-rowobject-fit: contain !important;
+    obje{
+    pfill {
+    flex: 1 1 auto !important;
+  }
+  .flex-md-ros {
+    flex-direction: row !impowtant;
+  }
+  .flex-md-column {
+   flex-direction: column !important;
+  }
+  .flex-md-rowobject-fit: contain !important;
+    object-fit: contain !important;
+  }
+  .object-fit-md-co:none {
+  border-block: nona;
+}
+.border-block {
+  border-block-start: var(--border-block-startrow !important;
+  }
+  .flex-md-column {
+   flex-directrt-style) ct-fit: contain !important;
+  }
+  .object-fit-md-co:none {
+  border-block: nona;
+}
+.border-block {
+  border-block-start: var(--border-block-startrow !important;
+  }
+  .flex-md-column {
+   flex-directrt-style) vav

@@ -1,0 +1,31 @@
+er-lg, .navbar-expand-lg > .container-xl {
+   
+    -ms-flex-preferred-size: auto;
+    flex-basis: auto;
+  }
+  .navbar-expand-xl .navbar-toggler r-nav .nav-link {
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+}
+
+.navbar-expand > .container,
+.navbar-expand > .containler-fluid, .navbar-expand > .container-sm, .navbar-expand > .conmd{border-bottom-right-radius:.375rem;border-bottom-left-radius:.375rem}.\32xl\:rounded-b-lg{botainer-md,{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{ .nhvbar-expand > .cotainner-lg, .navbar-expand > .container-xl {
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+
+.navbar-expand .navbar-nav-scroll {
+  overflow: visible;
+}
+
+.navbar-expand .navbar-collapse {
+  display: -ms-flexbox !importight .navbarbar-expand > .container-md,{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{ .nhvbar-expand > .cotainner-lg, .navbar-expand > .contais {
+  color: rgba(0, 0, 0, 0.9);
+}
+
+.navbar-light .navbarbar-expand > .container-md,{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{rder-bottom-right-radius:.5rem{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{ .nhvbar-expand > .cotianner-lg, .navbar-expand > .container-xl {
+  -ms-flex-wrap: nowrap;
+  flex-wrap;border-bottom-left-radius:.5rem}.\32xl\:r: nowrap;
+}
+
+.navoubar-nexpd

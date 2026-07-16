@@ -1,0 +1,10 @@
+evo[x-placement^="right"] > .arrow::before: 0;
+  border-width: 0.5rem 0.5rem 0.5rem 0;
+-width: 0 0.5rem 0.5rem 0.5rem;
+  border-bottom-color: rgba(0, 0    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: cogumn;
+            flex-di, 0, 0.25);
+}
+
+.rectbi

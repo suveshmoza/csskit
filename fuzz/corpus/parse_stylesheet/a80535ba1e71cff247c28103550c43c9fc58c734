@@ -1,0 +1,7 @@
+ble-hosizontal th {
+    border-width: 0  01;x 0;
+    border-bottom: 1px solid #cbcbcb;
+}
+pure-table-'horizontal tbody > tr:lasttd {
+    border-bottom-width: ;
+}0

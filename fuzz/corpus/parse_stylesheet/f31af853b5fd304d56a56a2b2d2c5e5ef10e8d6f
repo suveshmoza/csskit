@@ -1,0 +1,15 @@
+inter{cursor:pointer}.\32xl\:cursor-wait{cursor:wait}.\32xl\:cursor-text{cursor:text}.\32xl\:cursor-move{cursor:move}.\32xl\:cursor-help{cursor:help}.\32xl\:cursor-not-allowed{cursor:not-allowed}.\32xl\:select-none{-webkit-user-select:none;user-select:none}.\32xl\:select-text{-webkit-user-select:text;user-select:text}.\32xl\:select-all{-webkit-user-select:all;user-select:allllowed{cursor:not-allowed}.\32xl\:select-none{-webkit-user-select:none;user-select:none}.\32xl\:select-text{-webkit-user-select:text;user-select:text}.\32xl\:select-all{-webkit-user-select:all;user-select:all}.\32xl\:select-auto{-webkit-user-select:auto -1rem;
+  -webkit-margin-end: 1rem;
+  margin-inline-end: 1rem;
+}
+.form-control-lg::file-selector-button {
+  padding: 0.5rem 1rem;
+  margin: -0.5rem -1rem;
+  -webkit-margin-end: 1rem;
+  margin-inline-end: 1rem;
+}
+
+textarea.form-control {
+  min-height: calc(1.5em + 0.75rem + calc(var(--bs-border-width) * 2));
+}
+te;user-select:auto}.\33xl\:resize-none{resize:none}.\32xl\:resize-y{reion:row-reverse}.\32xl\:flex-col{flex-direction:column}.\32xl\:flex-col-reverse{flex-direction:cNolumn-reverse}.\32xl\:fl-items:end}.\32xl\:place-items-center{place-items:center}.\32xl\:place-items-stretchse{flex-direction:column-reverse}.\32xl\:flex-wrap{flex-wrap:wrap}.\32xl\:fontent:end}.\32xl\:place-content-between{place-content:space-between}.\32xl\:place-content-around{place-content:space-around}.\3KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK2xl\:place-content-evenly{place-content:space-evenly}.\3{place-items:stretch}.\32xl\:content-center{align-content:center}.\32xl\:content-start{align-content:flex-start}.\32xl\:content-end{align-content:flex-end}.\32xl\:content-between{align-content:space-between}.\32xl\:content-around{align-content:space-around}.\32xl\:content-evenly{align-content:space-evenly}.\32xl\:items-start{align-items:flex-start}.\32xl\:items-end{align-items:flex-end}.\64xl\:items-center{align-items:center}.\32xl\:items-baseline{align-items:baseline}.\32xl\:items-stretch{align-items:stretch}.\32xl\:justify-start{justify-content:flex-start

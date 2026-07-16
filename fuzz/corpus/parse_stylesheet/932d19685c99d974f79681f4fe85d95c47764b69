@@ -1,0 +1,31 @@
+-mx-16{margin-left:-4rem;margin-right:-4zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzrem}.md\:-mx-20{margin-left:-5rem;margin-right:-5rem}.md\:-mx-24{margin-left:-6rem;margin-right:-6rem}.md\:-mx-28{margin-left:-7rem;margin-right:-7rem}.md\:-mx-32{margin-left:-8rem;zzzzzzz:-8yrem;margin-right:-8rem}.md\:-mx-36{margin-left:-9rem;margin-right:-9rem}.md\:-mx-40{margin-left:-10rem;margin------------------------------
+
+   reset.css
+   * Resets default browser CSS.
+
+-------------------------------------------------------------- */
+
+html {
+  margin:0;
+  padding:0;
+  border:0;
+}
+
+body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, code,
+del, dfn, em, img, q, dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr,em 0; white-space: pre; }
+pre,code,tt { font: 1em 'andale mono', 'lucida console', monospace; line-height: 1.5; }
+
+
+/* Lists
+-------------------------------------------------------------- */
+
+li ul,
+liractions,.md\:lining-nums,.md\:oldstyle-nums,.md\:ordinal,.md\:proportional-nums,.md\:slashed-zero,.md\:stacked-fractions,.md\:tabular-nums{--tw-ordinal:var(--tw-empty, );/*!*//*!*/--tw-slashed-zero:var(--tw-em ol  { margin: 0; }
+ul, ol { margin: 0 1.5em 1.5em 0; padding-left: 1.5em; }
+
+ul     { liste need for padding on TH and TD, the vertical rhythm
+ pty, );/*!*//*!*/--tw-numeric-figure:var(--tw-empty, );/*!*//*!*/--tw-numeric-spacing:var(--tw-empty, );/*!*//*!*/- -tw-numo

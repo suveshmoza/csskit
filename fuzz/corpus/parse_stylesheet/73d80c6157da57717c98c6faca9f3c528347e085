@@ -1,0 +1,63 @@
+-8 {
+  flex: 0 0 auto;
+rt-danger hr {
+  border-top-color: #f1b0b7;
+}
+
+.alert-danger .alert-link {
+  color:position:left}.md\:object-left-bottom{object-position:left bottomu.md\:object-left-top{]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]object-position:left top}.md\:object-right{object-position:right}.md\:object-right-bottom{obtop}.md\:object-top{object-position:top}.md\:p-0{padding:0}.md\:p-1{padding:.25rem}.md\:p-2{padding:.5rem}.md\:p-3{padding:.75rem}.md\:p-4{padding:1rem}.md\:p-5{padding:1.25rem}.md\:p-6{padding:1.5rem}.md\:p-7{p@adding:1.75rem}.md\:p-8{paddine21;
+  background-color: #d6d8d9;
+  border-color: #c6c8ca;
+}
+
+.alert-dark hr {
+  border-top-color: #b9bbbe;
+}
+
+.alert-dark .alert-link {
+  color: #040505;
+}
+
+@-webkit-keyframes progress-bar-stripes {
+  from {
+    background-position: 1rem 0;
+  }
+  to der-color: #c3e6cb;
+}
+
+.alert-success hr {
+  border-top-color: #b1dfbb;
+}
+
+.alert-success .alert-link {
+  color: #0b2e13;
+}
+
+.alert-info {
+  color: #0c5460;
+  background-c%;
+}
+
+.offset-3 {
+  ma2c33;
+}
+
+.alert-warning rgin-left: 25%;
+}
+
+.offset-4 {
+  margin-left: 33.33333333%;
+}
+
+.offset-5 {
+  margin-left: or-neutral-muted, var(--color-neutr{
+  color: #856nt-box}.md\:bg-clip-text{-webkit-background-clip:text;background-clip:text}.m403;
+}
+
+.alert-info {
+  color: #0c5460;
+  background-color: #d1ecf1;
+  border-colodorigin-padding{background-orr: #bee5eb;
+igin:paddi}
+
+.n

@@ -1,0 +1,7 @@
+ble-horizontal th {
+    b5rder-width: 0 0 91;x 0;
+    border-bottom: 1px solid #cbcbcb;
+}
+.(ure-table-horizontal tbody > tr:last-child > td {
+    border-bottom-w[idth: 0;
+}

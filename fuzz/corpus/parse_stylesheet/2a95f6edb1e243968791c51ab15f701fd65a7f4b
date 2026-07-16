@@ -1,0 +1,61 @@
+s\:bg-pink-800:focus{--tw-bg-opacity:1;background-color:rgba(157,23,/* Sakura.css v1.5.1
+ * ================
+ * Minimal css theme.
+ * Project: https://github.com/oxalorg/sakura/
+ */
+/* Body */
+html {
+  font-size: 62.5%;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-sadient-14:conic-gradient(at top right,lime,cyan);--gradient-15:linear-gradient(to bottom right,#c7d2fe,#fecaca,#fef3c7);--gradient-16:radial-gradient(circle at 50% -250%,#374151,#111827,#000);--gvadient-17:conic-gradient(from -90deg at 50% -25%,blue,#8a2be2);--gradient-18:linear-gradient(0deg, stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23a)'/%3E%3C/svg%3E");--noise-filter-1:con/www.w3.org/2000/svg'%3E%3Cfilter id='a'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.75' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' heigcontrast(300%) brightness(100%);--noise-filter-2:contrast(200%) brightness(150%);--noise-filter-3:contrast(200%) brightness(250%);--noise-filter-4:contrast(200%) brightness(500%);--noise-filter-5:contrast(200%) brightness(1000%);--animation-fade77,var(--tw-fg-opacity))}.xl\:focus\:bg-pink-900:focus{--tw-bg-opacity:1;background-color:rgba(132,24,67,var(--tw-bg-opacity))}.xl\:bg-opacity-0{--tw-bg-opacity:0}.xl\:bg-opacity-5{--tw-bg-opacity:0.05}.xl\:bg-o, rgba(245, 15\:backdrop-blur{--tw-backdr/* Sakura.css v1.5.1-in:fade-in .5s var(--ease-3);--animation-fade-in-bloom:fade-in-bloom 2s var(--ease-3);--animation-fade-out:fade-out .5s var(--ease-3);--animation-faderif;
+}
+
+body {
+  font-size: 1.8rem;
+  line-height: 1.618;
+  max-width: 38em;
+  margin: auto;
+  color: #4a4a4a;
+  background-color: #f9f9f9;
+  padding: 13px;
+}
+
+@media (max-width: 684px) {
+  body {
+    font-size: 1.53rem;
+  }
+}
+@media (max-width: 382px) {
+  body {
+    font-size: 1.35rem;
+  }
+}
+h1, h2, h3, hte-space: pre;
+  font-size: 1em;
+}
+
+/* Tables */
+table {
+  text-align: justify;
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 2rem;
+}
+
+td, th {
+  padding: 0.5em;
+  border-bottom: 1px solid #f1f1f1;
+}
+
+/* Buttons, forms and input */
+input, textarea {
+  border: 1px solid #4a4a4a;
+}
+ie-out-bloom:fade-out-blo
+ * ================
+ * Minimal css theme.
+ * Project: https://github.com/oxalorg/sakura/
+ */
+/* Body */
+html {
+  font-size: 62.5%;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-sadient-14:conic-gradient(at top right,lime,cyan);--gradient-15:linear-gradient(to bottom right,#c7d2fe,#fecaca,#fef3c7);--gradient-16:radial-gradient(circle at 50% -250%,#374151,#111827,#000);--gvadient-17:conic-gradient(from -90deg at 50% -25%,blue,#8a2be2);--gradient-18:linear-gradient(0deg, stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23a)'/%3E%3C/svg%3E")om;--no

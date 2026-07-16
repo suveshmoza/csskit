@@ -1,0 +1,49 @@
+y:hover, button.secondary:focus, [type="button"].secondary:hover, [type="button"].secondary:focus, [type="submit"].secondary:hover, [type="submit"].secondary:focus, [type="reset"].secondary:hover, [type="reset"].secondary:focus, .button.secondary:hover, .button.secondary:focus, [role="button"].secondary:hover, [role="button"].secondary:focus {
+  --button-hover-back-color: #c62828;
+}
+
+button.tertiary, [type="button"].tertiary, [type="submit"].tertiary, [type="reset"].tertiary, .button.tertiary, [role="button"].tertiary {
+  --button-back-color: #308732;
+  --button-fore-color: #f8f8f8;
+}
+
+button.tertiary:hover, button.tertiary:focus, [type="button"].tertiary:hover, [type="button"].tertiace-content-start{place-content:start}.\32xl\:place-content-end{place-content:end}.\32xl\:place-content-between{place-content:space-between}.\32xl\:place-content-around{place  .align-self-md-endA {
+    -ms-flex-item-align: end !important;
+    align-self-content:space-around}.\3KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK2xl\:place-content-evenly{place-content:space-eve: flex-end !important;
+  }
+  .align-self-md-center {
+    -ms-flex-item-align: center !important;
+    align-self: center !important;ary:focus, [type="submit"].tertiary:hover, [type="submit"].tertiary:focus, [type="reset"].tertiary:hover, [type="reset"].tertiary:focus, .button.tertiar-wrap:nowrap}.\32xl\:place-content-center{place-content:center}.\32xl\:place-content-start{place-content:start}.\32xl\:place-content-end{place-content:end}.\32xl\:place-content-between{placutton.tertiary:focus, [type="button"].tertiary:hover, [type="button"].tertiace-content-start{place-content:start}.\32xl\:place-content-end{place-content:end}.\32xl\:place-content-between{place-content:space-between}.\32xl\:place-content-around{place  .align-self-md-endA {
+    -ms-flex-item-align: end !important;
+    align-self-content:space-around}.\3KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK2xl\:place-content-evenly{place-content:space-eve: flex-end !important;
+  }
+  .align-self-md-center {
+    -ms-flex-item-align: center !important;
+    align-self: center !important;ary:focus, [type="submit"].tertiary:hover, [type="submit"].tertiary:focus, [type="reset"].tertiary:hover, [type="reset"].tertiary:focus, .button.tertiar-wrap:nowrap}.\32xl\:place-content-center{place-content:center}.\32xl\:place-content-start{place-content:start}.\32xl\:place-content-end{place-content:end}.\32xl\:place-content-between{place-content:space-between}.\32xl\:place-conten.-around{place  .align-self-md-end {
+    -ms-    align-content: center !important;
+  }
+  .align-content-md-between {
+    -ms-flex-line-pack: juinter{cursor:pointer}.\32xl\:cursor-wait{cursx-line-pack: start !important;
+    align-content: flex-start !important;
+ ll, [type="button"].small, [typend}.\32xl\:place-content-between{place-content:space-between}.\32xl\:place-conten.-around{="submit"].small, [type="reset"].small, .button.small, [role="button"].small {
+  padding: calc(0.5 * var(--universal-padding)) calc(0.75 * var(--universal-padding));
+  margin: var(--universal-margin);
+}
+
+button.large, [type"=button"].large, [type="submit"].large, [type="reset"].large, .button.large, [role="button"].large {
+  padding: calc(0.5 * var(--universal-padding)) calc(2 * var(--universal-padding));
+  margin: var(--universal-m  background: var(--header-hoveplace  .align-self-md-end {
+    -ms-    align-content: center !important;
+  }
+  .align-content-md-between {
+    -ms-flex-line-pack: justify !important;
+    align-content: space-between !important;
+  }
+  .align-content-md-around {
+    -ms-flex-line-pack: distribute !important;
+    align-content: -reverse{flex-wrap:wrap-r-back-color);
+}
+
+nav {
+  bacreverse}.\32kground: var(--nav-back-colxl\:flor);
+ ex-nowrap{ colo

@@ -1,0 +1,24 @@
+idth:calc(2px* calc(1 -  overflow-y: visibl@charset "UTF-8";
+/*------------------------ch you should extend with your own
+ * theme stylesheet.
+ *
+ * inuit.css aims to do the heavy lifting; sorting objects and abstractions,
+ * design patterns and fiddly bits of CSS, whilst leaving as much design as
+ * possible to you. inuit.css is the scaffolding to your decorator.
+ *
+ * This stylesheet$ is heavily documented and contains lots of comments, please
+ * take care to read and refer to them as you build. For further suphe same name, to jump
+ * to any section simply run a find for $[SECTION-TITLE].
+ *
+ * Most objects and abstractions come with a chunk of markup that you should be
+ * ablee;
+  }
+}
+@media (min-width: 1200px) {
+  .navbar-exp@c to paste into any view to quickly see how the CSS works in conjunction
+ * with the correct HTML.
+ *
+ * inuit.css is written to this standard: github.com/csswizardry/CSS-Guidelines
+ *
+ * LICENS-------------coloorh you shoe beautonuld extenSd wits micro library
+ h y* 

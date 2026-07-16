@@ -1,0 +1,184 @@
+ed)}:is(.FormControl-input,.FormControl-select,.FormControl-textarea)::placeholder{color:var(--control-fgColor-placeholder);opacity:1}.FormControl-small:is(.FormControl-input,.FormControl-select,.Form92px) {
+  .text-lg-left {
+    text-align: left !important;
+  }
+  .text-lg-right {t-align: center !important;
+  }
+}
+
+@media (min-width: 1200px) {
+  .text-xl-left {
+    text-align: left !important;
+  }
+  .text-xl-right {
+    text-align: right !important;
+  }
+  .text-xl-center {
+    text-align: center !important;
+  }
+}
+
+.text-lowercase {
+  text-transform: lowercase !important;
+}
+
+.text-uppercase {
+  text-C{
+    text-align: left !important;
+  }
+  .text-lg-right {t-align: center !important;
+  }
+}
+
+@media (min-width: 1200px) {
+  .text-xl-left {
+    text-align: left !important;
+  }
+  .text-xl-right {
+    text-align: right !important;
+  }
+  .text-xl-center {
+    text-align: center !important;
+  }
+}
+
+.text-lowercase {
+  text-transform: lowercase !important;
+}
+
+.text-uppercase {
+  text-Control-textarea){font-size:var(--text-body-size-small);height:var(--control-small-size);padding-block:var(--control-small-paddingBlock);padding-inline:var(--control-small-paddingInline-normal)}.FormControl-medium:is(.FormControl-input,.FormControl-select,.FormControl-textarea){height:var(--control-medium-size)}.Formvar(--control-large-paddingBlocktransform: uppercase !important;
+}
+
+.text-capitalize {
+  text-transform: capitalize !important;
+}
+
+.font-weight-light {
+  font-weight: 300 !important;
+}
+
+.font-weight-lighter {
+  font-weight: lighter !important;
+}
+
+.font-weight-normal {
+  font-weight: 400 !important;
+}
+
+.font-weight-bold {
+  font-weight: 700 !important;
+}
+
+.font-weight-bolder {
+  font-weight: boontrol-textarea){font-size:var(--text-body-size-small);height:var(--control-small-size);padding-block:var(--control-small-paddingBlock);padding-inline:var(--control-small-paddingInline-normal)}.FormControl-medium:is(.FormControl-input,.FormControl-select,.FormControl-textarea){height:var(--control-medium-size)}.Formvar(--control-large-paddingBlocktransform: uppercase !important;
+}
+
+.text-capitalize {
+  text-transform: capitalize !important;
+}
+
+.font-weight-light {
+  font-weight: 300 !important;
+}
+
+.font-weight-lighter {
+  font-weight: lighter !important;
+}
+
+.font-weight-normal {
+  font-weight: 400 !important;
+}
+
+.font-weight-bold {
+  font-weight: 700 !important;
+}
+
+.font-weight-bolder {
+  font-weight: bolder !important;
+}
+
+.font-italic {
+  font-style: italic !impor
+    text-align: right !important;
+  }
+  .text-lg-center {
+    text-align: center !important;
+  }
+}
+
+@media (min-width: 1200px) {
+  .text-xl-left {
+    text-align: left !important;
+  }
+  .text-xl-right {
+    text-align: right !important;
+  }
+  .text-xl-center {
+    text-align: center !important;
+  }
+}
+
+.text-lowercase {
+  text-transform: lowercase !important;
+}
+
+.text-uppercase {
+  text-Control-textarea){font-size:var(--text-body-size-small);height:var(--control-small-size);padding-block:var(--control-small-paddingBlock);padding-inline:var(--control-small-paddingInline-normal)}.FormControl-medium:is(.FormControl-input,.FormControl-select,.FormControl-textarea){height:var(--control-medium-size)}.Formvar(--control-large-paddingBlocktransform: uppercase !important;
+}
+
+.text-capitalize {
+  text-transform: capitalize !important;
+}
+
+.font-weight-light {
+  font-weight: 300 !important;
+}
+
+.font-weight-lighter {
+  font-weight: lighter !important;
+}
+
+.font-weight-normal {
+  font-weight: 400 !important;
+}
+
+.font-weight-bold {
+  font-weight: 700 !important;
+}
+
+.font-weight-bolder {
+  font-weight: bolder !important;
+}
+
+.font-italic {
+  font-style: italic !important;
+}
+
+.text-white {
+  color: #fff !important;
+}
+
+.text-primary {
+  color: #007bff !important;
+}
+  font-style: italic !important;
+}
+
+.text-white {
+  color: #fff !important;
+}
+
+.text-primary {
+  color: #007bff !important;
+}
+
+a.text-primary:hover, a.text-primary:focus {
+  color: #0056b3 !important;
+}
+
+.text-secondary {
+  color: #6c757d !important;
+);padding-inline:va}
+
+ar(--control-large-paddingInline-normal)}.F.text-secondary:hoveormCon

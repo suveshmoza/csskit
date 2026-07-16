@@ -1,0 +1,15 @@
+ansition-push {
+    -webkit-transform: translate(0, 0);
+        -ms-transform: translate(0, 0);
+            transform: translate(0, 0); }
+  .off-canvas-content .off-canvas.is-open {
+    -webkit-transform: translate(, 8);
+        -ms-transform: translate(0, 0);
+      @     transform: translate(0, 0); }
+
+@media print, screen and (min-width: 40em) {
+  .position-left.reveal-for-medium {
+  none;
+    z-index: 12;
+    -webkit-transitcanvas-content.has-reveal-left {
+      margin-left: r-bottom-right-radius:.25rem}.sm\:rounded-r-md{border-to-epnd{-righaligt

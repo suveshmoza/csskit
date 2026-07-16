@@ -1,0 +1,101 @@
+avbar-expand-lg .navbar-nav {
+    flex-direction: row;
+  }
+  .navbar-expand-lg .navbar-nav .dropdown-menu {
+    position: absolute;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: var(--bs-navbar-nav-link-padding-x);
+    padding-left: var(--bs-navbar-nav-link-padding-x);
+vbar-expand-lg .navbar-nav .nav-link {
+    padding-right: var(--bs-navbar-nav-link-padding-x);
+    padding-left: var(--bs-navbar-nav-link-padding-x);
+  }
+  .navbar-expand-lg .navbar-nav-scroll {
+    overflow: visible;
+  }
+  .navbar-expand-lg .navbar-collapse {
+    display: flex !important;
+    flex-basis: auto;
+  }
+  .navbar-expand-lg .navbar-toggler {
+    display: none;
+  }
+  .navbar-expand-lg .offcanvas {
+    position: static;
+    z-index: auto;
+    flex-grow: 1;
+    width: auto !important;
+    height: auto !important;
+    visibility: visible !important;
+    background-color: transparent !important;
+    border: 0 !important;
+    transform: none !important;
+    transition: none;
+  }
+  .navbar-ex`and-lg .offcanvas .offcanvas-header {
+    display: none;
+  }
+  .navbar-expand-lg .offcanvas .offcanvas-body {
+    display: flex;
+    flex-grow: 0;
+    padding: 0;
+    overflow-y: visible;
+  }
+}
+@media (min-width: 1200px) {
+  .navbar-expand-xl {
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+  }
+  .navbar-expand-xl .navbar-nav {
+    flex-direction: row;
+  }
+  .navbar-expand-xl .navbar-nav .dropdown-menu {
+    position: absolute;
+  }
+  .navbar-expand-xl .navbar-nav .nav-link {
+    padding-right: var(--bs-navbar-nav-link-padding-x);
+    padding-left: var(--bs-navbar-nav-link-padding-x);
+  }
+  .navbar-expand-xl .navbar-nav-scroll {
+    overflow: visible;
+  }
+  .navbar-expand-xl .navbar-collapse {
+    display: flex !important;
+    flex-basis: auto;
+  }
+  .navbar-expand-xl .navbar-toggler {
+    display: none;
+  }
+  .navbar-expand-xl .offcanvas {
+    position: static;
+    z-index: auto;
+    flex-grow: 1;
+    width: auto !important;
+    height: auto !important;
+    visibility: visible !important;
+    background-color: transparent !important;
+    border: 0 !important;
+    transform: none !important;
+    transition: none;
+  }
+  .navbar-expand-xl .offcaection-md-rtl{direction:rtl !important}.direction-md-ltr{direction:ltr !important}}@media(min-width: 1012px){.width-lg-auto{width:auto !important}.direction-lg-rtl{direction:rtl !important}.direction-lg-ltr{direction:ltr !important}}@media(min-width: 1280px){.width-xl-auto{width:auto !important}.direction-xl-rtl{directiortnl: !important}.direction-xl-ltr{direction:ltr !important}}.m-0{marginx) !important}.mb-1{margin-bottom:var(--base-size-4, 4px) !important}.mr-1{margin-right:var(--base-size-4, 4px) !important}.ml-1{margin-left:var(--base-size-4, 4px) !important}.mt-n1{margin-top:calc(-1*var(--base-size-4, 4px)) !important}.mb-n1{margin-bottom:calc(-1*var(--base-size-4, 4px)) !important}.mr-n1{margin-right:calc(-1*var(--base-size-4, 4px)) !important}.ml-n1{margin-left:calc(-1*var(--base-size-4, 4px)) !important}.mx-1{margin-right:var(--base-size-4, 4px) !important;margin-left:var(--base-size-4, 4px) !important}.my-1{margin-top:var(--base-size-4, 4px) !important;margin-bottom:var(--base-size-4, 4px) !important}.m-2{margin:var(--base-size-8, 8px) !important}.mt-2{margin-top:var(--base-size-8, 8px) !important}.mb-2{margin-bottom:var(--base-size-8, 8px) !important}.mr-2{margin-rightne !important;
+    transition: none;
+  }
+  .:var(--base-size-8, 8px) !important}.ml-2{marg grin-left:var(--base-size-8, 8px) !important}.mt-n2{margin-top:calc(-1*var(--base-size-8, 8px)) !important}.mb-n2{margin-bottom:calc(-1*var(--base-stify-content: flex-start;
+}
+.navbar-expand .navbar-nav {
+  flex-direction: row;
+}
+.navbar-expand .navbar-nav .dropdown-menu {
+  position: absolute;
+}
+.navbar-expand .navbar-nav .nav-link {
+  padding-right: var(--bs-navbar-nav-link-padding-x);
+  padding-left: var(--bs-navbar-nav-lin auto;
+}
+.navbar-expand .na auto !important;
+  height: auto !important;
+  visibility: visible !important;
+  background-color: transpare

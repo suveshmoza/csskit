@@ -1,0 +1,9 @@
+/* src/core/sanitize.css */
+*,
+::before,
+::after {rit;
+}
+:root {
+  cursor: default;
+  overflow-wrap: break-word;
+  -webkit-tap-highlight-color: tbel-rbrow

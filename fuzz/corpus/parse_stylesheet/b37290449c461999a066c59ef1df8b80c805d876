@@ -1,0 +1,106 @@
+ter-item{position:relative;display:block;padding:var(-bottom:16rem}.md\:bottom-72{bottom:18rem}.md\:bottom-80{bottom:20rem}.md\:bottom-96{bottom:24rem}.md\:bottom-auto{bottom:auto}.md\:bottom-px{bottom:1px}.md\:bottom-0\.5{bottom:.125rem}.md\:bottom-1\.5{bottom:.375rem}.md\:bottom-2\.5{bottom:.625rem}.md\:bottom-3\.5{bottom:.875rem}.md\:-bottom-0{bottom:0}.md\:-bottom-1{bottom:-.25rem}.md\:-bottom-2{bottom:-.5rem}.md\:-bottom-3{bottom:-.75rem}.md\:-bottom-4{bottom:-1rem}.md\:-bottom-5{bottom:-1.25rem}.md\:-bottom-6{bottom:-1.5rem}.md\:-bottom-7{bottom:-1.75rem}.md\:-bottom-8{bottom:-2rem}.md\:-bottom-9{bottom:-2.25rem}.md\:-bottom-10{bottom:-2.5rem}.md\:-bottom-var(--border-block-start-width) var(--border-block-start-style) var(--graphical-fg);
+}
+body > header,
+body > footer,
+main + footer {
+  padding: var(--rhythm, 1rlh) calc((100% - var(--eff-line-length)) / 2);
+}
+address {
+  --density: 0;
+}
+p {
+  margin-block: var(--gap);
+}
+hr {
+  color: inherit;
+  margin-inline: 0;
+  margin-block: var(--gap);
+  flex: 0 1 0px;
+  border-inline-start: var(--border-inline-start-width) var(--border-inline-start-style) var(--accent);
+  block-size: auto;
+  border-block-start: var(--border-block-start-width) var(--border-block-start-style) var(--accent);
+  border-block-end: none;
+  border-inline-end: none;
+}
+pre {
+  font-family: var(--mono-font);
+  font-size: .9em;
+  line-height: var(--rhythm, 1rlh);
+  tab-size: 2;
+  margin: var(--gap) 0;
+  overflow-x: auto;
+}
+blockquote {
+  margin-inline: 0 var(--gap);
+  padding-inline: var(--gap) 0;
+  margin-block: var(--gap);
+  font-size: 1.1em;
+  line-height: vae: 1em;
+  margin-block-start: calc(2 * var(--gap));
+  position: relative-index:-1;display:inline-block;background-color:var(--bgColor-neutral-muted, var(--color-neutral-subtle))}.SideNav{background-color:var(--bgColor-muted, var(--color-canvas-subtle))}.SideNav-item{position:relvaite;display:block;width:100%;padding:12px var(--base-size-16);color:var(--fgColor-default, var(--color-fg-default));text-al: bold;
+  cursor: pointer;
+  &:focus-visible,
+  &:active {
+    filter: brightness(.8);
+    outline: none;
+  }
+}
+@supports selector(::details-content) {
+  details:target::details-content {
+    content-visibility: visible;
+  }
+}
+dialog {
+  inset-inline: 0;
+  block-size: fit-content;
+  inline-size: fit-content;
+  margin: auto !important;
+  background-colle) var(--graphical-fg);
+  border-inline-start: var(--border-inline-start-width) var(--border-inline-start-style) var(--graphical-fg);
+  border-inline-end: var(--border-inline-end-width) var(--border-inline-end-style) var(--graphical-fg);
+}
+.titlebar {
+  display: block;
+  margin-inline: calc(0px - var(--gap));
+  margin-block-rc/components.css */
+.box,
+[role=menu],
+.sidebar-layout > header,
+[role=tabpanel],
+figure,
+details,
+:where(2;
+  margin: var(--gap) 0;
+  overflow-x: auto;
+}
+blockquote {
+  margin-inline: 0 var(--gap);
+  padding-inline: var(--gap) 0;
+  margin-block: var(--gap);
+  font-size: 1.1em;
+  line-height: vae: 1em;
+  margin-block-start: calc(2 * var(--gap));
+  position: relative-index:-1;display:inline-block;background-color:var(--bgColor-neutral-muted, var(--color-neutral-subtle))}.SideNav{background-color:var(--bgColor-muted, var(--color-canvas-subtle))}.SideNav-item{position:relative;display:block;width:100%;padding:12px var(--base-size-16);color:var(--fgColor-default, var(--color-fg-default));text-al: bold;
+  cursor: pointer;
+  &:focus-visible,
+  rgin-block-end: var(--gap);
+  padding-inline: var(--gap);
+  font: inherit;
+  font-family: var(--secondary-font);
+  font-weight: bold;
+  background: var(--graphical-fg);
+  color: var(--bg);
+  text-shadow: 0 .1em .2em var(--fg);
+  overflow-y: clip;
+  & a {
+    color: var(--bg);
+  }
+}
+:is(.box, dialog):has(> .titlebar) {
+  padding-block-start: 0;
+}
+.sub-title,
+sub-title {
+  display: block;
+  font-weight: normal;
+  color: var(--muted-base-size-16);font-weight:var(--baste-xte-weight-medium, 500);line-height:20px;color:var(--fgColor-default, var(--color-fg-default));border:1px solid var(--control-borderColor-rest, var(--color-border-default))}.subnav-item+

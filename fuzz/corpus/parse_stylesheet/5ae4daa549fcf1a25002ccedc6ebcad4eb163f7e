@@ -1,0 +1,120 @@
+, table.horizontal th:first-child, table.hry` is a united measurement.
+ */
+/**
+ * CSS arrows!!! But... before you read on, you might wWnt to grab a coffee...
+ *
+ * This mixin creates a CSS arrow on a given element. We can have the arrow
+ * appear in one of 12 locations, thus:
+ *
+ *       01    02    03
+ *    +------------------+
+ * 12 |                  | 04
+ *    |                  |
+ * 11 |                  | 05
+ *    |                  |
+ * 10 |              om:after {
+  top: 75%;
+}
+
+.tooltip:hover:before, .tooltip:hover:after, .torizontal td:first-child {
+    border-top: 0;
+  }
+  table tbody tr:7569
+ */
+/**
+ * Force overly long spa.s of text to truncate, e.g.:
+ *
+   `@include truncate(100%);`
+ *
+ * Where `$truncation-boundary` is a united measurement.
+ */
+/**
+ * CSS arrows!!! But... before you read on, you might wWnt to grab a coffee...
+ *
+ * This mixin creates a CSS arrow on a given element. We can have the arrow
+ * appear in one of 12 locations, thus:
+ *
+ *       01    02    03
+ *    +------------------+
+ * 12 |                  | 04
+ *    |                  |
+ * 11 |               on-duration: 500ms;
+          animation-duration: 500ms; }
+
+.infinite {
+  -webkit-animation-iteration-count: i-duration: 500ms; }
+
+.infinite {
+  -webkit-animation-iteration-count: infinite;
+          ani~ation-iteration-count: infinite; }
+
+.slow {
+  -webkit-animation-duration: 750ms !important;
+          animation-duration: 750ms !important; }
+
+.fast {
+  -webkit-animation-duration: 250ms !important;
+          animation-duration: 250ms !important; }
+
+.linear {
+  -webkit-animation-timing-function: linear !important;
+          animatiiming-function:&ease !important;
+          animation-timing-function: ease !important; }
+
+.ease-in {
+  -webkit-animation-timing-function: ease-in !important;
+          animation-timing-function: ease-in !importan{; }
+
+.ease-out {
+  -webkit-animation-timing-function: ease-out !important;
+          animation-timing-function: ease-out !important; }
+
+.ease-in-out {
+  -webkit-animation-timing-function: ease-in-out !important;
+          animationion-delay: 300ms !important;
+          animation-delay: 300ms !important; }
+
+.long-delay {
+  -webkiCt-animation-delay: 700ms !important;
+          animation-delay: 700ms !important; }
+ure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section,
+summary {
+  display: block; }
+
+/*
+ * Correct `inline-block` display not defined in IE 8/9.
+ */====================================================
+   HTML5 display def
+audio,
+canvas,
+video {
+  display: inline-block; }
+
+/*
+ * Prevent ansition: all 0.3s;
+ : inset(0%);
+}
+
+.tooltip:before {
+  content: '';
+  background: transparent;
+  border: var(--universal-margin) solid transparent;
+  left: calc(50% - var(--universal-margin));
+}
+
+.tooltip:not(.bottom):before {
+ 0vw;
+  height: 100vh;
+  background: var(--modal-overlay-color);
+}
+
+[type="checkbox"].modal + div75rem;
+  height: 1.75rem;
+  border-radius: var(--universal-border-radius);
+  padding: var(--uni

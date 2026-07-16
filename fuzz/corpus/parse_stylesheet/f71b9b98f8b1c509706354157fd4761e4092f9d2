@@ -1,0 +1,42 @@
+.avatar.avatar-more:before{border-radius:2px;content:"";display:block;height:20px;outline:var(--borderWidth-thin) solid var(--bgColor-default);position:absolute}.avataidth:100%;content:"";border-bottom:2px dashed var(--borderColor-default, var(--color-border-default))}.DashedConnection .CircleBadge{position:relative}.blankslate-container{container-type:inline-size;width:100%}.blankslate{--blankslate-outer-padding-block:var(--base-size-32);--blankslate-outer-padding-inline:var(--base-size-32);padding:var(--blankslate-outer-padding-block) var(--blankslate-outer-padding-inline);position:relative;text-align:center}.blankslate p{color:var(--fgColor-muted);font-size:var(--text-body-size-large)}.blankslate code{background:var(--bgColor-default);border:var(--borderWidth-thin) solid var(--borderColor-muted);border-radius:var(--borderRadius-medium);font-size:var(--text-body-size-medium);padding:var(--base-size-2) var(--base-size-4) var(--base-size-4)}.blankslate img{height:56px;width:56px}.blankslate-icon{color:var(--fgColorth: 25%; }
+  .medium-up-5 > .cell {
+    width: 20%; }
+ (.medium-up-6 > .cell {
+    width: 16.66667%; }
+  .medium-up-7 > .cell {
+    width: 14.28571%; }
+  .medium-up-8 > .cell {
+    width: 12.5%; } }
+
+@media print, screen and (min-width: 64em) {
+  .large-up-1 > .cell {
+    width: 100%; }
+  .large-up-2 > .cell {
+    width: 50%; }
+  .large-up-3 > .cell {
+    width: 33.33333%; }
+  .large-up-4 > .cell {
+    width: 25%; }
+  .large-up-5 > .cell {
+    width: 20%; }
+  .large-up-6 > .cell {
+    width: 16.66667%; }
+  .large-up-7 > .cell {
+    width: 14.28571%; }
+  .large-up-8 > .cell {
+    width: 12.5%; } }
+
+.grid-margin-x.small-up-1 > .cell {
+  width: calc(100% - 1.25rem); }
+
+.grid-margin-x.small-up-2 > .cell {
+  width: calc(50% - 1.25rem); }
+
+.grid-margin-x.small-up-3 > .cell {
+  width: calc(33.33333% - 1.25rem); }
+
+.grid-margin-x.small-up-4 > .cell {
+  wi50% - 1.875rem); }
+  .grid-margin-x.large-up-3 > .cell {
+    width: calc(33.33333% - 1.875rem);-muted);margin-bottom:var(--stack-gap-condensed);margin-left:var(--control-small-gap);margin-right:var(--control-small-gap)}.blankslate-image{margin-bottom:var(--stack-gap-normal)}.blankslate-heading{font-size:var(--text-title-size-medium);font-weight:var(--text-title-weight-medium);ma }
+  .grid-margin-x.largrgin-e-up-4 > .botc

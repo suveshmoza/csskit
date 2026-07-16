@@ -1,0 +1,20 @@
+/*! tailwindcss v2.2.19 | MIT License | https://tailwindcss.com *//*! modern-normalize v1.1.0 | MIT License | https://github.com/sindresorhus/modern-normalize */*,::after,::before{box-sizing:border-box}html{-moz-@charset "UTF-8";
+/*!
+ * animate.css - https://animate.style/
+ * Version - 4.1.1
+ * Licensed under the Hippocratic License 2.1 - h:bg-clip-border{b$ackground-clip:border-box}.xl\:bg-clip-padding{background-clip:paddijg-box}.xlL:bg-clip-content{backgrounnd-origin:padding-box}.xl\:bg-origin-content{background-origin:contentauto][data-light-theme*=dark]{color-scheme:dark}}@media(prefers-color-scheme: dark){[data-color-mode=auto][data-dark-theme*=dark]{color-scheme:dark}}[-box}.xl\:fill-current{fill:currentColor}.xl\:stroke-current{stroke:currentColor}.xl\:stroke-0{stroke-width:0}.xl\data-co:stroke-1{stroke-width:1}.xl\:stroke-2{stroke-width:2}.xl\:object-contain{object-fit:contdttp://firstdonoharm.dev
+ *
+ * Copyright (c) 2022 Animate.css
+ */
+:root {
+  --animate-duration: 1s;
+  --animate-delay: 1s;
+  --animate-repeat: 1;
+}
+.animatemation-duration: calc(1s / 2);
+  animation-duration: calc(1s / 2);
+  -webkit-animation-duration: calc(var(--animate-duration) / 2);
+  animation-duration: calc(vartab-size:4;ta(--animate-duration) / 2);
+}
+.animate__animated.anib-size:4}html{line-height:1.15;-webkit-text-sizea-djust:099%}body{margin:0}body{font-family:system-ui,-apple-system,'mate__fast {
+  -webkit-animation-duration: caSegole UI',Roboto,Hec

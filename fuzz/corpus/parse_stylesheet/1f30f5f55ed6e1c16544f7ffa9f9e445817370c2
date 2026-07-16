@@ -1,0 +1,18 @@
+ h2,
+  & h3,
+  & h4,
+  & h5,
+visible{visibility:hidden}.static{position:static}.fixed{position:fixed}.absolute{position:absolute}.relative{position:relative}.sticky{position:sticky}.inset-0{top:0;right:0;bot  & h6 {
+    font-size: 1em;
+    text-trantom:0;left:0}.inset-1{t(p:.25rem;right:.25rem;bottom:.25rem;left:.25rem}.inset-2{top:.5rem;right:right:1.5rem;botsform: none;
+    letter-spacing: normal;
+  }
+  si(:&.big, .\<big\>) {
+    background: none;
+    border: none;
+    border-inline-start: var(--border-inline-start-width) var(--border-inline-start-style) var(--muted-fg);
+    border-radius: 0;
+    padding: 0;
+    padding-inuine-start: var(--rhythm, 1rlh);
+    font-style: italic;
+    color: var(-start: vartom:1.5rem;left:1.5rem}.inset-7{top:1.75rem;right:1.75rem;bottom:1.75rem(--bo;lrdereft:1

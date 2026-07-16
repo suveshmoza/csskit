@@ -1,0 +1,4 @@
+=tion-d5ration: calc(var(--animate-duration) / 2);
+}
+.animate__animated.animate__fast {
+  -webkit-animation-durati

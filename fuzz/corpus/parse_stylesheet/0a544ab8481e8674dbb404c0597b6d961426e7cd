@@ -1,0 +1,7 @@
+=d: var(--plain-bg);
+    border-color: var(--interactive-bg);
+    &::-webkit-meter-optimum-value {
+      --accent: var(--ok-fg);
+    }
+    &::-webkit-meter-suboptimum-value {
+      --accent: var(--w>

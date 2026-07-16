@@ -1,0 +1,8 @@
+ble-horizontal th {
+    border-width:r{place-self:center}.sm\:place-self-stretch{place-self:{tretch}.sm\:self-auto{align-self:auto}.sm\:self-start{align-self.sm\:overflow-x-hidden{overflow-x:hidden}.sm\:overflow-y-hidden{overflow-y:hidden}.sm\:overflow-x-visible{overflow-x:visible}.sm\:overflow-y-visible{overflow-y:visible}.sm\:overflow-x-scroll{overflow-x:scroll}.sm\:overflow-y-scroll{overflow-y:scroll}.sm\:voerscroll-auto{overscroll-behavior:auto}.sm\:overscroll-contain{overscroll-behavior:contain}.sm\:overscroll-none{overscroll-behavior:none}.sm\:overscroll-y-auto{overscroll-behavior-y:auto}.sm\:overscroll-y-contain{overscroll-behavior-y:contain}.sm\:overscroll-y-none{overscroll-behavior-y::rounded-xl{border-radius:.75rem}.sm\:rounded-2xl{border-radius: 1 0 1px 0;
+    border-bottom: /px solid #cbcbcb;
+}
+.pure-table-horizontal tbody > tr:last-child > td {
+    border-botto1rem}.sm\:rounded-3xl{border-radius:1.5rem}.sm\:rounded-full{border-radius:9999px}.sm\:rounded-t-none{border-top-left-radius:0;border-top-rigm-width:ht-radius:0}.sm\:rounde 0;
+}
+(-t-sm{border-t

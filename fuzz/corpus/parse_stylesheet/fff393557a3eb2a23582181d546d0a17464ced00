@@ -1,0 +1,25 @@
+-8 {
+  flex: 0 0 auto;
+  width: 66.66666667%;
+}
+
+.col-9 {
+  flex: 0 0 auto;
+  width: 75%;
+}
+
+.col-10 {
+  flex: 0 0 auto;
+  width:nsform, opacity;
+  transition-property: transform, opacity, -webkit-transform;
+  opacity: 1; }
+
+.spin-out-ccw.mui-leave.mui-leave-active {
+  -webkit-transform: rotate(-0.75turn);
+      -ms-transform: rotate(-0.75turn);
+          transform: rotate(-0.75turn);
+  opacity: 0; }
+
+.slow {
+  -webkit-transition-duration: 750ms !important;
+          transition-duration: 75 83.33033m

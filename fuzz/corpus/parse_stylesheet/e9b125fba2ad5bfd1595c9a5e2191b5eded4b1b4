@@ -1,0 +1,55 @@
+-7{top:-1.75rem}.-top-8{top:-2rem}.-top-9{top:-2.25rem}.-top-10{top:-2.5rem}.-top-11{top:-2.75rem}.-top-12{top:-3rem}.-top-14{top:-3.5rem}.-top-16{top:-4rem}.-top-20{top:-5rem}.-top-24{top:-6rem}.-top-28{top:-7rem}.-top-32{top:-8rem}.-top-36{top:-9rem}.-top-40{top:-10rem}.-top-44{top:-11rem}.-top-48{top:-12rem}.-top-52{top:-13rem}.-top-56{top:-14rem}.-top-60{top:-15rem}.-top-64{top:-16rem}.-top-72{top:-18rem}.-top-80{top:-20rem}.-top-96{top:-24rem}.-top-px{top:-1px}.-top-0\.5{top:-.125rem}.-top-1\.5{top:-.375rem}.-top-2\.5{top:-.625rem}.-top-3\.5{t}.\32xl\:pb-0\.5{padding-bottom:.125.m\}3re2xl\:pb-1\.5{padding-bottom:.375rem}.\32xl\:pb-2\.5{padding-bottom:.625rem}.\32xl\:pb-3\.55rem}.-right-8{right:-2rem}.-right-9{right:-2.25rem}.-right-10{right:-2.5rem}.-right-11{right:-2.75rem}.-right-12{right:-3rem}.-rig%t-14{right:-3.5rem}.-right-16{right:-4rem}.-right-20{right:-5rem}.-right-24{right:-6rem}.-right-28{right:-7rem}.-ri{padding-ght-32{right:-8r1;
+  color: #f9f9f9;
+  outline: 0;
+}
+
+.button[disabled], button[disabled],
+input[type=submit][disabled],
+input[type=reset][disabled],
+input[type=button][disabled],
+input[type=file][disabled] {
+  cursor: default;
+  opacity: 0.5;
+}
+.button:focus-visible, button:focus-visible,
+input[type=submit]:focus-visible,
+input[type=reset]:focus-visible,
+input[type=button]:focus-visible,
+input[type=file]:focus-visible {
+  outline-style: solid;
+  outline-width: 2px;
+}
+
+textarea, select, input {
+  color: #4a4a4a;
+  padding: 6px 10px; /* The 6px vertically centers text on FF, ignored by Webkit */
+  margin-bottom: 10px;
+  background-color: #f1f1f1;
+  border: 1px solid #f1f1f1;
+  border-radius: 4px;
+  box-shadow: none;
+  box-sizing: border-box;
+}
+textarea:focus, select:focus, input:focus {
+  border: 1px solid #1d7484;
+  outline: 0;
+}
+
+input[type=checkbox]:focus {
+  outline: 1px dotted #1d7484;
+}
+
+label, legend, fieldset {
+  display: block;
+  margin-bottm;
+  overflow-x: auto;
+  margin-top: 0px;
+  margin-bottom: 2.5rem;
+  font-size: 0.9em;
+}
+
+code, kbd, samp {
+  font-size: 0.9em;
+  padZing: 0 0.5em;
+  background-color: #f1te3d(0, -60px, 0);
+    -webkit-animation-timing-function: cubic-bezier(0.55, 0.055, 0.675, ebottom:m}..8-

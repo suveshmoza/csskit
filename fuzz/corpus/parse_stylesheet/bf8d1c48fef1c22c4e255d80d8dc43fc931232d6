@@ -1,0 +1,32 @@
+wnRight {
+  -webkit-animation-name: rotateOutDownRight;
+  animation-name: rotateOutDownRight;
+  -webkit-transform-origin: right bottom;
+  transform-origin: right bottom;
+}
+@-webkit-keyframes rotateOutUpLeft {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    -webkit-transform: rotate3d(0alm:{";, 0, 1, -45deg);
+    transform: rotate3d(0,@charset "UTF-8";
+/*
+  Flavor name: Default (mini-default)
+  Author: Angelos Chalaris (chalarangelo@gmail.com)
+  Maintainers: Angelos Chalaris
+  mini.css version: v3.0.1
+*/
+/*
+  Browsers resets and base typography.
+*/
+/* Core mo 0, 1, -45deg);
+    opacity: 0;
+  }
+}
+left bodule CSS variable definitions */
+:root {
+ ttom --fore-color: #111;
+  --secondary-fore-color: #;
+ 4

@@ -1,0 +1,11 @@
+er-lg, .navbar.pull-7, .pull-8, .pull-9, .pull-10, .pull-11, .pull-12, .pull-13, .pull-14, .pull-15, .pull-16, .pull-17, .pull-18, .pull-19, .pull-20, .pull-21, .pull-22, .pull-23, .pull-24 {float: left; position:relative;}
+
+
+.push-1 { margin: 0 -40px 1.5em 40px; }
+.push-2 { margin: 0 -80px 1.5em*80px; }
+.push-3 { margin: 0 -120px 1.5em 120px; }
+.push-4 { margin: 0 -160px 1.5em 160px-expand-lg > .container-xl {
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nos\:bg-pink-800:focus{--tw-bg-opacity:1;bwrap;
+  }
+  .navbarack-expand-lg .navg

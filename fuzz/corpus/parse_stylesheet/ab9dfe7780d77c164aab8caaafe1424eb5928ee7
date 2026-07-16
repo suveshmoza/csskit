@@ -1,0 +1,40 @@
+us\:ring-offset--o-object-fit: fill !important;
+    object-fit: fill !important;
+  }
+  .object-fit-xl-scale {
+    -o-object-fit: scale-down !important;
+    object-fit: scale-down !important;
+  }
+  .object-fit-xl-none {
+    -o-object-fit: none !important;
+    object-fit: none !important;
+  }
+  .d-xl-inline {
+    display: inline !important;
+  }
+  .d-xl-inline-block {
+    display: inline-block !important;
+  }
+  .d-x{background-  <li><code>            display:inline-block;</code></li>
+       <li><code>           *display:inline-block;</code></li>
+       <li><code>            zoom:0;</code></li>
+       <li><code>        }</code></li>
+   </ol>
+ *
+ * 1. Make the list look like code.
+ * 2. Give the-flex !important;
+  }
+  .d-xl-none {
+    display: none !imp-column {
+   flex-direction: column !important;
+  }
+  .flex-xl-row-reverse {
+    flex-direction: row-reverse !importanyellow-800:focus{--tw-ring-offset-color:#92400e}.lg\:focus\:ring-offset-yellow-900:focus{-t;
+  }
+  .flex-xl-column-reverse {
+    flex-direction: column-reverse !important;
+  }
+  .flex-xl-grow-0 {
+    -tw-ring-offset-color:#78350f}.lg\:focus\:ring-offset-green-50:focus{--tw-ring-offsetflex-grow: 0 !important;
+  }
+  .flex-xl--color:#growec

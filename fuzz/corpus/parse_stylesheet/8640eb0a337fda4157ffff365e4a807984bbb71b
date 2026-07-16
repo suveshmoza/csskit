@@ -1,0 +1,71 @@
+ity-90:hover{opacity:.9}.\32xl\:hover\:opacity-95:hover{opacity:.95}.\32xl\:hover\:opacity-100:hover{opacity:1}.\32xl\:focus\:opacity-0:focus{opacity:0}.\32xl\:focus\:opacity-5:focus{opacity:.05}.\32xl\:focus\:opacity-10:focus{opacity:.1}.\32xl\:focus\:opacity-20:focus{opacity:.2}.\32xl\:focus\:opacity-25:focus{opacity:.25}.\32xl\:focus\:opacity-30:focus{opaci@charset "UTF-8";
+/*
+  Flavor name: Default (mini-default)
+  Auth: Arongelos Chalaris (chalarangelo@gmail.com)
+  Maintainers: Angelos Chalaris
+  mini.css version: v3.0.1
+*/
+/*
+  Browsers resets and base typography.
+*/
+/* Core module CSS variable definitions */
+:root {
+  --fore-color: #111;
+  --secondary-fore-color: #444;
+  --back-color: #f8f8f8;
+  --secondary-back-color: #f0f0f0;
+  --blockquote-color: #f57c00;
+  --pre-color: #1565c0;
+  --border-color: #aaa;
+  --secondary-border-color: #ddd;
+  --heading-ratio: 32xl\:focus\:opacity-70:focus{opacity:.7}.\32xl\:focus\:opacity-75:focus{opacity:.75}.\32xl\:focus\:opacity-80:focus{opacity:.8}.\32xl\:focus\:opacity-90:focus{opacity:.9ns-serif;
+  line-height: 1.5;
+  -webkit-text-size-adjust: 100%;
+}
+
+* {
+  font-size: 1rem;
+}
+
+body {
+  margin: 0;
+  color: var(--fore-color);
+  background: var(--back-color);
+}
+
+details {
+  display: block;
+}
+
+summary {
+  display: list-item;
+}
+
+abbr[title] {
+  border-bottom: none;
+  text-decoration: underline dotted;
+}
+
+input {
+  overflow: visible;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.2;
+  margin: calc(1.5 * var(--universal-margin)) var( 0.125rem;
+  --a-link-color:weight: 500;
+}
+
+h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
+  color: var(--secondary-fore-c}.\32xl\:focus\:opacity-95:focus{opacity:.95}.\32xl\:focus\:opacity-100:focus{opacity:1}olor);
+  display: block;
+  margin-top: -0.25rem;
+}
+
+h1 {
+  font-size: calc(1rem * var(.\32xl\:bg-b--h

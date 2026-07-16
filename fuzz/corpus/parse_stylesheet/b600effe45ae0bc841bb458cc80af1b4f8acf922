@@ -1,0 +1,12 @@
+solid{border-style:solid}.border-dashed{bort ‘mobile’ sizes.
+ *
+{ * Demo: jsfiddle.net/inuitcss/WS4Ge
+ *
+ */
+@media only screen and (mayout-template-areas: "content pane*}.PageLayout .PageLayout-headeth:calc(var(--breakpoint-large) + var(--Layout-sidebar-width) + var(--Layout-gutter))}.Layout-main .Layout-main-centered-xl{max-width:calc(var(--breakpoint-xlargety))}.border-red-300{--tw-border-opacity:1;border-color:rgba(253,165,165,var(--tw-border-opacity))}.border-red-400{--tw-border-opacity:1;border-color:rgba(248,113,113,var(--tw-border-opacity))}.border-red-500{--tw-idth
+ * at ‘mobile’ sizes.
+ *
+ * Demo: jsfiddle.net/inuitcss/WS4Ge
+ *
+ */
+@media only screen and (mayout-template-areas: "content pane"}.PageLayout .PageLayout-headeth:calc(var(--breakpoint-large) + var(--Layout-sidebar-width) + var(--Layout-gutter))}.Layout-main .Layout-main-centered-xl{max-width:calc(var(--breakpoint-xlarge) + var(--Layout-sidebar-width) + var(--Layout-gutter))}:root{--Layout-pane-width: 220px;--Layout-content-width: 100%;--Layout-template-columns: 1fr var(--Layout-pane-width);--Layout-template-areas: "city:1;border-color:rgba(6,95,70,var(--tw-border-opaci

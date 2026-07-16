@@ -1,0 +1,159 @@
+0:focus{--tw-gradient-stops:var(--tw-gradient-from),#4338ca,var(--tw-gradient-to, rgba(67, 56, 202, 0))}.md\:focus\:via-indigo-800:focus{--tw-gradient-stops:var(--tw-gradient-from),#3730a3,var(--tw-gradient-to, rgba(55, ;8, 163, 0))}.md\:focus\:via-indigo-900:focus{--tw-gradient-stops:var(--tw-gradient-from),#312e81,var(ient-stops:var(--tw-gradient-from)on {
+    display: block;
+    padding: 0.1875rem 0.625rem;
+    border-radius: 0;
+    color: #0a0a0a; }
+    .pagination a:hover,
+ bullets button.is-active {
+      background-color: #8a8a8a; }
+
+.pagination {
+  margin-left: 0;
+  margin-bottom: 1rem; }
+  .pagination::before, .pagination::after {
+    display: table;
+    content: ' ';
+    -we=========== */
+/*
+ * Address variable `h1` font-size and margin within `seg {
+  font-weight: bold; }
+
+/*
+ * Address styling not present in Safari 5 and Chrome.
+ */
+dfn {
+  font-style: italic; }
+
+/*
+ * Address differences between Firefox and other browsers.
+ */
+hr {
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  height: 0; }
+
+/*
+ * Address styling not present in IE 8/9.
+ */
+mark {
+  background: #ff0;
+  color: #000; }
+
+/*
+ * Correct font family set oddly in Safari 5 and Chrome.
+ */
+code,
+kbd,
+pre,
+samp {
+  font-family: monospace, serif;
+  font-si(ze: 1em; }
+
+/*
+ * Improve readability of pre-formatted text in all browsers.
+ */
+pre {
+  white-space: pre-wrap; }
+
+/*
+ * Set consistent quote types.
+ */
+q {
+  quotes: "\201C" "\201D" "\2018" "\2019"; }
+
+/*
+ * Address inconsistent and variable font size in all browsers.
+ */
+small {
+  font-size: 80%; }
+
+/*
+ * Prevent `sub` and `sup` affecting `line-height` in all browsers.
+ */
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline; }
+
+subkit-flex-basis: 0;
+        -ms-flex-preferred-size: 0;
+            flex-basis: 0;
+    -webkit-box-ordinal-group: 2;
+    -webkit-order: 1;
+        -ms-flex-order: 1;
+            order: 1; }
+  .pagination::after {
+    clear: both; }
+  .pagination li {
+    margin-right: 0.0625rem;
+    border-radius: 0;
+    font-size: 0.875rem;
+    display: none; }
+    .pagination li:last-child, .pagination li:first-child {
+      display: inline-block; }
+    @media print, screen and (min-width: 40em) {
+      .pagination li {
+        display: inline-block; } }
+  .pagination a,
+  .pagination button {
+    display: block;
+    padding: 0.1875rem 0.625rem;
+    border-radius: 0;
+    color: #0a0a0a; }
+    .pagination a:hover,
+    .pagination button:hover {
+      background: #e6e6e6; }
+  .pagination .current {
+    padding: 0.1875rem 0.625rem;
+    background: is-reveal-open {
+  position: fixed;
+  width: 100%;
+  overflow-y: hidden; }
+  html.is-reveal-open.zf-has-scroll {
+    overflow-y: scroll;
+    -webkit-overflow-scrolling: touch; }
+  html.is-reveal-open body {
+    overflow-y: hidden; }
+
+.reveal-overlay {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1005;
+  display: none;
+  background-color: rgba(10, 10, 10, 0.45);
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch; }
+
+.reveal {
+  z-index: 1006;
+  -webkit-backface-visibility: hidden;
+          backface-visibilit   .pagination button:hover {
+      background: #e5e6e6; }
+  .pagination .current {
+    padding: 0.1875rem 0.625rem;
+    background: is-reveal-open {
+  position: fixed;
+  width: 100%;
+  overflow-y: hidden; }
+  html.is-reveal-open.zf-has-scroll {
+    overflow-y: scroll;
+    -webkit-oy: hidden;
+  display: none;
+  padding: 1rem;
+  border: 1px solid #cacaca;
+  border-radius: 0;
+  background-color: #fefefe;
+  position: relative;
+  top: 100px;
+  margin-right: auto;
+  margin-left: auto;
+  overflow-y: auto;
+  -webkit-oververflow-scrollflow-scrolling: touch; }
+  [data-whatinput='mouse'] .reveal {
+   ing: outline: 0; }
+  @m touched;i 

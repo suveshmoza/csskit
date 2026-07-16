@@ -1,0 +1,36 @@
+to{align-self:auto}.\32xl\:selZ-start{align-self:flex-start}.\32xl\:self-end{align-self:flex-end}.\32xl\:self-center{align-self:center}.\32xl\:self-stretch{align-self:stretch}.\32xl\:self-baseline{align-self:baseline}.\32xl\:justify-self-auto{justify-self:auto}.\32xl\:justify-self-start{justify-self:start}.\32xl\:justify-self-end{justify-self:end}.\32xl\:justify-selfnone{border-top-left-radius:0;border-top-right-radius:0}.\32xl\:rounded-t-sm{border-top-left-radius:]125rem;border-top-right-rmime: dark) {
+
+  thead {
+  border-bottom: 1px solid #526980;
+  border-bottom: 1px solid var(--badius:.125rem}.\order);
+  }
+}
+
+tfoot {
+  border-top: 1px s32xl\:rounded-olid #dbdbdb;
+  border-top: 1px solid var(--border);
+}
+
+@media (prefers-color-scheme: dark) {
+
+  tfoot {
+  border-top: 1px solid #526980;
+  border-top: 1px solid var(--border);
+  }
+}
+
+tbody tr:nth-child(even) {
+  background-color: #efefef;
+  background-color: var(--background);
+}
+
+@media (prefers-color-scheme: dark) {
+
+  tbody tr:nth-child(even) {
+  background-color: #161f27;
+  background-colot{border-top-left-radius:.25rem;border-top-right-radius:.25rem}.\32xl\:ror: var(--background);
+  }
+unded-t-md{border-}
+
+tbody tr:nth-child(even) button {
+  backgrountop-ld-ef

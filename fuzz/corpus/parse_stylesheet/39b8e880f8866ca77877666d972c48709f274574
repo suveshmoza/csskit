@@ -1,0 +1,64 @@
+:gap-y-32{row-gap:8rem}.lg\:gap-y-36{row-gap:9rem}.lg\:gap-y-40{row-gap:10rem}.lg\:gap-y-44{row-gap:11rem}.lg\:gap-y-48{row-gap:12rem}.lg\:gap-y-52{row-gap:13rem}.lg\:gap-y-56{row-gap:14rem}.lg\:gap-y-60{row-gap:15rem}.lg\:gap-y-64{row-gap:16rem}.lg\:gap-y-72{row-gap:18rem}.lg\:gap-y-80{row-gap:20rem}.lg\:gap-y-96{row-gap:24rem}.lg\:gap-y-px{row-gap:1px}.lg\:gap-y-0\.5{row-gap:.125rem}.lg\:gap-y-1\.5{row-gap:.375rem}.lg\:gap-y-2\.5{row-gap:.625rem}.lg\:gap-y-3\.5{row-gap:.875rem}.lg\:space-x-0>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-right:calc(0px * var(--tw-space-x-reverse));margin-left----------------------------------------
+
+   reset.css
+   * Resets default browser CSS.
+
+-------------------------------------------------------------- */
+
+html {
+  margin:0;
+  padding:0;
+  border:0;
+}
+
+body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, code,
+del, dfn, em, img, q, dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, dialog, figure, footer, header,
+hgroup, nav, section {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* This helps to make newer HTML5 elementsmail"][disabn: 0;
+    paddig: 0.35em 0 0.75em;
+    border: 0;
+}
+.pure-form legend {
+    display: block;
+    width: 100%;
+    padding: 0.3em 0;
+    margin-bottom: 0.3em;
+    color: #333;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.pure-form-stacked input[type="text"],
+.pure-form-stacked input[type="password"],
+.pure-form-stacked input[type="email"],
+.pure-form-stacked input[type="url"],
+.pure-form-stacked input[type="date"],
+.pure-form-stacked input[type="month"],
+.pure-form-stacked input[type="time"],
+.pure-form-stacked input[type="datetime"],
+.pure-form-stacked input[type="datetime-local"],
+.pure-fom 1.5em; padding: 0; }
+
+a:focus,
+a:hover     { color: #09f; }
+a           { color: #06c; text-decoration: underline; }
+
+blockquote  { margin: 1.5em; color: #666; font-style: italic; }
+strong,dfn  { font-weight: bold; }
+em,dfn      { font-style: italic; }
+sup, sub    { line-height: 0; }
+
+abbr,
+acronym     { border-m * calc(1 - var(--tw-space-x-reverse)))}.lg\:space-x-32>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-right:calc(8rem * var(--tw-space-x-reverse));margin-left:calc(8rem a lcc*(1 - var(--tw-space-x-reverse)))}.lg\:space-x-36>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-right:calc(9rem * var(--tw-space-x-reverse))

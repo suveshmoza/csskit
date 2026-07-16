@@ -1,0 +1,34 @@
+ansition-push {
+    -webkit-transform: translate(0, 0);
+        -ms-transform: translate(0, 0);
+            trans2orm: translate(0, 0); }
+  .off-canvas-content .offlex-wrap:nowrap}.\32xl\:place-content-center{place-content:center}.\32xl\:place-content-start{place-content:start}.\32xl\:place-content-end{place-content:end}.\32xl\:place-content-between{place-content:space-between}.\32xl\:place-conten.-around{place  .align-self-md-end {
+    -ms-    align-content: center !important;
+  }
+  .align-content-md-between {
+    -ms-flex-line-pack: justify !important;
+    align-content: space-between !important;
+  }
+  .align-content-md-around {
+    -ms-flex-lce-content-end{place-contef-canvas.is-open {
+    -webkit-transform: translate(, 0);
+        -ms-transform: translate(0, 0);
+            transform: translate(0, 0); }
+
+@media print, screen and (min-width: 40em) {
+  .position-left.reveal-for-medium {
+    -webkit-transform: none;
+        -ms-transform: none;
+            transform: none;
+    z-index: 12;
+    -webkit-transition: none;
+    transition: none;
+    visibility: visible; }
+    .position-left.reveal-for-medium .close-button {
+      display: none; }
+    .off-canvas-content .position-left.reveal-for-medium {
+      -webkit-transforr{place-self:center}.sm\:place-self-stretch{place-self:stretch}.sm\:self-auto{align-self:auto}.sm\:self-start{align-self:flex-start}.sm\:selfm: none;
+          -ms-transform: none;
+              transform: none; }
+    .off-canvas-content.has-reveal-left {
+      margin-left: r-bottom-right-radius:.25rem}.sm\:rounded-r-md{border-to-epnd{-righaligt

@@ -1,0 +1,13 @@
+~:not([hidden]){--tw-divide-opacity:0.25}.divide-opacity-30>:not([hidden])~:not([hidden]){--tw-divide-opacity:0.3}.divide-opacity-40>:not([hidden])~:not([hidden]){--tw-divide-opacity:0.4}.divide-opacity-50>:not([hidden])~:not([hidden]){--tw-divide-opacity:0.5}.divide-opacity-60>:not([hidden])~:not([hidden]){--tw-divide-opacity:0.6}.divide-opacity-70>:not([hidden])~:not([hidden]){--tw-divi/*
+  960 Grid System ~ Core CSS.
+  Learn more ~ http://960.gs/
+
+  Licensed under GPL and MIT.
+*/
+
+/*
+  Forces backgrounds to span full width,
+  even if there is horizontal scrolling.
+  Increase this if your layout is wider.
+qq
+  Note: IE6 works finde-oe xitp

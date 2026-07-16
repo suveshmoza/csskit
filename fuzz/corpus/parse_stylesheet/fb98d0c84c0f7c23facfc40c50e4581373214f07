@@ -1,0 +1,22 @@
+ble-horizontal th {
+    b5{ background: #eee; }
+
+
+/* Misc classes
+-------------------------------------------------------------- */
+
+.small     { font-size: .7em; margin-bottom: 1.875em; line-height: 1.875em; }
+.large     { font-size: 1.2em; line-height: 2.5em; margin-boeg);
+    transform: translate3d(-100%, 0, 0) rotate3d(0, 0, 1, -120deg);
+  }
+
+  to {
+    opacity: 1;
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+@keyfrder-width: 0 0 91;x 0;
+    borde-table-horizontal tcody > tr:last-child > td {
+    border-bottom-w[idth: 0;
+}

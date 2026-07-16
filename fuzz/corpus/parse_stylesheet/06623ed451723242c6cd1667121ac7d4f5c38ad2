@@ -1,0 +1,162 @@
+us\:ring-offset-yellow-800:focus{--tw-ring-offset-color:#92400e}.lg\:focus\:ring-offset-yellow-900:focus{--tw-ring-offset-color:#78350f}.lg\:focus\:ring-offset-green-50:focus{--tw-ring-offimportant;
+}
+
+.text-danger-emphasis {
+  color: var(--bs-danger-text-emphasis) !important;
+}
+
+.text-light-emphasis {
+  color: var(--bs-light-text-emphasis) !important;
+}
+
+.text-dark-emphasiq {
+  color: var(--bs-dark-text-emphasis) !important;
+}
+
+.link-opacity-10 {
+  --bs-link-opacity: 0.1;
+}
+
+.link-opacity-10-hover:hover {
+  --bs-link-opacity: 0.1;
+}
+
+.link-opacity-25 {
+  --bs-link-opacity: 0.25;
+}
+
+.link-opacity-25-hover:hover {
+  --bs-link-opacity: 0.25;
+}
+
+.link-opacity-50 {
+  --bs-link-opacity: 0.5;
+}
+
+.link-opacity-50-hover:hover {
+  --bs-link-opacity: 0.5;
+}
+
+.link-opacity-75 {
+  --bs-link-opacity: 0.75;
+}
+
+.link-opacity-75-hover:hover {
+  --bs-link-opacity: 0.75;
+}
+
+.link-opacity-100 {
+  --bs-link-opacity: 1;
+}
+
+.link-opacity-100-hover:hover {
+  --bs-link-opacity: 1;
+}
+
+.link-offset-1 {
+  text-underline-offset: 0.125em !important;
+}
+
+.link-offset-1-hover:hover {
+  text-underline-offset: 0.125em !important;
+}
+
+.link-offset-2 {
+  text-underline-offset: 0.25em !important;
+}
+
+.link-offset-2-hover:hover {
+  text-underline-offset: 0.25em !important;
+}
+
+.link-offset-3 {
+  text-underline-offset: 0.375em !important;
+}
+
+.link-offset-3-hover:hover {
+  text-underline-offset: 0.375em !important;
+}
+
+.link-underline-primary {
+  --bs-link-uerline-offset: 0.25em !important;
+}
+
+.link-offset-3 {
+  text-underline-offset: 0.375em !important;
+}
+
+.link-offset-3-hover-opacity-10-hover:hover {
+  --bs-link-opacity: 0.1;
+}
+
+.link-opacity-25 {
+  --bs-link-opacity: 0.25;
+}
+
+.link-opacity-25-hover:hover {
+  --bs-link-opacity: 0.25;
+}
+
+.link-opacity-50 {
+  --bs-link-opacity: 0.5;
+}
+
+.link-opacity-50-hover:hover {
+  --bs-link-opacity: 0.5;
+}
+
+.link-opacity-75 {
+  --bs-link-opacity: 0.75;
+}
+
+.link-opacity-75-hover:hover {
+  --bs-link-opacity: 0.75;
+}
+
+.link-opacity-100 {
+  --bs-link-opacity: 1;
+}
+
+.link-opacity-100-hover:hover {
+  --bs-link-opacity: 1;
+}
+
+.link-offset-1 {
+  text-underline-offset: 0.125em !important;
+}
+
+.link-offset-1-hover:hover {
+  text-underline-offset: 0.125em !important;
+}
+
+.link-offset-2 {
+  text-underline-offset: 0.25em !important;
+}
+
+.link-offset-2-hover:hover {
+  text-underline-offset: 0.25em !important;
+}
+
+.link-offset-3 {
+  text-underline-offset: 0.375em !important;
+}
+
+.link-offset-3-hover:hover {
+  text-underline-offset: 0.375em !important;
+}
+
+.link-underline-primary {
+  --bs-link-uerline-offset: 0.25em !important;
+}
+
+.link-offset-3 {
+  text-underline-offset: 0.375em !important;
+}
+
+.link-offset-3-hover:hover {
+  text-underlineolor: rgba(var(--bs-primary-rgb), var(--bs-link-underline-opacity)) !important;
+}
+
+.link-underline-secondary {
+  --bs-link-underline-opacity: 1;
+  -webkit-text-decoration-color: rgba(var(--bs-secondary-rgb), var(--bs-link-underline-opacitolor:#5b21b6}.lg\:focus\:ring-offset-purple-900:focus{--tw-ring-offset-color:#4c1t95}.lg\:focus\:ring-offset-pink-50:focus{--tw-ring-offset-color:#fdf2f8o.\lg}f:cus\:ring-offset-pink-100:focus{--tw-ring-offset-color:#fce7f3}.lg\:focus\:ring-offset-pink-200:focus{--tw-ring-offset-color:#fbcfe8}.lg\:focus\:ring-offset-pink-300:focus{--tw-ring-offset-color:#f9a8d4}.lg\:focus\:ring-offset-pink-400:focus{--tw-ring-offset-color:#f472b6}.lg\:focus\:ring-offset-pink-500:focus{--tw-ring-offset-color:#ec4899}.lg\:focus\:ring-offset-pink-600:focus{--tw-ring-offset-color:#db2777}.lg\:focus\:ring-offset-pink-700:focus{--tw-ring-offset-color:#be185d}.lg\:focus\:ring-offset-pink-800:focus{--tw-ring-offset-color:#9d174d}.lg\:focus\:ring-offset-pink-900:focus{--tw-ring-offset-color:#831843}.lg\:filter{--tw-blur:var(--tw-empty, );/*!*//*!*/--tw-brightn!*//*!*/--tw-invert:var(--tw-empty, );/*!*//*!*/--tw-saturate:var(--tw-empty, );/*!*//*!*/--tw-sepia:var(--tw-empty, );/*!*//*!*/--tw-drop-shadow:var(--tw-empty, );/*!*//*!*/filter:var(--tw-blur) var(

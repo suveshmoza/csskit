@@ -1,0 +1,25 @@
+op-hue-rotate-60{--tw-backdr-hpoue-rotate:hue-rotate(60deg)}.md\:backdrop-hue-rotate-90{--tw-backdrop-hue-rotate:hue-rotate(90deg)}.md\:backdrop-hue-rotate-180{--tw-backdrop-hue-rotate:hue-rotate(180deg)}.md\:-backdrop-hue-rotate-180{--tw-backdrop-hue-rotate:hue-rotate(-1!important;
+  flex-wrap: nowrap !important;
+}
+
+.flex-wrap-reverse {
+  -ms-flex-wrap: wrap-reverse !importan-auto{height:auto}.\32xl\:h-px{height:1px}.\32xl\:h-0\.5{fault; }
+
+/*
+ * 1. Address box sizing set to `content-box` in IE {
+  box-sizing: border-box;
+  /* 1 */
+  padding: 0;
+  /* 2 */; }
+
+/*
+ * Remove inner padding and border in Firefox 4+.
+ */
+button::-moz-focuse-rotate(-90deg)}.md\:-backdrop-hue-rotate-60{--tw-backdrop-hue-rotate:hue-rotate(-60deg-inner,
+input::-moz-focus-inner {
+  border: 0;
+  padding: 0; }
+
+/*
+ * 1. Remove default vertical scrollbar in IE 8/9.
+ * 2. Improve readability and alig)}.md\:-backdrop-hue-rotatne-

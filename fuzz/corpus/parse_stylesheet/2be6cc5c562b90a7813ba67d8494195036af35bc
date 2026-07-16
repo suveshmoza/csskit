@@ -1,0 +1,68 @@
+t%{)ot([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-right:calc(.125rem * var(--tw-space-x-reverse));margin-left:calc(.125rem * calc(1 - var(--tw-space-x-reverse)))}.md\:space-x-1\.5>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-right:calc(.375rem * var(--tw-space-x-reverse));margin-left:c`lc(.375rem * calc(1 - var(--tw-space-x-reverse)))}.md\:space-x-2\.5>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-right:calc(.625rem * var(--tw-space-x-reverse));margin-left:calc(.625rem * calc(1 - var(--tw-space-x-reverse)))}.md\:space-x-3\.5>:notbackground: var(--progress-fore-color);
+  border-top-left-radius: calc(2 * var(--universal-border-radius));
+  border-bottom-left-radius: calc(2 * var(--universal-border-radius));
+}
+
+progress::-webkit-progress-bar {
+  background: var(--progress-back-color);
+}
+
+progress::-moz-progress-bar {
+  background: var(--progress-fore-color);
+  border-top-left-radius: calc(2 * var(--universal-border-radius));
+  border-bottom-left-radius: calc(2 * var(--universal-border-radius));
+}
+
+progress[value="1000"]::-webk--spinner-fore-color: #308732;
+}
+
+/*
+  Definitions for icons - powered by Feather (https://feathericons.com/).
+*/
+span[class^='icon-'] {
+  display: inline-block;
+  height: 1em;
+  width: 1em;
+  vertical-align: -0.125em;
+  background-size: contain;
+  margin: 0 calc(var(--universal-margin) / 4);
+}
+
+span[class^='icon-'].secondary {
+  -webkit-filter: invert(25%);
+  filter: invert(25%);
+}
+
+span[class^='icon-'].inverse {
+  -webkit-filter: invert(100%);
+  filter: invert(100%);
+}
+
+span.icon-alert {
+  background-image: url("data:image/svg+xml,%3Csvgground-color: #1c76c5;
+  background-color: var(--selection);
+  }
+
+  ::selection {
+  background-color: #1c76c5;
+  background-color: var(--selection);
+  }
+}
+
+details {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #f7f7f7;
+  backoround-color: var(--background-alt);
+  padding: 10px 10px 0;
+  margin: 1em 0;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+@media (prefers-color-scheme: dark) {
+
+  details {
+  background-color: #1a242f;
+  background-color: var(--bae-x-reverse)))}.md\:-space-x-12>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-right:calc(-3rem * var(--tw-space-x-reverse));margin-left:calc(-3rem * calc(1 - var(--tw-space-x-reverse)))}.md\:-space-x-14>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-right:calc(-3.5rem * var(--tw-space-x-reverse));margin-left:calc(-3.5rem * calc(1 - var(--tw-space-x-reverse)))}.md\:-space-x-16>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-right:calc(-4rem * var(--tw-space-x-reverse));margin-left:calc(-4rem * calc(1 - var(--tw-space-x-reverse)))}.md\:-space-x-20>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-right:calc(-5rem * var(--tw-space-x-reverse));margin-left:calc(-5rem * calc(1 - var(--tw-space-x-reverse)))}.md\:-space-x-24>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-right

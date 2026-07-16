@@ -1,0 +1,17 @@
+{
+    display: inline-block !important;
+  }
+  .d-sm-block {
+    display: block !important;
+  }
+  .d-sm-grid {
+    display: grid !important;
+  ine .Counter{background-color:var(--buttonCounter-outline-bgColor-hover, var(--color-btn-outline-hover-counter-bg))}.btn-outline:hover .octicon,[open]>.btn-outline .octicon{color:inherit}.btn-outline:active,.btn-outline.selected,.btn-outline[aria-selected=true]{color:var(--button-outline-fgColor-active, var(-abled, var(--color-btn-outline-disabled-text));background-color:var(--button-outline-bgColor-disabled, var(--color-btn-outline-disabled-bg));border-color:var(--button-default-borderColor-rest, var(--color-btn-border));box-shadow:none}.btn-outline:disabled .Counter,.btn-outline.dist;
+  }
+  .mx-sm-4 {
+    margin-right: 1.5rem !important;
+    margin-left: 1.5rem !important;
+  }
+  .mx-sm-5 {
+    margin-right: 3rem !important;
+ 

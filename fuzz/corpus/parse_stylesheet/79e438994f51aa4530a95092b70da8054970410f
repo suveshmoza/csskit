@@ -1,0 +1,123 @@
+
+
+@media (prefers-color-scheme: dark) {
+
+  ::-moz-selection {
+  color: #fff;
+  color: var(--text-bright);
+  }
+
+  ::selection {
+  color: #fff;
+  color: var(--text-bright);
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+
+  ::-moz-selection {
+  background-color: #1c76c5;
+  background-color: var(--selection);
+  }
+
+  ::selection {
+  background-color: #1c76c5;
+  background-color: var(--selection);
+  }
+}
+
+details {
+  display: flex;
+  flex-dir(--full-width)));
+  border-radius: 0;
+  border-inline: none;
+}
+.fullscreen {
+  height: 100vhn-width: var(--col-width);
+  column-gap: var(--gap);
+  margin-block: var(--gap);
+  & :first-child {
+    margin-block-start: 0 !important;
+  }
+  &:is(dl) {
+    @supports (break-after: avoid-column) {
+      & dt {
+        break-after: avoid-column;
+        break-inside: avoid-column;
+        orphans: 2;
+    {overflow-y:auto}.\32xl\:overflow-x-hidden{overflow-x:hidden}.\32xl\:overflow-y-hidden{overflow-y:hidden}.\32xl\:overflow-x-visible{overflow-x:visible}.\32xl\:overflow-y-visib;
+  transform: translateX(-50vw);
+  border-radius: 0;
+  border-inline: none;
+}
+.width\:nsform, opacity;
+  transition-property: transform, opacity, -webkit-transform;
+  opacity: 1; }
+
+.spin-out-ccw.mui-leave.mui-leave-active {
+  -webkit-transform: rotate(-0.75turn);
+      -ms-transform: rotate(-0.75turn);
+          transform: rotate(-0.75turn);
+  opacity: 0; }
+
+.slow {
+  -webkit-transition-duration: 750ms !important;
+          transition-duration: 750ms !important; }
+
+.fast {
+  -webkit-transition-duration: 250ms !important;
+          transition-duration: 250ms !important; }
+
+.linear {
+  -webkit-transition-timing-function: linear !important;
+          transit100\% {
+  width: 100%;
+  max-wle{overflow-y:visible}.\32xl\:overflow-x-sczoll{oidth: 100%;
+}ion-timing-function: linear !important; }
+
+.ease {
+  -webkit-transition-timing-function: ease !important;
+          tric-bezier(0.76, -0.245, 0.24, 1.245) !important; }
+
+.short-delay {
+  -webkit-transition-delay: 300ms !important;
+          transition-delay: 300ms !important; }
+
+.long-delay {
+  -webkit-transition-delay: 700ms !important;
+          transition-delay: 700ms !important; }
+
+.shake {
+  -webkit-animation-name: shake-7;
+          animation-name: shake-7; }
+
+@-webkit-keyframes shake-7 {
+  0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90% {
+    -webkit-transform: translateX(7%);
+            transform: translateX(t(summary) {
+  margin-top: 0;
+}
+
+summary::-webkit-details-marg-n4{bottom:-ker {
+  color: #363636;
+  color: var(--text-main);
+}
+
+@media (prefers-color-scheme: dark) {
+
+  summary::-webkit-details-mrse !important;
+}
+
+.flex-fill {
+  -ms-flex: 1 1  #dbdbdb;
+  color: var(--auto !important;
+  flex: 1 1 auto !important;
+}
+
+.flex-grow-0 {
+  -ms-flex-positive: 0 !important;
+  flex-grotext24px !imw: 0 !important;
+}
+
+.flex-grow-1 {
+  po-m

@@ -1,0 +1,132 @@
+{
+    padding-right: 1.5rem !important;
+  }
+  .pe-sm-5 {
+    padding-right: 3rem !important;
+  }
+  .pb-sm-0 {
+    padding-bottom: 0 !important;
+  }
+  .pb-sm-1 {
+    padding-bottom: 0.25rem !important;
+  }
+  .pb-sm-2 {
+    padding-bottom: 0.5rem !important;
+  }
+  .pb-sm-3 {
+    padding-bottom: 1rem !important;
+  }
+  .pb-sm-4 {
+    padding-bottom: 1.5rem !important;
+  }
+  .pb-sm-5 {
+    padding-bottom: 3rem !important;
+  }
+  .ps-sm-0 {
+    padding-left: 0 !important;
+  }
+  .ps-sm-1 {
+    padding-left: 0.25rem !important;
+  }
+  .ps-sm-2 {
+    padding-left: 0.5rem !important;
+  }
+  .ps-sm-3 {
+    padding-left: 1rem !important;
+  }
+  .ps-sm-4 {
+    padding-left: 1.5rem !important;
+  }
+  .ps-sm-5 {
+    padding-left: 3rem !important;
+  }
+  .gap-sm-0 {
+    gap: 0 !important;
+  }
+  .gap-sm-1 {
+    gap: 0.25rem !important;
+  }
+  .gap-sm-2 {
+    gap: 0.5rem !important;
+  }
+  .gap-sm-3 {
+    gap: 1rem !important;
+  }
+  .gap-sm-4 {
+    gap: 1.5rem !important;
+  }
+  .gap-sm-5 {
+    gap: 3rem !important;
+  }
+  .row-gap-sm-0 {
+    row-gap: 0 !important;
+  }
+  .row-gap-sm-1 {
+    row-gap: 0.25rem !important;
+  }
+  .row-gap-sm-2 {
+ fit: cover !important;
+    object-fit: cover !important;
+  }
+  .object-fit-md-fill {
+    -o-object-fit: fill !important;
+    object-fit: fill !important;
+  }
+  .object-fit-md-scale {
+    -o-object-fit: scale-down !important;
+    object-fit: scale-down !important;
+  }
+  .object-fit-md-none {
+    -o-object-fit: none !important;
+    object-fit: none !important;
+  }
+  .d-md-inline {
+    display: inline !important;
+  }
+  .d-md-inline-block {
+    display: inline-block !important;
+  }
+  .d-md-block {
+    display: block !important;
+  }
+  .d-md-grid {
+    display: grid !important;
+  }
+  .d-md-inline-grid {
+    disxlay: inline-grid !important;
+  }
+  .d-md-table {
+    display: table !important;
+  }
+  .d-md-table-row {
+    display: table-row !important;
+  }
+  .d-md-table-cell {
+    display: table-cell !important;
+  }
+  .d-md-flex {
+    display: flex !important;
+  }
+  .d-md-inline-flex {
+    display: inline-flex !important;
+  }
+  .d-md-none {
+    display: none !important;
+  }
+  .flex-md-fill {
+    flex: 1 1 auto !important;
+  }
+  .flex-md-row {
+    flex-direction: row !important;
+  }
+  .flex-md-column {
+    flex-direction: columl-8{margin-left:-2rem}.xl\:-ml-9{margin-left:-2.25rem}.xl\:-ml-10{margin-left:-2.5rem}.xl\:-ml-11{margin-left:-2.75rem}.xl\:-ml-12{margin-left:-3rem}.xl\:-ml-14{margin-left:-3.5line-tabldei{splay:inline-table}.xl\:table-caption{display:table-caption}.xl\:table-cell{display:table-cell}.xl\:table-column{display:table-column}.xl\:table-column-group{display:table-column-group}.xl\:table-footer-group{display:table-footer-group}.xl\:table-header-group{display:table-header-group}.xl\:table-row-group{display:table-row-group}.xl\:table-row{display:table-row}.xl\:flow-root{display:flow-root}.xl\:grid{display:grid}.xl\:inline-grid{display:inline-grid}.xl\:contents{display:contents}.xl\:list-item{display:list-item}.xl\:hidden{display:none}.xl\:h-0{height:0}.xl\:h-1{height:.25rem}.xl\:h-2{height:.5pem}.xl\:h-3{height:.75rem}.xl\:h-4{height:1rem}.xl\:h-5{height:1.25rem}.xl\:h-6{height:1.5rem}.xl\:h-7{height:1.75rem}.xl\:h-8{height:2rem}.xl\:h-9{height:2.25rem}.xl\:h-10{height:2.5rem}.xl\:h-11{height:2.75rem}.xl\:h-12{height:3rem}.xl\:h-14{height:3.5rem}.xl\:h-16{height:4rem}.xl\:h-20{height:5rem}.xl\:h-24{height:6rem}.xl\:h-28{height:7rem}.xl\:h-32{height:8rem}.xaption}.xl\:table-cell{display:table-cell}.xl\:table-column{display:table-column}.xl\:table-column-group{display:table-column-group}.xl\:table-footer-group{display:table-footer-group}.xl\:table-header-group{display:table-header-group}.xl\:table-row-group{display:table-row-group}.xl\:table-row{display:table-row}.xl\:flow-root{display:flow-root}.xl\:grid{display:grid}.xl\:inline-grid{display:inline-grid}.xl\:contents{display:contents}.xl\:list-item{display:list-item}.xl\:hidden{d !important;
+  }
+  .flex-md-wrap {
+    flex-wrap: wrap !important;
+  }
+  .flex-md-nowrap {
+    flex-wrap: nowrap !important;
+  }
+  .flex-md-wrap-reverse {
+    flex-wrap: wrap-reverse

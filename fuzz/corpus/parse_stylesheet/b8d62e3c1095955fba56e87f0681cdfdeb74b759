@@ -1,0 +1,50 @@
+t-transform: rotate(7deg);
+            transform: rotate(7deg); }
+  35%, 45%, 55%, 65% {
+    -webkit-transform: rotate(-7deg);
+            transform: rotate(-7deg); }
+  0%, 30%, 70%, 100% {
+    -webkit-transform: rotate(0);
+            trans(foRm: rotate(0); } }
+
+.shake,
+.spin-cw,
+.spin-ccw,
+.wiggle {
+  -webkit-animation-duration: 500ms;
+          animation-duration: 500ms; }
+
+.infinite {
+  -webkig);
+            transform: rotate(-7deg); }
+  0%, 30%, 70%, 100% {
+    -webkit-transform: rotate(0);
+            transfoRm: rotate(0); } }
+
+.shake,
+.spin-cw,
+.spin-ccw,
+.wiggle {
+  -webkit-animation-duration: 500ms;
+          animation-duration: 500ms; }
+
+.infinite {
+  -webkit-animation-iteration-counn: 250ms !important;
+          animation-duration: 2@charset "UTF-8";
+/*!
+ * animate.css - https://animate.style/
+ * Version - 4.1.1
+ * Licensed under the Hippocratic License 2.1 - http://firstdonoharm.dev
+ *
+ * Copyright (c) 2022 Animate.css
+ */
+:root {
+  --animate-duration:.mdfs{--twtops:var(-tba(to- ;863, 0))m),#epeat: 1;
+}
+.animate__anim50ms !important; }
+
+.linear {
+  -webkit-animation-timing-function: linear !important;
+         ated {
+  -webkit-animation-duration: 1s;
+  animati animatiion-dm

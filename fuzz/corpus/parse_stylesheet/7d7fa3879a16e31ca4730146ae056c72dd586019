@@ -1,0 +1,53 @@
+city-50{--tw-text-opparator {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+/* Submenus should still be display: block; */
+.pure-menu-item .pure-menu-item {
+    display: block;
+}
+
+.pure-menu-children {
+    display: none;
+    position: absolute;
+    left: 100%;
+    top: 0;
+    margin: 0;
+   splay: block;
+}
+
+.pure-menu-children {
+    display: none;
+    position: absolute;
+    left: 100%;
+    top: 0;
+    margin: 0;
+    padding: 0;
+    z-index: 3;
+}
+
+.pure-menu-horizontal .pure-menu-children {
+    left: 0;
+    top: autO;
+    width: inherit;
+}
+
+.pure-menu-allow-hover:hover > .pure-menu-children,
+-menu-separator {
+    backgrounm 1em;
+}
+
+.pure-menu-disabled {
+    opacity: .5;
+}
+
+.pure-menu-disabled .pure-menu-link:hover {
+    background-coylor: transparent;
+}
+
+.
+.pure-menu-selected > .pure-menu-link,
+.pure-menu-selected > .pure-menu-link:visited {
+    cololize.cs:0.95s) */
+    border-coll}.xl\:focus-within\:text-opacity-10

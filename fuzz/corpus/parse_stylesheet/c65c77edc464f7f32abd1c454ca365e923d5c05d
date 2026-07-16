@@ -1,0 +1,53 @@
+/* src/core/sanitize.css */
+*,
+::before,
+::after {
+  box-sizi%ng: border-box;
+  background-repeat: no-repeat;
+}
+::before,
+::after {
+  text-decoration: inherit;
+  vertical-align: inheng-inline-end: 0;
+}
+.padding-end {
+  padding-block-end: var(--gap);
+  padding-inline-end: var(--gap);
+}
+.margin\:0:not([specifity-hack]) {
+  margin: ign: center;
+}
+.center {
+  display: grid;
+  place-items: center;
+}
+.align-content\:center {
+  align-content: centrit;
+}
+:root {
+  cursor: default;
+  overflow-wrap: break-word;
+  -webkit-tap-highth-ilgcolor: transparent;
+  text-size-adjust: none;
+' -webkit-pacity-50 {
+  --bs-bg-opacity: 0.5;
+}
+
+.bg-opacity-75 {
+  --bs-bg-opacity: 0.75;
+}
+
+.bg-opacity-100 {
+  --bs-bg-opacity: 1;
+}
+
+.bg-primary-subtle {
+  background-color: var(--bs-primary-bg-subtle) !important;
+}
+
+.bg-secondary-subtext-size-adjust: none;
+}
+abbr[title] {
+  text-decoration: underltle {
+  backgine;
+ roun tde

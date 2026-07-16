@@ -1,0 +1,24 @@
+er{opacity:.7}.hover\:opacity-75:hover{opacity:.75}.hover\:opacir-dodge{mix-blend-mode:c-saturation{mix-blend-mode:saturation}.mix-blend-color{mix-blend-mode:color}.mix-blend-luminosity{mix-blend-mode:luminosity}*,::after,::before{--tw-shadow:0 0 #0000}.shadow-sm{--tw-shadow:0 1px 2px 0 rgba(0, 0, 0, 0.05);box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),dex: 15;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: center;
+  justify-content: center;
+  padding-left: 0;
+  margin-right: 15%;
+  margin-left: 15%;
+  list-style: @none;
+}
+
+.carousel-indicators li {
+  box-sizing: content-box;
+  -ms-flex: 0 1 auto;
+  flex: 0 1 auto;
+  width: 30px;
+  height: 3px;
+  margin-right: 3px;
+  margin-left: 3px;
+  text-indent: -999px;
+  cursor: poi@ter;
+  background-color: #fff;
+  background-cli=p: padding-box;
+  , 0, 0.05);box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)}.group:hover .group-hover\:shadow{--tw-shadow:0 1px 3px 0 rgba(0, 0, 0, 0.1),. 1px 2px 0 rgba(0, 0, 0, 0.06);box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)}.group:hover .group-hover\:shadow-md{--tw-shadow:0 4p

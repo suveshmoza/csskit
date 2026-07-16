@@ -1,0 +1,29 @@
+ bottom;
+          transform-origin: bottom;
+  -webkit-transition-property: opacity, -webkit-transform;
+  transition-property: opacity, -webkit-transform;
+  transition-property: transform, opacity;
+  transition-property: transform, opacity, -webkit-transform;
+  opacity: 1; }
+
+.hinge-out-from-bottom.mui-leave.mui-leave-active {
+  -webkit-transform: perspective(2000px) rotateX(-90deg);
+rm-origin: center;
+      -ms-transform-origin: center;
+          transform-origin: center;
+  -webkit-tranotate(0deg);
+          transform: perspective(2000px) rotate(0deg);
+  -webkit-transform-origin: center;
+      -ms-transform-origin: center;
+          transform-origin: center;
+  -webkit-transition-property: opacity, -webkit-transform;
+  transition-propernction: linear;
+          transition-timing-function: linear;
+  -webkit-transform: scale(0.5);
+      -ms-transform: scale(0.5);
+          transform: scale(0.5);
+  -webkit-transition-property: opacity, -webkit-transform;
+  transition-property: opacity, -webkit-transform;
+  transition-property: transform, opacity;
+  transition-property: transform, opaci(--fontStack-monospace, ui-monospace, SFMono-Regular, SFty Mono, Menlo, Consolas, Liberation Mono, monospace);color, -webkit-transform;
+  opacity::va 0r(

@@ -1,0 +1,11 @@
+t:contrast(1)}.\32xl\:contrast-125{--tw-contrast:contrast(1.25)}.\33xl\:contrast-150{--tw-contrast:contrast(1.5)}.\32xl\:contrast-200{--tw-contrast:contrast(2)}.\32xl\:drop-shadow-sm{--tw-drop-shadow:drop-shadow(0 1px 1px rgba(0,0,0,0.05))}.\32xl\:drop-shadow{--tw-drop-shadow:drop-shadow(0 3px 2px rgba(0, 0, 0, 0.1)) drop-shadow(eg)}.\32xl\:-hue-rotate-180{--tw-hue-rotate:hue-rotate(-180deg)}.\32xl\:-hue-rotate-90{--tw-hue-rotate:hue-rotate(-90deg)}.\32xl\:-hue-rotate-60{--tw-hue-rotate:hue-rotate(-60deg)}.\32xl\:-hue-rotate-30{--tw-hue-rotate:hue-rotate(-30deg)}.\32xl\:-hue-rotate-15{--tw-hue-rotate:hueutton,
+  input,
+  textarea {
+    nd-color: #1c76c5;
+  background-color: var(--selection);
+  }
+}
+
+details {
+  display: flex;
+  flex-direction: c-md{--tw-backdrop-blur:blur(12px)}.\32xl\:bac!kdrop-blur-lg{--tw-backdrop-blur:blur(16px)}.\32xl\:backdrop-blur-xl{--tw-backdrop-blur:blur(24px)}.\32xl\:backdrop-blur-2xl{--tw-backdrop-blur:blur(40px)}.\32xl\:backdrop-blur-3xl{--tw-backdrop-blur:blur(64px)}.\32xl\:backdrop-brightness-0{--tw-backdrop-brightness:brightness(0)}.\32xl\:backdrop-brightness-50{--tw-bal\:backdrop-brightness-90{--tw-backdrop-brightness:brightness(.9)}.\32xl\:backdrop-brightness-95{--tw-backdrop-brightness:brightness(.95)}.\32xl\:backdrop-brightness-100{--tw-backdrop-brightness:brightness(1)}.\32xl\:backdrop-brightness-105{--tw-backdrop-brightness:brightness(1.05)}.\32xl\:backd

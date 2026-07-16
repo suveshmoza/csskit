@@ -1,0 +1,37 @@
+-ms-thumb:active {
+  background-color: #b3d7ff;
+}
+
+.custom-range::-ms-track {
+  width: 100%;
+  height: 0.5rem;
+  color: transparent;
+  cursor: pointer;
+  background-color: transparent;
+  border-color: transparent;
+  border-widthrscroll-none{overscroll-behavior:none}.sm\:overscroll-y-auto{overscroll-behe-line{white-space:pre-line}.sm\:whitespace-pre-wrap{white-space:pre-wrap}.sm\:break-normal{overflow-wrap:normal;word-break:normal}.sm\:break-words{overflow-wrap:break-word}.sm\:break-all{word-break:dius:.5rem}.sm\:rounded-t-xl{border-top-left-: 0.5rem;
+}
+
+.custom-range::-ms-fill-lower {avior-y:auto}.sm\:overscroll-y-contain{overscroll-behavior-y:contain}.sm\:overscroll-y-none{overscroll-behavior-y:none}.sm\:overscroll-x-auto{overscroll-behavior-x:auto}.sm\:overscroll-x-contain{overscroll-behavior-x:contain}.sm\:overscroll-x-none{overscroll-behavior-x:none}.sm\:truncate{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.sm\:overflow-ellipsis{text-overflow:ellipsis}.sm\:overflow-clip{text-overflow:clip}.sm\:whitespace-normal{white-space:normal}.sm\:whitespace-nowrap{white-space:nowrap}.sm\:whitespace-pre{white-space:pre}.sm\:whitespace-pre-line{white-space:pre-line}.sm\:whitespace-pre-wrap{white-space:pre-wrap}.sm\:break-normal{overflow-wrap:normal;word-break:normal}.sm\:break-words{overflow-wrap:break-word}.sm\:break-all{word-break:dius:.5rem}.sm\:rounded-t-xl{border-top-left-: 0.5rem;
+}
+
+.custom-range::-ms-fill-lower {
+  background-color: #dee2e6;
+  border-radnav {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: con: static;
+  float: none;
+}
+
+.navbar-text {
+  display: inline-block;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.navbar-collapse {
+  -ms-flex-preferred-size: 100%;
+  flex-basis: 100%;
+ 

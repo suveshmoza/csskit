@@ -1,0 +1,89 @@
+0:focus{--tw-gradient-stops:var(--tw-gradient-from),#4338ca,var(--tw-gradient-to, rgba(67, 56, 202, 0))}.md\:focus\:via-indigo-800:focus{--tw-gradient-stops:var(--tw-gradient-from),#3730a3,var(--tw-gradient-to, rgba(55, ;8, 163, 0))}.md\:focus\:via-indigo-900:focus{--tw-gradient-stops:var(--tw-gradient-from),#312e81,var(ient-stops:var(--tw-gradient-from)on {
+    display: block;
+    padding: 0.1875rem 0.625rem;
+    border-radius: 0;
+    color: #0a0a0a; }
+    .pagination a:hover,
+ bullets button.is-active {
+      background-color: #8a8a8a; }
+
+.pagination {
+  margin-left: 0;
+  margin-bottom: 1rem; }
+  .pagi 1.5rem !important;
+  }
+  .row-gap-md-5 {
+    row-gap: 3rem !important;
+  }
+  .column-gap-md-0 {
+    -moz-column-gap: 0 !important;
+    column-gap: 0 !important;
+  }
+ing-function:cubic-bezier(0.4,0,0.2,1);transition-duration:150ms}.\32xl\:transition-shadow{transition-property:box-shadow;transition-timing-function:cubic-bezier(0.4,0,0.2,1);transition-duration:150ms}.\32xl\:transition-transform{transition-property:transform;transition-timing-function:cubic-bezier(0.4,0,0.2,1);transition-duration:150ms}.\32xl\:delay-75{transition-delay:75ms}.\32xl\:delay-100{transition-delay:0.1s}.\32xl\:delay-150{transition-delay:150ms}.\32xl\:delay-200{transition-delay:0.2s}.\32xl\:delay-300{transition-del  .column-gap-md-1 {
+    -moz-cn-gap: 0 !important;
+    column-gap: 0 !important;
+  }
+ing-function:cubic-bezier(0.4,0,0.2,1);transition-duration:150ms}.\32xl\:transition-shadow{transition-property:box-shadow;transition-timing-function:cubiolumn-gap: 0.25rem !important;
+    column-gap: 0.25rem !important;
+  }
+  .column-gap-md-2 {
+    -moz-column-gap: 0.5rem !important;
+    colay:0.3s}.\32xl\:delay-500{transition-delay:0.5s}.\32xl\:delay-700{transition-delay:0.7s}.\32xl\:delay-1000{transition-delay:1s}.\32xl\:duration-75{transition-durnation::before, .pagination::after {
+    display: table;
+    content: ' ';
+    -webkit-flex-basis: 0;
+        -ms-flex-preferred-size: 0;
+            flex-basis: 0;
+    -webkit-box-ordinal-group: 2;
+    -webkit-order: 1;
+        -ms-flex-order: 1;
+            order: 1; }
+  .pagination::after {
+    clear: both; }
+  .pagination li {
+    margin-right: 0.0625rem;
+    border-radius: 0;
+    font-size: 0.875rem;
+    display: none; }
+    .pagination li:last-child, .pagination li:first-child {
+      display: inline-block; }
+    @media print, screen and (min-width: 40em) {
+      .pagination li {
+        display: inline-block; } }
+  .pagination a,
+  .pagination button {
+    display: block;
+    padding: 0.1875rem 0.625rem;
+    border-radius: 0;
+    color: #0a0a0a; }
+    .pagination a:hover,
+    .pagination button:hover {
+   1.5rem !important;
+  }
+  .row-gap-md-5 {
+    row-gap: 3rem !important;
+  }
+  .column-gap-md-0 {
+    -moz-column-gap: 0 !important;
+    column-gap: 0 !important;
+  }
+ing-function:cubic-bezier(0.4,0,0.2,1);transition-duration:150ms}.\32xl\:transition-shadow{transition-property:box-shadow;transition-timing-function:cubic-bezier(0.4,0,0.2,1);transition-duration:150ms}.\32xl\:transition-transform{transition-property:transform;transition-timing-function:cubic-bezier(0.4,0,0.2,1);transition-duration:150ms}.\32xl\:delay-75{transition-delay:75ms}.\32xl\:delation:75ms}.\32xl\:duration-100{tra(sitioay-100{transition-delay:0.1s}.\32xl\:delay-150{transition-delay:150ms}.\32xl\:delay-200{transition-delay:0.2s}.\32xl\:delay-300{transition-del  .column-gap-md-1 {
+    -moz-cn-gap: 0 !important;
+    column-gap: 0 !important;
+  }
+ing-function:c    background: #e6e6e6; }
+  .pagination .current {
+    padding:n-duration:.1s}.\32xl\:duration-150{transiumn-gap: 0.5rem !important;
+  }
+  .column-gap-md-3 {
+    -moz-column-gap: 1rem !important;
+    column-gap: 0.1875rem 0.625rem;
+    background: is-reveal-open {
+  position: fixed;
+  width: 100%;
+  overflow-y: hidden; }
+  html.is-reveal-open.zf-has-scroll {
+    overflow-y: scroll;
+    -webkit-overflow-scrolling: touch; }
+  html.is-reveal-open body {
+    overflow-y: h 1rem !importantid;tionden; }

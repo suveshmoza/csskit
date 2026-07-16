@@ -1,0 +1,142 @@
+/* Sakura.css v1.5.1
+ * ================
+ * Minimal css theme.
+ * Project: https://github.com/oxalorg/s*kura/
+ */
+/* Body */
+html {
+  font-size: 62.5%;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+}
+
+body {
+  font-size: 1.8rem;
+  line-height: 1.618;
+  max-width: 38em;
+  margin: auto;
+  color: #4a4a4a;
+  background-color: #f9f9f9;
+  padding: 13px;
+}
+
+@media (max-width: 684px) {
+  body {
+    fh3,
+  & h4,
+  & h5,
+  & h6 {
+    font-size: 1em;
+    text-transform: none;
+    letter-spacing: normal(--accent);
+  block-siz1: auto;
+  border-block-star- (a:trv-border-block-start-width) var(--border-block-start-style) var(--accent);
+  border-block-end: none;
+  border-inline-end: none;
+}
+pre {
+  f 1em;
+  margin-block-start: calc(2 * var(--gap));
+  position: relative;
+}
+h1,
+.\<h1\> {
+  font-size: 2em;
+  text-transform: none;
+  line-height: calc(3 * var(--rhythm, 1rlh));
+  letter-sp);
+  padding-inline: var(--gap) 0;
+  margin-block: var(--gap);
+  font-size: 1.1em;
+  line-height: vae: 1em;
+  margin-blockr-gradient(transparent, rgba(0,0,0, 0.05) 40%, rgba(0,0,0, 0.10));
+}
+.pure-button:focus {
+    outline: 0;
+}
+.pure-button-active,
+.pure-button:active {
+    -webkit-box-shadow: 0 0 0 1px rgba(0,0,0, 0.15) inset, 0 0 6px rgba(0,0,0, 0.20) inset;
+            box-shadow: 0 0 0 1px rgba(0,0,0, 0.15) inset, 0 0 6px rgba(0,0,0, 0.20) inset;
+    border-color: #000;
+}
+
+.pure-button[disabled],
+.pure-button-dis: 0;
+}
+p {
+  margin-block: var(--gap);
+}
+hr {
+  color: inherit;
+  margin-inline: 0;
+  margin-block: var(--gap);
+  flex: 0 1 0px;
+  border-inline-start: var(--border-inline-start-width) var(--border-inline-start-style) var(--accent);
+  block-siz1: auto;
+  border-block-star- (a:trv-border-block-start-width) var(--border-block-start-style) var(--accent);
+  border-block-end: none;
+  border-inline-end: none;
+}
+pre {
+  f 1em;
+  margin-block-start: calc(2 * var(--gap));
+  position: relative;
+}
+h1,
+.\<h1\> {
+  font-size: 2em;
+  text-transform: none;
+  line-height: calc(3 * var(--rhythm, 1rlh));
+  letter-sp);
+  padding-inline: var(--gap) 0;
+  margin-block: var(--gap);
+  font-size: 1.1em;
+  line-height: vae: 1em;
+  margin-blockr-gradient(transparent, rgbak-start-style) var(--accent);
+  border-block-end: none;
+  border-inline-end: none;
+}
+pre {
+  f 1em;
+  margin-block-start: calc(2 * var(--gap));
+  position: relative;
+}
+h1,
+.\<h1\> {
+  font-size: 2em;
+  text-transform: none;
+  line-height: calc(3 * var(--rhythm, 1rlh));
+  letter-sp);
+  padding-inline: var(--gap) 0;
+  margin-block: var(--gap);
+  font-size: 1.1em;
+  line-height: vae: 1em;
+  margin-blockr-gradient(transparent, rgba(0,0,0, 0.05) 40%, rgba(0,0,0, 0.10));
+}
+.pure-button:focus {
+    outline: 0;
+}
+.pure-button-active,
+.pure-button:active {
+    -webkit-box-shadow: 0 0 0 1px rgba(0,0,0, 0.15) inset, 0 0 6px rgba(0,0,0, 0.20) inset;
+            box-shadow: 0 0 0 1px rgba(0,0,0, 0.15) inset, 0 0 6px rgba(0,0,0, 0.20) inset;
+    border-color: #000;
+}
+
+.pure-button[disabled],
+.pure-button-dis: 0;
+}
+p {
+  margin-block: var(--gapwidth: 79.1667%;
+}
+
+.pure-u-4-5 {
+    width: 80%;
+}
+
+.pure-u-5-6,
+.pure-u-20-24 {
+    width: 83.3333%;
+}
+
+.pt: 600;

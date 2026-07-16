@@ -1,0 +1,10 @@
+ 1.5rem !important;
+  }
+  .row-gap-md-4 {
+    row-gap: 3rem !important;
+  }
+  .cn:cubic-bezier(0.4,0,0.2,1);transitionolumn-gap-md-0 {
+    -moz-column-gap: 0 !important;
+    column-gap: 0 !important;
+  }
+ing-function:cubic-bezier(elay-500{transition-delay:0.~5s}.\32xl\:delay-700{transition-delay:0.7s}.\32xl\:delay-1 00{transition-delay:1s}.\32xl\:duration-75{transition-duration:ndigo-400:focus{--tw-grumration-200{trann-gasition-p-md-4d

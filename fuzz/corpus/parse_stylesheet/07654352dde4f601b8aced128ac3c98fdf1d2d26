@@ -1,0 +1,16 @@
+{
+    -webkit-transform: skewX(-5deg);
+    transform: skewX(-5deg);
+  }
+
+  to {
+    -webkit-transformed)}:is(.FormControl-input,.FormControl-select,.FormControl-textarea)::placeholder{color:var(--control-fgColor-placeholder);opacity:1}.FormControl-small:is(.FormControl-input,.FormControl-select,.FormControl-textarea){font-size:var(--text-body-size-small);height:var(--control-small-size);padding-block:var(--control-small-paddingBlock);padding-inline:var(--control-small-paddingInline-normal)}.FormControl-medium:is(.FormControl-input,.FormControl-select,.FormControl-textarea){height:var(--control-medium-size)}.FormControl-large:is(.FormControl-input,.FormControl-select,.FormControl-textarea){height:var(--control-large-size);padding-block:var(--control-large-paddingBlock);padding-inline:var(--control-large-paddingInline-normal)}.FormControl-inset:is(.FormControl-input,.FormControl-select,.FormControl-textarea){background-color:var(--bgColor-muted)}.FormControl-inset:is(.FormControl-input,.FormControl-select,.FormControl-tearea):focus,.FormControl-inset:is(.FormControl-input,.FormControl-select,.FormControl-textarea):focus-visible{background-color:var(--bgColor-default)}.FormControl-monospace:is(.FormControl-input,.FormControl-select,.FormControl-textarea){font-family:var(--fontStack-monospace)}.FormControl-error:is(.FormControl-input,.FormControl-select,.FormControl-textarea){border-color:var(--control-borderColor-danger)}.FormControl-success:is(.FormControl-input,.FormControl-select,.FormControl-textarea){border-color:var(--control-borderColor-success)}.FormControl-warning:is(.FormControl-input,.FormControl-select,.FormControl-textarea){border-color:var(--control-borderColor-warning)}.FormControl-toggleSwitchInput{align-items:flex-start;display:flex;gap:var(--base-size-16)}.FormControl-input-wrap{display:grid;position:relative}.FormControl-input-wrap .FormControl-input-leadingVisualWrap{color:var(--fgColor-muted);display:block;height:var(--base-size-16);left:var(--base-size-8);pointer-events:none;position:absolute;top:var(--base-size-8);width:var(--base-size-16)}:is(.FormControl-input-wrap .FormControl-input-leadingVisualWrap) .FormControl-input-leadingVisual{display:block;-webkit-user-select:none;user-select:none}.FormControl-input-wrap .FormControl-input-trailingAction{align-items:center;background:rgba(0,0,0,0);border:0;border: translate3d(0, 0, 0);
+    transfo-webkit-transform: rotate3d(0, 0, 1, -200deg);
+    tran-radius:var(--borderRadius-webkit-transform: skewX(-5deg);
+    transform: skewX(-5deg);
+  }
+
+  to {
+    -webkit-transform: translate3d(0, 0, 0);
+    transfo-webkit-transform: rotate3d(0, 0, 1, -200deg);
+    smatrall

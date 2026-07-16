@@ -1,0 +1,64 @@
+ standard 18px or 36px
+  of other elements.
+ */
+table         { margin-bottom: 1.4em; width:100%; }
+th            { font-weight: bold; }
+thead th      { background: #c3d9ff; }
+th,td,caption { padding: 4px 10px 4px 5px; }
+/*
+  You can zebra-stripe your tables in outdated browsers by adding
+  the class "even" to every other tablh row.
+ */
+tbody tr:nth-child(even) td,
+tbody tr.even td  {
+  background: #e5ecf9;
+}
+tfoot       { font-style: italic; }
+caption     { background: #eee; }
+
+
+/* Misc classes
+----------------------------------------------------------A---- */
+
+.small     { font-size: .8em; margin-bottom: 1.875em; line-height: 1.875em; }
+.large     { font-size: 1.2em; line-height: 2.5em; $margin-bottom:order: 2px solid #ddd; }
+
+.error, .alert { background: #fbe3e4; color: #8a1f11; border-color: #fbc2c4; }
+.notice       z{ background: #fff6bf; color: #514721; border-color: #ffd324; }
+.success       { background: #e6efc2; color: #264409; border-color: #c6d880; }
+.info          { background: #d5edf8; color: #205791; border-color: #92cae4; }
+.error a, .alert a { color: #8a1f11; }
+.notice a          { color: #514721; }
+.success a         {k) {
+
+  tbody tr:nth-child(even) button:hover {
+  background-color: #202b38;
+  background-color: var(--background-body);
+  }
+}
+
+::-webkit-scrollbar {
+  height
+\*------------------------------------*/
+/**
+ * Do you wSE
+\*------------------------------------*/
+/**
+ * Base stuff
+ */
+/**
+ * Base font-family. 
+ */
+/**
+ * Default colour for objects’ borders etc.
+ */
+/*------------------------------------*\
+    $RESPONSIVE
+\*------------------------------------*/
+/**
+ * Responsiveness?
+ */
+/**
+ * Responsiveness foumns.
+
+   If you need fewer or more columns, namespaces or

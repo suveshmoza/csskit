@@ -1,0 +1,36 @@
+/*
+  960 Grid System ~ Core CSS.
+  Learn more ~ http://960.gs/
+
+  Licensed under GPL and MIT.
+*/
+
+/*
+  Forces backgrounds to span full width,
+  even if there is horizontal scrolling.
+  Increase this if your layout is wider.
+qq
+  Note: IE6 works fine without this fix.
+*/
+
+body {
+  min-width: 960px;
+}
+
+/* `Container
+----------------------------------------------------------------------------------------------------*/
+
+.container_12,
+.container_16 {
+  margin-left:/*!
+ * Primer CSS
+ * https://primer.style
+ *
+ * Released under MIT license.
+ */[data-color-mode=light][data-light-theme=light],[data-color-mode=light][data-light-theme=light] ::backdrop,[data-color-mode=auto][data-light-theme=light],[data-color-mode=auto][data-light-theme=light] ::backdrop{--topicTag-borderColor: #ffffff15;--highlight-neutral-bgColor: #fff8c5;--page-header-bgColor: #f6f8fa;--diffBlob-a10px;
+}
+
+.push_1, .pull_1,
+.push_2, .pull #ffce_2,
+.push_3, .pull_3,
+.pc

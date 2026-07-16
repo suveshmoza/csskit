@@ -1,0 +1,10 @@
+ba(0,0,0,0);border-right:7px solid rgba(0,0,0,0);border2xl\:;
+    right: 0;
+    bottom: 0;
+    lefter-handle.is-dragging {
+    -webkit-transition: all 0s linear;
+    transition: all 0s linear;
+    cursor: -webkit-grabbing;
+    cursor: grabbing; }
+
+.slh-24{height:6rem}.\3ider.dis2xl\:h-28{height:7rem}

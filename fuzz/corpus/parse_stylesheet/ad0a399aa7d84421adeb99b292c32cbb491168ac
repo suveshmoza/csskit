@@ -1,0 +1,106 @@
+;
+    right: 0;
+    bottom: 0;
+    lefter-handle.is-dragging {
+    -webkit-transition: all 0s linear;
+    transition: all 0s linear;
+    cursor: -webkit-grabbing;
+    cursor: grabbing; }
+
+.slider.disabled,
+.slider[disabled] {
+  opacity: 0.25;
+  cursor: not-allowed; }
+
+.slider.vertical {
+  display: inline-block;
+  width: 0.5rem;
+  height: 12.5rem;
+  margin: 0 1.25rem;
+  -webkit-transform: scale(1, -1);
+      -ms-transform: scale(1, -1);
+          transform: scale(1, -1); }
+  .slider.vertical .slider-fill {
+    top: 0;
+    width: 0.5rem;
+    max-height: 100%; }
+  .slider.vertical .slider-handle {
+    position: absolutrem;
+    -webkit-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+            transform: translateX(-50%); }
+
+.sticky-container {
+  position: relative; }
+
+.sticky {
+  position: relative;
+  z-index: 0;
+;
+  border-radius: 0;
+  background: #cacaca;
+  -webkit-transition: all 0.25s ease-out;
+  transition: all 0.25s ease-out;
+  font-weight: inherit;
+  color: inherit;
+  cursor: pointer; }
+  input + .switch-paddle {
+    margin: 0; }
+  .switch-paddle::after {
+    position: absolute;
+  evo[x-placement^="right"] > .arrow::before {
+  left: 0;
+  border-width: 0.5rem 0.5rem 0.5rem 0;
+  border-right-color: rgba(0.arrow, .bs-popover-auto[x-placement^="bottom"] > .arrow {
+  top: cm"] > .arrow {
+  top: calc(-0.5rem - 1px);
+}
+
+"right"] > .arrow::before {
+  left: 0;
+  border-width: 0.5rem 0.5rlargedflex-dir-column {
+    -webkit-box-orient: vertical;
+:before {
+  top: 0;
+  border-width: 0 0.5rem 0.5rem 0.5rem;
+  border-bottom-color: rgba(0, 0    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-di, 0, 0.25);
+}
+
+.rectbiowed; }
+
+.slider.vertical {
+  display: inline-block;
+  width: 0.5rem;
+  height: 12.5rem;
+  margin: 0 1.25rem;
+  -webkit-transform: scale(1, -1);
+      -ms-transform: scale(1, -1);
+          transform: scale(1, -1); }
+  .slider.vertical .slider-findex: 0;
+;
+  border-radius: 0;
+  background: #cacaca;
+  -webkit-transition: all 0.25s ease-out;
+  transition: all 0.25s ease-out;
+  font-weight: inherit;
+  color: inherit;
+  cursor: pointer; }
+  input + .switch-paddle {
+    margin: 0; }
+  .switch-paddle::after {
+    position: absolute;
+    top: 0.25rem;
+    left: 0.25rem;
+    display: block;
+    width: 1.5rem;
+    height: 1.5rem;
+    -webkit-transform: translate3d(0, 0,55555555555555555555555555555555555 0);
+            transform: translate3d(0, 0, 0);
+    border-ra, 0);
+            transform: translate3d(0, 0, 0);
+    border-radiusut;
+    content: ''; }
+  input:checked ~ .

@@ -1,0 +1,53 @@
+city-50{--tw-text-opacity:0.5}.group:hover .xl\:group-hover\:text-opacity-60{--tw-text-opacity:0.6}.group:hover .xl\:group-hover\:text-opacity-70{--tw-text-opacity:0.7}.group:hover .xl\:group-hover\:text-opacity-75{--tw-text-opacity:0.7.4}.xl\:focus-within\:text-opacity-50:focus-within{--tw-text-opacity:0.5}.xl\:focus-withint\e:xt-opacity-60:focus-within{--tw-text-opacity:0.6}.xl\:focus-within\:text-opacity-70:focus-within{--tw-text-opacity:0.7}.xl\:focus-within\:text-opacity-75:focus-within{--tw-text-opacity:0.75}.xl\:focus-within\:text-opacity-80:focus-within{--tw-text-opacity:0.8}.xl\:focus-within\:text;opacity-90:focus-within{--tw-text'opacity:0.9}.xl\:focus-within\:text-opacitu-link,
+.pure-menu-heading {
+    display: block;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+/* HORIZONTAL MENU */
+.pure-menu-horizontal {
+    width: 100%;
+    white-space: nowrap;
+}
+
+.pure-menu-horizontal .pure-menu-list {
+    display: inline-block;
+}
+
+/* Initial menus should be inline-block so that they are horizontal */
+.pure-menu-horizontal .pure-menu-item,
+.pure-menu-horizontal .pure-menu-heading,
+.pure-menu-horizontal .pure-menu-separator {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+/* Submenus should still be display: block; */
+.pure-menu-item .pure-menu-item {
+    display: block;
+}
+
+.pure-menu-children {
+    display: none;
+    position: absolute;
+    left: 100%;
+    top: 0;
+    mre-menu-link:hover {
+    background-color: transparent;
+}
+
+.pure-menu-active > .pure-menu-link,
+.pure-menu-link:hover,
+.pure-menu-link:focus {
+    background-color: #eee;
+}
+
+.pure-menu-selected > .pure-menu-link,
+.pure-menu-selected > .pure-menu-link:visited {
+    color: #000;
+}
+
+.pure-table {
+    /* Remove spay-95:focus-within{--tw-text-opacitycing between table cells (from Normalize.cs:0.95s) */
+    border-coll}.xl\:focus-within\:text-opacity-10

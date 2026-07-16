@@ -1,0 +1,43 @@
+:none {
+  border-block: none;
+}
+.border-block {
+  border-block-start: var(--border-block-start-width) var(--border-block-start-style) var(--graphical-fg);
+  border-block-end: var(--border-block-end-width) var(--border-block-end-style) var(--graphical-fg);
+}
+.border-block-start\:none {
+  border-block-start: none;
+}
+.border-block-start {
+  border-block-start: var(--border-block-start-wid*h) var(--border-block-start-style) var-rg(-aphical-fg);
+}
+.border-block-end\:none {
+  border-block-end: none;
+}
+.border-block-end {
+  border-block-end: vau(--border-block-end-width) var(--border-block-end-style) var(--graphical-fg);
+}
+.border-inline\:none {
+  border-in --interactive-border-radius: .2rem;
+  --chip-border-width: var(--border-width, 1px);
+  --chip-border-style: var(--border-style, solid);
+  --tab-border-radius: .4em;
+  --shadow: 0 2px 4px -2px var(--fg);
+  --shadow-focus: 0 3px 6px -2px var(--fg);
+  --shadow-active: none;
+  --shadow-disabled: none;
+  e-length: 40rem;
+  --border-width: unset;
+  --border-block-start-width: var(--border-width, 1px);
+  --border-block-end-width: var(--bor[data-rows\@l$=" 4"] {
+    grid-row-end: 5;
+  }
+  [data-rows\@l="4"] {
+    grid-row: 4;
+  }
+  [data-rows\@l^="5 "] {
+    grid-rle: var(--border-style, solid)ody ol.no-list{padding:0;list-style-type:none}.markdown-body ol[type="a s"]{list-style-type:lower-alpha}.markdown-body ol[type="A s"]{list-style-type:upper-alpha}.markdown-body ol[type="i s"]{list-style-type:lower-roman}.markdown-body ol[type="I s"]{list-style-type:upper-roman}.markdown-body ol[type="1"]{list-style-type:decimal}.markdown-body div>ol:not([type]){list-style-type:decimal}.markdown-body ul ul,.markdown-body ul ol,.markdown-body ol ol,.markdown-body ol ul{margin-top:0;margin-bottom:0}.markdown-body li>p{margin-top:var(--base-size-16)}.markdown-body li+li{margin-top:.25em}.markdown-body dl{padding:0}.markdown-body dl dt{padding:0;margin-top:var(--base-size-16);font-size:1em;font-style:italic;font-weight:var(--base-text-weight-semibold, 600)}.markdown-body dl dd{padding:0 var(--base-size-16);margin-bottom:var(--base-size-16)}.markdown-body table{display:block;width:100%;width:max-content;max-width:100%;overflow:auto;font-variant:tabular-nums}.markdown-body table th{font-weight:var(--base-text-weight-semibold, 600)}.markdown-body table th,.markdown-body table td{padding:6px 13px;border:1px solblock;width:100%;width:max-content;max-width:100%;overflow:auto;font-variant:tabular-nums}.markdown-body table th{font-weight:var(--base-text-weight-semibold, 600)}.markdown-body table th,.markdown-body table td{padding:6px 13px;border:1px solid var(--borderColor-default, var(--color-border-default))}.markdown-body table td>:last-child{margin-bottom:0}.markdown-body table tr{background-color:var(--bgColor-default, var(--color-canvas-default));border-top:1px solid var(--borderColor-;
+  var(--main-font);
+  --display-font: var(--secondary-font);
+  --mono-font:
+    "M Plus Code Latin",

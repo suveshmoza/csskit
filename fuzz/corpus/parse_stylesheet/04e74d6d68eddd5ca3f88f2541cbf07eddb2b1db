@@ -1,0 +1,21 @@
+ bottom;
+          transform-origin: bo-transition-property: opacity, -webkit-transform;
+  transition-property: opacity, -webkit-transform;
+  transition-property: transfoy-50:focus{opacity:.5}.focus\:opacity-60:focus{opacity:.6}.focus\:opacity-70:focus{opacity:.7}.focus\:opacity-75:focus{opacity:.75}.focus\:opacity-80:focus{opacity:.8}.fransform-origin: left;
+      -ms-transform-origin: left;
+          transform-origin: left;
+  -webkit-transition-property: opacity, -webkiant;
+}
+
+.text-bg-light {
+  color: #000 !important;
+  background-color: RGBA(248, 249, 250, var(--bs-bg-opacity, 1)) !important;
+}
+
+.text-bg-dark {
+  color: #fff !important;
+  background-colorocus\:opacity-90:focus{opacity:.9}.us{opacity:.9}.focus\:opac: RGBA(33, 37, 41, var(--bs-bg-opacity, 1)) !important;
+}
+
+.link-primary {
+  color: RGBA(var(--bs-primary-rgb), var(--bs-link-opacity, 1))ity-95:focus{opacity:.95}.focus\:opacity-100:focus{op !importanact;

@@ -1,0 +1,87 @@
+eries of helper classes to use arbitrarily
+ * DEBUG...............Enable to add visual flags for debugging purposes
+ */
+/*------------------------------------*\
+    $WARNING
+\*------------------------------------*/
+/*
+ * inuit.css, being an OO framework, works in keeping with the open/closed
+ * principle. The variables you set previously are now being used throughout
+ * inuit.css to style everything we need for a base. Any custom styles SHOULD
+ * NOT be added or modified in inuit.css directly, but added via your theme
+ * stylesheet as per the open/closed principle:
+ *
+ * csswizardry.com/2011/06/the-open-closed-principle-applied-to-css
+ *
+ * Try not to edit any CSS beyond this point; if you find you need to do so
+ * it is a failing of the framework so please tweet at @inuitcss.
+ */
+/*------------------------------------*\
+    $IMPORTS
+\*------------------------------------*/
+/**
+ * Generic utility styles etc.
+ */
+/*------------------------------------*\
+    $DEFAULTS
+\*------------------------------------*/
+/**
+ * inuit.css’ default variables. Redefine these in your `_vars.scss` file (found
+ * in the inuit.css-web-template) to override them.
+ */
+/*------------------------------------*\
+    $DEBUG
+\*------------------------------------*/
+/**
+ * Debug mode will visually highlight any potential markup/accessibility quirks
+ * in the browser. Set to `true` or `false`.
+ */
+/*------------------------------------*\
+    $BORDER-BOX
+\*------------------------------------*/
+/**
+ * Do you want all elements to adopt `box-sizing:border-box;` as per
+ * paulirish.com/2012/box-sizing-border-box-ftw ?
+ */
+/*------------------------------------*\
+    $BASE
+\*------------------------------------*/
+/**
+ * Base stuff
+ */
+/**
+ * Base font-family. 
+ */
+/**
+ * Default colour for objects’ borders etc.
+ */
+/*------------------------------------*\
+    $RESPONSIVE
+\*------------------------------------*/
+/**
+ * Responsiveness?
+ */
+/**
+ * Responsiveness for widescreen/high resolution desktop monitors and beyond?
+ * Note: `$responsive` variable above must be set to true before enabling this.
+ */
+/**
+ * Responsive push and pull produce a LOT of code, only turn them on if you
+ * definitely need them.
+ */
+/**
+ * Note: `$push` variable above must be set to true before enabling these.
+ */
+/**
+ * Note: `$pull` variable above must be set to true before enabling these.
+ */
+/**
+ * Tell inuit.css when breakpoints start.
+ */
+/*------------------------------------*\
+    $FONT-SIZES
+\*-------tw-border-opacity:0.3}.md\:focus-within\:border-opacity-40:focus-within{--tw-border-opacity:0.4}.md\:focus-within\:border-opacity-50:focus-within{--tw-border-opacity:0.5}.md\:focus-within\:border-opacity-60:focus-within{--tw-border-opacity:0.6}.md\:focus-within\:border-opacity-70:focus-within{--tw-border-opacity:0.7}.md\:focus-within\:border-opacity-75:focus-within{--tw-border-opacity:0.75}.md\:focus-within\:border-opacity-80:focus-within{--tw-border-opacity:0.8}.md\:focus-within\:border-opacity-90:focus-within{--tw-border-opacity:0.9}.md\:focus-within\:border-opacity-95:focus-within{--tw-border-opacity:0.95}.md\:focus-within\:border-opacity-100:focus-within{--tw-border-opacity:1}.md\:hover\:border-opacity-0:hover{--tw-border-opacity:0}.md\:hover\:border-opacity-5:hover{--tw-border-opacity:0.05}.md\:hover\:border-opacity-10:hover{--tw-border-opacity:0.1}.md\:hover\:border-opacity-20:hover{--tw-border-opacity:0.2}.md\:hover\:border-opacity-25:hover{--tw-border-opacity:0.25}.md\:hover\:border-opacity-30:hover{--tw-border-opacity:0.3}.md\:hover\:border-opacity-40:hover{--tw-border-opacity:0.4}.md\:hover\:border-opacity-50:hover{--tw-border-opacity:0.5}.md\:hover\:border-opacity-60:hover{--tw-border-opacity:0.6}.md\:hover\:border-opacity-70:hover{--tw-border-opacity:0.7}.md\:hover\:border-opacity-75:hover{--tw-border-opacity:0.75}.md\:hover\:border-opacity-80:hover{--tw-border-opacity:0.8}.md\:hover\:border-opacity-90:hover{--tw-border-opacity:0.9}.md\:hover\:border-opacity-95:hover{--tw-border-opacity           color:#BADA55;
+       }
+    }
+ *
+ * With thanks to @lar_zzz, @para

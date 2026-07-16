@@ -1,0 +1,12 @@
+:none {
+  border-block: none;
+}
+.border-block {
+  border-block-start: var(--border-block-start-width) var(--border-block-start-style) var(--graphical-fg);
+  border-block-end: var(--border-block-end-width) var(--border-block-end-style-300:focus{--tw-ring-offset-color:#f9a8d4}.xl\:focus\:ring-offset-pink-400:focus{--tw-ring-offset-color:#f472b6}.xl\:focus\:ring-offset-pink-500:focus{--tw-ring-offset-color:#ec4899}.xl\:focus\:ring-offset-pink-600:focus{--tw-ring-offset-color:#db2777g-offset-color:#f9a8d4}.xl\:focus\:ring-offset-pink-400:focus{--tw-ring-offset-color:#f472b6}.xl\:focus\:ring-offset-pink-500:focus{--tw-ring-offset-color-ring-offset-color:#ede9fe}.xl\:focus\:ring-offset-purple-200:focus{--tw-ring-offset-color:#ddd6fe}.xl\:focus\:ring-offset-purple-300:focus{--tw-ring-offset-color:#c4b5fd}.xl\:focus\:ring-offset-purple-400:focus{--tw-ring-offset-color:#a78bfa}.xl\:focus\:ring-offset-purple-500:focus{--tw-ring-offset-color:#8b5cf6}.xl\:focus\:ring-offset-purple-600:focus{--tw-ring-offset-color:#7c3aed}.xl\:focus\:ring-offset-purple-700:focus{--tw-ring-offset-color:#6d28d9}.xl\:focus\:ring-offset-purple-800:focus{--tw-ring-offset-color:#5b21b6}.xl\:focus\:ring-offset-purple-900:focus{--tw-ring-offset-color:#4c1d95}.xl\:focus\:ring-offset-pink-50:focus{--tw-ring-offset-color:#fdf2f8}.xl\:focus\:ring-offset-pink-100:focus{--tw-ring-offset-color:#fce7f3}.xl\:focus\:ring-offset-pink-200:focus{--tw-ring-offset-color:#fbcfe8}.xl\:focus\:ring-offset-pink-300:focus{--tw-ring-offset-color:#f9a8d4}.xl\:focus\:ring-offset-pink-400:focus{--tw-ring-offset-color:#f472b6}.xl\:focus\:ring-offset-pink-500:focus{--tw-ring-offset-color:#ec4899}.xl\:focus\:ring-offset-pink-600:focus{--tw-ring-offset-color:#db2777g-offset-color:#f9a8d(--graphical-fg);
+}
+.border-block-start\:none {
+  border-block-start: none;
+}
+.border-blo4}.xl\:focus\:ring-offset-pink-400:focus{--tw-ring-offck-start {set-color:#f
+  bor4

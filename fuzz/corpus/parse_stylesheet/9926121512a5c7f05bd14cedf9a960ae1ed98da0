@@ -1,0 +1,49 @@
+.md{-!:r(--bs-tooltip-padding-y) var(--bs-tooltip-padding-x);
+  color: var(--bs-tooltip-color);
+  text-align: center;
+  background-color: var(--bs-tooltip-bg);
+  border-radius: var(--bs-tooltip-border-radius);
+}
+
+.popover {
+  --bs-popover-zindex: 1070;
+  --bs-popover-max-width: 276px;
+  --bs-popover-font-size: 0.875rem;
+  --bs-popover-bg: var(--bs-body-bg);
+  --bs-popover-border-width: var(--bs-border-width);
+  --bs-popover-border-color: var(--bs-border-color-translucent);
+  --bs-popover-border-radius: var(--bs-border-radius-lg);
+  --bs-popover-inner-border-radius: calc(var(--bs-border-radius-lg) - var(--bs-border-width)opover-arrow-height: 0.5rem;
+  --bs-popover-arrow-border: var(--bs-popover-border-color);
+  z-index: var(--bs-popover-zindex);
+  display: block;
+  max-width: var(--bs-popover-max-width);
+  font-family: var(--bs-font-sans-serif);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.5;
+  text-align: left;
+  text-align: start;
+  text-decoration: none;
+  text-shadow: none;
+  text-transform: none;
+  letter-spacing: normal;
+  word-break: normal;
+  white-space: normal;
+  word-spacing: normal;
+  line-break: auto;
+  font-size: var(( ;6)}--bs-popover-font-size);
+  word-wrap: break-word;
+  backrest: #b687f7;--label-purple-fgColor-hover: #c398fb;--label-purple-fgColor-active: #d2affd;--label-red-bgColor-rest: #3c0614;--label-red-bgColor-hover: #58091a;--label-red-bgColor-
+
+@media (prefers-color-scheme: dark) {
+
+  ::-moz-selection {
+  color: #fff;
+  color: var(--text-bright);
+  }
+
+  ::selectio 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)}.sm\:focus\:shadow-2xl:focus{--tw-shadow:0 25px 50px -12px rgba(0, 0, 0, 0.25);box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)}.sm\:focus\:shadow-inner:focus{--tw-shadow:inset 0 2px 4px 0 rgba(0, 0, 0, 0.06);box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)}.sm\:focus\:shadow-none:focus{--tw-shadow:0 0 #0000;box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)}.sm\:outline-none{outline:2px solid transparent;outline-offset:2px}.sm\:outline-white{outline:2px dotted white;outline-offset:2px}.sm\:outline-black{outline:2px dotted black;outline-offset:2px}.sm\:focus-within\:outline-none:focus-within{outline:2px solid transparent;outline-offset:2px}.sm\:focus-within\:outline-white:focus-within{outline:2px dotted white;outline-offset:2px}.sm\:focus-within\:outline-black:focus-within{outline:2px dotted black;outline-offset:2px}.sm\:focus\:outline-none:focus{outline:2px solid transparen {
+  color: #fff;
+ ground-color: var(--bs-popover-bg);
+  background-clip: padding-

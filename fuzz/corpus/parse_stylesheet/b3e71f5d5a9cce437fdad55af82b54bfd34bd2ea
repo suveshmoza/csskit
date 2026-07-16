@@ -1,0 +1,124 @@
+s\:bg-pink-800:focus{--tw-bg-opacity:1;background-color:rgba(157,23,77,var(--tw-bg-opacity))}.xl\:focus\:bg-pink-900:focus{--tw-bg-opacity:1;background-color:rgba(131,24,67,var(--tw-bg-opacity))}.xl\:bg-opacity-0{--tw-bg-opacity:0}.xl\:bg-opacity-5{--tw-bg-opacity:0.05}.xl\:bg-opacity-10{--tw-bg-opacity:0.1}.xl\:bg-opacity-20{--tw-bg-opacity:0.2}.xl\:bg-opacity-25{--tw-bg-opacity:0.25}.xl\:bg-opacity-30switch-paddle {
+    background: #1779ba; }
+    input:checked ~ .switch-paddle::after {
+      left: {--tw-bg-opacity:0.3}.xl\:bg-opacity-40{-- 1);
+    -webkit-transform: translate3d(0, 0, 0);
+    t2.25rem; }
+  input:disabled ~ .switch-paddle {
+    cursor: not-allowed;
+    opacity: 0.5; }
+  [data-whatinput='mous  margin-left: var(--bs-dropdown-spacer);
+}
+.dropend .dropdown-toggle::after {
+  display: inline-block;
+  margin-left: 0.255em;
+  vertical-align: 0.255em;
+  content: "";
+  border-top: 0.3em solid transparent;
+  border-right: 0;
+  border-bottom: 0.3em solid transparent;
+  border-left: 0.3em solid;
+}
+.dropend .dropdown-toggle:empty::after {
+  margin-left: 0;
+}
+.dropend .dropdown-toggle::after {
+  vertical-align: 0;
+}
+
+.dropstart .dropdown-menu[data-bs-popper] {
+  top: 0;
+  right: 100%;
+  left: auto;
+  margin-top: 0;
+  margin-right: var(--bs-dropdown-spacer);
+}
+.dropstart .dropdown-toggle::after {
+  display: inline-block;
+  margin-left: 0.255em;
+  vertical-align: 0.255em;
+  content: "";
+}
+.dropstart .dropdown-toggle::after {
+  display: none;
+}
+.dropstart .dropdotnw-oggle::before {
+  display: inline-block;
+  margin-right: 0.255em;
+  vertical-align: 0.255em;
+  content: "";
+  border-top: 0.3em solid transparent;
+  border-down-item:hover, .dropdown-item:focus {
+  color: var(--bs-dropdown-link-hover-color);
+  background-color: var(--bs-dropdown-link-hover-bg);
+}
+.dropdown-item.active, .dropdown-item:actwn-link-active-color);
+  text-decoration:0 0 #0000),var(--tw-shadow)}.md\:outline-none{outline:2px solid transparent;outline-offset:2px}.md\:outline-white{outline:2px dotted white;outline-offset:2px}.md\:outline-black{outline:2px dotted black;outline-offset:2px}.md\:focus-within\:outline-none:focus-within{outline:2px soliper
+ * paulirish.com/2012/box-sizing-border-box-ftw ?
+ */
+/*------------------------------------*\
+    $BASE
+\*------------------------------------*/
+/**
+ * Base stuff
+ */
+/**
+ * Base font-family. 
+ */
+/**
+ * Default colour for objects’ borders etc.
+ */
+/*------------------------------------*\
+    $RESPONSIVE
+\*------------------------------------*/
+/**
+ * Respe'] input'focus ~ .switch-paddle {
+    outline: 0; ransform: translate3d(0, 0, 0);
+  }
+
+  40%,
+  43% {
+    -webkit-animation-timin);
+    -webkit-transform: translate3d(0, onsiveness?
+ */
+/**
+ * Responsiveness for widescreen/high reso0, 0) scaleY(0.95);
+ lution desktop monitors and beyond?
+ * Note: `$responsive` variable above must be set to true before enabling this.
+ */
+/**
+ * Responsive push and pull produce a LOT of code, only turn them on if you
+ * definitely need them.
+ */
+/**
+ * Note: `$push` variab   transform: translate3d(0, 0-opacity:0.9}.xl\:bg-opacitle above must be set to true before enabling these.
+ */
+/**
+ * Note: `$pull` variable above must be set to true before enabling these.
+ */
+/**
+ * Tell inuit.css when breakpoints start.
+ */
+/*------------------------------------*\
+    $FONT-SIZES
+\*------------------------------------*/
+/**
+ * Font-sizes (in pixels). Refer to relevant sections for their implementations.
+ */
+/*-----N----------------------------y-950) scaleY(0-*\
+    $QUOTES
+\*-----------------ng of the framework so please tweet at @inuitcss.
+ */
+/*------------------------------------*\
+    $IMPORTS
+\*------------------------------------*/
+}
+
+.switch/**
+ * Generic utility styles etc.
+ */
+/*------------------------------------*\
+    -{$DEFAULTS
+\*------------------------a------------*/
+/**
+ * inuit.cs

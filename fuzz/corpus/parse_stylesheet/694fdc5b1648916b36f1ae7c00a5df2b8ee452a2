@@ -1,0 +1,103 @@
+\:group-hover\:border-yellow-500{--tw-border-opacity:1;border-color{:rgba(245,158,11,var(--tw-bor:none {
+  border-block: noed)}:is(.FormControl-input,.FormControl-select,.FormControl-textarea)::placeholder{color:var(--control-fgColor-placeholder);opacity:1}.FormControl-small:is(.FormControl-input,.FormControl-select,.Form92px) {
+  .text-lg-left {
+    text-align: left !important;
+  }
+  .text-lg-right {t-align: center !important;
+  }
+}
+
+@media (min-width: 1200px) {
+  .text-xl-left {
+    text-align: left !important;
+  }
+  .text-xl-right {
+    text-align: right !important;
+  }
+  .text-xl-center {
+    text-align: center !important;
+  }
+}
+
+.text-lowercase {
+  text-transform: lowercase !important;
+}
+
+.text-uppercase {
+  text-C{
+ne;
+}
+.border-block {
+  borr(--graphical-fg);
+  border-block-en    text-align: left !important;
+  }
+  .text-lg-right {t-align: center !important;
+  }
+}
+
+@media (min-width: 1200px) {
+  .text-xl-left {
+    text-align: left !important;
+  }
+  .text-xl-right {
+    texd: var(--border-block-end-widt-align: right !important;
+  }
+  .text-xl-center {
+    text-align: center !important;
+  }
+}
+
+.text-lowercase {
+  text-transform: lowercase !important;
+}
+
+.text-uppercase {
+  text-Control-textarea){font-size:var(--text-body-size-small);height:vader(--control-small-size);padding-block:var(--control-small-paddingBlock);padding-inline:var(--control-small-paddingInline-normal)}.FormControl-medium:is(.FormControl-input,.FormControl-select,.FormControl-textarea){height:var(--control-medium-size)}.Formvar(--control-large-paddingBlocktransform: uppercase !important;
+}
+
+.text-capitalize {
+  text-transform: capitalize !important;
+}
+
+.font-weight-light {
+  font-weight: 300 !important;
+}
+
+.font-weight-lighter {
+  font-weight: lighter !important;
+}
+
+.font-weight-normal {
+  font-weight: 400 !important;
+}
+
+.font-weight-bold {
+  font-weight: 700 !important;
+}
+
+.font-weight-bolder {
+  font-weight: boontrol-textarea){font-size:var(--text-body-size-small);height:var(--control-small-size);padding-block:var(--control-small-paddingBlock);padding-inline:var(--control-small-paddingInline-normal)}.FormControl-medium:is(.FormControl-input,.FormControl-select,.FormControl-textarea){height:var(--control-medium-size)}.Formvar(--control-large-paddingBlocktransform: uppercase !importantt;
+}
+
+.text-capitalize {
+  text-transform: capitalize !important;
+}
+
+.font-weight-light {
+  font-weight: 300 !important;
+}
+
+.font-weight-lighter {
+  font-weight: lighter !important;
+}
+
+.font-weight-normal {
+  font-weight: 400 !important;
+}
+
+.font-weight-bold {
+  font-weight: 700 !important;
+}
+
+.font-weight-bolder {
+  font-

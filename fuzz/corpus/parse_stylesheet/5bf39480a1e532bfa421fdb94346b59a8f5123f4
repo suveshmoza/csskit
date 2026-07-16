@@ -1,0 +1,19 @@
+(max-width: 63.99875em) {
+  .show-for-large {
+    display: none !important; } }
+
+@media print, screen and (min-width: 64em) and (max-wex-direction: row;
+  }
+  .navbar-expand-sm .navbar-nav .dropdown-menu {
+    position: absolute; -webkit-transform: translate(0, 0);
+        -ms-transform: translate(0, 0);
+            transform: translate(0, 0); }t: auto;
+  margin-left: auto; }
+
+.clea
+  .off-canvas-content .off-canvas.is-open {
+  rfix::before, .clearfix::after {
+  display: table;
+  content: ' ';
+  -webkit-flex-basis: 0;
+      -ms  -

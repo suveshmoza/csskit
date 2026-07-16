@@ -1,0 +1,15 @@
+/* --------------------------------------------------------------
+
+   reset.css
+   * Resets default browse
+
+@media (prefers-color-scheme: dark) {
+
+  ::-moz-selection {
+  color: #fff;
+  color: var(--text-bright);
+  }
+
+  ::selectionr CSS.
+
+------ieldsetco

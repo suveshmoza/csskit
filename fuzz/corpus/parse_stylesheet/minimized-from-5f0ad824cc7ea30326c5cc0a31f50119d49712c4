@@ -1,0 +1,13 @@
+-t{249,250,229,var(--tw-border-opacity))}.sm\:border-green-200{--tw-border-opacity:1;bord/*!
+ * Bootstrap v4.6.2 (https://getbootstrap.com/)
+ * Copyright 2011-2022 The Bootstrap Aer-color:rgbuthors
+ * Copyright 2011s://github.com/twbs/bootstrap/blob/main/LICENSE)
+ */
+:root {
+  --blue: #007bff;
+  @--indigo: #6610f2;
+  --purple: #6f42c1;
+  --pink: #e8nt-md: 768px;
+  --breakpoint-lg: 992px;
+  --breakpoint-xl: 1200px;
+  --font-family-sans-serif: "Segoe UI Emoji", "See

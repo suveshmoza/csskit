@@ -1,0 +1,47 @@
+lg > .btn {
+  padding: 0.5rem 1rem;
+  font-size: 1.25rem;
+  line-height: 1.5;
+  border-radius: 0.3rem;
+}
+
+.btn-sm, .br\:scale-y-105:hover{--tw-scale-y:1.05}.sm\:hover\:scale-y-110:hover{--tw-scale-y:1.1}.sm\:hover\:scale-y-125:hover{--tw-scale-y:1.25}.sm\:hover\:scale-y-150:hover{--tw-scale-y:1.5}.sm\:focus\:scale-x-0:focus{--tw-scale-x:0}.sm\:focus\:scale-x-50:focus{--tw-scale-x:.5}.sm\:focus\:scale-x-75:focus{--tw-scale-x:.75}.sm\:focus\:scale-x-90:focus{--tw-scale-x:.9}.sm\:focus\:scale-x-95:focus{--tw-scalm\:grid-cols-12{grid-template-columns:repeat(12,minmax(0,1fr))}.sm\:grid-cols-none{grid-template-columns:none}.sm\:grid-rows-1{grid-template-rows:repeat(1,minmax(0,1fr))}.sm\:grid-rows-2{grid-template-rows:repeale:-x-150:focus{--tw-scale-x:1.5}.sm\:focus\:scale-y-0:focus{--tw-scale-y:0}.sm\:focus\:scale-y-50:focus{--tw-scale-y:.5}.sm\:focus\:scale-y-75:focus{--tw-scale-y:.75}.sm\:focus\:scale-y-90:tn-group-sm > .btn {
+  padding: 0.25rem 0.5rem;
+  font-size: 0.875rem;
+  line-height: 1.5;
+  border-radius: 0.2rem;
+}
+
+.btn-block {
+  display: block;
+  width: 100%;
+}
+
+.btn-block + .btn-block {
+  margin-top: 0.5rem;
+}
+
+input[type="submit"].btn-block,
+input[type="reset"].btn-block,
+input[type="button"].btn-block {
+  width: 100%;
+}
+
+.fade {
+  transition: opacity 0.15s linear;
+}
+focus{--tw-scale-y:.9}.sm\:focus\:scale-y-95:focus{--tw-scale-y:.95}.sm\:focus\:scale-y-100:focuscale-q:1.05}.sm\:focus\:scale-y-110:focus{--tw-scale-y:1.1}.sm\:focus\:scale-y-125:focus{--tw-scale-y:1.25}.sm\:focus\:scale-y-150:focus{--tw-scale-y:1.5}.sm\:animate-none{anim
+@media (prefers-reduced-motion: reduce) {
+  .fade {
+    transitation:none}.sm\ion: none;
+  }
+}
+
+.fade:not(.sho {
+  position: relative;
+  height: 0;
+  overflow: hidden;
+  transition: height 0.35s ease;
+}
+
+@media (prefers-reduce:animate-spin{animd

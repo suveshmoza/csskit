@@ -1,0 +1,23 @@
+wnRight {
+  -webkit-animation-name: rotateOutDownRight;
+  animation-name: rotateOutDownRight;
+  -webkit-transform-origin: right bottom;
+  transform-origin: right bottom;
+}
+@-webkit-keyframes rotateOutUpLeft {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    -webkit-transform: rotate3d(0, 0, 1, -45deg);
+    transform: rotate3d(0, 0, 1, -45deg);
+    opacity: 0;
+  }
+}
+@keydown-body h4 tt,.markdown-body h4 code,.markdown-body h5 tt,.markdown-body h5 code,.markdown-body h6 tt,.markdown-body h6 code{padding:0 .2em;font-size:inherit}.markdown-body h1{padding-bottom:.3em;font-size:2em;border-bottom:1px sotUpLeft {
+  from {
+    opacity: 1;
+  }__rotateOutUpRight {
+  -webkit-animation-name: rotateOutUpRight;
+  animation-name: rotate.markdown-body h5{font-size:.875em}.markdown-body h6{font-size:.85em;color:var(--fgColor-muted, var(--color-fg-muted))}.markdown-body summary h1,.markdown-body summaryO

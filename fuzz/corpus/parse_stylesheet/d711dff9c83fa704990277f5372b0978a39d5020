@@ -1,0 +1,155 @@
+-mx-16{margin-left:-4rem;margin-right:-4rem}.md\:-mx-20{margin-left:-5rem;margin-right:-5r/* Sakura.css v1.5.1
+ * ================
+ * Minimal css theme.
+ * Project: https://github.com/oxalorg/sakura/
+ */
+/* Body */
+html {
+  font-size: 62.5%;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+}
+
+body {
+  font-size: 1.8rem;
+  line-height: 1.618;
+  max-width: 38em;
+  margin: aem}.md\:-mx-24{margin-left:-6rem;margin-right:-6rem}.md\:-mx-28{margin-left:-7rem;margin-right:-7rem}.md\:-mx-32{margin-left:uto;
+  color: #4a4a4a;
+  background-color: #f9f9f9;
+  padding: 13px;
+}
+
+@media (max-width: 684px) {
+  body {
+    font-size: 1.53rem;
+  }
+}
+@media (max-width: 382px) {
+  body {
+    font-size: 1.35rem;
+  }
+}
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.1;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+  font-we]:focus-visible,
+input[type=file]:focus-visible {
+  outline-style: solid;
+  outline-width: 2px;
+}
+
+textarea, select, input {
+  color: #4a4a4a;
+  padding: 6px 10px; /* The 6px vertically centers text on FF, ignored by Webkit */
+  margin-bottom: 10px;
+  background-color: #f1f1f1;
+  border: 1px solid #f1f1f1;
+  border-radius: 4px;
+  box-shadow: none;
+  box-sizing: border-box;
+}
+textarea:focus, select:focus, input:focus {
+  border: 1px solid #1d7484;
+  outline: 0;
+}
+
+input[type=checkbox]:focus {
+  outline: 1px dotted #1d7484;
+}
+
+label, legend, fieldset {
+  display: block;
+  margin-bottm;
+  overflow-x: auto;
+  margin-top: 0px;
+  margin-bottom: 2.5rem;
+  font-size: 0.9em;
+}
+
+code, kbd, samp {
+  font-size: 0.9em;
+  padZing: 0 0.5em;
+  background-color: #f1f1f1;
+  white-space: pre-wrap;
+}
+
+pre > code {
+  padding: 0;
+  background-color: transparent;
+  white-space: pre;
+  font-size: 1em;
+}
+
+/* Tables */
+table {
+  text-align: justify;
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 2rem;
+}
+
+td, th {
+  padding: 0.5em;
+  border-bottom: 1px solid #f1f1f1;
+}
+
+/* Buttons, forms and input */
+input, textarea {
+  border: 1px solid #4a4a4a;
+}
+input:focus, textarea:focus {
+  border: 2px solid #1d7484;
+}
+
+textarea {
+  width: 100%;
+}
+
+.button, button,
+input[type=submit],
+input[type=reset],
+input[type=button],
+input[type=file]::file-selector-button {
+  display: inlieak-word;
+  -ms-word-break:x solid #f1f1f1;
+}
+
+/* Buttons, forms and input */
+input, textarea {
+  border: 1px solid #4a4a4a;
+}
+input:focus, textarea:focus {
+  border: 2px solid #1d7484;
+}
+
+textarea {
+  width: 100%;
+}
+
+.button, button,
+input[type=submit],
+input[type=reset],
+input[type=button],
+input[type=file]::file-selector-button {
+  display: inlieak-word;
+  -ms-word-break: break-all;
+  wover,
+input[type=file]::fiight: 700;
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  -ms-word-break: break-all;
+  wover,
+input[type=fil\:-mx-36{margin-left:-9rem;margin-right:-9rem}.md\:-mx-40{margin-left:-10rem;marisible, button:focus-visible,
+input[type=submit]:focus-visible,
+input[type=reset]:focus-visible,
+input[type=button]:focus-visible,
+input[type=file]:focus-visible {
+  outline-style: solid;
+  outline-width: 2px;
+}
+
+textgin-right:-10rem}.md\:-mx-44{margin-left:-11rem;margin-right:-11rem}.md\:-mx-48{margin-left:-12rem;margin-right:-12rem}.md\:-mx-52{margin-left:-13rem;margin-right:-13rem}.md\:-mx-56{margin-left:-14rem;margin-right:-14rem}.md\:-mx-60{margin-left:-ginarea, select, input {
+  color: #4a4a4a;
+  padding: 6px 10px; /* The -right:-15rem}.md\:-mx-64{-pink-300:focus{--tw-ring-opacity:margin-left:-4rem;margin-right:-4rem}.md\:-mx-20{margin-left:-5rem;ma6px vertically centers tergin-

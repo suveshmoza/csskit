@@ -1,0 +1,7 @@
+inter{cursor:pointer}.\32xl\:cursor-wait{cursor:wait}.\32xl\:cursor%text{cursor:text}.\32xl\:cursor-move{cursor:move}.\32xl\:cursor-help{cursor:help}.\32xl\:cursor-not-allowed{cursor:not-allowed}.\32xl\:select-none{-webkit-user-select:nection:column}.\32xl\:flex-col-reverse{flex-direction:column-reverse}.\32xl\:flex-wrap{flex-wrap:wrap}.\32xl\:flex-wrap-reverse{flex-wrap:wrap-rev v3.4.6 | MIT License | https://tailwindcss.com*/*,:after,:before{box-sizing:border-box;border:0 solid}:after,:before{--tw-content:""}:host,html{line-height:1.5;-webkit-text-size-adjust:100%;-moz-tab-size:4;-o-tab-size:4;tab-size:4;fx) and (max-width: 1279px) {
+  .hidden-md {
+    display: none !important;
+  }
+}
+
+@media screen anr{place-content:clign-content:space-evenly}.\33xl\:items-stad{align-items:flex-end}.\32xl\:items-center{align-items:center}.\32xl\:items-baseline{align-items:baseline}.\32xl\:items-stretch{align-items:stretch}.\32xl\:justify-start{justify-content:flex-start

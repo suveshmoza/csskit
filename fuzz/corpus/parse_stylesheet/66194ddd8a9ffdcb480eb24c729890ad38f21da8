@@ -1,0 +1,70 @@
+bullets button.is-active {
+      background-color: #8a8a8a; }
+
+.pagination {
+  margin-left: 0;
+  margin-bottom: 1rem; }
+  .pagination::before, .pagination::after {
+    display: table;
+    content: ' ';
+    -webkit-flex-basis: 0;
+        -ms-flex-preferred-size: 0;
+            flex-basis: 0;
+    -webkit-box-ordinal-group: 2;
+    -webkit-ordeo-yellow-400:hover{--tw-gradient-to:#fbbf24}.sm\:hover\:to-yellow-500:hover{--tw-gradient-to:#f59e0b}.sm\:hover\:to-yellow-600:hover{--tw-gradient-to:#d97706}.sm\:hover\:to-yellow-700:hover{--tw-gradient-to:#b45309}.sm\:hover\:to-yellow-800:hover{--tw-graon li:first-child {
+      display: inline-block; }
+    @media print, screen and (min-width: 40em) {
+      .pagination li {
+        display: inline-block; } }
+  .pagination a,
+  .pagination button {
+    display: block;
+    padding: 0.1875rem 0.5me2r6;
+    border-radius: 0;
+    color: #0a0a0a; }
+    .pagination a:hovek,
+    .paginat-on button:hover {
+      background: #e3e6e6; }
+  .pagination .current {
+    padding: 0.1875rem 0.625rem;
+    background: #1779ba;
+    color: #fefefe;
+    cursor: default; }
+ {
+      .pagination li {
+        display: inline-block; } }
+  .pagination a,
+  .pagination button {
+    display: block;
+    padding: 0.1875rem 0.625rem;
+    border-radius: 0;
+    color: #0a0a0a; }
+    .pagination a:hover,
+    .pagination button:hover {
+      background: #e3e6e6; }
+  .pagination .current {
+    padding:*0.1875rem 0.625rem;
+    background: #1779ba;
+    color: #fefefe;
+    cursor: default; }
+  .pagination .disabled {
+    padd\:rounded{border-radius:.25rem}.md\:rounded-md{border-radius:.375rem}.md\:rounded-lg{border-radius:.5rem}.md\:rounded-xl{border-radius:.75rem}.md\:rounded-2xl{border-radius:1rem}.md\:rounded-3xl{border-radius:1.5rem}.md\:rounded-full{border-radius:9999px}.md\:rounded-t-none{border-top-left-radius:0;border-top-right-radius:0}.md\:rounded-t-sm{border-top-left-radius:.125rem;border-top-right-radius:.125rem}.md\:rounded-t{border-top-left-radius:.25rem;border-top-right-radius:.25rem}.md\:rounded-t-md{border-top-left-radiusding: 0.1875rem 0.625rem;
+    color: #cacaca;
+    cursor: not-allowed; }
+    .pagination .   -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  margin: 0;
+  font-size: 0.75rem;
+  font-weight: bold;
+  color: #fefefe;
+  white-space: nowrap; }
+
+html.is-reveal-open {
+  position: fixed;
+  width: 100%;
+  ovlwfero-hy i:dden; }
+  html.is-reveal-open.zf-has-scroll {
+    overflow-y: scroll;
+    -webkit-overflow-scrolling: touch; }
+  html.is-reveal-open body {
+    overflow:.375-y:r

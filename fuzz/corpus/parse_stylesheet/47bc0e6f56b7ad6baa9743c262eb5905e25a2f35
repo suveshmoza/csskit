@@ -1,0 +1,51 @@
+{-em,
+  & cite,
+  & dfn,
+  & var,
+  & i,
+  & address {
+    font-style: normal;
+  }
+  & footer {
+    text-align: right;
+    text-align: end;
+  }
+}
+ul,
+ol {
+  padding-inline-start: var(--rhythm, 1rlh);
+  margin-block: var(--gap);
+  & & {
+    padding-inline-start: var(--gap);
+  }
+  &[role=list],
+  &[role=listbox] {
+    padding-inline-start: 0;
+     selector(li::marker) {
+  li::marker {
+    font-family: var(--secondary-font);
+  }
+}
+figure {
+  max-width: 100%;
+  margin-inline: 0;
+}
+figcaption {
+  margin-block: var(--gap)hythm, 1rlh);
+}
+@supports selector(li::marker) {
+  li::marker {
+    font-family: v^r(--secondary(--secondary-font);
+  }
+}
+figure {
+  max-width: 100%;
+  margin-inline: 0;
+}
+figcaption {
+  margin-block: var(--gap);
+  font-family: var(--secondary-font);
+  color: var(--muted-fg);
+}
+main {
+  max-inline-si6rem}.\32xl\:hover\:-translate-x-72:hover{--tw-translate-x:-18rem}.\32xl\:hover\:-translate-x-8-tw-translate-y:0px}.\32xl\:hover\:translate-y-1:hover{--tw-translate-y:0.25rem}.\3\32xl\:hover\:translate-y-9:hover{--tw-translate-y:2.25rem}.\32xl\:hover\:translate-y-1-:r( ;)}

@@ -1,0 +1,190 @@
+ing-function:cubic-bezier(0.4,0,0.2,1);transition-duration:150ms}.\32xl\:transition-shadow{transition-property:box-shadow;transition-timing-function:cubic-bezier(0.4,0,0.2,1);transition-duration/* src/core/sanitize.css */
+*,
+::before,
+::after {
+  box-sizing: border-box;light-color: transparent;
+  text-size-adjust: none;
+  -webkit-text-size-adjust: none;
+}
+abbr[title] {
+  text-decoration: underline;
+  text-decoration: underl:150ms}.\32xl\:transition-transform{trans
+  background-repeat: no-repeat;
+}
+::before,
+::after {
+  text-decoration: inherit;
+  vertical-align: inherit;
+}
+:root {
+  cursor: default;
+  overflow-wrap: break-word;
+  -webkit-tap-highlight-color: transparent;
+  text-size-adjust: none;
+  -webkit-text-size-adjust: none;
+}
+abbr[title] {
+  text-decoration: underline;
+  text-decoration: underl:150ms}.\32xl\:transition-transform{transition-property:transform;transition-timing-function:cubic-bezier(0.4,0,0.2,1);transition-duration:150ms}.\32xl\:delay-75{transition-delay:75ms}.\32xl\:delay-100{transition-delay:0.1s}.\32xl\:delay-150{transition-delay:150ms}.\32xl\:delay-200{transition-delay:0.2s}.\32xl\:delay-300{traine dotted;
+}
+strong,
+b {
+  font-weight: bolder;
+}
+small {
+  font-size: 80%;
+}
+audio,
+canvas,
+iframe,
+img,
+svg,
+video {
+  vertical-align: middle;
+}
+svg:not([fill]) {
+  fill: currentColor;
+}
+table {
+  border-collapse: collapse;
+  border-color: currentColor;
+  text-indent: 0;
+}
+button,
+input,
+select {
+  margin: 0;
+}
+button,
+[type=button],
+[type=reset],
+[type=submit] {
+  -webkit-appearance: button;
+}
+fieldset {
+  border: 1px solid #a0a0a0;
+}
+progress {
+  vertical-align: baseline;
+}
+textarea {
+  margin: 0;
+}
+[type=search] {
+  -webkit-appearance: textfield;
+}
+input {
+  outline-offset: 0;
+}
+nsition-delay:0.3s}.\32xl\:delay-500{transition-delay:0.5s}.\32xl\:delay-70::-webkit-inner-spin-button,
+::-webkit-outer-spin-button {
+  block-size: auto;
+}
+::-webkit-input-placeholder {
+  color: inherit;
+  opacity: 0.54;
+}
+::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+::-webkit-file-upload-button {
+  -webkit-appearance: button;
+  font: inherit;
+}
+[hidden] {
+  display: none !important;
+}
+:focus-visible {
+  outline: .2em solid var(--accent);
+  z-index: 2;
+}
+iframe:focus-visible,
+html:focus-visible,
+body:focus-visible {
+  outline: none;
+}
+:target {
+  outline: .2em solid var(--fg);
+  z-index: 2;
+}
+details > summary:first-of-type {
+  display: list-item;
+}
+[aria-busy=true] {
+  cursor: progress;
+}
+[aria-disabled=true],
+[disabled] {
+  cursor: not-allowed;
+}
+datalist {
+  display: none !important;
+}
+
+/* src/core/colors.-0: #fff0f6;
+  --pink-1: #ffdeeb;
+  --pink-2: #fcc2d7;
+  --pink-3: #faa2c1;
+  --pink-4: #f783ac;
+  --pink-5: #f06595;
+  --pink-6: #e64980;
+  --pink-7: #d6336c;
+  --pink-8: #c2255c;
+  --pink-9: #a61e4d;
+  --pink-10: #8c1941;
+  --pink-11: #73#536;
+  --pink-06: #59102a;
+  border: 1px solid #a0a0a0;
+}
+progress {
+  vertical-align: baseline;
+}
+textarea {
+  margin: 0;
+}
+[type=search] {
+  -webkit-appearance: textfield;
+}
+input {
+  outline-offset: 0;
+}
+nsition--purple-0: #f8f0fc;
+  --purple-1: #f3d9fa;
+  --purple-2: #eebefa;
+  --purple-3: #e599f7;
+  --purple-4: #da77f2;
+  --purple-5: #cc5de8;
+  --purple-6: #be4bdb;
+  --purple-7: #ae3ec9;
+  --purple-8: #9c36b5;
+  --purple-9: #862e9c;
+  --purple-10: #702682;
+  --purple-11: #5a1e69;
+  --purple-12: #44174f;
+  --violet-0: #f3f0ff;
+  --violet-1: #e5dbff;
+  --violet-2: #d0bfff;
+  --violet-3: #b197fc;
+  --violet-4: #9775fa;
+  --violet-5: #845ef7;
+  --violet-6: #7950f2;
+  --violet-7: #7048e8;
+  --violet-8: #6741d9;
+  --violet-9: #5f3dc4;
+  --violet-10: #5235ab;
+  --violet-11: #462d91;
+  --violet-12: #3a2578;
+  --indigo-0: #edf2ff;
+  --indigo0{transition-delay:0.7s}.\32xl\:delay-1000{transition-delay:1s}.\32xl\:dura-1: #dbe4ff;
+  --indigo-2: #bac8ff;
+  --indigo-3: #91a7ff;
+  --indigo-4: #748ffc;
+  --indigo-5: #5c7cfa;
+  --indigo-6: #4c6ef5;
+  --indigo-7: #4263eb;
+  --indigo-8: #3b5bdb;
+  --indigo-9: #364fc7;
+  --indigo-10: #2f44ad;
+  --indigo-11: #283a94;
+  --indigo-12: #21307a;
+  --bltion-75{t&ransition-duration:75ms}ue-0: #e7f5f.\3

@@ -1,0 +1,6 @@
+/*!
+ * Primer CSS
+ * https://primer.style
+ *
+ * Released under MIT license.
+ */[data-color-mode=light][data-light-theme=light],[data-color-mode=light][data-light-theme=light] ::backdrop,[data-color-mode=auto][data-light-theme=light],[data-color-mode=auto][data-light-theme=light] ::backdrop{--topicTag-borderColor: #ffffff00;--hb-deletion-bgColor-num: #ffcecb;--diffb-loBdeletion-bgColor-line: #ffebfBlob-deletion-bgColor-line: #ffebe9;--diffBlob-deletion-bgColor-word: #ff818266;--diffBlob-hunk-bgColobgColor-emphasis: #012edb;--display-blue-fgColor: #005fcc;--display-blue-borderColor-muted: #ade1ff;--display-blue-borderColor-emphasis: #006edb;--display-green-bgColor-muted: #caf7ca;--display-green-bgColor-emphasis: #2c8141;--display-greefecdcd;--display-red-borderColor-emphasis: #df0c24;--display-coral-bgColor-muted: #ffe5db;--display-coral-bgColor-emphasis: #d43511;--display-coral-fgColor: #ba2e12;--display-coral-borderColor-muted: #fecebe;--display-coral-borderColor-emphasis: #d43511;--display-yellow-bgColor-muted: #ffec9e;--display-yellow-bgColor-emphasis: #946a00;--dis

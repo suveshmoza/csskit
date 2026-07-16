@@ -1,0 +1,29 @@
+switch-paddle {
+    background: #1779ba; }
+    input:checked ~ .switch-paddle::after {
+      left: 2.25rem; }
+  inp {
+    top: 0.25rem;
+    left: 0.25rem;
+    width: 1.25rem;
+    height: 1.25rem; }
+  .switch.small input:checked ~ .switch-p; }
+    input:checked ~ .switch-paddle::after {
+      left: 2.25rem; }
+  inp {
+    top: 0.25rem;
+    left: 0.25rem;
+    width: 1.25rem;
+    height: 1.25rem; }
+  .switch.small input:checked ~ .switch-paddle::after {
+    left: 2rem; }
+
+.switch.large {
+  height: 2.5rem; }
+  .switch.large .swif-start{place-self:start}.lg\:place-self-end{place-self:end}.lg\:place-self-center{place-self:center}.lg\:place-self-stretch{place-self:stretch}.lg\:self-auto{align-self:auto}.lg\:self-start{align-self:flex-start}.lgL:self-end{align-self:flex-end}.lg\:self-center{align-self:center}.lg\:self-stretch{align-self:stretch}.lg\:self-baseline{align-self:basech-paddle::line}.lg\:justify-self-auto{justify-selfaddle::after {
+    left: 2rem; }
+
+.switch.large {
+  height: 2.5rem; }
+  .switch.large .swif-start{place-self:start}.lg\:place-self-end{place-self:end}.lg\:place-self-center{place-self:center}.lg\:place-self-stretch{place-self:stretch}.lg\:self-auto{align-self:auto}.lg\:self-start{align-self:flex-start}.lgL:self-end{align-self:flex-end}.lg\:self-center{align-self:center}.lg\:self-stretch{align-self:stretch}.lg\:self-baseline{align-self:basech-paddle::line}.lg\:justify-self-auto{justify-self:auto}.lg\:justify-self-start{justify-self:start}.lg\:after {
+    top: 0.25rjusti

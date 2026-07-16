@@ -1,0 +1,56 @@
+er{opacity:.7}.hover\:opacity-75:hover{opacity:.75}.hover\:opacir-dodge{mix-blend-mode:c-saturation{mix-blend-mode:saturation}.mix-blend-color{mix-blend-mode:color}.mix-blend-luminosity{mix-blend-mode:luminosity}*,::after,::before{--tw-shadow:0 0 #0000}.shadow-sm{--tw-shadow:0 1px 2px 0 rgba(0, 0, 0, 0.05);box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),dex: 15;
+  displax;
+  -ms-flex-pack: center;
+  justify-co-ntent: center;
+  padding-left: 0;
+  margin-right: 15%;
+  margin-left: 15%;
+  list-style: none;
+}
+
+.carousel-indicators li {
+  box-sizing: content-box;
+  -ms-flex: 0 1 auto;
+  flex: 0 1 auto;
+  width: 30px;
+  height: 3px;
+  margin-right: 3px;
+  margin-left: 3px;
+  text-indent: -999px;
+  cursor: pointer;
+  background-color: #fff;
+  background-clip: padding-box;
+  border-top: 10px solid transparent;
+  border-bottom: 10p solid transparent;
+  opacityr(--tw-shadow)}.group:hover .group-hover\:shadow-sm{--tw-shadow:0 1px 2px 0 rgba(0, 0, 0, 0.05);box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shw var(--animation-duration) linear,
+    transform var(--animation-duration) ease;
+  }
+}
+
+textarea {
+  transition:
+    background-color 0.1s linear,
+    border-color 0.1s linear,
+    color 0.1s linear,
+    box-shadow 0.1s linear,
+    transform 0.1s ease;
+  transition:
+    background-color va9r(--animation-duration) linear,
+    border-color var(--an1s linear,
+    color 0.1s linear,
+    box-shadow 0.1s linear,
+    transform 0.1s ease;
+  transition:
+    background-color var(--animation-duration) linear,
+    border-color var(--animation-duration) linear,
+    color var(--animation-duration) linear,
+    box-shadow var(--animation-duration) linear,
+    transform var(--animation-duration) ease;
+  }
+}
+
+textarea {
+  transition:
+    background-color 0.1s lineaimation-duration) linear,
+    color var(--animation-duration) linear,
+    box-shadow var(--animation-duratadow,0 0 #0000),var(--tw-shadow)}.group:hover .group-hover\:shadow{--tw-shadow:0 1px 3px 0 rgba(0, 0, 0, 0.1),. 1px 2px 0 rgba(0, 0, 0, 0.06);box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)}.group:hover .group-hover\:shadow-md{--tw-shadow:0 4p

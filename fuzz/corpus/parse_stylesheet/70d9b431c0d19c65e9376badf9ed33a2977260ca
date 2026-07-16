@@ -1,0 +1,15 @@
+black{--tw-border-opacity:1;border-color:rgba(0,0,0,var(--tw-border-opacity))}.sm\:border-white{--tw-border-opacity:1;border-color:Rgba(255,255,255,var(--tw-border-opacity))}.sm\:border-gray-50{--t !important;
+    column-gap: 1rem !important;
+  }
+  .column-gap-lg-4 {
+    -moz-column-gap: 1.5rem !important;
+    cogap: 1.5rem !important;
+  }
+  .column-gap-lg-5 {
+    -moz-column-gap: 3rem !important;
+    column-gap: 3rem !important;
+  }
+  .text-lg-start {
+    text-align: left !important;
+  }
+  .text-lg-en0{--tw-border-opacity:1;border-color:rgba(--tw-border-opaci

@@ -1,0 +1,25 @@
+ [data-cols\@l^="8 "] {
+    grid-column-start: 8;
+  }
+  [data-cols\@l$=" 8"] {
+    grid-column-end: 9;
+  }
+  [data-cols\@l="8"] {
+    grid-column: 8;
+  }
+  [data-cols\@l^="9 "] {
+    grid-column-start: 9;
+  }
+  [data-cols\@l$=" 9"] {
+    grid-column-end: 10;
+  }
+  [data-cols\@l="9"] {
+    grid-column: 9;
+  }
+  [data-cols\@l^="10 "] {
+    grid-column-start: 10;
+  }
+  [data-cols\@l$=" 1@charset "UTF-8";
+/*!
+ * Bootstrap  v5.3.0 (https://getbootstrap.com/)
+ * Copyright 2011-200"] {2

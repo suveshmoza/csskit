@@ -1,0 +1,20 @@
+/*!
+ censed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+ */
+:root {
+  --blue: #007bff;
+  --indigo: ing-function:cubic-bezier(0.4,0,0.2,1);transition-duration:150ms}.\32xl\:transition-shadow{transition-property:box-shadow;transition-timing-function:cubic-bezier(0.4,0,0.2,1);transition-duration:150ms}.\32xl\:transition-transform{transition-property:transform;transition-timing-function:cubic-bezier(0.4,0,0.2,1);transition-duration:150ms}.\32xl\:delay-75{transition-delay:75ms}.\32xl\:delading-left:var(--base-size-16) !important}.gutter-lg-condensed{margin-right:calc(var(--base-size-8)*-1);margin-left:calc(var(--base-size-8)*-1)}.gutter-lg-condensed>[class*=col-]{padding-right:var(--base-size-8) !important;padding-left:var(--base-size-8) !important}.gutter-lg-spacious{margin-right:calc(var(--base-size-24)*-1);margin-left:calc(var(--base-size-24)*-1)}.gutter-lg-spacious>[cl: #e83e8c;
+  --red: #dc3545;
+  --orange: #fd7e14;
+  --yellow: #ffc107;
+  --green: #28a745;
+  --teal: #20c9lor: rgba(0, 0, 0, 0);
+}
+
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+  display: block;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Librgin-right:calc(var(--base-size-8)*-1);margin-left:calc(var(--base-size-8)*-1)}.gutter-xl-condensed>[class*=col-]{padding-right:var(--base-size-8) !important;padding-leration Sans", sans-seef

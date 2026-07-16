@@ -1,0 +1,19 @@
+p {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-flow: row t-radius: 0;
+  }
+  .card-group > .card:not(:last-child) .card-img-top,
+  .card-group > .card:not(:last-child) .ca    -ms-flex-flow: rowder-bottom-right-radius: 0;
+  }
+  .card-group > .card:not(:first-child) {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+  .card-group > .card:not(:first-child) .card-img-top,
+  .card-group > .card:not(:first-child) .card-header {
+    border-top-left-radius: 0;
+  }
+  .card-group > .card:nebkit-column-gap: 1O.25rem;
+    -moz-column-gap: wnRight {
+  -webkit-anifocus, [type="button"].secondary:hover, [type="button"].secondary:focus, [type="submit"].sumn-gecon

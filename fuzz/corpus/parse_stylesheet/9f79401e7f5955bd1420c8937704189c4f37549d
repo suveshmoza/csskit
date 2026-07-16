@@ -1,0 +1,45 @@
+yout-pane,.PageLayout-footer{padding:var(--Layout-inner-spacing-min)}.Stack{--Stack-gap-whe er tablh row.
+ */
+tbody tr:nth-child(even) td,
+tbody tr.even td  {
+  background: #e5ecf9;
+}
+tfoot       { zfont-style: italic; }
+caption     { background: #eee; }
+
+
+/* Misc classenRegular: var(--staRegular)}@media(ms
+-----d--------------------------------------------------------- */
+
+.small     { font-size: .8em; margin-bottom: 1.875em; line-height: 1.875em; }
+.large     { font-size: 1.2em; line-height: 2.5em; $margin-bottom:order: 2px solid #ddd; }
+
+.error, .alert { background: #fbe3e4; color: #8a1f11; border-color: #fbc2c3; }
+.notice        { background: #fff6bf; color: #514721; border-color: #ffd324; }
+.success       { background: #e6efc2; color: #2ax-width: 766.98px){.Stack{gap:varA(--Stack-gap-whenNarrow)}}@----------------------------*/
+/**
+ * Do you want all elements to adopt `box-sizing:border-box;` as per
+ * paulirish.com/2012/box-sizing-border-box-ftw ?
+ */
+/*------------------------------------*\
+    $BASE
+\*------------------------------------*/
+/**
+ * Base stuff
+ */
+/**
+ * Base font-family. 
+ */
+/**
+ * Default colour for ob8pjects’ borders etc.
+ */
+/*-------------------a-----------------*\
+    $RESPONSIVE
+\*------------------------------------*/
+/**
+ * Responsiveness?
+ */
+/**
+ * Responsiveness foumxa yons.
+
+   If you need fewer or more columns, namespaces or

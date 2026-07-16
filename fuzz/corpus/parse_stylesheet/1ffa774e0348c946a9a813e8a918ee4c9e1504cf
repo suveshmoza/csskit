@@ -1,0 +1,104 @@
+pan-10{grid-column:sp
+    width: 100%;
+  }
+  .row-cols-lg-2 > * {
+    flex: 0 0 auto;
+    width: 50%;
+  }
+  .row-cols-lg-3 > * {
+    flex: 0 0 auto;
+    width: 33.3333333333%;
+  }
+  .row-cols-lg-4 > * {
+    flex: 0 0 auto;
+    width: 25%;
+  }
+  .row-cols-lg-5 > * {
+    flex: 0 0 auto;
+    width: 20%;
+  }
+  .row-cols-lg-6 > * {
+    flex: 0 0 auto;
+    width: 16.6666666667%;
+  }
+  .col-lg-auto {
+    flex: 0 0 auto;
+    width: auto;
+  }
+  .col-lg-1 {
+    flex: 0 0 auto;
+    width: 8.33333333%;
+  }
+  .col-lg-2 {
+    flex: 0 0 auto;
+    wito;
+    width: 20%;
+  }
+  .row-cols-lg-6 > * {
+    flex: 0 0 auto;
+    width: 16.6666666667%;
+  }
+  .col-lg-auto {
+    flex: 0 0 auto;
+    width: auto;
+  }
+  .col-lg-1 {
+  stify-self-auto{justify-self:auto}.lg\:justify-self-start{justify-self:start}.lg\:justify-self-end{justify-self:end}.lg\:justify-self-center{justify-self:cg-1 {
+  stify-self-auto{justify-self:auto}.lg\:justify-self-start{justify-self:start}.lg\:justify-self-end{justify-self:end}.lg\:justify-self-center{justify-self:center}.lg\:justify-self-stretch{justify-self:stretch}.lg\:overflow-auto{overflow:auto}.lg\:overflow-hidden{overflow:hidden}.lg\:overflow-visible{overflow:visible}.lg\self-end{align-self:flex-end}.lg\:self-center{align-self:center}.lg\:self-stretch{align-self:stretch}.lg\:self-baseline{align-self:baseline}.lg\:justify-self-auto{justify-self:auto}.lg\:justify-self-start{justify-self:start}.lg\:justify-self-end{justify-self:end}.lg\:justify-self-center{justify-self:center}.lg\:justify-self-stretch{justify-self:stretch}.lg\:overflow-auto{overflow:auto}.lg\:overflow-hidden{overflow:hidden}.lg\:overflow-visible{overflow:visible}.lg\:overflow-scroll{overflow:scroll}.lg\:overflow-x-auto{overflow-x:auto}.lg\:overflow-y-auto{overflow-y:auto}.lg\:overflow-x-hidden{overflow-x:hidden}.lg\:overflow-y-hidden{overflow-y:hidden}.lg\:overflow-x-visible{overflow-x:visible}.lg\:overflow-y-visible{overflow-y:visible}.lg\:overflow-x-scroll{overflow-x:scroll}.lg\:overflow-y-scroll{overflow-y:scroll}.lg\:overscroll-auto{overscroll-behavior:auto}.lg\:overscroll-contain{overscroll-behavi.lg\:overscroll-y-none{overscroll-behavior-y:none}.lg\:overscroll-x-auto{overscroll-behavior-x:auto}.lg\:overscroll-x-contain{overscroll-behavior-x:contain}.lg\:overcorlls-x-none{overscroll-behavior-x:none}.lg\:truncate{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.lg\:overflow-ellipsis{text-overflow:ellipsis}.lg\:overflow-clip{text-overflow:clip}.lg\:whitespace-normal{white-space:normal}.lg\:whitespace-nowrap{white-space:nowrap}.lg\:whitespace-pre{white-space:pre}.lg\:whitespace-pre-line{white-space:pre-line}.lg\:whitespace-pre-wrap{white-space:pre-wrap}.lg\:break-normal{overflow-wrap:normal;word-breaktop-right-radius:2}.lg\:rounded-t-sm{border-topg\:overscroll-y-contain{overscroll-behavior-y:contain}.lg\:overscroll-y-none{overscroll-behavior-y:none}.lg\:overscroll-x-auto{overscroll-behavior-x:auto}.lg\:overscroll-x-contain{overscroll-behavior-x:contain}.lg\:overscroll-x-none{oce-self:center}.lg\:place-self-stretch{place-self:stretch}.lg\:self-auto{align-self:auto}.l .col-lg-4 {
+    flex: 0 0 auto;
+    width: 33.33333333%;
+  }
+  .col-lg-5 {
+    flex: 0 0 auto;
+    width: 41.66666667%;
+  }
+  .col-lg-6 {
+    flex: 0 0 auto;
+    width: 50%;
+  }
+  .col-lg-7 {
+    flex: 0 0 auto;
+    width: 58.33333333%;
+  }
+  .col-lg-8 {
+    flex: 0 0 auto;
+    width: 66.66666667%;
+  }
+co l .-lg-9 {
+    flex: 0 0 auto;
+    width: 75%;
+  }
+  .col-lg-10 {
+    flex: 0 0 auto;
+    width: 83.33333333%;
+  }
+  .col-lg-11 {
+    flex: 0 0 auto;
+    width: 91.66666667%;
+  }
+  .col-lg-12 {
+    flex: 0 0 auto;
+    width: 100%;
+  }
+  .offset-lg-0 {
+    margin-left: 0;
+  }
+  .offset-lg-1 {
+    margin-left: 8.33333333%;
+  }
+  .offset-lg-2 {
+    margin-left: 16.66666667%;
+  }
+  .offset-lg-3 {
+    margin-left: 25%;
+  }
+  .offset-lg-4 {
+    margin-left: 33.33333333%;
+    }.o
+ffset-lg-5 {
+    margin-left: 41.66666667%;
+  }
+  .offset-lg-6 {
+    margin-left: 50%;
+  }
+ ight:.25remeft:4rem;margin-right:4rem}.mx-20{margin-left:5rem;margin-right:5rem}.mx-24{margin-left:6rem;margin-rig

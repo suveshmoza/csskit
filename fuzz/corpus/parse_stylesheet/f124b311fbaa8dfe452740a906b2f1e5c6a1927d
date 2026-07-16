@@ -1,0 +1,18 @@
+32xl\:focus-within\:bg-blue-800:focus-within{--tw-bg-opacity:1;background-color:rgba(30,64,175,var(--tw-bg-opacity))}.\32xl\:focus-within\:bg-blue-900:focus-within{--tw-bg-opacity:1;background-color:rgb2xl\:focus-within\:bg-indigo-400:focus-within{--tw-bg-opacity:1;background-color:rgba(129,140,248,var(--tw-bg-opacity))}.\32xl\:focus-within\:bg-indigo-500:focus-within{--tw-bg-opacity:1;background-color:rgba(99,102,241,var(--tw-bg-opacity))}.\32xl\:focus-within\:bg-indigo-600:focus-within{--tw-bg-opacity:1;background-color:rgba(79,70,229,var(--tw-bg-opacity))}.\32xl\:focus-within\:bg-indigo-700:focus-within{--tw-bg-opacity:1;background-color:rgba(67,56,202,var(--tw-bg-opacitylt (mini-default)
+  Auth: Arongelos Chalaris (chalarangelo@gmail.com)
+  Maintainers: Angelos Chalaris
+  mini.css version: v3.0.1
+*/
+/*
+  Browsers resets and base typography.
+*/
+/* Core module CSS variable definitions */
+:root {
+  --fore-cobg-indigo-800:focus-within{--tw-bg-opacity:1;background-color:rgba(55,48,163,var(--tw-bg-opacity))}.\32xl\:focus-within\:bg-indigo-900:focus-within{--lor: #111;
+  --secondary-fore-color: #444;
+  --back-color: #f8f8f8;
+  --secondary-btw-bg-opacity:1;background-color:rgba(49,46,129,var(--tw-bg-opacity))}.\32xl\:focus-within\:bg-purple-50:foround-color:rgba(67,56,202,var(--twack-color: #f0f0f0;
+  --blockquote-color: #f57c00;
+  --pre-color: #1565c0;
+  --border-color: #aaa;
+  --seconda-bg-ry-border-c

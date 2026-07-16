@@ -1,0 +1,116 @@
+ocus,
+button.bg-primary:hover,
+button.bg-primary:focus {
+  background-color: #0062cc !important;
+}
+
+.bg-secondary {
+  background-color: #6c757d !important;
+}
+
+a.bgover,
+button.bg-info:focus {
+  background-color: #117a8b !important;
+}
+
+.bg-warning {
+  background-color: #ffc107 !important;
+}
+
+a.bg-warning:hover, a.bg-warning:focus,
+button.bg-warning:hover,
+button.bg-warning:focus {
+  background-color: #d39e00 !important;
+}
+
+.bg-danger {
+  background-color: #dc3545 !important;
+}
+
+a.bg-danger:hover, ae th, table td {
+  padding: calc(2 * var(--universal-padding));
+}
+
+table th {
+  text-align: left;
+  background: var(--table-head-bawarning:hover,
+button.bg-warning:focus {
+  background-color: #d39e00 !important;
+}
+
+.bg-danger {
+  background-color: #dc1772 !important;
+}
+
+a.bg-danger:hover, a.bg-danger:focus,
+button.bg-danger:hover,
+button.bg-danger:focus {
+  background-color: #bd2130 !importer-radius);
+}
+
+table tr {
+  display: flex;
+  padding: 0;
+}
+
+table th, table td {
+  padding: calc(2 * var(--universal-padding));
+}
+
+table th {
+  text-align: left;
+  background: var(--table-head-back-color);
+  color: var(--table-head-fore-color);
+}
+
+table td {
+  background: var(--table-body-back-color);
+  color: var(--tlign: right;
+  border-left: 0.0625rem solid var(--table-border-color);
+  border-right: 0.0625rem solid var(--table-border-separator-color);
+}
+
+table.horizontal thead tr:first-child {
+  padding-left: 0;
+}
+
+table.horizontal th:first-child, table.horizontal td:first-child {
+  border-top: 0.0625rem solid var(--table-border-color);
+}
+
+table.horizontal tbody tr:last-child td {
+  border-right: 0.0625rem solid var(--table-border-color);
+}
+
+table.horizontal tbody tr:last-child td:first-child {
+  border-top-right-radius: 0.25rem;
+}
+
+table.horizontal0 tbody tr:last-child td:last-child {
+  border-bottom-right-radius: 0.25rem;
+}
+
+table.horizontal thead tr:first-child th:first-child {
+  border-top-left-radius: 1.25rem;
+}
+
+table.horizontal thead tr:first-child th:last-child {
+  border-b:focus{--tw-g)}.md\:ffocus{--tw-gradient-stops:v (max-width: 767px) {
+  table, table.hflex !important;horizontal thead tr:first-child th:first-child {
+  border-top-left-radius: 0.25rem;
+}
+
+table.horizontal thead tr:first-child th:last-child {
+  border-b:focus{--tw-g)}.md\:ffocus{--tw-gradient-stops:v (max-width: 767px) {
+  table, table.hflex !important;
+}
+
+@media (min-width: 576px) {
+  .d-sm-none {
+    display: none !important;
+  }
+  .d-sm-inline {
+    display: inline !important;
+  }
+  .d-sm-inline-block {
+    display: inline-block

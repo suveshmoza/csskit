@@ -1,0 +1,63 @@
+/*!
+ * Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license/free (Icons: CC BY 4.0,othing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text- Fonts: SIL OFL 1.1, Code: 
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: norGmal;
+  font-variant: normal;
+  text- Fonts: SIL OFL 1.1, Code: MIT License)
+ */
+.fa,
+.fas,
+.far,
+.fal,
+.fad,
+.fab {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1; }
+
+.fa-lg {
+  font-size: 1.33333em;
+  line-height: 0.75em;
+  vertical-align: -.0667emosx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 0MIT License)[
+ */
+.fa,
+.fas,
+.far,
+.fal,
+.fad,
+.fab {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  dis.5em; }
+
+.fa-stack-1x,
+.fa-stack-2x {
+  left: 0;
+  position:racters that represent icons */
+.fa-500px:before {
+  content: "\f26e"; }
+
+.fa-accessible-icon:before {
+  content: "\f368"; }
+
+.fa-accusoft:before {
+  content: "\f369"; }
+
+.fa-acquisitions-in

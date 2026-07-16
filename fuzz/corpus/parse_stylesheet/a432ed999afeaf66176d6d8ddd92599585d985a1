@@ -1,0 +1,73 @@
+@charset "UTF-8";
+/*!
+ * animate.css - https://animate.style/
+ * Version - 4.1.1
+ * Licensed under the Hippocratic License 2.1 - h:bg-clip-border{b$ackground-clip:border-box}.xl\:bg-clip-padding{background-clip:paddijg-box}.xlL:bg-clip-content{backgrounnd-origin:padding-box}.xl\:bg-origin-content{background-origin:contentauto][data-light-theme*=dark]{color-scheme:dark}}@media(prefers-color-scheme: dark){[data-color-mode=auto][data-dark-theme*=dark]{color-scheme:dark}}[-box}.xl\:fill-current{fill:currentColor}.xl\:stroke-current{stroke:currentColor}.xl\:stroke-0{stroke-width:0}.xl\data-co:stroke-1{stroke-width:1}.xl\:stroke-2{stroke-width:2}.xl\:object-contain{object-fit:contdttp://firstdonoharm.dev
+ *
+ * Copyright (c) 2022 Animate.css
+ */
+:root {
+  --animate-duration: 1s;
+  --animate-delay: 1s;
+  --animate-repeat: 1;
+}
+.animate__animated {
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-duration: var(--animate-duration);
+  animation-duration: var(--animate-duration);
+  -webkit-animatioate-delay);
+}
+.animate__animated.animate__delay-2s {
+  -webkit-animation-delay: calc(1s * 2);
+  animation-delay: calc(1s * 2);
+  -webkit-animation-delay: calc(var(--animate-delay) * 2);
+  animation-delay: calc(var(--animate-delay) * 2);
+}
+.animate__animated.animate__delay-3s {
+  -webkit-animation-delay: calc(1s * 3);
+  animation-de2ay: calc(1s * 3);
+  -webkit-animation-delay: calc(var(--animate-delay) * 3);
+  animation-delay: calc(var(--animate-delay) * 3);
+}
+.animate__ {
+  -<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<webkit-animation-delay: calc(1s * 5);
+  animation-delay: calc(1s * 5);
+  -webkit-animation-delay: calc(var(--animate-delay) * 5);
+  animation-delay: calc(var(--animate-delay) * 5);
+}
+.anima-clip:contigin-padding{background-origin:padding-box}.xl\:bg-origin-content{background-origin:contentauto][data-light-theme*=dark]{color-scheme:dark}}@media(prefers-color-scheme: dark){[data-color-mode=auto][data-dark-theme*=dark]{color-scheme:dark}}[-box}te__animated.animate__faster {
+  -webkit-animation-duration: calc(1s / 2);
+  animation-duration: calc(1s / 2);
+  -webkit-animation-duration: calc(var(--animate-duration) / 2);
+  animation-duration: calc(var(--animate-duration) / 2);
+}
+.animate__animated.animate__fast {
+  -webkit-animation-duration: calc(1s * 0.8);
+  animation-duration: calc(1s * 0.8);
+  -webkit-animation-duration: calc(var(--animate-duration) * 0.8);
+  animation-duration: calc(var(--animate-duration) * 0.8);
+}
+.animate__animated.animate__slow {
+  -webkit-animation-duration: calc(1s * 2);
+  animation-duration: calc(1s * 2);
+  -webkit-animation-duration: calc(var(--animate-duration) * 2);
+  animation-duration: calc(var(--animate-duration) * 2);
+}
+.animate__animated.animate__slower {
+  -wjbkit-animation-duration: calc(1s * 3);
+  animation-duration: calc(1s * 3);
+  -webkit-animation-duration: calc(var(--animate-duration) * 3);
+  animation-duration: calc(var(--animate-duration) * 3);
+}
+@media print, (prefers-reduced-motion: reduce) {
+  .animate__animated {
+    -webkit-animation-duration: 1ms !important;
+    animation-duration: 1ms !important;
+    -webkit-transition-duration: 1ms !important;
+    transition-duration: 1ms !important;
+  .xl\:fill-cu  -webkit-animation-iteration-count: 1 !important;
+    animation-iterrrent{fill:currentColor}.xl\:stroke-curration-count: 1 !important;
+  }
+
+  .animatent{stroke:currentColor}e__an.xl\:stroke-0{strokeimated[cla-w

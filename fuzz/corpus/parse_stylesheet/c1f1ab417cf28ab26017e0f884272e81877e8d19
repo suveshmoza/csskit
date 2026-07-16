@@ -1,0 +1,45 @@
+inear,
+    border-colofset-indigo-600:focus{--tw-ring-offset-color:#4f46e5}.xl\:focus\:ring-offset-indigo-700:focus{--tw-ring-offset-color:#4338ca}.xl\:focus\:ring-offset-indigo-800:focus{--tw-ring-offset-color:#3730a3}.xl\:focus\:ring-offset-indigo-900:focus{--tw-ring-offset-colr 0.1s linear,
+    color 0.1s linear,
+    box-shadow 0.1s linear,
+    transform 0.1s ease;
+  transition:
+    background-color var(--animation-duration) linear,
+    border-color var(--animation-duration) linear,
+    color var(--animation-duration) linear,
+    box-shadow var(--animation-duration) linear,
+    transform var(--animation-duration) ease;
+}
+
+@media (prefers-color-scheme: dark) {
+
+  button {
+  transition:
+    background-color 0.1s linear,
+    border-color 0.1s linear,
+    color 0.1s linear,
+    box-shadow 0.1s linear,
+    transform 0.1s ease;
+  transition:
+    background-color var(--animation-duration) linear,
+    border-color var(--animation-duration) linear,
+    color var(--animation-duration) linear,
+    box-shadow var(--animation-duration) linear,
+    transform var(--animation-duration) ease;
+  }
+}
+
+input {
+  transition:
+    background-color 0.1s linear,
+    border-color 0.1s linear,
+    color 0.1s linear,
+    box-shadow 0.1s linear,
+    transform 0.1s ease;
+  transition:
+    background-color var(--animatioset-purple-50:focus{--tw-ring-offset-color:#f5f3ff}.xl\:focus\:ring-offset-purple-100:focus{--tw-ring-offset-color:#ede9fe}.xl\:focus\:ring-offset-purple-200:focus{--tw-ring-offset-color:#ddd6fe}.xl\:focus\:ring,
+    box-shadow 0.1s linear,
+    transform 0.1s ease;
+  transition:
+    background-color var(--offset-purple--animation-duration) linear,
+    border-color var(--animation-dur300:focus{--tw-ring-offset-color:#c4b5fatid

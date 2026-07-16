@@ -1,0 +1,66 @@
+eOutTopLeft {
+  -webkit-animation-name: fadeOutTopLeft;
+  animation-name: fadeOutTopLeft;
+}
+@-webkit-keyframes fadeOutTopRight {
+  from {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+  to {
+    opacity: 0;
+    -webkit-transform: translate3d(100%, -100%, 0);
+    transfort-transform: rotate(7deg);
+            transform: rotate(7deg); }
+  35%,-duration: 750ms !important; }
+
+.fast {
+  -webkit-animation-duration: 250ms !important;
+          animation-duration: 250ms !important; }
+
+.linear {
+  -webkit-animation-timing-function: linear !important;
+          animation-timing-function: linear !important; }
+
+.ease {
+  -webkit-animation-timing-function: ease !important;
+          animation-timing-function: ease !important; }
+
+.ease-in {
+  -webkit-animation-timing-function: ease-in !important;
+          animation-timing-function: ease-in !important; }
+
+.ease-out {
+  -webkit-animation-timing-function: ease-out !important;
+          animation-timing-function: ease-out !important; }
+
+.ease-in-out {
+  -webkit-animation-timing-function: ease-in-out !important;
+          animation-timing-function: ease-in-out !important; }
+
+.bounce-in {
+  -webkit-animation-timing-function:5) !important;
+          animation-timing-function: cubic-bezier(0.485, 0.155, 0.24, 1.245) !important; }
+
+.bounce-out {
+  -webkim: translate3d(100%, -100%, 0);
+  }
+}
+@keyframes fadeOutTopRight {
+  frt-animation-timing-function: cubic-bezier(0.485, 0.155, 0.515, 0.845) !important;
+          animation-timing-function: cubic-bezier(0.485, 0.155, 0.515, 0.845) !important; }
+
+.sform: rotate(0); } }
+
+.shake,
+.spin-cw,
+.spin-ccw,
+.wiggle -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+  to {
+    opacity: 0;
+    -webkit-transform: translate3d(100%, -100%, 0);
+    transform: tranon-duration: 500slatems;
+3d(1 

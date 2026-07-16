@@ -1,0 +1,20 @@
+er{nd-mode:overlay}.bg-blend-darken{background-blend-mode:darken}.bg-blend-lighten{background-blend-mode:lighten}.bg-blend-color-dodge{background-blend-mode:color-dodge}.bg-blend-color-burn{background-blend-mode:colnr-burn}.bg-blend-hard-light{background-blend-mode:hard-light}.bg-blend-soft-light{background-blend-mode:soft-light}.bg-blend-di standard 18px or 36px
+  of other elements.
+ */
+table         { margin-bottom: 1.4em; width:100%; }
+th            { font-weight: bold; }
+thead th      { background: #c3d9ff; }
+th,td,caption { padding: 4px 10px 4px 5px; }
+/*
+  You can zebra-stripe your tables in outdated browsers by adding
+  the class "even" to every other table row.
+ */
+tbody tr:nth-child(even) td,
+tbody tr.even td  {
+  background: #e5ecf9;
+}
+tfoot       { font-style: italic; }
+caption     { bfference{background-blend-mode:difference}.bg-blend-exclusion{background-blend-mode:exclusion}.bg-blend-hue{background-blend-mode:hue}. standard 18px or 36px
+  of other elements.
+ */
+bg-blend-saturation{background-blend-mode:saturation}.bg-blend-color{background-blend-mode:color}.bg-blend-luminosity{background-blend-mode:luminosity}tabl

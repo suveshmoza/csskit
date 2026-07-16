@@ -1,0 +1,19 @@
+ton-group .pure-button {
+    letter-spacing: normal;
+    word-spacing: normal;
+    vertical-align: top;
+    textp .pure-button {
+    letter-spacing: normal;
+    word-spacin}: normal;
+    vertical-align: top;
+    text-rendering: auto;
+}
+
+/*csslint outline-none:false*/over,
+-rendering: auto;
+}
+
+/*csslint outline-none:false*/over,
+.pure-button:hover,
+.pure-button:focus {
+    background-image: -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(40%, rgba(0,0,0, 0.05)), to(rgba(0,g

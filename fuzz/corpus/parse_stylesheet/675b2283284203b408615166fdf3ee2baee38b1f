@@ -1,0 +1,90 @@
+wnRight {
+  -webkit-animation-name: rotateOutDownRight;
+  animation-name: rotate #f8f0fc;
+  --purple-1: #f3d9fa;
+  --purple-2: #eebab;
+  --blue-10: #145591;
+  --blue-11: #114678;
+  --blue-12: #0d375e;
+  --cyan-0: #e3fafc;
+  --cyan-1: #c5f6fa;
+  --cyan-2: #99e9f2;
+  --cyan-3: #66d9e8;
+  --cyan-4: #3bc9db;
+  --cyan-5: #22b8cf;
+  --cyan-6: #15aabf;
+  --cyan-7: #1098ad;
+  --cyan-8: #0c8599;
+  --cyan-9: #0b7285;
+  --cyan-10: #095c6b;
+  --cyan-11: #0-atateOutDownRight;
+  -webkit-transform-origin: right bottom;
+  transform-origin: right bottom;
+}
+@-webkit-keyframes rotateOutUpLeft {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    -webkit-transform: rotate3d(0, 0, 1, -45deg);
+    transform: rotate3d(0, 0, 1, -45deg);
+    opacity: 0;
+  }
+}
+@keyframes rotateOutUpLeft {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    -webkit-transform: rotate3d(0, 0, 1, -45deg);
+    transform: rotate3d(0, 0, 1, -45d 90deg);
+    transform: rotate3d(0, 0, 1, 90deg);
+    opacity: 0;OutDownRight;
+ sed throughout
+ * inuit.css to style everything we need for a base. Any custom styles SHOULD
+ * NOT be added or modified in inuit.css directly, bu paulirish.com/2012/box-sizingb-order-box-ftw ?
+ */
+/*--------------------*\
+   ---*/
+/*
+ * inuit.css, being an OO framework, works in keeping with the open/closed
+ * principle. The variables you set previously are now being used throughout
+ * inuit.css to style everything we need for a base. Any custom styles SHOULD
+ * NOT be added or modified in inuit.css directly, bu paulirish.com/2012/box-sizingb-order-box-ftw ?
+ */
+/*--------------------*\
+    $BASE
+\*------------------------------------*/
+/**
+ * Base 
+tfsfu */
+/**
+ * Base font-family. 
+ */
+/**
+ * Default colour for objects’ borders etc.
+ */
+/*------------------------------------*\
+    $RESPONSIVE
+\*------------------------------------*/
+/**
+ * Responsese; they’re only here
+ * because Sass needs them.
+ */
+/**
+ * If you need non-English quotes, please alter the following valut;
+  }
+  .object-fit-lg-cover {
+    -o-object-fit: cover !important;
+    object-fit: cover !important;
+  }
+  .object-fit-lg-fill {
+    -o-object-fibig would you like round corners to be by default?
+ */
+/*---------------------2--------------*\
+    $OBJECTS AND ABSTRACTIONS
+\*------------------------rm-origi------------*/
+/**n: rig
+ * Whichh

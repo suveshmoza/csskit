@@ -1,0 +1,22 @@
+0;
+}
+.margin-block-start:not([specificity-hack]) {
+  margin-block-start: var(--gap);
+}
+.margin-block-start\:auto:not([specificity-hack]) {
+  margin-block-start: auto;
+}
+.margin-block-end\:0:not([specificity-hack]) {
+  margin-block-end: 0;
+}
+.margin-block-en {
+  margin-inline-start: 0;
+t, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  -webkit-appearance: none;
+  appearance: none;
+}
+@media (prefers-reduced-motion: reduce) r(--gap);
+}
+.margin-sase-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  transition: background-color 0.15s ease-in-out, border-color 0.ta1rt\5s

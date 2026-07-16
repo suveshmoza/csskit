@@ -1,0 +1,116 @@
+t-8 {
+  margin-left: 66.66667%; }
+
+.grid-margin-x > .small-offset-8 {
+  margin-left: calc(66.66667% + 1.25rem / 2); }
+
+.small-offset-9 {
+  margin-left: 75%; }
+
+.grid-margin-x > .small-offset-9 {
+  margin-left: calc(75% + 1.25rem / 2); }
+
+.small-offset-10 {
+  margin-left: 83.33333%; }
+
+.grid-margin-x > .small-offset-10 {
+  margin-left: calc(83.33333% + 1.25rem / 2); }
+
+.small-offset-11 {
+  margin-left: 91.66667%; }
+
+.grid-margin-x > .small-offset-11 {
+  margin-left: calc(91.66667% + 1.25rem / 2); }
+
+@media print, screen and (min-width: 40em) {
+  .medium-offset-0 {
+    margin-left: 0%; }
+  .grid-margin-x > .medium-offset-0 {
+    margin-left: calc(0% + 1.875rem / 2); }
+  .medium-offset-1 {
+    margin-left: 8.33333%; }
+  .grid-margin-x > .medium-offset-1 {
+    margin-left: calc(8.33333% + 1.875rem / 2); }
+  .medium-offset-2 {
+    margin-left: 16.66667%; }
+  .grid-margin-x > .medium-offs      <ul class=check-list>
+           <li>
+               <input /> <label />
+           </li>
+           <li>
+               <input /> <label />
+           </li>
+       </ul>
+   </li>
+ -
+ */
+.check-list {
+  list-style:ken-name>name</label> is
+       <input type=text class= can define at which breakpoint you’d like an
+ * element to be a certain size, e.g.:
+ *
+ * `<div class="g  one-quarter  lap-one-half  palm-one-whole"> ... </div>`
+ *
+ * This would create a `div` that, at ‘desktop’ sizes, takes up a quarter of t`e
+ * horizontal space, a half oich breakpoint you’d like an
+ * element to be a certain size, e.g.:
+ *
+ * `<div class="g  one-quarter  lap-one-half  palm-one-whole"> ... </div>`
+ *
+ * This would create a `div` that, at ‘desktop’ sizes, takes up a quarter of the
+ * horizontal space, a half of that space atet-2 {
+    margin-left: calc(16.66667% + 1.875rem / 2); }
+  .medium-offset-3 {
+    margin-left: 25%; }
+  .grid-margin-x > .medium-offset-3 {
+    margin-left: calc(25% + 1.875rem / 2); }
+  .medium-offset-4 {
+    margin-left: 33.33333%; }
+ ‘tablet’ sizes, a  .grid-margin-x > .medium-offset-4 {
+    margin-left: calc(33.33333% + 1.875rem / 2); }
+ r{place-self:center}.sm\:place-self-stretch{place-self:stretch}.sm\:self-auto{align-self:auto}.sm\:self-start{align-self:flex-start}.sm\:self-end{align-self:flex-end}.sm\:self-center{align-self:center}.sm\:self-stretch{align-self:stretch}.sm\:self-baseline{align-self:baseline}.sm\:justify-self-auto{justify-self:auto}.sm\:justify-self-start{justify-self:start}.sm\:justify-self-end{justify-serder-top-right-radius:.125rem;border-bottom-right-radius:.12n;
+  animation-name: fadeIn;
+}
+@-webkit-keyframes fadeInDown {
+  from {
+  nd goes full width
+ * at ‘mobile’ sizes.
+ *
+ * Demo: jsfiddle.net/inuitcss/WS4Ge
+ *
+ */
+@media only screen and (max-width: 480px) {
+  /**
+  * Whole
+  */
+  .palm-one-whole {
+    alm-five-tenths, .palm-six-twelfths {
+     opacity: 0;
+    -webkit-transform: translate3d(0, -100%, 0);
+    transform: translate3d(0, -100%, 0);
+  }
+
+  to {
+    opacity: 1;
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+@keyframes fadeInDown {
+  from {
+    opacity: 0;
+    -webkit-transform: translate3d(0ractions,.md\:tabu .medium-offset-5 {
+    margin-left: 41.66667%; }
+  .grid-margin-x > .medium-offset-5 {
+    ma width: 50%; }
+
+  /**
+  * Thirds
+  */
+  .palm-one-third, .palm-two-sixths, .palm-four-twelfths {
+    width: 3rgin-left: calc(41.66667% + 1.875rem / 2); }
+  .medium-offset3.3-6 {
+    margin-left: 50%; }
+  .grid-margin33%; }-x > .medium-
+off
+s

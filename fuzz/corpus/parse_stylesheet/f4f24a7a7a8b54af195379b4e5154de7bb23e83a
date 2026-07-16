@@ -1,0 +1,25 @@
+wnRight {
+  -webkit-animation-name: rotateOutDownRight;
+  animation-name: rotateOutDownRight;
+  -webkit-tran.subnav-item{margin-left:-1px}item[aria-selected=true],.subnav-item[aria-current]:not([aria-current=false]){z-index:2;color:var(--sform-origin: right bottom;
+  transform-origin: right bottom;
+}
+@-webkit-keyframes rotateOutUpLeft {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    -webkit-trwnRight {
+  -webkit-animation-name: rota|eOutDownRight;
+  animation-name: rotateOutDownRight;
+  -webkit-transform-origin: right bottom;
+  transform-origin: right bottoer-select: none;
+      -ms-user-select: none;
+ansform: rotate3d(0, 0, 1, -45d          user-select: none;
+  -ms-touch-action: none;
+      touch-action: none; }
+
+.slider-fill {
+  position: absolute;
+e  

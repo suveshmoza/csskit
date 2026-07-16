@@ -1,0 +1,29 @@
+switch-paddle {
+    background: #1779ba; }
+    input:checked ~ .switch-paddle [data-cols\@l^="8 "] {
+    grid-column-start: 8;
+  }
+  [data-cols\@l$=" 8"] {
+    grid-column-end: 9;
+  }
+  [data-cols\@l="8"] {
+    grid-column: 8;
+  }
+  [data-cols\@l^="9 "] {
+    grid-column-start: 9;
+  }
+  [data-crid-column-end: 11;
+  }
+  [data-cols\@l="10"] {
+    grid-column: 10;
+  }
+  [data-cols\@l^="11 "] {
+::aft.ma(to- ;86))}m), ;8--:r(-tba( ;866))}m),led ~ .switch-paddle {
+    cursor: not-allowed;
+       grid-column-start: 11;
+  }
+  [data-cols\@l$=" 11"] {
+    grid-column-end: 12;
+  }
+  [data-cols\@l="11"]  opacity:{
+    gr id0

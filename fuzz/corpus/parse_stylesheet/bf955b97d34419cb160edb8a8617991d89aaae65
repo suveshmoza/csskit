@@ -1,0 +1,12 @@
+5% - 1.875rem; }
+    .grid-margin-y > .medium-5 {
+      height: calc(41.66667% - 1.875rem); }
+    .grid-margin-y > .medins .PageLayout-content{padding-right:var(-Layout-inner-spacing-max);padding-left:var(--Layout-inner-spacing-max);grid-area:content}.PageLayout-columns .PageLayo  .cell .medium-grid-frame {
+    width: 100%; }
+  .medium-cell-block {
+    overflowt-flex;
+    display: -ms-flexbox;
+    disng: touch;
+    -ms-overflow-style: -ms-autohiding-scrollbar; } }
+
+@

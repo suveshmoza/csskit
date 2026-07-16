@@ -1,0 +1,46 @@
+/**
+ * Automatic version:
+ * Uses light theme by default but switches to dark theme
+ *       <ul class=check-list>
+           <li>
+               <input /> <label />
+           </li>
+           <li>
+               <input /> <label />
+           </li>
+       </ul>
+   </li>
+ *
+ */
+.check-list {
+  list-style: none;
+  margin: 0; }
+
+/*
+ * Labels in check-lists
+ */
+.check-label,
+.check-list label,
+.check-list .label {
+  display: inline-block; }
+
+/**
+ * Spoken forms are for fo anything once
+ * it reappears.
+ *
+ */
+/*small*/
+.extra-help {
+  display!important;
+  flex-wrap: nowrap !important;
+}
+
+.flex-wrap-reverse {
+  -ms-flex-wrap: wrap-reverse !important;
+  flex-wrap:if a system-wide themght: #fff;
+  --text-muted: #a9b1ba;
+  --links: #41adff;
+  --focus: #0096bfab wrap - b-
+;order: #526980;
+  --code: #ffbe85;
+  -rev-erse -!i

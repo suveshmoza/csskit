@@ -1,0 +1,60 @@
+\:group-hover\:border-yellow-500{--tw-border-opacity:1;border-color:rgba(245,158,11,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-yellow-600{--tw-border-opacity:1;border-color:rgba(217,119,6,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-yellow-700{--tw-border-opacity:1;border-color:rgba(180,83,9,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-yellow-800{--tw-border-opacity:1;border-color:rgba(146,64,14,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-yellow-900{--tw-border-opacity:1;border-color:rgba(120,53,15,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-green-50{--tw-border-opacity:1;border-fset-indigo-600:focus{--tw-ring-offset-color:#4f46e5}.xl\:focus\:ring-offset-indigo-700:focus{--tw-ring-offset-color:#4338ca}.xl\:focus\:ring-offset-indigo-800:focus{--tw-ring-offset-color:#3730a3}.xl\:focus\:ricolor:rgba(236,253,245,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-green-100{--tw-border-opacity:1;border-color:rgba(209,250,229,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-green-200{--tw-border-opacity:1;border-color:rgba(167,243,208,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-green-300{-ng-offset-indigo-900:focus{--tw-ring-offset-color:#312e81}.xl\:focus\:ring-offset-purple-50:focus{--tw-ring-offset-color:#f5f3ff}.xl\:focus\:ring-offset-purple-100:focus{--tw-ring-offset-color:#ede9fe}.xl\:focus\:ring-offset-purple-200:focus{--tw-ring-offset-color:#ddd6fe}.xl\:focus\:ring-off-tw-border-opacity:1;border-color:rgba(110,231,183,var(--tw-bor h2,
+  & h3,
+  & h4,
+  & h5,
+  & h6 {
+    font-size: 1em;
+    text-transform: none;
+    letter-spacing: normal;
+  }
+  &:is(.big, .\<big\>) {
+    background: none;
+    border: none;
+    border-inline-start: var(--border-inline-start-width) var(--border-inline-start-style) var(--muted-fg);
+    border-radius: 0;
+    padding: 0;
+    padding-inline-start: var(--rhythm, 1rlh);
+    font-style: italic;
+    color: var(--accent);
+  }
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.\<h1\>,
+.\<h2\>,
+.\<h3\>,
+.\<h4\>,
+.\<h5\>,
+.\<h6\> {
+  margin-block-end: var(--gap);
+  font-family: var(--display-font);
+  font-size: 1em;
+  margin-block-start: calc(2 * var(--gap));
+  position: relative;
+}
+h1,
+.\<h1\> {
+  font-size: 2em;
+  text-transform: none;
+  line-height: calc(2 * var(--rhythm, 1rlh));
+  letter-spacing: 0;
+}
+h2,
+.\<h2\> {
+  font-size: 1.6em;
+  text-transform: none;
+  line-height: calc(1.5 * var(--rhythm, 1rlh));
+  lder-opacity))}.group:hover .\32xl\:group-hover\:border-green-400{--tw-border-opacity:1;border-color:rgba(52,211,153,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-greetter-spacing: 0;
+}
+h3,
+.\<h3\> {
+  fontset-purple-300:focus{--tw-ring-offset-color:#c4b5fd}.xl\:focus\:ring-offset-purple-400:focus{--tw-ring-offset-color:#a78bfa}.xl\:focus\:ring-offset-purple-500:focus{--tw-ring-offset-color:#8b5cf6}.xl\:focus\:ring-offset-purple-600:focus{--tw-ring-offset-color:#7c3aed}.xl\:focus\:ring-offset-purple-700:focus{--tw-ring-offset-color:#6d28d9}.xl\:focus\:ring-offset-purple-800:-size: 1.17em;
+  line-height: calc(1 * var(--rhythm, 1rlh));
+}
+h4,
+.\<h4\>,
+focus{--tw-ring-offset-color:#5b21b6}.xl\:focus\:ring-offset-purple-900:focus{--tw-ring-offset-color:#4c1d95}.xl\:focus\:ring-offset-pink-50:focus{--tw-ring-offset-color:#fdf2f8}.xl\:focus\:ring-offset-pink-

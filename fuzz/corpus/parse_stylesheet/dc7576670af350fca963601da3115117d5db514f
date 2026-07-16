@@ -1,0 +1,53 @@
+media print, screen and (min-width: 64em) {
+  .large-grid-frame {
+    overflow: hidden;
+    position: relative;
+    -webkit-flex-wrap: nowrap;
+        -ms-flex-wrap: nowrap;
+            flex-wrap: nowrap;
+    -webkit-box-align: stretch;
+    -webkit-align-items: stretch;
+        -ms-flex-align: stretch;
+            align-items: stretch;
+    width: 100vw; }
+  .cell .large-grid-frame {
+    width: 100%; }
+  .large-cell-block {
+    overflow-x: auto;
+    max-width: 100%;
+    -webkit-overflow-scrolling: touch;
+    -ms-overflow-style: -ms-autohiding-scrollbar; }
+  .large-cell-block-container {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    max-height: 100%; }
+    .large-cell-block-container > .grid-x {
+      max-height: 100%;
+      -webkit-flex-wrap: nowrap;
+          -ms-flex-wrap: nowrap;
+              flex-wrap: nowrap; }
+  .large-cell-block-y {
+    overflow-y: auto;
+    max-height: 100%;
+    min-height: 100%;
+    -webkit-overflow-scrolling: touch;
+    -ms-overflow-style: -ms-autohiding-scrollbar; } }
+
+.grid-y.grid-frame {
+  overflow: hidden;
+  position: relative;
+  -webkit-flex-wrap: nowrap;
+      -ms-flex-wrap: nowrap;
+          flex-wrap: nowrap;
+  -webkit-box-align: stretch;
+  -webkit-align-items: stretch;
+      -ms-flex-align: stretch;
+{margin-left:8rem}.sm\:ml-36{margin-left:9rem}.sm\:ml-40{margin-left:10rem}.sm\:ml-44{margin-left:11rem}.sm\:ml-48{margin-left:12rem}.sm\:ml-52{margin-left:13rem}.sm\:ml-56{margin-left:14rem}.sm\:ml-60{margin-left:15rem}.sm\:ml-64{margin-left:16rem}.sm\:ml-72{margin-left:18rem}.sm\:ml-80{margin-left:20rem}.sm\:ml-96{margin-left:24rem}.sm\:il-auto{margin-left:auto}.sm\:ml-px{margin-left:1px}.sm\:ml-0\.5{margin-left:.125rem}.sm\:ml-1\.5{margin-left:.375rem}.sm\:ml-2\.5{margin-left:.625rem}.sm\:ml-3\.5{margin-left:.875rem}.sm\:-ml-0{margin-left:0}.sm\:-ml-1{margin-left:--left:-1px}.sm\:-ml-0\.5{margin-left:-.125rem}.sm\:-ml-1\.5{margin-left:-.375rem}.sm\:-ml-2\.5{margin-left:-.625rem}.sm\:-ml-3\.5{margin-left:-.875rem}.sm\:box-border{box-sizing:bor {
+      h

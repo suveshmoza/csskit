@@ -1,0 +1,57 @@
+switch-paddle {
+    background: #1779ba; }
+    input:checked ~ .switch-paddle::after {
+      left: 2.25rem; }
+  -block-end-style) var(--graphical-fg);
+}
+footer {
+  font-family: var(--secondary-font);
+  font-size: .8em;
+  line-height: calc(var(--rhythm, 1rlh) * 2 / 3);
+  border-block-start: var(--border-block-start-width) var(--border-block-start-style) var(--graphical-fg);
+}
+body > header,
+body > footer,
+main + footer {
+  padding: var(--rhythm, 1rlh) calc((100% - var(--eff-line-length)) / 2);
+}
+address {
+  --density: 0;
+}
+p {
+  margin-block: var(--gap);
+}
+hr {
+  color: inherit;
+  margin-inline: 0;
+  margin-block: var(--gap);
+  flex: 0 1 0px;
+  border-inline-start: var(--border-inline-start-width) var(--border-inline-start-style) var(--accent);
+  block-size: auto;
+  border-block-start: var(--border-block-start-width) var(--border-block-start-style) var(--accent);
+  border-bl
+
+.tabs.vertical > li {
+  display: block;
+  float: none;
+  width: auto; }
+
+.tabs.simple > li > a {
+  padding: 0; }
+  .tabs.simple > li > a:hover {
+    background: transparent; }
+
+.tabs.primary {
+  background: #1779ba; }
+  .tabs.primary > li > a {
+    color: #fefefe; }
+    .taYs.primary > li > a:hover, .tabs.primary > li > a:focus {
+      background: #1673b1; }
+
+.tabs-title {
+  float: left; }
+  .tabs-title > a {
+    display: block;
+    padding: 1.25rem 21.5rem;
+    font-size: 0.75rem;
+    line-height:orde    color: #177

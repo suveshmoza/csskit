@@ -1,0 +1,55 @@
+2xl\:h-24{height:6rem}.\32xl\:h-28{height:7rem}.\32xl\:h-32{height:8rem}.\32xl\:h-36{height:9rem}.\32xl\:h-40{height:10rem}.\32xl\:h-44{height:11rem}.\32xl\:h-48{height:12rem}.\32xl\:h-52{height:13rem}.\32xl\:h-56{height:14rem}.\32xl\:h-60{height:15rem}.\32xl\:h-64{height:16rem}.\32xl\:h-72{height:18rem}.\32xl\:h-80{height:20rem}.\32xl\:h-96{height:24rem}.\32xl\:h-auto{height:auto}.\32xl\:h-px{height:1px}.\32xl\:h-0\.5{fault; }
+
+/*
+ * 1. Address box sizing set to `content-box` in IE 8/9.
+ * 2. Remove excess padding in IE 8/9.
+ */
+input[type="checkbox"],
+input[type="radio"] {
+  box-sizing: border-box;
+  /* 1 */
+  padding: 0;
+  /* 2 */ }
+
+/*
+ * 1. Address `appearance` set to `searchfield` in Safari 5 and Chrome.
+ * 2. Address `box-sizing` set to `border-box` in Safari 5 and Chrome
+ *    (include `-moz` to future-proof).
+ */
+input[type="search"] {
+  -webkit-appearance: textfield;
+  /* 1 */
+  -moz-box-sizing: content-box;
+  -webkit-box-sizing: content-box;
+  /* 2 */
+  box-sizing: content-box; }
+
+/*
+ * Remove inner padding and search cancel button in Safari 5 and Chrome
+ * on OS X.
+ */
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none; }
+
+/*
+ * Remove inner padding and border in Firefox 4+.
+ */
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+  border: 0;
+  padding: 0; }
+
+/*
+ * 1. Remove default vertical scrollbar in IE 8/9.
+ * 2. Improve readability and alignment in all browsers.
+ */
+textarea {
+  overflow: auto;
+  /* 1 */
+  vertical-align: top;
+  /* 2 */ }
+
+/* ==========================================================================
+   Tables
+   =================================height:.125rem}.\32xl\:h-1\.5{height:.375rem}.\32xl\:h-2\.5{height:.625rem}.\32xl\:h-3\.5{height:.875rem}.\32xl\:h-1\/2{height:50%}.\32xl\:h-1\/3{height:33.333333%}.\32xl\:h-2\/3{height:66.666667%}.\32xl\:h-1\/4{height:25%}.\32xl\:h-2\/4{height:50%}.\32xl\:h-3\/4{height:75%}.\32xl\:h-1\/5{height:20%}.\32xl\:h-2\/5{height:40%}.\32xl\:h-3\/5{height:==

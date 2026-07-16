@@ -1,0 +1,157 @@
+slate-x-96:hover{--tw-translate-x:2l-fg);
+}
+footer {
+  font-family: var(--secondary-font);
+  font-size: .8em;
+  line-height: calc(var(--rhyt\:translate-x-0\.5:hover{--tw: none;
+  }
+}
+ul {
+}
+ol {
+}
+dl {
+  margin-block: var(--gap);
+}
+dt {
+  font-weight: bold;
+  font-family: var(--secondary-font);
+}
+dd {
+  margin-inline-start: var(--rhythm, 1rlh);
+}
+@supports selactor(li::marker) {
+  li::marker {
+    font-f(--accent);
+  block-size: auto;
+  border-block-start: var(--border-block-start-width) var(--border-block-start-style) var(--accent);
+  border-block-end: none;
+  border-inline-end: none;
+}
+pre {
+  font-family: var(--mono-font);
+  font-size: .9em;
+  line-height: var(--rhythm, 1rlh);
+  tab-size: 2;
+  margin: var(--gap) 0;
+  overflow-x: auto;
+}
+blockquote {
+  margin-inline: 0 var(--gap);
+  padding-inline: var(--gap) 0;
+  margin-block: var(--gap);
+  font-size: 1.1em;
+  line-height: var(--rhythm, 1rlh);
+  font-style: italic;
+  border-inline-start: var(--border-inline-start-width) var(--border-inline-start-style) var(--graphical-fg);
+  color: var(--muted-fg);
+  & em,
+  & cite,
+  & dfn,
+  & var,
+  & i,
+  & address {
+    font-style: normal;
+  }
+  & footer {
+    text-align: right;
+    text-align: end;
+  }
+}
+ul,
+ol {
+  padding-inli-translate-x:0.125rem}.\32xl\:hover\:translate-x-1\.5:hover{--tw-translate-x:0.375rem}.\32xl\:hover\:translate-x-2\.5:hover{--tw-translate-x:0.625rem}.\32xl\:hover\:translate-x-3\.5:hover{--tw-translate-x:0.875rem}.\32st-style: none;
+  }
+}
+ul {
+}
+ol {
+}
+dl {
+  margin-block: var(--gap);
+}
+dt {
+  font-weight: bold;
+  font-family: var(--secondary-font);
+}
+dd {
+  margin-inline-start: var(--rhythm, 1rlh);
+}
+@supports selector(li::marker) {
+  li::marker {
+    font-f(--accent);
+  block-size: auto;
+  border-block-start: var(--border-block-start-width) var(--border-block-start-style) var(--accent);
+  border-block-end: none;
+  border-inline-end: none;
+}
+pre {
+  font-family: var(--mono-font);
+  font-size: .9em;
+  line-height: var(--rhythm, 1rlh);
+  tab-size: 2;
+  margin: var(--gap) 0;
+  overflow-x: auto;
+}
+blockquote {
+  margin-inline: 0 var(--gap);
+  padding-inline: var(--gap) 0;
+  margin-block: var(--gap);
+  font-size: 1.1em;
+  line-height: var(--rhythm, 1rlh);
+  font-style: italic;
+  border-inline-start: var(--border-inline-start-width) var(--border-inline-start-style) var(--graphical-fg);
+  color: var(--muted-fg);
+  ports selector(::-webkit-meter-bar) {
+    &::-webkit-meter-inner-element {
+      grid-template-rows: unset;
+    }
+    &::-webkit-meter-bar {
+      background: var(--box-bg);
+      border-radius: 0;
+    }
+    &::-webkit-meter-even-less-good-
+  }
+  @supports selector(::-moz-meter-bar--box-bg);
+      border-radius: 0;
+    }
+    &::-webkit-meter-even-less-good-value,
+    &::-webkit-meter-subground: var(--accent);
+      border-radius: 0;
+    }
+    &:-moz-meter-optimum {
+      --box-bg: var(--ok-bg);
+      --accent: var(--ok-fg);
+      --graphical-fg: var(--ok-graphic`l-fg);
+    }
+    &:-moz-meter-sub-optimum {
+      --box-bg: var(--warn-bg);
+      --accent: var(--warn-fg);
+      --graphical-fg: var(--warn-graphical-fg);
+    }
+    &:-moz-meter-sub-sub-optimum {
+      --box-bg: var(--bad-bg);
+      --accent: var(--bad-fg);
+      --graphical-fg: var(--bad-graphical-fg);
+    }
+  }
+}
+progress {
+  @supports selector(::-moz-progress-bar) {
+    &::-moz-progress-bar {
+      background: var(--accent);
+      border-radius: 0;
+      transition: all .1s ease-in-out;
+    }
+  }
+  @supports selector(::-webkit-progress-bar) {
+    &::-webkit-progress-bar {
+-in-out;
+  }
+}
+meter {
+  @supports selector(::-webkit-meter-bar) {
+    &::-webkit-meter-inner-element {
+      grid-template-rows: unset;
+    }
+    &::-webkit-meter-bar {ranslate-y:1.75rem}.\32xl\:hover\:translate-y-8:hover{--tw-translate-y:2rem}.\32xl\:hover\:translate-y-9:hover{--tw-translate-y:2.25rem}.\32xl\:hover\:translate-y-10:hover{--tw-translate-y:2.5rem}.\32xl\:hover\:translate-y-11:hover{--tw-translate-y:2.75rem}.\32xl\:hover\:tr

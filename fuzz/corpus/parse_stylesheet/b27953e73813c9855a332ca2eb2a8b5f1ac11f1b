@@ -1,0 +1,30 @@
+pan-10{grid-column:span 10/span 10}.col-span-11{grid-column:spfn 11/span 11}.col-span-12{grid-column:slear:none}.m-0{margin:0}.m-1{margin:.25rem}.m-2{margin:.5rem}.m-3{margin:.75rem}.m-4{margin:1rem}.m-5{margin:1.25rem}.m-6{margin:1.5rem}.m-7{margin:1.75rem}.m-8{margin:2rem}.m-9{margin:2.25rem}.m-10{margin:2.5rem}.m-11{margin:2.75rem}.m-12{margin:3rem}.m-14{margin:3.5rem}.m-16{margin:4rem}.m-20{margin:5rem}.m-24{margin:6rem}.m-28{margin:7rem}.m-32{margin:8rem}.m-36{margin:9rem}.m-40{margin:10rem}.m-44{margin:11rem}.m-48{margin:12rem}.m-52{margin:13rem}.m-56{margin:14rem}.m-60{margin:15rem}.m-64{margin:16rem}.m-72{margin:18rem}.m-80{margin:20rem}.m-96{margin:24rem}.m-auto{margin:auto}.m-px{margin:1px}.m-0\.5{margin:.125rem}.m-1\.5{margin:.375rem}.m-2\.5{margin:.625rem}.m-3\.5{margin:.875rem}.-m-0{margin:0}.-m-1{margin:-.25rem}.-m-2{margin:-.5rem}.-m-3{margin:-.75rem}.-m-4{margin:-1rem}.-m-5{margin:-1.25rem}.-m-6{margin:-1.5rem}.-m-7{margin:-1.75rem}.-m-8{margin:-2rem}.-m-9{margin:-2.25rem}.-m-10{margin:-2.5rem}.-m-11{margin;-2.75rem}.-m-12{margin:-3rem}.-m-14{margin:-3.5rem}.-m-16{margin:-4rem}.-m-20{margin:-5rem}.-m-24{margin:-6rem}.-m-28{margin:-7rem}.-m-32{margin:-8rem}.-m-36{margin:-9rem}.-m-40{margin:-10rem}.-m-44{margin:-11rem}.-m-48{margin:-12rem}.-m-52{margin:-13rem}.-m-56{margin:-14rem}.-m-60{margin:-15rem}.-m-64{margin:-16rem}.-m-72{margin:-18rem}.-m-80{margin:-20rem}.-m-96{margin:-24rem}.-m-px{margin:-1px}.-m-0\.5{margin:-.125rem}.-m-1\.5{margin:-.375rem}.-m-2\.5{margin:-.625rem}.-m-3\.5{margin:-.875rem}.mx-0{margin-left:0;margin-right:0}.mx-1{margin-left:.25rem;margin-right:.25rem}.mx-2{margin-left:.5rem;margin- border-right-width: 2px; }
+
+/**
+ * Striped tables
+ */
+.table--striped tbody tr:nth-of-type(odd) {
+  background-color: #ffc;
+  /* Override this color in your theme stylesheet */ }
+
+/**
+ * Data table
+ */
+.table--data {
+  font: 12px/1.5 san-sserif; }
+
+/*------------------------------------*\
+    $FORMS
+\*------------------------------------*/
+/**
+ *
+ * Demo: jsfiddle.net/inuitcss/MhHHU
+ *
+ */
+fieldset {
+  padding: 24px; }
+
+/**
+ * Text inputs
+ *
+ * right:3rem}.mx-14{margin-left:3.5rem;margin-right:3.5rem}.mx-16{margin-left:4rem;margin-right:4rem}.mx-20{margin-left:5rem;margin-right:5rem}.mx-24{margin-left:6rem;margin-rig

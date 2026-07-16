@@ -1,0 +1,15 @@
+evo[x-placement^="right"] > .arrow::before {
+  meft: 0;
+  border-width: 0.5rem 0.5rem 0.5rem 0;
+  border-right-color: rgba(0.aacement^="bottom"] > .arrow {
+  top: cm"] > .arrow {
+  top: calc(-0.5rem - 1px);
+}
+
+.bs-popover-bottom > .arrow::before, .bs-popover-auto[x-placemenormal;
+    -webkit-flex-direction: column;
+      7rem}.\32xl\:h-32{height:8rem}.\32xl\:h-36{height:9rem}.\32xl\:h-40{height:10rem}.\32xl\:h-44{height:11rem}.\32xl\:h-48{height:12rem}.\32xl\:h-52{height:13rem}.\32xl\:h-56{height:14rem}.\32xl\:h-60{height:15rem}.\32xl\:h-64{height:16rem}.\32xl\:h-72{height:18rem}.\32xl\:h-80{height:20rem}.\32xl\:h-96{height:24rem}.\32xl\:h-auto{height:auto}.\32xl\:h-px{height:1px}.\32xl\:h-1\.5{height:.375rem}.\32xl\:h-2\.5{height:.625rem}.\32xl\:h-3\.5{height:.875rem}.\32xl\:h-1\/2{height:50%}.\32xl\:h-1\/3{height:33.333333%}.\32xl\:h-2\/3{height:66.666667%}.\32xl\:h-1\/4{height:25%}.\32xl\:h-2\/4{height:50%}.\32xl\:h-3\/4{height:75%}.\32xl\:h-1\/5{height:20%}.\32xl32xl\:max-h-2{max-height:.5rem}.\32xl\:max-h-3{max-height:.75rem}.\32xl\:max-h-4{max-height:1rem}.\32xl\:max-h-5{max-height:1.25rem}.\32xl\:max-h-6{max-height:1.5rem}.\32xl\:max-h-7{max-height:1.75rem}.\32xl\:max-h-8{max-height:2rem}.\32xl\:max-h-9{max-height:2.25rem}.\32xl\:max-h-10{max-height:2.5rem}.\32xl\:max-h-11{max-height:2.75rem}.\32x  -ms-flex-direction: column;
+            flex-di, 0, 0.25);
+}
+
+.rectbi

@@ -1,0 +1,24 @@
+,
+.caroutent: open-quote; }
+  blockquote q:after {
+    content: "’";
+   evo[x-placement^="right"] > .arrow:: content: close-quote; }
+
+/**
+ *
+   <blockquote>
+       <p>Insanity: doing the same thing over and over again and expecting
+       differenbefore {
+  left: 0;
+  border-width: 0.5rem 0.5rem 0.5rem 0;
+  border-right-color: rgba(0, 0, 0, 0.25);
+}
+
+.bs-popover-right > .arrow::aftt results.</p>
+       <b class=source>Albert Einstein</b>
+   </blockquote>
+ *
+ */
+blockquote {
+  /**
+   * ext-opacity:0.8}.hover\:ter, .bs-ext-opacity-90:hover{--popt
