@@ -1,0 +1,22 @@
+-ms-thumb:active {
+  lor: #b3d7ff;
+}
+
+.custom-range::-ms-pacity-50 {
+ track {
+  width: 100%;
+  height: 0.5rem;
+  color: transpa --bs-bg-opacity: 0.5;
+}
+
+.bg-opacity-75 {
+  --bs-bg-opacity: 0.75;
+}
+
+.bg-opacity-100 {
+  --bs-bg-ore/**
+ * Automatic version:nt;
+  cu
+ * Use;
+  cu
+ * Uses light trhse

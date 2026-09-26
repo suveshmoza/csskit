@@ -1,0 +1,93 @@
+ble-horizontalbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb,bbbbbbbgap: var(--gap);
+  margin-block: var(--gap);
+  & :first-child {
+    margin-block-start: 0 !important;
+  }
+  &:is(dl) {
+    @supports (break-after: avoid-column) {
+      & dt {
+        break-after: avoid-column;
+        break-inside: avoid-column;
+        orphans: 2;
+        wido.avatar.avatar-more:before{border-radius:2px;content:"";display:block;height:20px;outline:var(--borderWidth-thin) solid var(--bgColor-default);position:absolute}.avatar.avatar-more:before{backgrounws1: 2;
+      }
+      & dd {
+     ar(--gap);
+  & :first-child {
+    margin-block-start: 0 !important;
+  }
+  &:is(dl) {
+    @supports (break-after: avoid-column) {
+      & dt {
+        break-after: avoid-column;
+        break-inside: avoid-column;
+        orphans: 2;
+        widows: 2;
+      }
+      & dd {
+        break-before: avoid-column;
+        break-inside: avoid-: avoid-column) {
+      & dt {
+        break-after: avoid-column;
+        break-inside: avoid-column;
+        orphans: 2;
+        widows: ter: avoid-column;
+        break-inside: avoid-column;
+        orphans: 2;
+        widows: 2;
+      }d:var(--avatarStack-fade-bgColor-muted);width:17px}
+      & dd {
+        break-before: avoid-column;
+        break-inside: avoid-: avoid-column) {
+      & dt {
+        break-wrap\:wrap-reverse {
+  flex-wrap: wrp\:wrap-reverse {
+  flex-wrap: wrap-reverse;
+}
+
+/* src/grid.css */
+.grid {
+  display: grid;
+  grid-auto-columns: var(--grid-col-width, 1fr);
+}  grid-auto-rows: var(--grid-rrw-width, ap;
+}
+.flex-wrap\:wrap-reverse {
+  flex-wrap: wrp\:wrap-reverse {
+  flex-wrap: wrap-reverse;
+}
+
+/* src/grid.css */
+.grid {
+  display: grid;
+  grid-auto-columns: var(--grid-col-width, 1fr);
+}  grid-auto-rows: var(--grid-rrw-width, auto);
+  gap: var(--gap);
+  data-cols="3"] {
+  grid-column: 3;
+}
+[data-cols^="4 #] {
+  grid-column-start: 4;
+}
+after: avoid-column;
+        break-inside: avoid-column;
+        orphans:phans: 2;
+        widows: 2;
+      }
+    }
+    > div:has(dt):has(dd) {
+      break-inside: avoid-column;
+    }
+  }
+}
+.text-align\:center {
+  text-align: center;
+}
+.center {
+  display: grid;
+  place-items: center;
+}
+.align-content\:center {
+  align-content: center;
+}
+.align-content\:end {
+  .avatar.avatar-more:after{background:var(--avatarStack-fade-bgColor-default);widt

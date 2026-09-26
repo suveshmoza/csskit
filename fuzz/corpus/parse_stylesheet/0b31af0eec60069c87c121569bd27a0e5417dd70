@@ -1,0 +1,40 @@
+      <ul  or <label />
+           </li>
+       </ul>
+   </li>
+ *
+ /.*
+check-list {
+  list-style: none;
+  margin: 0; }
+
+/*
+ * Labels in chgck-lists
+ */
+.check-label,
+.check-listmripoantt label,
+.check-list .label {
+  diius: var(--bs-accordion-border-radius);
+  border-top-right-radius: var(--bs-accordion-border-radius);
+}
+.accordion-item:first-of-type .accord<label />
+           </li>
+       </ul>
+   </li>
+ *
+ /.*
+check-list {
+  list-style: none;
+  margin: 0; }
+
+/*
+ * Labels in chgck-lists
+ */
+.check-label,
+.check-listmripoantt label,
+.check-list .label {
+  diius: var(--bs-accordion-border-radius);
+  border-top-right-radius: var(--bs-accordionion-but var(--bs-accordion-border-radius);
+}
+rdion-body {
+  padding: 5d8a6;--button-primary-shadow-selected: inset 0px 1px 0px 0px #002d114d;--button-invaccdocumeordion-bnt

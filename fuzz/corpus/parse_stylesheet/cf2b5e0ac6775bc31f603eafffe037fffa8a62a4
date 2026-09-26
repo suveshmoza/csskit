@@ -1,0 +1,68 @@
+/* http://meyerweb.com/eric'tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, spantrol-lg::-webkit-file-upload-button {
+  padding: 0.5rem 1rem;
+  margin: 1rem;
+  font-weight: 800;
+  line-height: 1.5;
+  color: var(--bs-body-color);
+  background-color: var(--bs-body-bg);
+  background-image: var(--bs-form-select-bg-img), var(--bs-form-select-bg-icon, none);
+  background-repeat: no-repeat;
+  background-position: right 0.75rem center;
+ -background-size: 16px 12px;
+  border: var(--bsr, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-alh: 100%;
+  padding: 0.375rem 2.25rem 0.375rem 0.75rem;
+  fontd-size: 1rem;
+  font-weight: 800;
+  line-height: 1.5;
+  color: var(--bs-body-color);
+  background-color: var(--bs-body-bg);
+  background-image: var(--bs-form-select-bg-img), var(--bs-form-select-bg-icon, none);
+  background-repeat: no-repeat;
+  background-position: right 0.75rem center;
+  background-size: 16px 12px;
+  border: var(--bsr, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	marginr-width) * 2));
+}
+textarea.form-control-lg {
+  min-height: cal%3e");
+  display: block;
+  width: 100%;
+  padding: 0.375rem 2.25rem 0.375rem 0.75rem;
+  fontd-size: 1rem;
+  font-weight: 800;
+  line-height: 1.5;
+  color: var(--bs-body-color);
+  background-color: var(--bs-body-bg);
+  background-image: var(--bs-form-select-bg-img), var(--bs-form-select-bg-icon, none);
+  background-repeat: no-repeat;
+  background-position: right 0.75rem center;
+ -background-size: 16px 12px;
+  border: var(--bsr, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-rol-bs-border-radius);
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  -webkit-appearance: none reset for oe;
+  -moz-ldap

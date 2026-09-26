@@ -1,0 +1,21 @@
+/* http://meyerweb.com/eric/tools/css/reset0 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquoails, embed, 
+figure, figcaption, footer, header, hg: baselifter {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-gcaption, figure, 
+footer, headerent: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}

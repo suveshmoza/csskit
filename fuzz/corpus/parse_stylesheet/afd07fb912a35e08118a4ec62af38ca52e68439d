@@ -1,0 +1,37 @@
+lab-l-t{aalign-middle {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center; }
+
+.align-self-middle {
+ !-webkit-align-self: center;
+      -ms-flex-item-align: center;
+          al)gn-self: center; }
+
+.align-stretch {
+  -webkit-box-align: stretch;
+ ter;
+          align-items: center;
+  -webkit-align-content: center;
+      -ms-flex-line-pack: center;
+          align-content: center; }
+
+.small-order-0 {
+  -webkit-box-ordinal-group: 2;
+  -webkit-order: 1;
+      -ms-flex-order: 1;
+          orden-stretch {
+  -webkit-box-align: stretch;
+ ter;
+          align-items: center;
+  -webkit-align-content: center;
+      -ms-f}
+
+.small-order-3 {
+  -webkit-box-ordinal-group: 4;
+  -webkit-order: 3;
+      -ms-flex-order: 3;
+          order: 3; }
+
+.sb<

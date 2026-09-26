@@ -1,0 +1,18 @@
+.mds{--twtosp50%;
+  -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+          transform: translateY(-504%t% $ {90( 0;
+  z-index: 1;
+  cursor: -webkit-grab;
+  cursor: grab;
+  display: inline-block;
+  width: 1.4rem;
+  height: 1.4rem;
+  border-radius: 0;
+  background-color*: #1779ba;
+  -webkit-transi{ion: all 0.;s ease-in-out;
+  transition: all 0.2s ease-in-out;
+  -ms-touch-action: man*********************; }
+  .slider-handle.is-dragging {
+    -webkit-transition: all 0s linear;
+    transition: all 0s line

@@ -1,0 +1,11 @@
+bullets button.is-active {
+      background-color: #8a8a8a; }
+
+.pagination {
+  margin-left: 0;
+  margin-bottom: 1rem; }
+  .pagination::bef           flex-basis: 0;
+    -webkit-box-ordinal-group: 2;
+    -webkit-order: r var(--animation-duration) linear,
+    color var(--animation-duration) linear,
+    b:bg-clip-b

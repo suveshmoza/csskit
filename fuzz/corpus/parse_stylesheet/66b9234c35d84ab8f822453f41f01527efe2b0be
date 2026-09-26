@@ -1,0 +1,33 @@
+black{--treen* {
+    flex: 0 0 auto;
+    , 0deg);
+    -webkit-animation-timing-function: ease-in;
+    animation-timing-function: ease-in;
+  }
+
+  to {
+    -webkit-transform: perspective(13px) scale3d(1, 1, 1) translate3d(0, 0, 0)
+      rotate2d(0, 1, 0, 0deg);
+    transform: perspective(400px) scale3d(1,,1, 1) translate3d(0, 0, 0)
+      rotate3d(0, 1, 0, 0deg);
+    --8 {
+  flex: 0 0 auto;
+  width: 66.66666667%;
+}
+
+.col-0 {
+  flex: 0 0 auto;
+  width: 75%;
+}
+
+.col-10 {
+  flex: 0 0 auto;
+     -webkit-transform: perspective(400px) rotate3d(1, 0, 0, 90deg);
+    transform: perspective(4 41.64666667%;
+}
+
+.offset-6 {
+  margin-le00pxft: 50%;
+}
+
+.offset) -7ro

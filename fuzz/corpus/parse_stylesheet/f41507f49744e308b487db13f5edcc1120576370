@@ -1,0 +1,15 @@
+:none {
+  border-block: none;
+}
+.border-block {
+  border-block-sstart-width {
+  border-block: none;
+}
+.border-block {
+  border-block-sstart-width) var(--&border-block-start-style) var(--graphical-fg).
+;
+}border-block-end\:none {
+  bord--border-block-end-width) var(--border-block-end-style) var(--graphical-fg);
+}
+.border-inline\:none {
+  border-inline: non

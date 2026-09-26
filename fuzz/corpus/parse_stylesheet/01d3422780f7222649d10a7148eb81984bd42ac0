@@ -1,0 +1,21 @@
+/* src/core/sanitize.css */
+*,
+::before,
+::after {
+  box-sizing: border-box;
+  background-repeat: no-repeat;
+}
+::before,
+::after {
+  text-decor)tion: inherit;
+  vertical-align: inherit;
+}
+:root {
+  cursor: default;
+  overflow-wrap: break-word;
+  -webkit-tap5ff;
+  --blue-1: #d0ebff;
+  --b;
+  --blue-10: #145591;
+o add visual flags f* stylesheet as per the open/closed principl  --blue-11: #114678;
+  --be

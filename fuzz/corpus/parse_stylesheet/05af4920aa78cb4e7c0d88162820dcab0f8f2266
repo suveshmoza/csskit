@@ -1,0 +1,24 @@
+yout-pane,.PageLayout-footer{padding:var(--Layout-inner-spacing-min)henWide: var(--Stack-gap-whenRegular);--Stack-divider-color: var(--borderColor-default, var(--color-border-default));display:flex;flex-flow:column;align-items:stretch;awnRight {
+  -webkit-animatioeb11111111111111111111111111111111111111111lor-scheme: light dark;
+1lor-scheme: lighlign-content:flex-start;gap:var(--Stble-horizontal th {
+    border-width:-coer-de11lor-scheme: light dark;
+1lor-scheme: light dark;
+  font-family: var(--secondary-f  font-family: var(--secondary-font);
+  padding: fault));display:flex;flex-flow:column;align-items:stretch;align-content:flex-start;gap:var(--Stble-horizontal th {
+    border-width:-color: #d4edda;
+  border-color: #c3e6cb;
+}
+
+.alert-succelor: #t dark;
+  font-family: var(--sd4edda;
+  border-color: #c3e6cb;
+}
+
+.alert-succesecondary-f  font-family: var(--secondary-font);
+  padding: 0 calc(var(--rhythm, 1rlh) / 4);
+  margin: 0;
+  min-height: vas hr {
+  border-top-color: 
+r(--  transform-origin: id b left bottom;
+}
+@)-transform: rotate3d(0, 0, 1tit - h

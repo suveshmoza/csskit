@@ -1,0 +1,7 @@
+ standard 18px or 36px
+  of other elements.
+ */
+table         { margin-bottom: 1.4em; width:100%; }
+th            { font-weight: bold; }
+thead th      { background: #c3d9ff; }
+th,td,caption { padding: 4px 10px 45{px

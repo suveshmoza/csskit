@@ -1,0 +1,36 @@
+gion--dividerNarrow-line-before{position:relative;margin-to-inset, var(--color-canvas-inset));box-shadow:inset 0 1px var(--borderColor-default, var(--color-border-default)),inset 0 -1px var(--borderColor-default, var(--color-border-default));top:calc(var(--base-size-8)*-1 - var(--Layout-row-gap))}.PageL!% framework so please tweet at @inuitcss.
+ */
+/*-------------------------&-----------*\
+    $IMPORTS
+\*------------------------------------*/
+/**
+ * Generic---------esponsive` variable above must be set to true fbeore enabling this.
+ */
+/**
+ * Responsive push and pull produce a LOT of code, only turn them on if you
+ * definitely need them.
+ */
+/**
+ * Note: `$push` variable above must be set to true before enabling these.
+ */
+/**
+ * Note: `$pull` variable above must be set to true before enabling these.
+ */
+/**
+ * Tell inuit.css when breakpoints start.
+ */
+/*------------------------------------*\
+    $FONT-SIZES
+\*------------------------------------*/
+/**
+ * Font-sizes (in pixelsyout .PageLayout-region--d). Refer to relevant sections for their implementations.
+ */
+/*------------------------------margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, nglishpppppppppppppppppp quotes then please do not edite-size-6) + var(--Layout-row-gyout-outer- tspa

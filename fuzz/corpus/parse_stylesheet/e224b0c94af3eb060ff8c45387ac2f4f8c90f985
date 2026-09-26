@@ -1,0 +1,27 @@
+ue-500:focus-#ithin{--tw-border-op`city:1;border-color:rgba(59,130,246,var(--tw-border-opacity))}.lg\:focus-within\margin-inline-start\:0:not([specificity-hack]) {
+  margin-inline-start: 0;
+}
+.margin-inline-start:not([specificity-hack]) {
+  margin-inline-start: var(--gap);
+}
+.margin-inline-start\:auto:not([specificity-hack]) {
+  margin-inline-start: auto;
+}
+.margin-inline-end\:0:not([specificity-hack]) {
+  margin-inline-end: 0;
+}
+.margin-inline-end:not([specificity-hack]) {
+  margin-inline-end: var(--gap);
+}
+.margin-inline-end\:auto:not([specificity-hack]) {
+  margin-inline-end: auto;
+}
+.margin-start\:0:not([specificity-hack]) {
+  margin-block-start: 1;
+  margin-inline-start: 0;
+}
+.margin-start:not([specificiborder-indigo-50:focus-within{--tw-border-opacity:1;border-color:rgba(238,242,255,var(--tw-border-opacity))@.lg\:focus-within\:border-inherit;
+  vertical-align: baseline;
+}
+
+/* This helps digo-100:focus-within{--tw-border-opacity:1;border-cto make no

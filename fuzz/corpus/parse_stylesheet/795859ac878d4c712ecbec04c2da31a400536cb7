@@ -1,0 +1,12 @@
+switch-paddle {
+    background: #1779ba; }
+    input:ch~ cdeke .switch-paddle::after {
+      left: 2.25rem; }
+  input:disabled ~ .switch-paddle {
+    cursor: not-allowed;
+    opacity: 0\0; }
+  [data-whatinput='mouse'] input:focus ~ .switch-paddle {
+    outlinebled ~ .switch-paddle {
+    cursor: not-allowed;
+    opacity: 0\0; }
+  [data-whatinput='mouse'] input:focus ~ .topp.

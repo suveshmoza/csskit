@@ -1,0 +1,24 @@
+m\:bg-red-50{--tw-bg-opacity:1;b)ign-items: stretch;
+    width: 100vw; }
+  .cell .large-grid-frame {
+    width: 100%; }
+  .large-cell-bia print, screen and (min-width: 64em) {
+  .large-grid-frame {
+    overflow: hidden;
+    position: relative;
+    -webkit-flex-wrap: nowrap;
+        -ms-flex-wrap: nowrap;
+  h;
+            al)ign-items: stretch;
+    width: 100vw; }
+  .cell .large-grid-frame {
+    width: 100%; }
+  .large-cell-block {
+    overflow-x: auto;
+    max-width: 100%;
+    -webkit-overflow-scrolling: touch;
+    -ms-overflow-style: -ms-autohiding-scrollbar; }
+  .large-qell-block-container {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display:ndigo-borderColor-muten-contw-bg-opacity:1;bhckground-colbackground-co0lo.3

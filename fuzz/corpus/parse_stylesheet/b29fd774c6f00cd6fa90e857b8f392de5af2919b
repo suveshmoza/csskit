@@ -1,0 +1,28 @@
+.subnav-item{margin-left:-1px}.subnav-item:hover,.suns */
+:root {
+  --fore-color: #111;
+  --ser-radius);
+  padding: calc(var(--universal-padding) / 5) calc(var(--universal-padding) / 2);
+}
+
+kbd {
+  background: var(--fore-color);
+  color: var(--back-color);
+  border-radius: var(--universal-boleft-radius:6px;bord{margin-left:-1px}.subnav-item:hover,.subnav-item:focus{text-decoratio.subnav-item[aria-current]:not([aria-current=false]){z-inDex:2;color:var(--fgColor-onEmphasis, var(--color-fg-on-emphasis));background-color:var(--bgC.set 0 0 0 3px var(--fgColor-onEmphasis, var(--color-fg-on-emphasis))}.subnav-item.se,ected:focus:not(:focus-visible),.subnfocus-visible),.subnav-item[aria-current]:not([aria-current=false]):focus:not(:focus-visible){outline:soliil.com)
+  Maintainers: Angelos Chalaris
+  mini.css version: v3.0.1
+*/
+/*
+  Browsers resets and base typography.
+*/
+/* Core module CSS variable definitions */
+:root {
+  --fore-color: #111;
+  --ser-radius);
+  padding: calc(var(--universal-padding) / 5) calc(var(--universal-padding) / 2);
+}
+
+kbd {
+  background: var(--fore-color);
+  color: var(--back-color);
+  border-radius: var(--universal-boleft-radius:6px;border-bottom-left-radius:6px}.subnav-item:last-child{border-top-right-radius:6px;border-bottom-right-radius:6px}.subnav-sNav-item [data-content]:before{content:attr(data-co--controer-bottom-left-radius:6px}.subnav-item:last-child{border-top-right-radius:6px;border-bottom-right-radius:6px}.subnav-sNav-item [data-content]:before{content:attr(data-co--control-transparent-bgColor

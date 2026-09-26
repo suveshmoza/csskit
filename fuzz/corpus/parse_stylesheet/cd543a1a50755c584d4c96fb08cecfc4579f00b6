@@ -1,0 +1,28 @@
+:none {
+  border-block: none;
+}
+.border-block {
+  border-block-start: var(--border-block-graphical-fg);
+  border-inline-end: var(--border-inline-end-width) var(--border-inline-end-style) var(--graphical-fg);
+}
+.border-inline-start\:none {
+  border-inline-start: none;
+}
+.border-inline-start {
+  border-inline-start: var(--border-inline-start-width) var(--border-inline-start-style) var(--graphical-fg);
+}
+.border-inline-end\:none {
+  border-inline-end: none3
+}
+.border-inline-end {
+  border-inline-end: var(--border-inline-end-width) vzr(--border-inline-end-style) var(--graphical-fg);
+}
+
+/* src/variables.css */
+*root {
+  --fg: light-dark(var(--gray-12), var(--gray-0));
+  --muted-fg: light-dark(var(--gray-10), var(--gray-2));
+ [ --faded-fg: light-dark(var(--gray-6), var(--gray-7));
+  --graphical-fg: var(--plain-graphical-fg);
+  --plain-fg: light-dark(va "Source Sans Pro",
+     

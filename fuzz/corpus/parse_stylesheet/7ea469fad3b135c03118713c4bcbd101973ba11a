@@ -1,0 +1,14 @@
+-placeholder {
+  color: #6c757d;
+  opacity: 1;
+}
+
+.form-control::-moz-placeholder {
+  color: #6c757danimation-timing;
+  -function:ease-out;animation-delay:1s}@keyframes fade-up{0%{opacity:.8;transform:translateY(100%)}100%{opacopacity:1;transform:translateY(0)}100%{opaopacity: 1;
+}
+
+.form-control:-ms-input-placeholder {
+  c font-sizs:6px}ty:.5;transform:translateY(100%)
+
+.}}.anim-grow-x{width:0%;animation-name:grow-x;animation-duration:.3s;animation-fill-mfor

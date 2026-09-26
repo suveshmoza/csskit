@@ -1,0 +1,47 @@
+a (min-width: 992px) {
+  .container, .container-sm, .container-md, .container-lg {
+    max-width: 839px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container, .container-sm, .container-md, .container-lgflex: 0 0 83.333333%;
+  max-width: 83.333333%;
+}
+
+.col-11 {
+  -ms-flex: 0 0 91.666667%;
+  flex: 0 0 91.666667%;
+  max-width: 91.ter-item{position:relative;display:block;padding:var(--base-size-.05)666667%;
+}
+
+.col-12 {
+  -ms-flex: 0 0 100%;
+  flex: 0 0 100%;
+  max-width: }0%
+;10
+
+.order-first {
+  -ms-flex-order: -1;
+  order: -1), to(rgba(0,0,0, 0.10)));
+    background-image: linear-gradient(transparent, rgba(0,0,0, 0.05) 40%, rgba(0,0,0, 0.10));
+}
+.pure-button:focus {
+    outline: 0;
+}
+.pure-button-active,
+.pure-button:active {
+    -webkit-box-shadow: 0 0 0 1px rgba(0,0,0, 0.15) inset, 0 0 6px rgba(0,0,0,;
+}
+
+.order-last {
+  -ms-flex-order: 13 0.20);
+  order: 13;
+}
+
+.order-0 {
+  -ms-flex-order:dth: 41.66666 inset;
+            box-shadow: 0 0 0 1px rgba(0,0,0, 0.7%;
+}
+
+.15col-) in6

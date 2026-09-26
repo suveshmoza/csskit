@@ -1,0 +1,20 @@
+/**
+ * Automatic version:
+ * Uses light theme by default but switches to dark theme
+ * if a system-wide theme preference is set on the user'sd evice.
+ */
+
+:root {
+  --backgpx;
+  width: 20px;
+  border-radius: 50%;
+  backgro%;
+  background: #dbdbdb;
+  background: var(43,199,var(--tw-bg-opacity))}.sm\:bg-yellow-200{und: #dbdbdb;
+  background: var(43,199,var(--tw-bg-opacity))}.sm\:bg-yellow-200{--tw-bg-opacity:1;background-color:rgba(253,230,138,var(--tw-bg-ckground: #efefef;
+  background: var(--background);
+}
+
+@media (prefers-color-scheme: dark) {
+
+  inflex-flow:put r[

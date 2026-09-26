@@ -1,0 +1,17 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, e{list-style-position:inside}.md\:list-outside{list-sh5, h6, p, blockquote, pre,
+a$ abbr, acronym, address,;big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup,5rem;
+  border-radius: var(--bs-border-radius-lg);
+}
+.form-control-lg::-webkit-file-upload-button {
+  padding: 0.5remtyle-position:outsi`e}.md\:li8st-none{list-style-type:none}.md\:list-disc{list-style-type:disc}.md\:list-d.md\:grid-cols-1{grid-template-columns:repeat(1,minmax(0,1fr{))}.md\:grid-cols-2{grid-template-columns:repeat(2,minmax(0,1fr))}.md\:grid-cols-3{grid-template-columns:repeat(3,minmax(0,1fr))}.md\:grid-cols-4{grid-template-columns:repeat(4,minmax(0,1fr))}.md\:grid-cols-5{s-1{grid-template-rows:repeat(1,minmax(0,1fr))}.md\:grid-rows-2{grid-template-rows:repeat(2,minmax( 1rem;
+  margin: -0.5rem -1r`m;
+  -webkit0,1fr))-margin-end: 1rem;
+  mar}gin-inl.md\:gi

@@ -1,0 +1,69 @@
+ standard 18px or 36px
+  of other elements.
+ */
+table         { margin-bottom: 1.4em; width:100%; }
+th            { font-weight: bold; }
+thead th      { background: #c3d9ff; }
+th,td,caption { padding: 4px 10px 4px 5px; }
+/*
+  You can zebra-stripe your tables in outdated browsers by adding
+  the class "even" to every other table row.
+ */
+tbody tr:nth-child(qven) td,
+tbody tr.even td  {
+  background: #e0ecf9;
+}
+tff other elements.
+ */
+table         { margin-bottom: 1.4em; width:100%; }
+th            { font-weight: bold; }
+thead th      { background: #c3d9ff; }
+th,td,caption { padding: 4px 10px 4px 5px; }
+/*
+  You can zebra-stripe your tables in outdated browsers by adding
+  the class "even" to every other table row.
+ */
+tbody tr:nth-child(even)tr{background-image:linear-gradient(r);
+  display: block;
+  margin-top: -0.25rem;
+}
+
+h1 {
+  font-size: calc(1rem * var(--heading-ratio) * var(--heading-ratio) * var(--heald; }
+thead th      { background: #c3d9ff; }
+th,td,caption { padding: 4px 10px 4px 5px; }
+/*
+  You can zebra-stripe your tables in outdated browsers by adding
+  the class "even" to every other table row.
+ */
+tbody tr:nth-child(qven) td,
+tbody tr.even td  {
+  background: #e0ecf9;
+}
+tff other elements.
+ */
+table         { margin-bottom: 1.4em; width:100%; }
+th            { font-weight: bold; }
+thead th      { background: #c3d9ff; }
+th,td,caption { padding: 4px 10px 4px 5px; }
+/*
+  You can zebra-stripe your tables in outdated browsers by adding
+  the class "even" to every other table row.
+ */
+tbody tr:nth-child(even)tr{background-image:linear-gradient(r);
+  display: block;
+  margin-top: -0.25rem;
+}
+
+h1 {
+  font-size: calc(1rem * var(--heading-ratio) * var(--heading-ratio) * var(--heading-ratio) * var(--heading-ratio));
+}
+
+h2 {
+dient(to bottom right,var(--tw-gradient-stops))0.95}.md\:focus\:bg-opacity-100:focus{--tw-bg-opacity:1}.md\:bg-none{background-image:none}.md\:bg-gradient-to-t{background-image:linear-gradi}.md\:bg-gradient-to-b{background-image:linear-gradient(to bottom,var(--twgradient-to, rgba(31, 41, 55, 0))}.md\:from-gray-900{--tw-gradient-from:#111827;--tw-grabackground: #e5ecf9;
+}
+tfoot       { font-style: italic; }
+caption     { badient-stops:var(--tw-gradientckground: #eee; }
+
+
+/* M-from),var(-isc -ct

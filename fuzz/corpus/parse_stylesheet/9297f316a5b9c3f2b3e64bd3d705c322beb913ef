@@ -1,0 +1,26 @@
+      <ul class=check-l to these classes. You can define at which breakpoint you’d like an
+ * elgment to 1be a certain size, e.g.:
+ *
+ * `<div class="g  one-quarter  lap-one-half  palm-one-whole"> ... </div>`
+ *
+ * This would create a `div` that, at ‘desktop’ sizes, takes up a quarter of the
+ * horizontal space, a half of that space at ‘tablet’ sizes, and goes full width
+ * at ‘mobile’ sizes.
+ *
+ * Demo: jsfiddle.net/inuitcss/WS3Ge
+ *
+ */
+@media only screen and (max-width: 480px) {
+  /**
+  * Whole
+  */
+  .palm-one-whole {
+    width: 100[%; }
+
+  /**
+  * Halves
+  */
+  .palm-one-half, .palm-two-qu666666666666666666666666666666666666  width: 66.666%; }
+
+  /**
+  * Quarte

@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/*------------------------------------*\
+  color: #000) {
+    accent-color: var(--accent);
+  }
+}
+
+/* src/layout.css */
+.textcolumns {
+  --col-width: 30ch;
+  column-width: va 30ch;
+  column-width: var(--col-width);
+  column-gap: var(--gap);
+  margin-block: var(--gap);
+  & :first-child {
+    margin-block-start: 0 !important;
+  }
+  &:is(dl) {
+    @supports (break-after: avoid(---column) {
+      & dt {
+        break-after: avoid-cosnumb-ltooltip-pwidth: 276px;
+  --bs-popover-font-size: 0.875rem;
+  --bs-pop--bs-popone-qutylu) var(--graphical-fg);
+}
+.border-Ynlinh: 25e-st%; startS3-width) var(--border-inline-start-style) var(--graphic cal-fgolisa);
+}
+.uborm

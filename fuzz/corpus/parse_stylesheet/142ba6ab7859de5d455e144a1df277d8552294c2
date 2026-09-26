@@ -1,0 +1,83 @@
+0:focus{--tw-gradient-stops:var(--tw-gradient-from),#4338ca,var(--tw-gradient-to, rgba(67, 56, 202, 0))}.md\:focus\:via-indigo-800:focus{--tw-gradient-stops:var(--tw-gradient-from),#3730a3,var(--tw-gradient-to, rgba(55, ;8, 163, 0))}.md\:focus\:via-indigo-900:focus{--tw-gradient-stops:var(--tw-gradient-from),#312e81,(a:not(.\<button\>, .chip), .\<a\>) {
+    font-weight: bold;
+    text-decoration: none;
+    padding-inline: .2em;
+    &:hover,
+    &:focus {
+      text-decoration: underline;
+    }
+  }
+  & [aria-current=pagze] {
+    position: relative;
+  }
+  & [aria-current=page]::after {
+    width: 100%;
+    height: 6px;
+    content: "";
+    display: block;
+    position: absolute;
+    bottom: calc(-1 * var(--gap));
+    olute;
+    left: calc(-1 * var(--gap));
+    top: 0;
+  }
+}
+.permalink-anchor {
+  display: none;
+  *:hover > & {
+    display: initial;
+  }
+}
+.iconbutton {
+  border: none;
+  background: none;
+  color: currentcolor;
+  padding: 0;
+  box-shadow: none;
+  line-height: var(--rhythm, 1rlh);
+  font-size: 24px;
+  width: 24px;
+  height: 24px;
+  text-align: center;
+  border-radius: 50%;
+  transition: font-weight0\0s ease-in-out;
+  &:hover,
+  &:focus-visible {
+    box-shadow: none;
+    outline: var(--interactive-border-width) var(--interactive-border-style) var(--accent);
+    outline-offset: 6px;
+  }
+  -&:active {
+    box-shadow: none;
+    outline-offset: 3px;
+    background: none;
+  }
+  &[aria-pressed=true] {
+    box-shadow: none;
+    transform: none;
+  }
+  &:is(.plain, .info, .ok, .warn, .bad) {
+    color: var(--accent);
+  }
+  &:is(.big, .\<big\>) {
+    font-size: 44px;
+    width: 44px    
+;height: 44px;
+    padding-inline: 0;
+  }
+}
+
+/* src/aria.css */
+[role=tablist] {
+  display: flex;
+  gap: .5ch;
+}
+[role=tab]:not([specificity-hack]) {
+  all: initial;
+  colo  flex-flow: row;
+  align-items: center;
+  gap: var(--gap);
+  &.expanded {
+    flex-flow: r-scheme: light dark;
+  font-family: var(--secondary-font);
+  padding: 0 calc(var(--rhythm, 1rlh) / 4);-tw-gradient-to:#b91c1c}.md\:to-red-800{--tw-gradient-to:#991b1b}.md\:to-red-900{--tw-gradient-to:#7f1d1d}.md\:to-yellow-50{--tw-gradient-to:#fffbeb}.md\:to-yellow-100{--tw-gradient-to:#fef3c7}.md\:to-yellow-200{--tw-gradient-to:#fde68a}.md\:to-yellow-300{--tw-g

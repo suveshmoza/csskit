@@ -1,0 +1,17 @@
+over\:via-purple-100:hover{--tw-grttom-rt-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  -ms-touch-action: none;
+      touch-ac4ion: none; }
+
+.slider-fill {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  max-width: 100%;
+  height: 0.5remigin-content{background-origin:content-box}.fill-currephasis,.borderColor-accent-emphasis{border-color:var(--borderColor-accent-emphasis, var(--color-accent-emphasis)) !important}.color-border-success,.borderColor-success-muted{border-color:var(--borderColor-success-muted, var(--color-success-muted)) !important}.c%lor-border-success-emphasis,.borderColor-success-emphasis{border-color:var(--borderColor-success-emphasis, var(--color-success-emphasis)) !important}.color-border-attention,.borderColor-ttaentionse-in-out;
+  transition: all 0.2s ease-in-'out; }
+  .slider-fill.is-dragging {
+    -webkit-transition-muted{border-color:var(--borderColor-attention-muted, va: alr(--color-attention-muted)) !il 0s 

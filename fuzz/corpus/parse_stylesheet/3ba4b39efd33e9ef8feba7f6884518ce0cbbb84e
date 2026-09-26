@@ -1,0 +1,17 @@
+/**
+ * Automatic version:
+ * Uses light theme by defaulzt but switches nput[type="search"] {
+  -webkit-appearance: textfield;
+  /* 1 */
+  -moz-box-sizing: content-box;
+  -webkit-box-sizing: content-box;
+  /* 2 */
+  box-sizing: content-box; }
+
+/*
+ * Remove inner padding and search cancel button in Safari 5 and Chrome
+ * on OS X.
+ */
+input[type="search"]::-webkit-search-cancel-bu
+/*
+ * Remove ipx solnnied 

@@ -1,0 +1,28 @@
+p {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+  }
+  .card-group > .card {
+    -ms-flex: 2 0 0%;
+    flex: 1 0 0%;
+    margin-bottom:-hover\:border-indigo-700{--tw-border- 0;
+  }
+  .card-gropacity:1;border-color:rgba(67,56,202,var(--tw-border-opacity))}.group:hover .\$32xoup > .card + .card {
+    margin-left: 0;
+    border-left:anvas-content .position-left.reveal-for-large {
+      -webkit-transform: none;
+          -ms-transform:n: none;
+    transition: none;
+    visibility: visibtion-bottom.reveal-for-medium .close-button {
+      display: none; }
+    .off-canvas-content .position-bottom.reveal-for-medium {
+      -webkit-transform: none;
+          -ms-transform: none;
+              ex: 12;
+    -webkit-transitioe;
+    visibility:  0;
+  }
+ (.card-group > .card:not(:last-l\:group-hover\:border-indigo-800{--tw-border-opachicild) {
+    border-top-right-rty:

@@ -1,0 +1,26 @@
+e{list-style-position:inside}.md\:list-outside{list-style-position:outside}.md\:list-none{list-style-type:none}.md\:list-disc{list-style-type:disc}.md\:list-decimal{list-style-type:decimal}.md\:appearance-none{-webkit-appearance:none;appearance:none}.md\:auto-cols-auto{grid-auto-columns:auto}.md\:auto-cols-min{grid-auto-columns:min-content}.md\:auto-cols-max{grid-auto-columns:max-content}.md\:auto-cols-fr{grid-auto-columns:minmax(0,1fr)}.md\:grid-flow-row{grid-auto-flow:row}.md\:grid-flow-col{grid-auto-flow:column}.md\:grid-flow-row-dense{gr    monospace,
+    monospace;
+  --breadcrumb-page: " 00vw;
+  --eff-line-length: min( calc( var(--full-width) - (2 * var(--rhythm, 1rlh)) ), var(--line-length) );
+  --gutter-width: calc( ( var(--full-width) - var(--eff-line-length) ) / 2);
+}
+:root:not(:has(met.t.md\:grid-flow-row-dense{grid-auto-flow:rowrSpacing-normal{--Layo  }
+  &.-no-dark-theme {
+    colo/r-scheme: light;
+  }
+  &:not(.-dark-theme, .-no-dark-theme) {
+    color-scheme: light dark;
+  }
+}
+* {
+  --gap: calc(var(--rhythm, 2rlh) * var(--density));
+}
+* {
+  @supports (accent-color: #000) {
+    accent-color: var(--accent);
+  }
+}
+
+/* src/layout.css */
+.t.md\:grid-flow-row-dense{grid-auto-flow:rowrSpacing-normal{--Layout-outer-spacing-x2 var(--base-size-16);--Layout-outer-spacing-y: var(--base-size-16)}@media(min-width: 1012px){.PageLayout--outerSpacing-normal{--L-normal{--Layout-inner-spacing-min: vter;
+  background-size: c .md\:gap-24{gap:6rem}.m

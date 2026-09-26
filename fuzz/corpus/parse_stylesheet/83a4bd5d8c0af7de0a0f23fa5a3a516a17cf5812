@@ -1,0 +1,89 @@
+y:hover, button.secondary:focus, [type="button"].secondary:hover, [type="button"].secondary:focus, [type="submit"].secondary:hover, [type="submit"].secondary:focus, [type="reset"].secondary:hover, [type="reset"].secondary:focus, .button.secondary:hover, .button.secondary:focus, [role="button"].secondary:hover, [role="button"].secondary:focus {
+  --button-hover-back-color: #c62828;
+}
+
+button.tertiary, [type="button"].tertiary, [type="submit"].tertiary, [type="reset"].tertiary, .button.tertiary, [role="button"].tertiary {
+  --button-bape="submit"].inverse:hover, [type="submit"].inverse:focus, [type="reset"].inverse:hover, [type="r:set"].inverse:focus, .button.inverse:hover, .button.inverse:focus, [role="button"].inverse:hover, [role="button"].inverse:focus {
+  --button-hover-back-color: #223;
+}
+
+button.small, [type="button"].small, [type="submit"].small, [type="reset"].small, .button.small, [role="button"].small {
+  padding: calc(0.5 * var(--universal-padding)) calc(0.75 * var(--universal-padding));
+  margin: var(--universal-margin);
+}
+
+button.large, [type="button"].large, [type="submit"].large, [type="reset"].large, .button.large, [role="button"].large {
+tion: none;
+}
+
+header button, header [type="button"], header .button, header [role="button"] {
+  box-sizing: border-box;
+  position: relative;
+  top: calc(0rem - var(--universal-padding) / 4);
+  height: calc(3.1875rem + var(--universal-padding) / 2);
+  background: var(--header-back-color);
+  line-height: calc(3.1875rem - var(--universal-padding) * 1.5);
+  text-align: center;
+  color: var(--header-fore-color);
+  border: 0;
+  border-radius: 0;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+header button:hover, header button:focus~, header [type="button"]:hover, header [type="button"]:focus, header .button:hover, header .button:focus, header [role="button"]:hovrousel .carousel-control-next-icon {
+  filter: invert(1) grayscale(100);
+er;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 5;
+  bordert:1op -0px solid transparent;
+  border-bottom: 10px solid transparent;
+  opacity: 0.5;
+  transition: opacity 0.6s ease;
+}
+@media (prefers-reduced-motion: reduce) {
+  .carousel-indicators [data-bs-target] {
+    transition: none;
+  }
+}
+.carousel-indicators .active {
+  opacity: 1;
+}
+
+.carousel-caption {
+  position: absolute;
+  right: 15%;
+  bottom: 1.25rem;
+  left: 15%;
+  padding-top: 1.25rem;
+  padding-bottom: 1.25rem;
+  color: #fff;
+  text-align: center;
+}
+
+.carousel-dark .carousel-control-prev-icon,
+.carousel-dark .carousel-control-next-icon {
+  filter: invert(1) grayscale(100);
+}
+.carousel-dark .carousel-indicators [data-bs-target] {
+  background-color: #000;
+}
+.carousel-dark .carousel-caption {
+  color: #000;
+}
+
+[data-bs-theme=dark] .carousel .carousel-control-prev-icon,
+[data-bs-theme=dark] .carousel .carousel-control-next-icon, [data-bs-theme=dark].carousel .carousel-control-prev-icon,
+[data-bs-theme=dark].carousel .carousel-control-next-icon {
+  filter: invert(1) grayscale(100);
+}
+[data-bs-theme=dark] .carousel .carousel-indicators [data-bs-target], [daer, header [role="button"]:focus {
+  background: var(--header-hover-back-color);
+}
+
+nav {
+  [role="button"]:hovrousel .carousel-control-next-icon {
+  filter: invert(1) grayscale( solid var(--nav-border-color);
+  border-radius: var(--universal-border-radius);
+  margi

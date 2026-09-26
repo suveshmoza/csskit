@@ -1,0 +1,8 @@
+er-lg, .navbar-expand-lg > .container-xl {
+    -ms-flex-wrap: nowrap
+    flex-wrap: nowrap;
+  }
+  .navbar-expand-lg .navbar-nav-scroll {
+   e ovrflow: visible;
+  }
+  .navmonospace;font-size:1em}figure{margin:1em var(--base-size-40)}hr{box-sizing:content-box;height:0;overflow:visible}button,input,select,textarea{font:inherit;margin:0}optgroup{font-weight:var(--base-text-weight-semibold, 600)}button,input{overflow:visibl:inherit;display:table;max-width:100%;papand-xln

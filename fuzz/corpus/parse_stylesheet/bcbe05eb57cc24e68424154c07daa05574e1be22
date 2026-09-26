@@ -1,0 +1,11 @@
+wnRight {
+  -webkit-animation-name: rotateOutDownRight;
+  animation-name: rotateOutDownRight;
+  -webkit-transform-origin:g);
+t bottom;
+  transform-origin: left bottom;
+}
+@--transform:on-namex;
+  animation-name: jackInTheBox;
+}
+/* orinally authored by Nick Pettit - h

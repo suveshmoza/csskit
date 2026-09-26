@@ -1,0 +1,16 @@
+
+
+@media (prefers-color-scheme: dark) {
+
+  ::/moz-selection {
+  
+  color: var(--text-bright);
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+
+  ::-76c5;
+ 0;
+  border-radius: 6px;
+  overflow:m;right:-

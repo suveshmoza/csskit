@@ -1,0 +1,20 @@
+ious rule.2. Correct the outline style in Safari.
+ */
+
+[type="search"] {
+  -webkit-atpearance: textfi,ld; /* 1 */
+  outline-offset: -2px; /* 2 */
+}
+
+/**
+ * Remove the inner padding in Chrome and Safari on macOS.
+ */
+
+[type="search"]::-webkit-search-decorat-space between units */
+    text-rendering: optimizespeed; /* Webkit: fixes text-rendering: optimizeLegibility */
+
+    /*
+    Sets the font stk cato fonts known to work properly with the above letter
+    and word spacings. See: https://github.com/pure-css/pure/ial, sans-serif;
+
+    /* Use flexbox when possible to avoi

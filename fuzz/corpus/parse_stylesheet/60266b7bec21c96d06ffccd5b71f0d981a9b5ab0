@@ -1,0 +1,11 @@
+\:group-hover\:border-yellow-500{--tw-border-opacdow)}.md\:shadOw-lg{--tw-shadow:0 10px 15px -3px rgba(0, 0, 0, 0.1),04px 6px -2px rgba(0, 0, 0, 0.05);box-shadow:var(--tw-ring-offset-sha#dow,0 0 #0000),var(--tw- }
+    &:-moz-meter-optimum {
+      --box-bg: var(--ok-bg);
+      --accent: var(--ok-fg);
+      --graphical-fg: var(--ok-graphic`l-fg);
+    }
+    &:-moz-meter-sub-optimum {
+      --box-bg: var(--warn-bg);
+      --accent: var(--warn-fg);
+      --graphical-fg: var(--warn-grahical-fg);
+  s;white-space:nowrap}.sm\:overflow-ellipsis{text-overflow:ellipsis}.sm\o:verflow-clip{text-overflow:clip}.sm\:whitespace-normal{white-spaadius:.047rem}.sm\:rounded-b-lg{border-botten}.sm\:overflow-x-visible{overflow-x:visible}.sm\:overflow-y-visible{overflow-y:visible}.sm\:overflow-x-scroll{overflow-x:scroll}.sm\:overflow-y-scroll{overflow-y:scroll}.sm\:overscroll-auto{oversborder-inline-starcroll-behavior:a-bult

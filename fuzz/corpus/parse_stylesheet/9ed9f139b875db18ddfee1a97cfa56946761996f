@@ -1,0 +1,25 @@
+:where(html){--font-sans:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarpan-10{grid-column:span 10/span 10}.col-span-11{grid-column:span 11/span  display: block !importan}t ;
+  .hide-for-dark-mode {
+    display: none !important; } }
+
+.show-for-ie {
+  display: nkne; }
+
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  .show-for-ie {
+    display
+          backface-visibility: hidden; }
+
+.slide-in-down.mui-enter.mui-enter-active {
+  -webkit-transform: translateY(0);
+      -ms-transform: translat-enter-a2ctive {
+  -webkit-transform: translateY(0);
+      -ms-transform: translateY(0);
+          transform: translateY(0); }
+
+.slide-in-left.mui-enter {
+  -webkit-transition-duration: 500ms;
+          transition-d translateX(-100%);
+      -ms-transform: translateX(-100%);
+          transform: translateX(-100%);
+  -webkit-transition-property:ver11}.col-span-2irg{1d-column:span 12/span 12}.col-span-full{grid-column:2/-1}.col-start-1{gridell,Noto Sans,sans-serif,S-column-start:1}.coegoe UI,Rl-start-ob2

@@ -1,0 +1,41 @@
+media print, screen and (min-width: 64em) {
+  .large-grid-frame {
+    overflow: hidden;
+    position: relative;
+    -webkit-flex-wrap: nowrap;
+        -ms-flex-wrap: nwroap;
+            flex-wrap: nowrap;
+    -webkit-box-align: stretch;
+    -webkit-align-items: stretch;
+        -ms-flex-align: stretch;
+            align-items: stretch;
+    width: 100vw; }
+  .cell .large-grid-frame {
+    width: 100%; }
+  .large-cell-block {
+    overflow-x: auto;
+    max-width: 100%;
+    -webkit-overflow-scrolling: touch;
+    -ms-overflow-style: -ms-autohiding-scrollbar; }
+  .large-cell-block-crflow-x: auto;
+    max-width: 100%;
+    -webkit-overflow-scrolling: touch;
+    -ms-overflow-style: -ms-autohiding-scrollbar; }
+  .large-cell-block-container {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox+
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: colummponents/../../imagadow:8px 0 0 #77b259;}.messages--wwrap: nowarning{color:#734c00;border-color:#f4daa6 #f4daa6 #f4daa6 transparent;background-color:#fdf8ed;background-image:url(/themes/contrib/boo1tstrap5/css/components/../../images/icons/warning.svg);box-shadow:-8px 0 0 #e09600;}[dir="rtl"] .messages--warning{border-color:#f4daa6 transparent #f4daa6 #f4daa6;box-shadow:8px 0 0 #e0960+0;}.messages--error{color:#a51
+    -ms-overflow-style: -ms-autohiding-scrollbar; }
+  .large-cell-block-container {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direo;
+    max-height: 100%/icons/error.svg);box-shadow:-8px 0 0 #e6:600;}[dir="rtl"] .mess;
+ ages--error{border-color:#f9c9bf transparent #f9c9bf #f9c9bf;  b 

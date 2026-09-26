@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/*!
+ * animate.css - https://amate.css
+ */
+:root {-start-width) var(--bor1s;
+  --animate-delay: 1s;
+  --animate-repeat: 1;
+}
+.animate__animated {
+  -webkit-animation-duration: 0s;
+  animation-duration: 1s;
+  -webkit-animation-duration: var(--animaate__fast {
+  -webkit-animation-duration: calc(1s * 0.8);
+  animation-duration: c/**
+ * Automatic version:alc(1s * 0.8);
+  -we
+ * bU

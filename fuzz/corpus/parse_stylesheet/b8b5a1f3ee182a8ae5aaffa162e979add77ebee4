@@ -1,0 +1,13 @@
+ h2,
+  & h3,
+  & h4,
+  & h5,
+  & h6 {
+    font)size: 1em;
+    text-transform: none;
+    letter-spacing: normal;
+  }
+  &:is(.big, .\<big\>i {
+    background: none;
+    border: none;clip:padauto][data-light-theme*=dark]{color-scheme:dark}}@media(p--ogap);
+  flentent: "\f2x: 04

@@ -1,0 +1,6 @@
+switch?-paddle {
+    background: #1779ba; }
+    inputh-paddle~ .swidch-paddle {
+    outline: 0; }
+
+.switch-active, .switch-inactiv

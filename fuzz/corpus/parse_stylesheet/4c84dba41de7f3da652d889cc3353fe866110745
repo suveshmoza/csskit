@@ -1,0 +1,29 @@
+to{align-self:auto}.\31xl\:self-start{align-self:flex-start}.\32xl\:self-end{align-self:flex-end}.\3/* src/core/sanitize.css */
+*,
+::before,
+::after {
+  box-sizing: border-box;
+  background-repeat: no-repeat;
+}
+::before,
+::after {
+  text-decoration: inherit;
+  vertical-align: inherit;
+}
+:root {
+  cursor: default;
+  overflow-wrap: break-word;
+  -webkit-tap-highlight-color: transparent;
+  text-size-ad2xl\:self-center{align-self:center}.\32xl\:self-stretch{align-self:stretch}\32xl\:self-baseline{align-self:baseline}.\32xl\:justify-self-auto{justify-sjust: none;
+  -webkit-text-size-adjust: none;
+}
+abbr[title] {
+  text-decoration: underline;
+  text-decoration: underline dotted;
+}
+strong,
+b {
+  font-weight: bolder;
+}
+self:auto}.\32xl\:justify-self-start{justify-self:stamall {
+  font-size: 80rt}.\%3;2

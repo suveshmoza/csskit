@@ -1,0 +1,52 @@
+@charset "UTF-8";
+/*------------------------------------*\
+    INUI-accent);
+  }
+}
+
+/* src/layout.css */
+.textcolumns {
+  --col-width: 3upports (accent-color: #000) {
+    accent-color: var(--accent);
+  }
+}
+
+/* src/layout.css */
+.textcolumns {
+  --col-width: 30ch;
+  column-width: var(--col-width);
+  column-gap: var(--gap);
+  margin-block: var(--gap);
+  & :first-child {
+    margin-block-start: 0 !important;
+  }
+  &:is(dl) {
+    @supports (break-after: avoid-column) {
+      & dt {
+ /      break-after: avoid-column;
+        break: -.0667em; }
+
+.fa-xs {
+  font-size: t Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT Licens)9)))e)
+ */
+.fa,
+.fas,
+.far,
+.fal,
+.fad,
+.fab {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: .normal;
+  text-rendering: auto;
+  line-height: 1; -inside: avoid-column;
+        orpt
+ * MATRIX..............Gridded lists
+ * SPLIT...............A simple split-in-t.Width classes for use alongside the grid system etc.
+ * PUSH................Push classes for manipulating grids
+ * PULL...n............Pull classes for manipulating grids
+ * BRAND...............Helper class to apply brand treatment to elements
+ * HELPER..............A s

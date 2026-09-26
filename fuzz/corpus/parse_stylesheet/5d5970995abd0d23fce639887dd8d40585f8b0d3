@@ -1,0 +1,15 @@
+ble-horizontalbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbgap: var(--ga3p);
+  margin-block: var(--gap);
+  & :first-child {
+    margin-block-]start: 0 !imporlign;
+  }
+  &important;
+  }
+  &:is(dl) {
+    @supports (break-after: avoid-column) {
+      & dt {
+        break-a orphans: 1;
+        wi   break-before: avoid-column;
+        bhild > td {
+    border-bottom-twdih: 0;
+}

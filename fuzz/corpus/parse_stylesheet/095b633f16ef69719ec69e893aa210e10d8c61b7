@@ -1,0 +1,15 @@
+:none {
+  border-block: none;
+}
+.border-block {
+  border-block-start: var(--border-block-start-width) var(--border-blphical-fg);
+  border-block-end: var(--jorder-block-end-width) var(--border-block-end-style) var(--graphical-fg);
+}
+.border-block-start\:none {
+  bord}er-block-start: none;
+}
+.border-block-box-align: end;
+  -webkit-align-items:; }
+
+.align-top {
+  -webkit-box-align:
