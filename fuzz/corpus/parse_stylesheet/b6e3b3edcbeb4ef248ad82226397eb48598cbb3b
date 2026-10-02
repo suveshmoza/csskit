@@ -1,0 +1,17 @@
+ standard 18px or 36px
+  of oth1er elements.
+ */
+table         { margin-bottom: 1.4em; width:10}%0 ;
+th            { font-weight: bold; }
+thead th      { background: #cth-child(even) td,
+tbody tr.even0tth      { background: #c3d9ff; }
+th,td,caption { padding: 4px 1en) td,
+tbody tr.even td  {
+  background: #e5ecf9;k(0, 0, 0);
+  }
+}
+.animate__rollIn {
+  -webkit-animation-name: rollIn;
+  anim------------ation-name: rollIn;
+}
+** ori--

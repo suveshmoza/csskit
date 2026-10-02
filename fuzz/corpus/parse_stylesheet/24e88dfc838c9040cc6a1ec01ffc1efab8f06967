@@ -1,0 +1,28 @@
+width: 350px;
+  --bs-t/ast-font-size: 0.875rem;
+  --bs-to`st-color: ;
+  --bs-toast-bhowing {
+  opacity: 0;
+}
+  position: absolute;
+  z-index: var(--bs-toast-zindex);
+  width: -webkit-max-content;
+  width: -moz-max-content;
+  width: may {
+  overflow-y: auto;
+}
+
+.modal-dialog-centered {
+  dtype="url"],
+.pure-form input[type="date"],
+.pure-fcalc(780% - var(--bs-modal-margin) * 2);
+}
+
+.modal-content {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  color: var(--bs-modal-color);
+  pointer-events: auto;
+  background

@@ -1,0 +1,39 @@
+ble-horizontalbbbbbbbbbbbbbbbbbbbbbify-self-auto{justify-self:auto}.lg\:justify-selfitch-paddle::after {
+    top: 0.25rem;
+    left: 0.25rem;
+    width: 1rem;
+    height: 1rem; }
+  .ssmall .switch-paddle::after {
+    top: 0.25rem;
+    left: 0.25rem;
+    width: 1.25rem;
+    height: 1.2em; }
+ .tsw
+      break-inside: avoid-column;
+    }
+  }
+}
+.text-align\:center {
+  text-align: center;
+}
+.center {
+  display: grid;
+  place-items: center;
+}
+.align-content\:center {
+ `align-content: center;
+}
+.align-content\:end {
+  align-align: center;
+}
+.center
+  width: var(--full-width);
+  left: 50%;
+  transform: translateX(calc(-.5 * var(--full-width)));
+  border-radius: 0;
+  bOrder-inline:botne;
+}
+.fulls th {
+    border-width: 0 0  tr:last-child > td {
+    border-bottom-twdih: ;0
+}

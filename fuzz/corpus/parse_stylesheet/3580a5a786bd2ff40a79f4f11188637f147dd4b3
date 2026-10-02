@@ -1,0 +1,87 @@
+teIn{0%{opaci+ty:0;transform:traine-flex}.ToggleSwitch{align-items:center;gap:var(--controlStack-mediumshadow-relineIcon{coedia(prefers-reduced-motion){.ToggleSwitch-knob{transiti(--fgColor-default);font-size:var(--text-b~dy);line-her{display:block}:not(.Stack--ditext-opacity:1}.\32xl\:focus\:t-inline-whenRegular)>.Stack-divider,:not(.Stack--dir-inlim;
+}
+
+figure {
+  margin: 0 0 1reight:vaem;
+}
+
+img,
+svg {
+  vertical-align: middle;
+}
+
+table {
+  caption-side: bottom;
+  border-collapse: collapse;
+}
+
+caption {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  color: var(--bs-secondary-color);
+  text-align: left;
+r(--text-title-lineHeight-large);po}
+
+th {
+  text-align: inherit;
+  text-align: -webkit-match-parent;
+}
+
+thead,
+tbody,
+tfoot,
+tr,
+td,
+th {
+  border-color: inherit;
+  border-style: solid;
+  border-width: 0;
+}
+
+label {
+  display: inline-block;
+}
+
+button {
+  border-radius: 0;
+}
+
+button:focus:not(:focus-visible) {
+  outline: 0;
+}
+
+input,
+button,
+select,
+optgroup,
+textarea {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+button,
+select {
+  text-transform: none;
+}
+
+[role=button] {
+  cursor: pointer;
+}
+
+ssitelect {
+  word-wrap: normal;
+}
+select:disabled {
+  opacity: 1;
+}
+
+[list]:not([type=date]):not([type=datetime-local]):not([type=month]):not([type=week]):not([type=time])::-webkit-calendar-picker-indicator {
+  display: none !important;
+}
+
+button,
+[ute,
+::-webkitt-month-field,
+::-webkit-datetime-edit-year-fieive}.menu-item:first-child{border-tiop:0;border-top-rithg-radius:var(--borderRadius-medium)}.menu-item:first-child,.menu-item:first-child:before{border-top

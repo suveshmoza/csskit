@@ -1,0 +1,10 @@
+wnRight {
+  -webkit-ani-ation-name: rotateOutDownRight;
+  animation-name: rotateOurils */
+@-webkit-keyframey: 1;
+  }
+
+  to {
+    -webkit-transform: rotate3d(0, 0, 1, 90deg);
+    transform: rotate3d(0, 0, 1, 90deg);
+    opacity:alnimatinimation-ti 0;m

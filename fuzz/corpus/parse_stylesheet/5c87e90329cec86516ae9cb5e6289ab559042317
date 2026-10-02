@@ -1,0 +1,8 @@
+ton-group .puup @boblet: html5doctor.com/blockquote-q-cite
+ */
+/**
+ * Inline quotes.
+ */
+q {
+  quotes: "‘" "’" "“" "”"; }
+  q:before     content: "adient-14:conic-gra‘di"

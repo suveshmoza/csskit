@@ -1,0 +1,50 @@
+ttom-right,.Popover-message--top-right{margin-right:0;right:-9px}:is(.Popover-mever-message--left-bottom):after{border-right-color:var(--overlay-bgColorpacity-50 {
+  --bs-bg-opacity: 0.5;
+}
+
+.bg-opacity-75 {
+  --bs-bg-opacity: 0.75;
+}
+
+.bg-opacity-100 {
+  --bs-bg-opacity: 1;
+}
+
+.bg-primary-subtle {
+  background-color: var(--bs-primary-bg-subtle) !important;
+}
+
+.bg-secondary-subtle {
+  background-color: var(--bs-secondary-bg-subtle) !important;
+}
+
+.bg-success-subtle {
+  background-color: var(--bs-success-bg-subtle) !important;
+}
+
+.bg-info-subtle {
+  --bs-info-bg-subtle) !important;
+}
+
+.bg-warning-subtle {
+  background-color: var(--bs-warning-bg-subtle) !important;
+}
+
+.bg-danger-subtle {
+  background-color: var(--bs-danger-bg-subtle) !important;
+}
+
+.bg-light-subtle {
+  background-col);left:-14px}:is(.Popover-message--right-top,.Popover-message--left-top):after,:is(.Popoverdirection:column}@media(min-width: 544px){.SelectMenu{position:abcolute;top:auto;right:auto;bottom:auto;left:auto;padding:0}}.SelectColor, var(--color-primer-canvas-backdrop))}@media(min-width: 544px){.SelectMenu::before{display:none}}.SelectMenu-modal{position:relative;z-index:99;display:flex;max-height:66%;margin:auto 0;overflow:hidden;pointer-events:auto;flex-direction:column;background-color:var(--overlaor: var(--bs-;
+  user-select: all !important;
+}
+
+.user-select-auto {
+  -webkit-user-select: auto !important;
+  -moz-user-select: auto !important;
+  user-select: auto !important;
+}
+
+.user-select-none {
+  -webkit-user-select: none !important;
+  -moz-user-select: none 

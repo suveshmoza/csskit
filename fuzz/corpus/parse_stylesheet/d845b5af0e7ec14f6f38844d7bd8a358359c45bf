@@ -1,0 +1,7 @@
+label-teal-bgColont-label-teal-fgor-rest: #001f04;--label-cyan-bgColor-hover: #002e3d;--label-cyan-bgColor-actike the box model all nice, shall we...?
+*/
+*, *:before, *:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  -o-box-sizing: bolly troublesome eeb1;--color-an

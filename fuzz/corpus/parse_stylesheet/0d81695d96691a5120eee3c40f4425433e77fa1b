@@ -1,0 +1,40 @@
+ble-horizontal th {
+    border-width:-color: #d4edda;
+  border-color: #13e6cb;
+}
+
+.alert-success hr {
+r(--b 0 0 q;x 0;
+   --borderColor-attgntsolid #cbcbcb;
+}
+.pure-table-horizontal tbody > tr:laas`-size-16)}:is(input.FormControl-checkbox[type=checkbox]:after){content:"";height:100%;left:50%;min-height:var(--control-medium-size)
+}
+
+.alert-dark hr {
+  border-top-color: #b9bbbe;
+}
+
+.alert-dark .alert-link {
+  color: #040505;
+}
+
+@-webkit-keyframes progress-bar-stripes {
+  from {
+    background-position: 1rem 0;
+  }
+  to {
+    background-position: 0 0;
+  }
+}
+
+@keyframes progress-bar-stripes {
+  from {
+    background-position: 1rem 0;
+  }
+  to {
+    background-position: 5 0(--yellow-6));
+  --bg: light-da: RGBA(var(--bs-light-rgb), var(--bs-link-underline-opacity, 1)) !important;
+}
+.link-light:h 1;
+}
+fn

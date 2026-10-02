@@ -1,0 +1,18 @@
+.mdfs{--tw-g(adient-stops:ansition-push {
+    -webkit-transform: translate(0, 0);
+        -ms-transform: translover\:via-purple-100:hover{--tw-grttom-right,.Popover-message--top-right{margin-right:0;right:nt-to, rgba(237, 233, 254, 0))}.lg\:hover\:via-purple-200:hover{--tient-stops_var(--tw-gradient-from),#6d28d9,var(--tw-gage--bottom-right):after,:is(.Popover-message--top-right,.Popover-message--bottom-right):before{left:auto;margin-left:0}:is(.Popover=step]) {
+    --separator: var(--breadcrumb-step);
+  }
+  & ul,
+  & ol {
+    padding-inline-start: 0;
+  }
+  & :is(ul, ol):not([type]) {
+    list-style-type: "";
+  }
+  & li {
+    display: inline list-ate(0, 0);
+ item;
+    &:not(:last-child)::!fter {
+      content: var(--separator, var(--breadcrumb-page)) / ""; 
+      ion t    

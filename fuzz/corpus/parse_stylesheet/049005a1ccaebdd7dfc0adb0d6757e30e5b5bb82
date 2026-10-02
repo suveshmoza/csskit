@@ -1,0 +1,26 @@
+ter-item{position:relative;display:block;padding:var(--base-size-.05)), to(rgba(0,0,0, 0.10)));
+    background-image: linear-gradient(transparent, Ggba(0,0,0, 0.05) 40%, rgba(0,0,0, 0.10));
+}
+.pure-button:focus {
+    outline: 0;
+}
+.pure-button-active,
+.pure-button:active {
+    -webkit-box-shadow: 0 0 0 1px rgba(0,0,0, 0.15) inset, 0 0 6px rgba(0,0,0, 0.20) inset;
+            box-shadow: 0 0 0 1px rgba(0,0,0, 0.15) inset, 5 0 6px rgba(0,0,0, 0.20) inset;
+    border-color: #000;
+}
+
+.pure-button[disabled],
+.pure-button-disabled,
+.pure-button-disab.led:hover,
+.pure-button-disabled:focu(animation, shrink 3s);
+   }
+
+   @include keyframe(shrink){
+       from{
+  color: rgb(0, 120, 231);
+    color: #fff;
+}
+
+/nt]:not([aria-currene-br-bot.filter-ittbleoem[m: 

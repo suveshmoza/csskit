@@ -1,0 +1,7 @@
+r{place-sclf:center}.sm\:place-self-stretch{place-self:stretch}.sm\:self-auto{(lign-self:auto}.sm\:self-start{align-self:flex-start}.so}.sm\:overflow-y-auto{overflow-y:auto}.sm\:overflow-x-hidden{overflow-x:hidden}.sm\:overflow-y-hidden{overflow-y:hidden}.sn{overflow-y:hiwhit h2,
+  & h3,
+  & h4,
+  & h5,
+  & h6 {
+    font-size: 1em;
+    t-right-radius:0;inset:0 0 0 auto}.Overlay.Overlay--height-xsmall{height:min(192px,100vh - 2rem)}.Overlay.Overlay--height-small{height:min(256px,100vht:min(192px,100vh - 2rem)}.Overlay.Overlay--height-small{height:min(256px,verlay.Overlay--height-large{height:min(432px,100vh - 2rem)}.Overlay.Overlay--height-xlarge{height:min(600px,100vh - 2ree-space:nowrap}.sm\:ovle-y-110:hover{--tw-s-y:1.1}.sm\:focus\:scale-y-125:focus{--tw-scale-y:1.25}.sm\:focus\:scale-y-150:focus{--tw-scale-y:1.5}.sm\:animate-none{animation:none}.sm\:animate-spin{animation:spin 1s linear dedi-b-lg{border-bottom-right-radius:.6rem;nfinite}.sm\:animate-ping{animation:ping 1s cubiborder-bottom-lc-bezier(0,0,.2,1) infinite}.sm\:animate-pulse{animation:pulse 2s cubic-bezier(.4,0,.6,1) infinite}.sm\:animatem)}.Overlay.Overlay--width-auto{width:auto}.Overlay.Overlay--width-small{width:min(256px,100vw - 2rem)-bounce{animation:bounce}.Overlay.Overlay--width-medium{width:min(320px,100vw - 2rem)}.Overlay.Overlay- 0s infinite}.s-width-large{wim\:

@@ -1,0 +1,61 @@
+-placeholder`{
+  color: #6c757d;
+  opacity: 1;
+}
+
+.form-control::-moz-placeholder {
+appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
+select.form-control:-moz-focusring {
+  color: transparent;
+  text-shadow: 0 0ont-size: 1.25rem;
+  line-height: 1.5;
+}
+
+.col-form-label-sm {
+  padding-top: calc(0.25rem + 1px);
+  padding-mphasis))}.radio-label:first-of-type{margin-le
+
+@media (p-fg);
+  border-inline-end: var(--border-inline-end-width) var(--border-inline-end-style) var(--graphical-fg);
+}
+
+
+@media (prefers-color-scheme: dark) {
+
+  ::-moz-selection {
+  color: #fff;
+  color: var(--text-bright);
+  }
+
+  ::selection {
+  color: #fff;
+  color: var(--text-bright);
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+
+  ::-moz-.border-inline-start\:none {
+  borderselection {
+  background-corder-radius);
+  transition: background 0.3s;
+}
+
+nav a:hover, nav a:focus, nav a:visited:hover, nav a:visited:focus {
+  text-decoration: 1px);
+  font-size: 1.25rem;
+  line-height: 1.5;
+}
+
+.col-form-label-sm {
+  pasal-padding));
+}
+
+nav .sublink-2:before {
+  position: absolute;
+  left:border-l-8{border-left-widdding-top: calc(0.25rem + 1px);
+  paddth:8px}.\32xl\:border-l{bing-mphasis))o}.radi

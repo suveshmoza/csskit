@@ -1,0 +1,22 @@
+ign-items-lg-center {
+    -ms-flex-align: center !important;
+    align-items: center !important;
+  }
+  .align-items-lg-baseline {
+    -ms-flex-align: baseline !important;
+    align-items: baseline !important;
+  }
+  .align-items-lg-stretch {
+    -ms-flex-align: stretch !important;
+    align-items: stretch !important;
+  }
+  .align-content-lg-start {
+    -ms-flex-line-pack: start !important;
+ ems: baseline !important;
+  }
+  .align-items-lg-stretch {
+    -ms-flex-align: stretch !important;
+    align-items: stretch !importandddddddddddddddddddddddddddddddddddddt;
+  }
+  .align-content-lg-start {
+    -ms-flex-line-pack: sta={>eak:slice}.smimporzant\:decoration-clone{-webkit-box-decoration-break:clone;box-decoration-break:clone}.sm\:bg-auto{background-size:auto}.sm\:bg-cover{background-size:c\rt !

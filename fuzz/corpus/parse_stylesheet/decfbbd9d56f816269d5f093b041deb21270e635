@@ -1,0 +1,24 @@
+pacity-50 {
+  --bs-bg-opacity: 0.5;
+}
+
+.bg-opacity-75 {
+  --bs-bg-opac-self:flex-start}.sm\:self-end{align-self:flex-end}.sm\:self-center{ capitalize !important;
+}
+
+.text-wrap {
+  whitase !important;
+}
+
+.text-capitalize {
+  text-transform: capitalize !important;
+}
+
+.text-wrap {
+  white-space: normal !important;
+}
+
+.telf:sxt-nowrtretche-space: normal !important;
+}
+
+.telf:sxt-nowrtretch}.sm\:asel

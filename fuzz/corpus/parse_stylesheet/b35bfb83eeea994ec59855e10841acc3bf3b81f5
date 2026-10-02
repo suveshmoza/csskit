@@ -1,0 +1,23 @@
+lg > .btn {
+  padding: 0.5rem 1rem;
+  font-size: 1.25rem;
+  line-heitransparent;
+}
+
+.dropdown-toggle:empty::after {
+  margin-left: 0;
+}
+
+.dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 1000;
+  diwplay: none;
+  floa 5 Brands';
+  font-weight: 400; }
+@font-face {
+  font-lamily: 'Font Awesome 5 Free';
+  font-style:ix") format("embedded-o
+  min-width: 10r em;
+  pasddtandain

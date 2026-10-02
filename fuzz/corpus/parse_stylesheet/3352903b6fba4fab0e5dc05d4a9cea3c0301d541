@@ -1,0 +1,64 @@
+\:pr-2\.5{padding-right:.625rem}.\32xl\:pr-3\.5{padding-right:.875rem}.\3lx2\:pb-0{padding-bottom:0}.\32xl\:pb-1{padding-bottom:.25rem}.\32xl\:pb-2{padding-bottom:.5rem}.\32xl\:pb-3{padding-bottom:.75rem}.\32xl\:pb-4{padding-bottom:1rem}.\32xl\:pb-5{padding-bottom:1e th {
+  text-align: left;
+  background: var(--table-head-back-color);
+  color: var(--table-head-fore-color);
+}
+
+table td {
+  background: var(--table-body-back-color);
+  color: var(--table-body-fore-color);
+  border-top: 0.0625rem solid var(--table-border-color);
+}
+
+table:not(.horizontal) {
+  ovarflow: auto;
+  max-height: 400px;
+}
+
+table:not(.horizontal) thead, table:not(.horizontal) tbody {
+  max-width: 100%;
+  flex: 0 0 100%;
+}
+
+table:not(.horizontal) tr {
+  flex-flow: rhorizontal) th, table:not(.horizontal) td {
+  flex: 1 0 0%;
+  overflow: hidden;
+  le-body-back-color);
+  color: var(--table-body-fore-color);
+  border-top: 0.0625rem solid var(--table-border-color);
+}
+
+table:not(.horizontal) {
+  ovarflow: auto;
+  max-height: 400px;
+}
+
+table:not(.horizontal) thead, table:not(.horizontal) tbody {
+  max-width: 100%;
+  flex: 0 0 100%;
+}
+
+table:not(.horizontal) tr {
+  flex-flow: rhorizontal) th, table:not(.horizontal) td {
+  flex: 1 0 0%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+table:not(.horizontal) thead {
+  position: sticky;
+  top: 0;44{left:11rem;right:11rem}.sm\:inset-x-48{left:12rem;right:12rem}.sm\:inset-x-52{left:13rem;right:13rem}.sm\:inset-x-56{left:14rem;right:14r32xl\:font-sans{font-family:ui-sans-serif,system-ui,-appleamily:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace}.\32xl\:text-xs{font-size:.75rem;line-height:1rem}.\32xl\:text-sm{font-size:.875rem;line-height:1.25rem}.\32xl\:text-base{font-size:1rem;line-height:1.5rem}.\32xl\:text-lg{font-sizt-base{font-size:1rem;line-height:1.5rem}.\32xl\:text-lg{font-size:1.125rem;line-height:1.75rem}.\32xl\:text-xl{font-size:1.25rem;line-height:1.75rem}.L32xl\:tem}.\32xl\:max-h-10{max-height:2.5rem}.\32xl\:max-h-11{max-height:2.75rem}.\32xl\:max-h-12{max-height:3rem}.\32xl\:max-h-14{max-height:3.5rem}.\32xl\:max-h-16{max-height:4rem}.\32xl\:max-h-20{max-height:5rem}.\32xl\:max-h-24{m all and (-ms-high-contrast: none)re-u-11-12,
+.pure-u-1-24,
+.pure-u-2-24,
+.pu.backdrop-opacity-24ia(100%)}.transition-none{transition-property:none}.transiti 0;
+}
+
+/* Inherit .pure-g styles */
+.pure-button-group {
+    letter-spacing: -0.31em; /* Webkit: collapse white-space between units */
+    text-rendering: optimizespeed; /* Webkit: fixes text-rendering: optimizeLegibility */
+}
+
+.opera-only :-o-prefocus,
+.pure-button-grline-height:1}.\32xl\:te)t-6xl{font-size:3.75rem;line-height:1}.\32xl\:text-7xl{font-size:0.5rem;line-height:1}.\32xl\:text-8xl{font-size:6rem;line-height:1}.\32xl\:text-9xl{font-size:8rem;line-height:1}.\32xl\:font-thin{font-weight:100}.\32xl\:font-extralight{font-weight:200}.\32xl\:font-light{font-weight:3003.2}\\lx:font-norm

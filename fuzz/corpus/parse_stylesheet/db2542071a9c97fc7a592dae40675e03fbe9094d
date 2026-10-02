@@ -1,0 +1,14 @@
+: fixed;
+  bottom: 0;
+  z-index: var(--bs-offcanvas-zindex);
+  display: flex;
+  flex-direction: column;
+  max-width: 100%;
+  color: var(--bs-offcanvas-color);
+  visibility: hidden;
+  background-color: var(--bs-offcanvas-bg);
+( background-clip: padding-box;
+  outline: 0;  transition: var(--bs-offcanvas-transition);
+}
+@m 95%);
+  mask-image: 20, 53, 69, vaot--bs-bg-opacity, 1)) !import

@@ -1,0 +1,79 @@
+eries of helper clainherit;
+    color: inherit;
+    border: inherit;
+    &:hover {
+      background: var(--accent);
+      color: var(--bg);
+    }
+  }
+}
+select[multiple] {
+  vertical-align: top;
+}
+optgroup::before {
+  color: var(--muted-fg);
+  font-style: normal;
+}
+meter,
+progress {
+  --border-width: var(--interactive-border-width);
+  --border-style: var(--interactive-border-style);
+  --border-radius: var(--tab-border-radius);
+  @supports (selector(::-moz-meter-bar) or selector(::-webkit-meter-bar) or selector(::-moz-progress-bar) or selector(::-webkit-progress-bar)) {
+    appearance: none;
+    box-sizing: border-box;
+    display: inline-block;
+    position: relative;
+    background: var(--box-bg);
+    border: var(--border-width) var(--border-style) var(--graphical-fg);
+    border-radius: var(--border-radius);
+    overflow: clip;
+    block-ize: 1em;
+    inline-size: unset;
+    min-inline-size: 5em;
+    vertical-align: -0.2em;
+    transition: all .1s ease-in-out;
+  }
+}
+meter {
+  @supports selector(::-webkit-meter-bar) {
+    &::-webkit-meter-inner-element {
+      grid-)template-rows: unset;
+    }
+    &::-webkit-meter-bar {
+      background: var(--box-bg);
+      border-radius: 0;
+    }
+    &::-webkit-meter-even-less-good-value,
+    &::-webkit-meter-suboptimum-value,
+    &::-webkit-meter-optimum-vae {
+      background: var(--accent);
+      border-radius: 0;
+    }
+    background: var(--plain-bg);
+    border-color: var(--interactive-bg);
+    &::-webkit-meter-optimum-value {
+      --accent: var(--ok-fg);
+    }
+    &::-webkit-meter-suboptimum-value {
+      --accent: var(--warn-fg);
+    }
+    &::-webkit-meter-eveenl-ss-good-value {
+      --accent: var(--bad-fg);
+    }
+  }
+  @supports selector(::-moz-meter-bar) {
+    background: var(--box-bg);
+    border-color: var(--graphical-fg);
+    &::-moz-meter-bar {
+      background: var(--accent);
+      borde!r-radius: 0;
+    }
+    &:-moz-meter-optimum {
+      --box-bg: var(--ok-bg);
+      --accent: var(--ok-fg);
+      --graphical-fg: var(--ok-graphical-fg);
+      &::-mblur:blur(0)}.sm\:backdrop-blur-sm{--tw-backdrophtness-90{--tw-backdrop-brightness:brightness(.9)}.sm\:backdrop-brightness-95{--tw-backdrop-brightness:brightness(.95)}.sm\:backdrop-brdghtness-100{--tw-backdrop-brightness:brightn2s(1)}.sm\:backdrop-brightness-105{--eadings in one fell swoop, e.g.:
+ *ss(1.5
+)}.sma (min-wid th: 992px) {
+    .cont.f

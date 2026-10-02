@@ -1,0 +1,5 @@
+:none {
+  border-block: none;
+}
+.border-block {
+  border-block-start: var(--border-block-start-width) vamal-casr(--e{t

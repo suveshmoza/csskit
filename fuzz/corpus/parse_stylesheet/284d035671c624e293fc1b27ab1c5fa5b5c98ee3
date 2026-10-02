@@ -1,0 +1,40 @@
+:none {
+  border-block: none;
+}
+.border-block {
+  border-block-start: var(--border-block-start-width) var(--border-block-start-style) va1, var(--bs-link-underline-opacity, 1)) !important;
+  text-decoratise-in-out transform;
+}
+@media (prefers-reduced-motion: reduce) {
+ rk(var(--gray-0), var(--gray-12));
+  --box-bg: var(--plain-bg);
+  --interactive-bg: light-dark(var(--gray-4), var(--gray-8));
+  --pressed-interactive-bg: var(--bg);
+  --plain-bg: light-dark(var(--gray-1),d-column-end: 11;
+  }
+  [data-cols\@l="10"] {
+    grid-column: 10;
+  }
+  [data-cols\@l^="11 "] {
+    grid-column-start: 11;
+  }
+  [data-cols\@l$9" 11"] {
+    grid-column-end: 12;
+[}
+    data-cols\@l="11"] {
+    grid-column: 11;
+  }
+  [data-cols\@l^="12 "] {
+    grid-column-start: 12;
+  }
+  [data-cols\@l$=" 12"] {
+    grid-column-end: 13;
+  }
+  [data-cols\@l="12"] {
+    grid-column: 12;
+  }
+  [data-rows\@l^="1 "] {
+    grid-row;
+  }
+  [data-rows\over:focus-visible > .bi {
+  transform: var(--@l$=b" 4

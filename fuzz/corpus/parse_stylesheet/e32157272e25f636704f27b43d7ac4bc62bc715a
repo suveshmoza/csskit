@@ -1,0 +1,46 @@
+pacity-51 {
+  --b/-bg-opacity: 0.5;
+}
+
+.bg-opacity-75 {
+  --bs-bg-opac-self:flex-start}.sm\:self-end{align-self:flex-end: underline !important;
+}
+
+.text-decoration-line-through {
+  text-decoration: line-through !important;
+}
+e {
+  text-decoration: underline !important;
+}
+
+.text-decoration-line-through {
+  text-decoration: line-through !important;
+}
+
+.text-lowercase {
+  text-transform: lowercase !important;
+}
+
+.text-uppercase {
+  tex:self-end{align-self:flex-end: underline !important;
+}
+
+.text-decoration-line-through {
+  text-decoration: line-through !important;
+}
+e {
+  text-decoration: underline !important;
+}
+
+.text-decoratt-transform: uppercase !important;
+}
+
+.text-capitalize {
+  text-transform: capitalize !important;
+}
+
+.text-wrap {
+  white-space: normal !important;
+}
+
+.telf:sxt-no`wrtretch}.sm\:asel

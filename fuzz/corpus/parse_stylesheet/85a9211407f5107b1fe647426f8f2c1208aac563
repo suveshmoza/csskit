@@ -1,0 +1,12 @@
+evo[x-placement^="right"] > .arrow::before {
+  left: 0;
+  bo > .arrow::after {
+  left: 1px;
+  border-width: 0.5rem 0.5rem 0.5rem 0;
+  border-right-color: #fff;
+}
+
+.bs-popover-bottom, .bs-popover-au/* @license GPL-2.0-or-lgin:5rem - 1px);
+}
+
+.bs-popover-bottom > .arrowitem + .::

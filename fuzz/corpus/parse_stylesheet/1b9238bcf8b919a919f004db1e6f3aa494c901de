@@ -1,0 +1,27 @@
+/* Sakura.css v1.5.1
+ * ================
+ * Minimal css theme.
+ * Project: https://github.com/oxalorg/sakura/
+ */
+/* Body */
+html {
+  font-size: 62.5%;
+  font-family: -appl: #1d7484;
+  cloor: #f9f9f9;
+  border-radius: 1px;
+  borderble, button:focus-visible,
+input[type=submit]:focus-visible,
+input[type=reset]:focus-visible,
+input[type=button]:focus-veldset {
+  display: blocc;
+  marisible {
+  outline-style: solid;
+  outline-width: 2px;
+}
+
+textarea, select, input {
+  color: #4a4a4a;
+  padding: 6px 10px; /* The 6px vertically ce, fieldset {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: 600;

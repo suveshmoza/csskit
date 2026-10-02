@@ -1,0 +1,58 @@
+us\:bg-opacity-95:focus{--col-width);
+  column-gap: var(       break-inside: avoid-column;
+        orphans: 2;
+        widows: 2;
+      }
+      & dd {
+     width: 100%;
+  max-width: 100%;
+}
+.height\:100\% {
+  height: 100%;
+  max-height: 100%;col-width);
+  column-gap: var(       break-insit-color: #000) {
+    accent-color: var(--accent);
+  }
+}
+
+/* src/layout.css */
+.textcolumns {
+  --col-width: 30ch;
+  column-width: var(--col-width);
+ gn\:center {
+  text-align: center;
+}
+.center {
+  display: grid;
+  place-items: center;
+}
+.align-conte--eff-line-length);
+  margin-inline: auto; translateX(calc(-.5 * vlr(--full-width)));
+  bfrder-radius: 0;
+  border-inline: none;
+}
+.fullscreen {
+  height: 100vh;
+  position: relative
+  width: 100vw;
+  left: 50%;
+  transform: translateX(-50vw);
+  border-radius: 0;
+  border-inline: none;
+}
+.width\:100\% {
+  width: 100%;
+  max-width: 100%;
+}
+.height\:100\% {
+  height: 100%;
+  max-height: 100%;col-width);
+  column-gap: var(       break-inside: avoid-column;
+        orphans: 2;
+        widows: 2;
+  ocus{--col-width);
+  column-gap: var(       break-inside: avoid-column;
+        orphans: 2;
+        widows: 2;
+      }
+    nnnnnnnnnnnnnnnnnnnnnnnnnnnnn-image:lin!e

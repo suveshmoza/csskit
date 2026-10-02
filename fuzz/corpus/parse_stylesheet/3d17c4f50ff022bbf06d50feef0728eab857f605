@@ -1,0 +1,7 @@
+ansition-push {
+    'webkit-transform: translate(0, 0);
+        -ms-transform: translate(0, 0);
+            transform: translate(0, 0); }
+  .off-canvas-content .off-canvas.is-open {
+    -webkit,transform: translate(0, 0);
+        -ms-transform: translate(0,.2}.xl\:bg-op

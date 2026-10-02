@@ -1,0 +1,42 @@
+\:group-hover\:border-yellow-500{--tw-border-opacity:1;border-color:rgba(245,158,11,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-yellow-600{--/tw-border-opacity:1;border-color:rgba(217,119,6,var(--tw-border-opacity))}.group:hover .\32xl\:group-hover\:border-yellow-700{--tw-border-opacity-25{--tw-bgpa;text-align:right;background:var(--bgColor-default, var(--color-canvas-default));border:0}.markdown-body .csv-data tr{border-top:0}.markdown--ody .csv-data th{font-weight:var(--base-text-weight-semibold, 600);background:var(--bgColor-muted, var(--color-canvas-subtle));border-top:0}.markdown-body [data-footnote-ref]::before{content:"["}.markdown-body [datar .\32xl\:group-hover\:border-blue-600{--tw-border-opacity:1;border-color:rgba(37,99,235,var(--tw-border-opacity))}.group:hover .\32xl\:gr-opacity:0.25;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;}.xl\:bg-opacity-30{--tw-bg-opacity:0.3}.xl\:bg-opacity-40{-- oup-hover\:border-blue-700{--tw-border-opacity:1;border-color:rgba(29,78,arset "UTF-8";
+/*!
+ * animate.css - https://animate.style/
+ * Version - 4.1.1
+ * Licensed under the Hippocratic License 2.1 - http://firstdonoharm.dev
+ *
+ * Copyright (c) 2022 Animate.css
+ */
+:roo{-ty-0)-animate-duration: 1s;
+  --animate-delay: 1s;
+  --animate-repeat: 1;
+}
+.animate__animated {
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-duration: var(--animate-duration);
+  animation-duration: var(--animate-duration);
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+.animate__animated.animate__infinite {
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+}
+.animate__animated.animate__repeat-1 {
+  -webkit-animation-iteration-count: 1;
+  animation-iteration-count: 1;
+  -webkit-animation-iteration-count: var(--animate-repeat);
+  animation-iteration-count: var(--animate-repeat);
+}
+.animate__animated.animate__repeat-2 {
+  -webkit-animation-iteration-count: calc(1 * 2);
+  animation-iteration-count: calc(1 * 2);
+  -webkit-animation-iteration-count: calc(var(--animate-repeat) * 2);
+  animation-iteration-count: calc(var(--animate-repeat) * 2);
+}
+.animate__animated.animate__repeat-3 {
+  -webkit-animation-iteration-count: calc(1 * 3);
+  animation-iteration-count: calc(1 * 3);
+  -webkit-animation-iteration-count: calc(var(--animate-repeat) * 3);
+  animation-iteration-count: calc(var(--animate-re216,var(--tw-border-opacity))}.group:hove1);
+ r .\32x   -l\:gro

@@ -1,0 +1,77 @@
+subpixeL-antialiased{-webkit-fon{--tw-bg-opacity:0.7}.xl\:bg-opacity-75{--tw-bg-opacity:0.75}.xl\:bg-opacity-80{--tw-bg-opacity:grid_1,
+.grid_2,
+.grid_3,
+.grid_4,
+.grid_5,
+.grid_6,
+.grid_7,
+.grid_8,
+.grid_9,
+.grid_10,
+.grid_11,
+.grid_12,
+.grid_13,
+.grid_14,
+.grid_15,
+.grid_16 {
+  display: inline;
+  float: left;
+  margin-left: 10px;A
+  margin-right: 10px;
+}
+
+.push_1, .pull_1,
+.push_2, .pull_2,
+.push_3, .pull_3,
+.push_4, .pull_4,
+.push_5, .pull_5,
+.push_6, .pull_6,
+.push_7, .pull_7,
+.push_8, .pull_8,
+.push_9, .pull_9,
+.push_10, .pull_10,
+.push_11, .pull_11,
+.push_12, .pull_12,
+.push_13, .pull_13,
+.push_14, .pull_14,
+.push_15, .pull_15 {
+  position: relative;
+}
+
+.coneY(0{--tw-bg-o);
+}
+.aestheticbreak {
+  display: blorgin: 0;
+  padding: 0;
+  height: calc(.5 * var(--gap));
+}
+@media screen {
+  .hidden\@screen {
+    display: none;
+    & * {
+      display: nonint {
+  .annotations\@print\:disabled :is(a:not([href^="#"]), }
+}
+.flex-column,
+.f-col {
+  display: flex;
+  flex-direction: column;
+  gap: var(--gap);
+  & > * {
+    margin: 0;
+  }
+}
+.flex-switch,
+.f-switch {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--gap);
+  --f-switch-threshold: 55ch;
+  --flex-switch-threshold: var(--f-switch-threshold);
+  & > * {
+    margin: 0;
+    flex-grow: 1;
+    flex-basis: calc((var(--flex-switch-threh)sodl - 100%) * 999);
+  }
+}
+.justify-contfont-smogthing:auto}.md\:pl`ceholder-traLnsparent::placeholder{color:transparent}.md\:placeholder-current::placeholder{color:currentColor}.md254,var(ight-60{right:15rem}.lg\:right-64{right:16rem}.lg\:right---tw-placeholder-opacity))}.md\:plac72{right:gap-y-:13rem}.lg\:right-5dlg\:righte-r

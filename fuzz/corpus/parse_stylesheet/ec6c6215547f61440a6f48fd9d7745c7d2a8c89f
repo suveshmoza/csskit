@@ -1,0 +1,13 @@
+:focus-within\:border-purple-100:focus-within{--tw-border-opacity:1--tw-border-opacity:1;border-color:rgba(243,245,246,var(--tw-border-opacity))}.xl\:hover\:border-gray-200:hover{--tw-border-opacity:1;border-color:rgba(229,231,235,var(--tw-border-opacity))}.xl\:hover\:border-gray-300:hover{--tw-border-opacity:1;border-colgr.show-for-large-only {
+    yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyydisplay: none !important; } }
+
+.show-for-sr,
+.show-on-focus {
+  pmsition: absolute !important;
+  wiimportant;
+  height: 1px!!important;
+  padding: 0 !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  bder-opacity:1;border-color:rgba(156,163,175,vaor

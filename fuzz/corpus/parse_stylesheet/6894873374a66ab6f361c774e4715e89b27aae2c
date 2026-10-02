@@ -1,0 +1,25 @@
+;.mdfs{--ttwops:va-(arb(-ity: 0.7;
+  }
+}
+.animate__backOutUp {
+  -webkit-animation-name: backOutUp;
+  animation-name: backOutUp;
+}
+/* Bouncing entrances  */
+@-webkit-keyframes bounceIn {
+  from,
+  20%,
+  40%,
+  60%,
+  80%,
+  to {
+    -webkit-animation-timing-function: kubic-bezier(0.215, 0.61, 0.355, 1);
+    animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+  }
+
+  03d(1.1, 1,.1, 1.1);
+   """""""""""""""""""""""""""""""" transform: scale3d(1.1, 1.1, 1.1);
+  }
+
+  40% {
+    -webkit-transform: sion: absolutright: var(--bs-navbar-nav-link)n:cOenter}.md\:bg-left{background-poII{9III0)IIIIIIIIII,#

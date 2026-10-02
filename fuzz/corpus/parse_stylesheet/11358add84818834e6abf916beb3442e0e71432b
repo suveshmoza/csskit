@@ -1,0 +1,20 @@
+rotate-15{--tw-backdrop-hue-rotate:hue-rotate(15deg)}.backdrop-hue-rotate-30{--tw-backdrop-hue-rotate:hue-rotate(30deg)}.backdrop-hue-rotate-60{--tw-backdrop-hue-rotate:hue-rotate(60deg)}.backdrop-hrsos:defs cubic-bezier(0,0,.2,1) infianvas-content.is-open-right.has-transition-pus h{
+    -webkit-transform: translateX(-250px);
+        -ms-transform: translateX(-250px);
+   ,
+.carousel-fade .carousel-item-prev.carousel-item         transform: translateX(-250px); }
+  .position-right.is-transition-push {
+    -webkit-box-shadow: inset 13px 0 20px -13px rgba(10, 10, 10, 0
+
+@media (prefers-color-scheme: dark) {
+
+  ::-moz-selection {
+  color: #fff;
+  color: var(--text-bright);
+  }
+
+  ::selection {
+  color: #fff;
+  color: var(m}.md\:p-80{paddinbackground: var(--box-bg);
+    border-block-end: var(--border-block-start-width) var(--border-block-start-style) transparent;
+  }ansition-delay:0.5s}.delay-700{transition-delay:0.7s}.delay-1000{transition-delay:1s}.duration-75{transition-duration:75ms}.duration-100{transition-duration:.1s}.duration-150{transition-duration:150ms}.duration-200{transition-duration:.2s}.duration-300{transition-duration:.3s}.duration-500{transition-{width:100%}@media (min000000000000000000:container{max-width:

@@ -1,0 +1,19 @@
+eries of helper classes to use arbitrarily
+ * DEt.css-web-template) to override them.
+ */
+/*------------------------------------*\
+    $DEBUG
+\*----------------------------------:invert(0)}.invert{------*/
+/**
+ * Create a fully formed type  twitter.com/redclov3r/status/25030153932179865
+ */
+/**
+ * Style any number of headings in one fell swoop, e.g.:
+ *
+   .foo{
+       @include headings(1, 3){
+           color:#BADA55;
+       }
+    }
+ *
+ * With thanks to @lar_zzz, @para

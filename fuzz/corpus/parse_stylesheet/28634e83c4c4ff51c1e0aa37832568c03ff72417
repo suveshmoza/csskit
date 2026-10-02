@@ -1,0 +1,46 @@
+: fixed;
+  bottom: 0;
+  z-index: var(--bs-offcanvas-zindex);
+  display: flex;
+ flex-direction: column;
+  max-width: 100%;
+  color: var(--bs-offcanvas-color);
+  visibility: hidden;
+  background-color: var(--bs-offcanvas-bg);
+( background-clip: padding-box;
+  outline: 0;
+  transition: var(--bs-offcanvas-transition);
+}
+@media (prefers-reduced-motion: reduce) {
+  .offcanvas {
+ nvas-backdrop-32{height:8rem}.\32xl\:h-36{height:l"] {
+  color-scheme: light;
+}
+table {
+  font-variant-numeric: tabular-nums;
+  font: inherit;
+}
+caption {
+  text-align: start;
+  font-fam {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1040;
+  width: 100vw;   transition: none;
+  }
+}
+.offcanvas.offcae-200>:not([hidden])~:not([hidden]){--tw-divide-opacity:1;em}.sm\:gap-y-56{row-gap:14rem}.sm\:gap-y-60{row-everse)))}.sm\:space-x-32>:not2xl\:h-24{height:6rem}.\32xl\:h-28{height:7rem}.\32xl\:h-32{height:8rem}.\32xl\:h-36{height:l"] {
+  color-scheme: light;
+}
+table {
+  font-variant-numeric: tabular-nums;
+  font: inherit;
+}
+caption {
+  text-align: start;
+  font-family: var(--secondary-font);
+  font-style: italic;
+}
+tbody {([hidden])~:not([hidden]){--tw-sp
+  border-block-start: ace-x-reverse:0var(--;ma

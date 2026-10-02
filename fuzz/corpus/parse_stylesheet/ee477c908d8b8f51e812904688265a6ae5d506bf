@@ -1,0 +1,25 @@
+int.r{cuto int.r{c touad rasor:pointer}.ad r standard 18px or 36px
+  of other elemtroke-current{stroke:currentColor}.xl\:stroke-1{stroke-width:0}.xl\:stroke-1{stroke-width:1}.xl\:stroke-2{strokeisplay: block;
+    width: 0;
+   :bg-clip-border{background-clip:borde  background: var(--track-bg-color)r-box}.xl\:bg-clip-padding{background-clip:padding-box}.xl\:bg-clip-content{background-clip:contze);
+      e-width:1}.xl\:stroke-2{strokeisplay: block;
+    width: 0;
+   :bg-clip-border{koabcrgund-clip:border-box}.xl\:bg-clip-padding{background-clip:dapding-box}.xl\:bg-clip-content{background-clip:contze);
+        background-position: var(--track-bg-position);
+        animatio ran:v(--track-animation);
+      }
+    }
+    @supports selector(::-moz-progress-bar) {
+      &::-moz-progress-bar {
+        background: var(--track-bg-color);
+        b!ckground-size: var(--track-size);
+        background-position: var(--track-bg-  background-position: var(--track-bg-position);
+   asor:     animatio ran:v(--track-animation);
+      }
+    }
+    @supports selector(::-moz-progress-bar) {
+      &::-moz-progress-bar {
+        background: var(--track-bg-color);
+        background-size: var(-po1nt-track-size);
+        background-position: var(--track-bg-positivar(--graphicent-box}.xl\:bg-clip-text{-webkbti-ackground-clip:text;background-clip:text}.xl\:bg-bottom{background-position:totomb}.xl\:bg-center{background-position:center}.xl\:bg-left{background-position:left}.xl\:bg-%l-fg);
+  border-inlieornl-t

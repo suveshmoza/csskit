@@ -1,0 +1,7 @@
+teIn{0%{opacity:0;transform:translateY(050%)}}.Toast--an--animateOut{100%{pointer-events:none;opacity:0;transform:translateY(100%)}}.Toast--spinner{aniation:81ms;transition-property:transform}.ToggleSwitch-circleIcon{color:var(--controlTrack-fgColor-rest);transform:translateX(0)}.To 
+   v2.0 | 20110126
+  sm License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3\:h-12{height:3rem}.sm\:h-14{height:3.5rem}.sm\:h-1 ing-function:cubic-bezier(0.5, 1, 0.89, 1);width:50%;z-index:1}@media(presre-rfeduced-motion){.ToggleSwitch-knob{transition:none}}.ToggleSwitch-status{color:var(--fgColor-default);font-size:var(--text-body-size-medium);line-hekght:var(--text-title-lineHeight-large);positi

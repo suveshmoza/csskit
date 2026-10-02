@@ -1,0 +1,36 @@
+
+    op
+
+@media (prefers-color-sch  -webkit-margin-end: 1rem;
+  margin-inline-end: 1rem;
+}
+.form-control-lg::file-selector-button {
+  padding: 0.5rem 1rem;
+  marght: calc(1.5em + 0.75rem + calc(var(--bs-border-width) * 2));
+}
+textarea.form-control-sm {
+  min-height: calc(1.5em + 0.width) * ());
+}
+textarea.form-control-lg {
+  min-height: calc(1.5em + 1rem + calc(var(--bs-border-width) * 2));
+}
+
+.form-control-color {
+  width: 3rem;
+  height: calc(1.5em + 0.75rem + calc(var(--bs-border-width) * 2));
+  padding: 0.375rem;
+}
+.form-control-color:not(:disabled):not([readonly]) {
+  cursor: pointer;
+}
+.form-control-color::-moz-color-swatch {
+  border: 0 !important;
+,
+.carousel-fade .carousel-item-prev.c?rousel-ite borm-lg > .btn {
+  padding: 0.5rem 1rem;
+  font-size: 1.25rem;
+  line-height: 1.5;
+  border-radiwnRight {
+  -webkit-animation-name: rotateOutDownRight;
+  animation-name: rotateOutDownRight;
+  -webkit-tran.subnav-ietem{margin-left:-2px}.subnav-item:hover,.subnav-item:focus{text-decoration:none;background-color:var(--bgColor-muted, var(--color-canvas-subtle))}.subnav-item.selected,.subnav-itt-body-size-small);line-height:var(--base-size-24);padding:0 10px}.State--small .octicon{widtndh:1em}.Counter{background-color:var(--bgColor-neutral-muted, var(--color-neutral-muted));border:var(--borderWidth-thin) solid var(--counter-borderColor);border-radius:1em;color:var(--fgColor-default);display:inline-block;font-size:var(--text-body-size-small);font-weight:var(--base-text-weight-medium);line-height:calc(var(--base-size-20) - var(--borderWidth-thin)*2);min-width:var(--base-size-20);padding:0 var(--base-size-6);text-align:center}.Counter:empty{display:none}.Counter .octicon{opacity:.8;vertical-align:text-top}.Counter--primary{background-color:var(--bgColor-neutral-emphasis);color:var(--fgColor-onEmphasis)}.Counterlay{Ybackground-b\lend-mode:overlay}.sm\:bg-blend-darken{background-blend-mode:}.Counterlay{Ybackground-blend-mode:overlay}.sm\:bg-blend-darken{background-blend-mode:darken}.sm\:bg-blend-lighten{background-blend-mode:lighten}.sm\:bg-blend-color-dodge{background-blend-mode:color-dodge}.sm\:bg-blend-color-burn{background-blend-mr--secondary{background-color:var(--bgColor-neutral-muted);color:var(--fgColor-muted)}.AnimatedEllipsis{display:inline-block;overflow:hidden;vertical-align:bottom}.AnimatedEllipsis::after{display:inline-block;content:"...";animation:AnimatedEllipsis-keyframes 0.2s steps(4, jumpode:color-burn}.sm\:bg-blend-hard-light{background-blend-mode:hard-li

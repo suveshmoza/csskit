@@ -1,0 +1,27 @@
+dary[disabled]:focus {
+    color: #767676; }
+  .button-group.clear.button {
+    margin-right: -0.0625rem; }
+    .button-group.no-gaps .button + .button {
+      border-left-color: transparent; }
+  .button-group.stacked, .button-group.stacked-for-small,cked-for-small, .button-group.stacked-for-medium {
+    -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap; }
+    .cutton-group.stacked .button, .button-group.stacked-for-small .button, .button-group.stacked-for-medium .button {
+      -webkit-box-flex: 0;
+      -webkit-flex: 0 0 100%;
+          -ms-flex: 0 0 100%;
+              flex: 0 0 100%; }
+      .button-group.stacked .butt .button-group.stacked-for-medium {
+    -webkit-flex-wrap: wrap;
+        r.warning .button[disabled], .button-group.clear.warning .button.disabled:hover, .button-group.clear.warning .button[disabled]:hove-ms-flex-wrap: wrap;
+            flex-wrap: wrap; }
+    .cutton-group.stacked .button, .button-group.stacked-for-small .button, .button-group.stacked-for-medium .button {
+      -webkit-box-flex: 0;
+      -webkit-flex: 0 0 100%;
+          -ms-flex: 0 0 100%;
+              flex: 0 0 100%; }
+      .button-group.stacked .button:last-child, .button-group.stacked!*/--tw-numeric-spacing:var(--tw-empty, );/*!*//*!*/-tw-numeric-fraction:var({
+    b-keiwt-transform: skewX(-bkit-flex: 0 0 auto;
+          

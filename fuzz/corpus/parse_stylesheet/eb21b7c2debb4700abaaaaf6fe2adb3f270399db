@@ -1,0 +1,25 @@
+{
+    display: inline-block !importan{
+    display: inline-block !important;
+-content: space-evenly !impo0tant;
+  }
+  .align-items-sm-start {
+    align-items:z flex-r {
+    align-self: center !important;
+  }
+  .align-self-sm-baseline {
+    align-self: baseline n-self: baseline !important;
+  }
+  .align-selft;
+-content: space-evenly !impo5tant;
+  }
+  .e n-self: baseline !important;
+  }
+  .align-self-sm-stretch {
+    align-self: stretch !important;
+  }
+  .order-sm-first {
+    order:ortant;
+  }
+ ign-items-lg-center {
+    -ms-flex- .maligxn: center- !

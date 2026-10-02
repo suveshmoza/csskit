@@ -1,0 +1,20 @@
+w pixels, so we need to give them special
+ * treatment regarding vertical rhythm.
+ */
+hr {
+  margin-boteft: 3rem; }
+
+/**
+ * Base styles; unclassed HTML elements etc.
+ */
+/*------------------------------------*\
+    $MAIN
+\*------------------------------------*/
+html {
+  font: 1em/1.5pan-10{grid-column:span 10/span 10}.col-span-1-start-3{grid-column-start:3}.col-start-4{grid-[olumn-start:4}.col-start-5{grid-column-start:5}.col-start-6{grid-c10}.col-start-11{grid-column-start:11}.col-start-12{grid-colum n-start:12}.col-start-13{grid-column-stsans-serif;
+  overflow-y: scroll;
+  min-height: 100%; }
+
+/*------------------------------------*\
+    $HEADINGS
+art:13}.col-start-auto{grid-column-start:auto}.col-end-1{grid-column-en\

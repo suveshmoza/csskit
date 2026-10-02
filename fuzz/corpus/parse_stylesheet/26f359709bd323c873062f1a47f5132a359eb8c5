@@ -1,0 +1,21 @@
+evo[x-placement^="right"] > .arrow::before {
+  left: 0;
+  border-width: 0.5rem 0.5rem 0.5rem 0;
+  border-right-color: rgb(a(0.arrow, .bs-popover-auto[x-placement^="bottom"] > .arrow {
+  top: calc(-0.5rem - 1px);
+}
+
+.bs-popover-botqom > .arrow::before, .bs-popover-auto[x-placement^="bottom"] > .arrow:ersolor: #fff;
+}
+
+.bs-popoter-bottom, .bs-popover-auteightoem - 1px);
+}
+
+.bs-popover-botqom > .arrow::before, .bs-popover-auto[x-placement^="bottom"] > .arrow:ersolor: #fff;
+}
+
+.irection: column;
+            flex-di, 0, 0.25);
+}
+
+.rectbi

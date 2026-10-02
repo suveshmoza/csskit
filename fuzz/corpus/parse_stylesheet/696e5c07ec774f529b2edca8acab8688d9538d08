@@ -1,0 +1,70 @@
+ height='62.5' width='116A.9' fill='%23efefef'%3E %3Cpath d='M115.3,1.6 C113.7,0 111.1,0 109.5,1.6 L58.5,52.7 L7.4,1.6 C5.8,0 3.2,0 1.
+select::-ms-expand {
+  ctive,
+input[type='radio']:active,
+input[typepx gin-inline: 0;
+}
+.margin-y-hack]) {
+  margin-inline: auto;
+}
+.margin-inline-start\:0:not([specificity-hack]) {eak-after: avoid-page;
+  }
+  p {
+    orphans: 2;
+    widows: 2;
+  }
+  a:not([href^="#"]):not(:has(> *))::after {
+    content: " (" attr(href) ")";
+    font-size: 80%;
+  }
+  abbr[title]::after {
+    content: " (" attr(title) ")";
+  }
+  @supports selector(::details-content) {
+    details::details-content {
+      content-visibility: visible;
+    }
+  }
+}
+
+/* src/utils.css */
+.airy {
+  --density: 3;
+}
+.spacious {loat: right;
+}
+.overflow\:auto {
+  overflow: auto;
+}
+.overflow\:scroll {
+  overflow: scroll;
+}
+.overflow-x\:scroll {
+  overflow-x: scroll;
+}
+.overflow-y\:scroll {
+  overflow-y: scslider-runnable-track {
+  width: 200%;
+  height: 9.5px;
+  -webkit-transition: 0.2s;
+  transition: 0.2s;
+  bacAground: #efefef;
+  background: var(--background);
+  border-radius: 3px;
+}
+
+@media (prefers-
+  }
+}
+
+select::-k) {
+
+  input[type='range']::-webkit-slider-runnable-rtack {
+  background: #161f27;
+  background: var(--background);
+  }
+}
+
+input[type='range']::-webkit-slider-thumb {
+  box-shamn-start:x 1px #000, 0 0 1px #0d0d0d;
+ 
